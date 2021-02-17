@@ -59,10 +59,6 @@ menu:
       name: Home
       url: /
       weight: 1
-    - identifier: ukt
-      name: UKT
-      url: https://masdian.xyz
-      weight: 2
     - identifier: about
       name: About
       url: /about/
