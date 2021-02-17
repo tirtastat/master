@@ -1,0 +1,24 @@
+---
+title: Penyesuaian UKT di masa Pandemi Covid-19
+author: subbagian registrasi dan statistik
+date: '2021-02-16'
+slug: []
+categories: []
+tags: []
+description: ''
+thumbnail: ''
+---
+
+Untirta juga tahu hampir semua warga Indonesia terdampak oleh Covid-19. Oleh karena itu Untirta memberikan 3 kebijakan terkait UKT.
+
+1.  Penyesuaian UKT bagi mahasiswa sedang TA
+
+2.  Penyesuaian UKT bagi mahasiswa yatim
+
+3.  Lain-lain
+
+berikut adalah sintaks yang digunakan untuk mengedit data:
+
+`library(tidyverse)`
+
+$f(x)=2x^2+5x$
