@@ -5,7 +5,7 @@ sidebar: false
 title: About
 ---
 
-Website ini secara resmi dikelola oleh Subbagian Registrasi dan Statistik Universitas Sultan Ageng Tirtayasa. Subbagian Registrasi dan Statistik adalah salah satu subbagian di bawah Bagian Akademik dan Kemahasiswaan di Biro Akademik, Kemahasiswaan, dan Perencanaan (BAKP) Universitas Sultan Ageng Tirtayasa. Berikut adalah rincian tugas Subbagian Registrasi dan Statistik:
+*Website* ini secara resmi dikelola oleh Subbagian Registrasi dan Statistik Universitas Sultan Ageng Tirtayasa. Subbagian Registrasi dan Statistik adalah salah satu subbagian di bawah Bagian Akademik dan Kemahasiswaan di Biro Akademik, Kemahasiswaan, dan Perencanaan (BAKP) Universitas Sultan Ageng Tirtayasa. Berikut adalah rincian tugas Subbagian Registrasi dan Statistik:
 
 1.  melakukan penyusunan program kerja Subbagian;
 2.  melakukan penyusunan pedoman pelaksanaan penerimaan dan registrasi mahasiswa;
