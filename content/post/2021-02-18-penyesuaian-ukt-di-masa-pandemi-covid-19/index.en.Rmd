@@ -32,6 +32,10 @@ thumbnail: ''
 
     **Daftar mahasiswa yang melakukan penangguhan pembayaran UKT. Bagi yang namanya tercantum di bawah ini diharap segera mengisi KRS manual di Prodi masing-masing. Batas akhir KRS manual 16 Februari 2020.**
 
+    **JADWAL PEMBAYARAN UKT BAGI YANG MELAKUKAN PENANGGUHAN AKAN DIBUKA MULAI TANGGAL 01 - 18 APRIL 2021.**
+
+    <br>
+
     ```{r, message=FALSE, warning=FALSE, echo=FALSE}
     library(googlesheets4)
     gs4_deauth()

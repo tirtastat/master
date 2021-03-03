@@ -18,13 +18,13 @@ Calon Mahasiswa Baru yang sudah **dinyatakan** **Lulus lewat** jalur Seleksi Nas
 
     | NO  | SELEKSI | REGISTRASI ULANG | PEMBAYARAN UKT  |
     |:----|:--------|:-----------------|:----------------|
-    | 1\. | SNMPTN  | 29 Maret 2021    | jadwal menyusul |
+    | 1\. | SNMPTN  | 01-08 April 2021 | jadwal menyusul |
     | 2\. | SBMPTN  | 14 Juni 2021     | jadwal menyusul |
     | 3\. | SMMPTN  | jadwal menyusul  | jadwal menyusul |
 
-2.  Pemberkasan secara *online* melalui laman **https://admisi.untirta.ac.id** sesuai dengan jadwal di atas.
+2.  Pemberkasan secara *online* melalui laman [**https://admisi.untirta.ac.id**](https://admisi.untirta.ac.id){.uri} sesuai dengan jadwal di atas.
 
-    -   ***Login*** pada laman **https://admisi.untirta.ac.id** dengan menggunakan *username* Nomor Pendaftaran dan *password* yang kami kirim melalui email anda (**pastikan email yang terdaftar aktif**).
+    -   ***Login*** pada laman [**https://admisi.untirta.ac.id**](https://admisi.untirta.ac.id){.uri} dengan menggunakan *username* Nomor Pendaftaran dan *password* yang kami kirim melalui email anda (**pastikan email yang terdaftar aktif**).
 
         > **Cek juga folder SPAM di email anda, karena mungkin email kami masuk ke folder SPAM anda.**
 
@@ -44,7 +44,7 @@ Calon Mahasiswa Baru yang sudah **dinyatakan** **Lulus lewat** jalur Seleksi Nas
 
         g.  Bukti pembayaran listrik bagi pelanggang *pascabayar* **atau** bukti pembelian token listrik bagi pelanggan *prabayar* (*scan* dan *upload*).
 
-            Bagi pelanggan listrik 450VA yang digratiskan dan tidak memiliki bukti pembayaran bisa membuatnya di halaman **https://stimulus.pln.co.id/** seperti pada gambar berikut.
+            Bagi pelanggan listrik 450VA yang digratiskan dan tidak memiliki bukti pembayaran bisa membuatnya di halaman [**https://stimulus.pln.co.id/**](https://stimulus.pln.co.id/){.uri} seperti pada gambar berikut.
 
             ![](pln.PNG)
 
@@ -147,8 +147,8 @@ Calon Mahasiswa Baru yang sudah **dinyatakan** **Lulus lewat** jalur Seleksi Nas
 
     -   Jika ada pengumuman atau perubahan jadwal akan diberitahukan kemudian melalui
 
-        a.  **https://admisi.untirta.ac.id**,
-        b.  **https://untirta.ac.id**,
+        a.  [**https://admisi.untirta.ac.id**](https://admisi.untirta.ac.id){.uri},
+        b.  [**https://untirta.ac.id**](https://untirta.ac.id){.uri},
         c.  email anda masing-masing (**pastikan email anda aktif**).
 
     -   Hal yang belum jelas bisa ditanyakan melalui email [**registrasi\@untirta.ac.id**](mailto:registrasi@untirta.ac.id){.email}. atau [**Hotline Registrasi : 0813-1173-4542**](http://wa.me/6281311734542)
