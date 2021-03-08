@@ -9,11 +9,11 @@ title: Download
 
 Laporan ini rutin dibuat setiap semester oleh Subbagian Registrasi dan Statistik. Laporan ini terdiri atas 7 bagian, yaitu:
 
-| Tahun | Deskripsi    |
-|-------|--------------|
-| 2020  | SK           |
-| 2019  | SK Kesehatan |
-|       |              |
+| Tahun | Deskripsi                                                                                                               |
+|-------|-------------------------------------------------------------------------------------------------------------------------|
+| 2020  | [385. SK PENETAPAN NIM SNMPTN 2020](https://drive.google.com/file/d/1zXgfvr6WzToKRT8Ftbe2AjhbWe4VpmSr/view?usp=sharing) |
+| 2020  | [540. SK PENETAPAN NIM SBMPTN 2020](https://drive.google.com/file/d/10uycg7uh-hBRnxJFv_L4oVFK-8B3JuOh/view?usp=sharing) |
+|       |                                                                                                                         |
 
 ## **SK yang lain**
 

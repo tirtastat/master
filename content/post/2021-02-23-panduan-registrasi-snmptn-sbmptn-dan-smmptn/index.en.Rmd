@@ -16,23 +16,27 @@ Calon Mahasiswa Baru yang sudah **dinyatakan** **Lulus lewat** jalur Seleksi Nas
 
 1.  Jadwal registrasi ulang
 
-    | NO  | SELEKSI | REGISTRASI ULANG | PEMBAYARAN UKT  |
-    |:----|:--------|:-----------------|:----------------|
-    | 1\. | SNMPTN  | 01-08 April 2021 | jadwal menyusul |
-    | 2\. | SBMPTN  | 14 Juni 2021     | jadwal menyusul |
-    | 3\. | SMMPTN  | jadwal menyusul  | jadwal menyusul |
+    +-----+---------+--------------------------+--------------------------+
+    | NO  | SELEKSI | REGISTRASI ULANG         | PEMBAYARAN UKT           |
+    +:====+:========+:=========================+:=========================+
+    | 1\. | SNMPTN  | 01-08 April 2021         | jadwal menyusul          |
+    +-----+---------+--------------------------+--------------------------+
+    | 2\. | SBMPTN  | 14 Juni 2021             | jadwal menyusul          |
+    +-----+---------+--------------------------+--------------------------+
+    | 3\. | SMMPTN  | jadwal menyusul          | jadwal menyusul          |
+    +-----+---------+--------------------------+--------------------------+
 
 2.  Pemberkasan secara *online* melalui laman [**https://admisi.untirta.ac.id**](https://admisi.untirta.ac.id){.uri} sesuai dengan jadwal di atas.
 
-    -   ***Login*** pada laman [**https://admisi.untirta.ac.id**](https://admisi.untirta.ac.id){.uri} dengan menggunakan *username* Nomor Pendaftaran dan *password* yang kami kirim melalui email anda (**pastikan email yang terdaftar aktif**).
+    -   ***LOGIN*** pada laman [**https://admisi.untirta.ac.id**](https://admisi.untirta.ac.id){.uri} dengan menggunakan *username* Nomor Pendaftaran dan *password* yang kami kirim melalui email anda (**pastikan email yang terdaftar di pendaftaran LTMPT email yang aktif**).
 
         > **Cek juga folder SPAM di email anda, karena mungkin email kami masuk ke folder SPAM anda.**
 
     -   Karena Jadwal Registrasi ulang yang sempit maka Camaba diharapkan agar mempersiapkan Dokumen berikut dalam bentuk pdf/jpg (**ukuran file tidak melebihi 250kb**) untuk di-*upload*.
 
-        a.  [**Pakta Integritas Uang Kuliah Tunggal**](https://drive.google.com/file/d/1HyFx0AQQZaZOhc3tI8n2i71dn4yArUAG/view?usp=sharing) (*download*, isi, *scan*, dan *upload*).
+        a.  [**Pakta Integritas Uang Kuliah Tunggal**](https://drive.google.com/file/d/1HyFx0AQQZaZOhc3tI8n2i71dn4yArUAG/view?usp=sharing) ([download](https://drive.google.com/file/d/1HyFx0AQQZaZOhc3tI8n2i71dn4yArUAG/view?usp=sharing), isi, *scan*, dan *upload*).
 
-        b.  [**Surat Pernyataan Mentaati Peraturan**](https://drive.google.com/file/d/1I0Z1IlYzoADB6NDzP_KfvTTWuJXsZ3Qu/view?usp=sharing){target="_blank"} (*download*, isi, *scan*, dan *upload*).
+        b.  [**Surat Pernyataan Mentaati Peraturan**](https://drive.google.com/file/d/1I0Z1IlYzoADB6NDzP_KfvTTWuJXsZ3Qu/view?usp=sharing){target="_blank"} ([download](https://drive.google.com/file/d/1I0Z1IlYzoADB6NDzP_KfvTTWuJXsZ3Qu/view?usp=sharing){target="_blank"}, isi, *scan*, dan *upload*).
 
         c.  Ijazah bagi lulusan tahun 2019, 2020, dan 2021 / Surat Keterangan Lulus bagi lulusan tahun 2021 yang belum memperoleh Ijazah.
 
@@ -48,7 +52,7 @@ Calon Mahasiswa Baru yang sudah **dinyatakan** **Lulus lewat** jalur Seleksi Nas
 
             ![](pln.PNG)
 
-        h.  SPPT Pajak Bumi dan Bangunan (PBB) Tahun 2017/2018/2019 **atau** [Surat Pernyataan tentang Luas Tanah dan Bangunan Rumah yang ditempati bagi yang tidak punya SPPT](https://drive.google.com/file/d/1HxczESstO4LjNTLd5_oQNXy0FQPAG96-/view?usp=sharing){target="_blank"} (*download*, isi, *scan*, dan *upload*).
+        h.  SPPT Pajak Bumi dan Bangunan (PBB) Tahun 2017/2018/2019 **atau** [**Surat Pernyataan tentang Luas Tanah dan Bangunan Rumah yang ditempati bagi yang tidak punya SPPT**](https://drive.google.com/file/d/1HxczESstO4LjNTLd5_oQNXy0FQPAG96-/view?usp=sharing){target="_blank"} ([download](https://drive.google.com/file/d/1HxczESstO4LjNTLd5_oQNXy0FQPAG96-/view?usp=sharing){target="_blank"}, isi, *scan*, dan *upload*).
 
         i.  Surat Keterangan Kesehatan dan Tes Narkoba untuk **semua Program Studi** dan Surat Pemeriksaan Buta Warna untuk **Program Studi berikut** (*scan*, jadikan 1 file, dan *upload*)
 
@@ -118,7 +122,7 @@ Calon Mahasiswa Baru yang sudah **dinyatakan** **Lulus lewat** jalur Seleksi Nas
             -   **Wiraswasta**/**Petani**/**Pedagang**/**Buruh**/**Tidak Mempunyai Pekerjaan Tetap** : Surat Keterangan Penghasilan dari Kelurahan dengan mencantumkan nama Pekerjaan dan Nominal Penghasilannya
             -   **Pensiunan** : Rekening Koran atau *print out* Buku Rekening Pensiun (max dua bulan terakhir).<br><br>
 
-    -   **Berkas tambahan bagi pendaftar KIP-Kuliah khusus jalur SNMPTN dan SBMPTN (format pdf /jpg tidak lebih dari 250 KB)**:
+    -   **Berkas tambahan bagi pendaftar KIP-Kuliah** khusus jalur SNMPTN dan SBMPTN (format pdf /jpg tidak lebih dari 250 KB):
 
         a.  Bukti registrasi KIP-Kuliah (*scan* dan *upload*)
         b.  Peta rute menuju rumah dari kota terdekat (*scan* dan *upload*)

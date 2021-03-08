@@ -85,7 +85,7 @@ thumbnail: ''
 
 1.  Pendaftaran *online* dilakukan mulai tanggal **\#\# \#\#\# 2021 pukul 08.00 WIB dan berakhir tanggal \#\# \#\#\# 2021 pukul 23.59 WIB**
 
-2.  Ambil kode bayar di laman **https://admisi.untirta.ac.id**, klik Daftar untuk memulai pendaftaran, serta mendapatkan Nomor Pendaftaran dan *Password* (dicetak) kemudian bayar sesuai dengan biaya pendaftaran per program studi di Bank dengan menggunakan Nomor Pendaftaran tersebut. Catatan :
+2.  Ambil kode bayar di laman [**https://admisi.untirta.ac.id**](https://admisi.untirta.ac.id), klik Daftar untuk memulai pendaftaran, serta mendapatkan Nomor Pendaftaran dan *Password* (dicetak) kemudian bayar sesuai dengan biaya pendaftaran per program studi di Bank dengan menggunakan Nomor Pendaftaran tersebut. Catatan :
 
     -   Pilihan Jalur Masuk : UUMD3 atau JAJ (Jalur Alih Jenjang S1)
     -   Pilihan Gelombang : Gelombang I
@@ -95,7 +95,7 @@ thumbnail: ''
 
 4.  Lakukan pembayaran di *teller* bank BNI
 
-5.  Setelah melakukan pembayaran, pendaftar melakukan login kembali ke laman **https://admisi.untirta.ac.id**, dengan menggunakan Nomor Pendaftaran dan Password.
+5.  Setelah melakukan pembayaran, pendaftar melakukan login kembali ke laman [**https://admisi.untirta.ac.id**](https://admisi.untirta.ac.id), dengan menggunakan Nomor Pendaftaran dan Password.
 
 6.  Lengkapi Data dengan Benar. Siapkan dokumen pdf dengan ukuran maksimal 280 KB.
 
@@ -173,7 +173,7 @@ thumbnail: ''
     -   **Untuk D3 Ekonomi dan Alih Jenjang S1, melampirkan / upload Surat Tes Kesehatan dan Bebas Narkoba dari RSUD daerah masing masing pada saat pengisian online di admisi**.
     -   Melakukan **Pembayaran UKT, IPIn dan Konversi (S1 Alih Jenjang) pada tanggal 9 -- 13 Septeber 2020**.
 
-3.  Pengumuman hasil kelulusan (tes tertulis dan kesehatan) akan diumumkan tanggal **\#\# \#\#\# 2021** mulai pukul 14.00 melalui laman **https://admisi.untirta.ac.id** dan **https://spmb.untirta.ac.id**.
+3.  Pengumuman hasil kelulusan (tes tertulis dan kesehatan) akan diumumkan tanggal **\#\# \#\#\# 2021** mulai pukul 14.00 melalui laman [**https://admisi.untirta.ac.id**](https://admisi.untirta.ac.id) dan [**https://spmb.untirta.ac.id**](https://spmb.untirta.ac.id).
 
 4.  Calon mahasiswa baru yang tidak dapat memenuhi persyaratan registrasi administrasi sebagaimana yang ditetapkan dinyatakan **GUGUR**.
 
