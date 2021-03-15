@@ -16,15 +16,13 @@ Calon Mahasiswa Baru yang sudah **dinyatakan** **Lulus lewat** jalur Seleksi Nas
 
 1.  Jadwal registrasi ulang
 
-    +-----+---------+--------------------------+--------------------------+
-    | NO  | SELEKSI | REGISTRASI ULANG         | PEMBAYARAN UKT           |
-    +:====+:========+:=========================+:=========================+
-    | 1\. | SNMPTN  | 01-08 April 2021         | jadwal menyusul          |
-    +-----+---------+--------------------------+--------------------------+
-    | 2\. | SBMPTN  | 14 Juni 2021             | jadwal menyusul          |
-    +-----+---------+--------------------------+--------------------------+
-    | 3\. | SMMPTN  | jadwal menyusul          | jadwal menyusul          |
-    +-----+---------+--------------------------+--------------------------+
+    | NO  | SELEKSI | REGISTRASI ULANG         | PEMBAYARAN UKT            |
+    |:----|:--------|:-------------------------|:--------------------------|
+    | 1\. | SNMPTN  | 23 Maret - 06 April 2021 | 12 - 23 April 2021        |
+    | 2\. | SBMPTN  | 15 - 25 Juni 2021        | 29 Juni - 09 Juli 2021    |
+    | 3\. | SMMPTN  | 17 - 28 Juli 2021        | 29 Juli - 06 Agustus 2021 |
+
+    ***\*) Jika ada perubahan jadwal akan kami informasikan melalui email.***
 
 2.  Pemberkasan secara *online* melalui laman [**https://admisi.untirta.ac.id**](https://admisi.untirta.ac.id){.uri} sesuai dengan jadwal di atas.
 
@@ -38,7 +36,7 @@ Calon Mahasiswa Baru yang sudah **dinyatakan** **Lulus lewat** jalur Seleksi Nas
 
         b.  [**Surat Pernyataan Mentaati Peraturan**](https://drive.google.com/file/d/1I0Z1IlYzoADB6NDzP_KfvTTWuJXsZ3Qu/view?usp=sharing){target="_blank"} ([download](https://drive.google.com/file/d/1I0Z1IlYzoADB6NDzP_KfvTTWuJXsZ3Qu/view?usp=sharing){target="_blank"}, isi, *scan*, dan *upload*).
 
-        c.  Ijazah bagi lulusan tahun 2019, 2020, dan 2021 / Surat Keterangan Lulus bagi lulusan tahun 2021 yang belum memperoleh Ijazah.
+        c.  Ijazah bagi lulusan 3 tahun terakhir : 2019, 2020, dan 2021 / Surat Keterangan Lulus bagi lulusan tahun 2021 yang belum memperoleh Ijazah.
 
         d.  Kartu Peserta Tes (*scan* dan *upload*).
 
@@ -54,73 +52,48 @@ Calon Mahasiswa Baru yang sudah **dinyatakan** **Lulus lewat** jalur Seleksi Nas
 
         h.  SPPT Pajak Bumi dan Bangunan (PBB) Tahun 2017/2018/2019 **atau** [**Surat Pernyataan tentang Luas Tanah dan Bangunan Rumah yang ditempati bagi yang tidak punya SPPT**](https://drive.google.com/file/d/1HxczESstO4LjNTLd5_oQNXy0FQPAG96-/view?usp=sharing){target="_blank"} ([download](https://drive.google.com/file/d/1HxczESstO4LjNTLd5_oQNXy0FQPAG96-/view?usp=sharing){target="_blank"}, isi, *scan*, dan *upload*).
 
-        i.  Surat Keterangan Kesehatan dan Tes Narkoba untuk **semua Program Studi** dan Surat Pemeriksaan Buta Warna untuk **Program Studi berikut** (*scan*, jadikan 1 file, dan *upload*)
+        i.  Surat Keterangan Kesehatan dan Tes Narkoba untuk **semua Program Studi** dan Surat Pemeriksaan Buta Warna untuk Program Studi berikut (*scan*, **jadikan 1 file**, dan *upload*)
 
-            +------+------------------------------------------+-----------------------------------------+
             | No.  | Program Studi                            | Keterangan                              |
-            +:=====+:=========================================+:========================================+
+            |:-----|:-----------------------------------------|:----------------------------------------|
             | 1\.  | Pendidikan Non Formal                    | Tidak Boleh Buta Warna                  |
-            +------+------------------------------------------+-----------------------------------------+
             | 2\.  | Pendidikan Bahasa Indonesia              | Tidak Boleh Buta Warna                  |
-            +------+------------------------------------------+-----------------------------------------+
             | 3\.  | Pendidikan Bahasa Inggris                | Tidak Boleh Buta Warna                  |
-            +------+------------------------------------------+-----------------------------------------+
             | 4\.  | Pendidikan Biologi                       | Tidak Boleh Buta Warna                  |
-            +------+------------------------------------------+-----------------------------------------+
             | 5\.  | Pendidikan Matematika                    | Tidak Boleh Buta Warna                  |
-            +------+------------------------------------------+-----------------------------------------+
             | 6\.  | Pendidikan Guru Sekolah Dasar            | Tidak Boleh Buta Warna                  |
-            +------+------------------------------------------+-----------------------------------------+
             | 7\.  | PGPAUD                                   | Tidak Boleh Buta Warna                  |
-            +------+------------------------------------------+-----------------------------------------+
             | 8\.  | Pendidikan Fisika                        | Tidak Boleh Buta Warna                  |
-            +------+------------------------------------------+-----------------------------------------+
             | 9\.  | Pendidikan IPA                           | Tidak Boleh Buta Warna                  |
-            +------+------------------------------------------+-----------------------------------------+
             | 10\. | Pendidikan Kimia                         | Tidak Boleh Buta Warna                  |
-            +------+------------------------------------------+-----------------------------------------+
             | 11\. | Pendidikan Vokasional Teknik Mesin       | Tidak Boleh Buta Warna                  |
-            +------+------------------------------------------+-----------------------------------------+
             | 12\. | Pendidikan Vokasional Teknik Elektro     | Tidak Boleh Buta Warna                  |
-            +------+------------------------------------------+-----------------------------------------+
             | 13\. | Bimbingan dan Konseling                  | Tidak Boleh Buta Warna                  |
-            +------+------------------------------------------+-----------------------------------------+
             | 14\. | Pendidikan Pancasila dan Kewarganegaraan | Tidak Boleh Buta Warna                  |
-            +------+------------------------------------------+-----------------------------------------+
             | 15\. | Pendidikan Sejarah                       | Tidak Boleh Buta Warna                  |
-            +------+------------------------------------------+-----------------------------------------+
             | 16\. | Pendidikan Seni Pertunjukan              | Tidak Boleh Buta Warna                  |
-            +------+------------------------------------------+-----------------------------------------+
             | 17\. | Pendidikan Sosiologi                     | Tidak Boleh Buta Warna                  |
-            +------+------------------------------------------+-----------------------------------------+
             | 18\. | Teknik Mesin                             | Tidak Boleh Buta Warna                  |
-            +------+------------------------------------------+-----------------------------------------+
             | 19\. | Teknik Elektro                           | Tidak Boleh Buta Warna                  |
-            +------+------------------------------------------+-----------------------------------------+
             | 20\. | Teknik Industri                          | Buta Warna Sebagian/Partial masih boleh |
-            +------+------------------------------------------+-----------------------------------------+
             | 21\. | Teknik Metalurgi                         | Tidak Boleh Buta Warna                  |
-            +------+------------------------------------------+-----------------------------------------+
             | 22\. | Teknik Kimia                             | Tidak Boleh Buta Warna                  |
-            +------+------------------------------------------+-----------------------------------------+
             | 23\. | Teknik Sipil                             | Tidak Boleh Buta Warna                  |
-            +------+------------------------------------------+-----------------------------------------+
             | 23\. | Informatika                              | Tidak Boleh Buta Warna                  |
-            +------+------------------------------------------+-----------------------------------------+
             | 24\. | Kedokteran                               | Tidak Boleh Buta Warna                  |
-            +------+------------------------------------------+-----------------------------------------+
             | 25\. | Gizi                                     | Tidak Boleh Buta Warna                  |
-            +------+------------------------------------------+-----------------------------------------+
             | 26\. | Ilmu Keolahragaan                        | Tidak Boleh Buta Warna                  |
-            +------+------------------------------------------+-----------------------------------------+
             | 27\. | Keperawatan (D3 & S1)                    | Tidak Boleh Buta Warna                  |
-            +------+------------------------------------------+-----------------------------------------+
 
-        j.  Bukti Penghasilan Ayah dan Penghasilan Ibu atau Wali yang membiayai Kuliah dengan ketentuan sebagai berikut (*scan* dan *upload*):
+        j.  Bukti Penghasilan Ayah dan Penghasilan Ibu atau diisi dengan penghasilan Wali yang membiayai Kuliah dengan ketentuan sebagai berikut (*scan* dan *upload*):
 
             -   **PNS**/**TNI**/**BUMN**/**Karyawan Swasta**: Slip Gaji / Bukti Penghasilan (max dua bulan terakhir),
+
             -   **Wiraswasta**/**Petani**/**Pedagang**/**Buruh**/**Tidak Mempunyai Pekerjaan Tetap** : Surat Keterangan Penghasilan dari Kelurahan dengan mencantumkan nama Pekerjaan dan Nominal Penghasilannya
+
             -   **Pensiunan** : Rekening Koran atau *print out* Buku Rekening Pensiun (max dua bulan terakhir).<br><br>
+
+                ***\*) Kolom Penghasilan Ayah dan Ibu tidak boleh Nol dua-duanya, Jika memang Nol dua-duanya maka masukan Slip/penghasilan dari penanggung jawab biaya kuliah.***
 
     -   **Berkas tambahan bagi pendaftar KIP-Kuliah** khusus jalur SNMPTN dan SBMPTN (format pdf /jpg tidak lebih dari 250 KB):
 
@@ -128,7 +101,7 @@ Calon Mahasiswa Baru yang sudah **dinyatakan** **Lulus lewat** jalur Seleksi Nas
         b.  Peta rute menuju rumah dari kota terdekat (*scan* dan *upload*)
         c.  Foto rumah tampak depan, tampak samping, dan tampak belakang. Jadikan 1 file (*upload*) <br><br>
 
-    **KETENTUAN PHOTO DIRI**
+    **KETENTUAN PHOTO DIRI :**
 
 3.  *Upload* foto diri, dengan ketentuan:
 
@@ -149,10 +122,16 @@ Calon Mahasiswa Baru yang sudah **dinyatakan** **Lulus lewat** jalur Seleksi Nas
 
     -   Setiap calon mahasiswa yang **tidak dapat memenuhi ketentuan pengumuman ini dinyatakan mengundurkan diri** sebagai calon mahasiswa Universitas Sultan Ageng Tirtayasa;
 
+        <br><br>
+
+    **SALURAN INFORMASI RESMI KAMI :**
+
     -   Jika ada pengumuman atau perubahan jadwal akan diberitahukan kemudian melalui
 
-        a.  [**https://admisi.untirta.ac.id**](https://admisi.untirta.ac.id){.uri},
-        b.  [**https://untirta.ac.id**](https://untirta.ac.id){.uri},
-        c.  email anda masing-masing (**pastikan email anda aktif**).
+        a\. [**https://admisi.untirta.ac.id**](https://admisi.untirta.ac.id){.uri},
 
-    -   Hal yang belum jelas bisa ditanyakan melalui email [**registrasi\@untirta.ac.id**](mailto:registrasi@untirta.ac.id){.email}. atau [**Hotline Registrasi : 0813-1173-4542**](http://wa.me/6281311734542)
+        b\. [**https://untirta.ac.id**](https://untirta.ac.id){.uri},
+
+        c\. email anda masing-masing (**pastikan email anda aktif**).
+
+        d\. Hal yang belum jelas bisa ditanyakan melalui email [**registrasi\@untirta.ac.id**](mailto:registrasi@untirta.ac.id){.email}. atau [**Hotline Registrasi : 0813-1173-4542**](http://wa.me/6281311734542)
