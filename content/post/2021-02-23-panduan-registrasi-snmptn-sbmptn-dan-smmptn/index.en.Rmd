@@ -14,7 +14,7 @@ thumbnail: ''
 
 Calon Mahasiswa Baru yang sudah **dinyatakan** **Lulus lewat** jalur Seleksi Nasional Masuk Perguruan Tinggi Negeri **(SNMPTN),** Seleksi Bersama Masuk Perguruan Tinggi (**SBMPTN**), Seleksi Mandiri Masuk Perguruan Tinggi Negeri Barat (**SMMPTN**), yang ditetapkan dengan SK Rektor Universitas Sultan Ageng Tirtayasa agar **mempersiapkan dan wajib melakukan kegiatan sebagai berikut**:
 
-1.  Jadwal registrasi ulang
+1.  Jadwal registrasi ulang\*
 
     | NO  | SELEKSI | REGISTRASI ULANG         | PEMBAYARAN UKT            |
     |:----|:--------|:-------------------------|:--------------------------|
@@ -24,7 +24,7 @@ Calon Mahasiswa Baru yang sudah **dinyatakan** **Lulus lewat** jalur Seleksi Nas
 
     ***\*) Jika ada perubahan jadwal akan kami informasikan melalui email.***
 
-2.  Pemberkasan secara *online* melalui laman [**https://admisi.untirta.ac.id**](https://admisi.untirta.ac.id){.uri} sesuai dengan jadwal di atas.
+2.  Registrasi ulang secara *online* sesuai dengan jadwal di atas dengan ketentuan sebagai berikut.
 
     A.  Mempersiapkan dokumen yang harus diunggah (*upload*) dalam bentuk **pdf** atau **jpg** (**ukuran file tidak melebihi 250 KB**).
 
@@ -75,17 +75,17 @@ Calon Mahasiswa Baru yang sudah **dinyatakan** **Lulus lewat** jalur Seleksi Nas
             | 21\. | Teknik Metalurgi                         | Tidak Boleh Buta Warna                  |
             | 22\. | Teknik Kimia                             | Tidak Boleh Buta Warna                  |
             | 23\. | Teknik Sipil                             | Tidak Boleh Buta Warna                  |
-            | 23\. | Informatika                              | Tidak Boleh Buta Warna                  |
-            | 24\. | Kedokteran                               | Tidak Boleh Buta Warna                  |
-            | 25\. | Gizi                                     | Tidak Boleh Buta Warna                  |
-            | 26\. | Ilmu Keolahragaan                        | Tidak Boleh Buta Warna                  |
-            | 27\. | Keperawatan (D3 & S1)                    | Tidak Boleh Buta Warna                  |
+            | 24\. | Informatika                              | Tidak Boleh Buta Warna                  |
+            | 25\. | Kedokteran                               | Tidak Boleh Buta Warna                  |
+            | 26\. | Gizi                                     | Tidak Boleh Buta Warna                  |
+            | 27\. | Ilmu Keolahragaan                        | Tidak Boleh Buta Warna                  |
+            | 28\. | Keperawatan (D3 & S1)                    | Tidak Boleh Buta Warna                  |
 
         10. Bukti Penghasilan Ayah atau diisi dengan penghasilan Wali yang membiayai Kuliah dengan ketentuan sebagai berikut.
 
             -   **PNS**/**TNI**/**BUMN**/**Karyawan Swasta**: Slip Gaji / Bukti Penghasilan (maksimal dua bulan terakhir),
             -   **Wiraswasta**/**Petani**/**Pedagang**/**Buruh**/**Tidak Mempunyai Pekerjaan Tetap** : Surat Keterangan Penghasilan dari Kelurahan dengan mencantumkan nama Pekerjaan dan Nominal Penghasilannya
-            -   **Pensiunan** : Rekening Koran atau *print out* Buku Rekening Pensiun (max dua bulan terakhir).<br><br>
+            -   **Pensiunan** : Rekening Koran atau *print out* Buku Rekening Pensiun (max dua bulan terakhir).
 
         11. Bukti Penghasilan Ibu atau diisi dengan penghasilan Wali yang membiayai Kuliah dengan ketentuan sebagai berikut.
 
@@ -93,7 +93,7 @@ Calon Mahasiswa Baru yang sudah **dinyatakan** **Lulus lewat** jalur Seleksi Nas
 
             -   **Wiraswasta**/**Petani**/**Pedagang**/**Buruh**/**Tidak Mempunyai Pekerjaan Tetap** : Surat Keterangan Penghasilan dari Kelurahan dengan mencantumkan nama Pekerjaan dan Nominal Penghasilannya
 
-            -   **Pensiunan** : Rekening Koran atau *print out* Buku Rekening Pensiun (max dua bulan terakhir).<br><br>
+            -   **Pensiunan** : Rekening Koran atau *print out* Buku Rekening Pensiun (max dua bulan terakhir).
 
                 > ***Kolom Penghasilan Ayah dan Ibu tidak boleh Nol dua-duanya. Jika memang Nol dua-duanya maka masukan Slip/penghasilan dari penanggung jawab biaya kuliah.***
 
@@ -111,9 +111,9 @@ Calon Mahasiswa Baru yang sudah **dinyatakan** **Lulus lewat** jalur Seleksi Nas
 
     B.  Menunggu *Username* dan *Password* untuk melakukan Registrasi ulang secara *online* yang akan dikirim ke alamat email yang digunakan saat mendaftar SNMPTN. *Username* dan *Password* akan dikirim mulai tanggal **22 -- 24 Maret 2021**.
 
-        > **Cek juga folder SPAM di email anda, karena mungkin email kami masuk ke folder SPAM anda.**
+        > Cek juga folder SPAM di email anda, karena mungkin email kami masuk ke folder SPAM anda**.**
 
-    C.  Melakukan Registrasi ulang secara *online* dari tanggal **25 Maret - 06 April 2021** di <http://admisi.untirta.ac.id> setelah menerima email *Username* dan *Password*. Pastikan semua data yang diisi dan berkas yang diunggah harus lengkap.
+    C.  Melakukan Registrasi ulang secara *online* dari tanggal **25 Maret - 06 April 2021** di [**http://admisi.untirta.ac.id**](http://admisi.untirta.ac.id){.uri} setelah menerima email *Username* dan *Password*. Pastikan semua data yang diisi dan berkas yang diunggah harus lengkap terlebih dahulu.
 
         > Isilah dengan **BENAR**, **AKURAT**, dan **JUJUR** semua data diri anda. Kesalahan dalam mengisi data dan memahami panduan registrasi menjadi tanggung jawab calon mahasiswa baru.
 
@@ -121,14 +121,13 @@ Calon Mahasiswa Baru yang sudah **dinyatakan** **Lulus lewat** jalur Seleksi Nas
 
         > **Cek juga folder SPAM di email anda, karena mungkin email kami masuk ke folder SPAM anda.**
 
-    E.  Pembayaran Uang Kuliah Tunggal (UKT) di Bank BNI seluruh Cabang Indonesia melalui *Teller* atau ATM dengan menggunakan menu *Student* *Payment* *Center* (SPC) kode untirta 8041, dengan
-        ketentuan sebagai berikut.
+    E.  Pembayaran Uang Kuliah Tunggal (UKT) di Bank BNI seluruh Cabang Indonesia melalui *Teller* atau ATM dengan menggunakan menu *Student* *Payment* *Center* (SPC) kode untirta 8041, dengan ketentuan sebagai berikut.
 
-        1.  Waktu: **12 s/d 23 April 2021**.
-        2.  Melakukan pembayaran Uang Kuliah Tunggal (UKT) dengan menyebut No Peserta SNMPTN
-        3.  Menerima bukti pembayaran dari Bank BNI (Teller atau ATM)
-        4.  Tata cara pembayaran UKT bisa diakses **di sini**.bit.ly/tirtaUKT
-        5.  Khusus untuk Program Studi Kedokteran, UKT sebesar Rp15.000.000,00 s.d. Rp22.000.000,00 (UKT Kelompok III s.d. VIII)
+        -   Waktu: **12 s/d 23 April 2021**.
+        -   Melakukan pembayaran Uang Kuliah Tunggal (UKT) dengan menyebut No Peserta SNMPTN.
+        -   Menerima bukti pembayaran dari Bank BNI (Teller atau ATM).
+        -   Tata cara pembayaran UKT bisa diakses [**di sini**](https://bit.ly/tirtaUKT).
+        -   Khusus untuk Program Studi Kedokteran, UKT sebesar Rp15.000.000,00 s.d. Rp22.000.000,00 (UKT Kelompok III s.d. VIII)
 
     F.  Menerima Nomor Induk Mahasiswa (NIM) dan *Password* SIAKAD akan dikirim melalui email masing-masing.
 
@@ -137,12 +136,12 @@ Calon Mahasiswa Baru yang sudah **dinyatakan** **Lulus lewat** jalur Seleksi Nas
 
 3.  **Lain-lain**:
 
-    A.  Setiap calon mahasiswa yang **tidak dapat memenuhi ketentuan pengumuman ini dinyatakan mengundurkan diri** sebagai calon mahasiswa Universitas Sultan Ageng Tirtayasa;
+    A.  Setiap calon mahasiswa yang **tidak dapat memenuhi ketentuan pengumuman ini dinyatakan mengundurkan diri** sebagai calon mahasiswa Universitas Sultan Ageng Tirtayasa.
 
     B.  Jika ada pengumuman atau perubahan jadwal akan diberitahukan kemudian melalui
 
-        1.  https://admisi.untirta.ac.id,
-        2.  https://untirta.ac.id,
+        1.  <https://admisi.untirta.ac.id>,
+        2.  <https://untirta.ac.id>,
         3.  email anda masing-masing (**pastikan email anda aktif**).
 
     C.  Hal yang belum jelas bisa ditanyakan melalui email [**registrasi\@untirta.ac.id**](mailto:registrasi@untirta.ac.id){.email}. atau [**Hotline Registrasi : 0813-1173-4542**](http://wa.me/6281311734542)
