@@ -26,33 +26,29 @@ Calon Mahasiswa Baru yang sudah **dinyatakan** **Lulus lewat** jalur Seleksi Nas
 
 2.  Pemberkasan secara *online* melalui laman [**https://admisi.untirta.ac.id**](https://admisi.untirta.ac.id){.uri} sesuai dengan jadwal di atas.
 
-    -   ***LOGIN*** pada laman [**https://admisi.untirta.ac.id**](https://admisi.untirta.ac.id){.uri} dengan menggunakan *username* Nomor Pendaftaran dan *password* yang kami kirim melalui email anda (**pastikan email yang terdaftar di pendaftaran LTMPT email yang aktif**).
+    A.  Mempersiapkan dokumen yang harus diunggah (*upload*) dalam bentuk **pdf** atau **jpg** (**ukuran file tidak melebihi 250 KB**).
 
-        > **Cek juga folder SPAM di email anda, karena mungkin email kami masuk ke folder SPAM anda.**
+        1.  [**Pakta Integritas Uang Kuliah Tunggal**](https://drive.google.com/file/d/1HyFx0AQQZaZOhc3tI8n2i71dn4yArUAG/view?usp=sharing) (download, isi, cetak, *scan*).
 
-    -   Karena Jadwal Registrasi ulang yang sempit maka Camaba diharapkan agar mempersiapkan Dokumen berikut dalam bentuk pdf/jpg (**ukuran file tidak melebihi 250kb**) untuk di-*upload*.
+        2.  [**Surat Pernyataan Mentaati Peraturan**](https://drive.google.com/file/d/1I0Z1IlYzoADB6NDzP_KfvTTWuJXsZ3Qu/view?usp=sharing){target="_blank"} (download, isi, cetak, *scan*).
 
-        a.  [**Pakta Integritas Uang Kuliah Tunggal**](https://drive.google.com/file/d/1HyFx0AQQZaZOhc3tI8n2i71dn4yArUAG/view?usp=sharing) ([download](https://drive.google.com/file/d/1HyFx0AQQZaZOhc3tI8n2i71dn4yArUAG/view?usp=sharing), isi, *scan*, dan *upload*).
+        3.  Ijazah bagi lulusan 3 tahun terakhir : 2019, 2020, dan 2021 / Surat Keterangan Lulus (SKL) bagi lulusan tahun 2021 yang belum memperoleh Ijazah.
 
-        b.  [**Surat Pernyataan Mentaati Peraturan**](https://drive.google.com/file/d/1I0Z1IlYzoADB6NDzP_KfvTTWuJXsZ3Qu/view?usp=sharing){target="_blank"} ([download](https://drive.google.com/file/d/1I0Z1IlYzoADB6NDzP_KfvTTWuJXsZ3Qu/view?usp=sharing){target="_blank"}, isi, *scan*, dan *upload*).
+        4.  Kartu Peserta Tes.
 
-        c.  Ijazah bagi lulusan 3 tahun terakhir : 2019, 2020, dan 2021 / Surat Keterangan Lulus bagi lulusan tahun 2021 yang belum memperoleh Ijazah.
+        5.  Akta Kelahiran.
 
-        d.  Kartu Peserta Tes (*scan* dan *upload*).
+        6.  Kartu Keluarga.
 
-        e.  Akta Kelahiran (*scan* dan *upload*).
-
-        f.  Kartu Keluarga (*scan* dan *upload*).
-
-        g.  Bukti pembayaran listrik bagi pelanggang *pascabayar* **atau** bukti pembelian token listrik bagi pelanggan *prabayar* (*scan* dan *upload*).
+        7.  Bukti pembayaran listrik bagi pelanggang *pascabayar* **atau** bukti pembelian token listrik bagi pelanggan *prabayar*.
 
             Bagi pelanggan listrik 450VA yang digratiskan dan tidak memiliki bukti pembayaran bisa membuatnya di halaman [**https://stimulus.pln.co.id/**](https://stimulus.pln.co.id/){.uri} seperti pada gambar berikut.
 
             ![](pln.PNG)
 
-        h.  SPPT Pajak Bumi dan Bangunan (PBB) Tahun 2017/2018/2019 **atau** [**Surat Pernyataan tentang Luas Tanah dan Bangunan Rumah yang ditempati bagi yang tidak punya SPPT**](https://drive.google.com/file/d/1HxczESstO4LjNTLd5_oQNXy0FQPAG96-/view?usp=sharing){target="_blank"} ([download](https://drive.google.com/file/d/1HxczESstO4LjNTLd5_oQNXy0FQPAG96-/view?usp=sharing){target="_blank"}, isi, *scan*, dan *upload*).
+        8.  SPPT Pajak Bumi dan Bangunan (PBB) tiga tahun terakhir (pilih salah satu) **atau** [**Surat Pernyataan tentang Luas Tanah dan Bangunan Rumah yang ditempati bagi yang tidak punya SPPT**](https://drive.google.com/file/d/1HxczESstO4LjNTLd5_oQNXy0FQPAG96-/view?usp=sharing){target="_blank"} (download, isi, cetak, *scan*).
 
-        i.  Surat Keterangan Kesehatan dan Tes Narkoba untuk **semua Program Studi** dan Surat Pemeriksaan Buta Warna untuk Program Studi berikut (*scan*, **jadikan 1 file**, dan *upload*)
+        9.  Surat Keterangan Kesehatan dan Tes Narkoba untuk **semua Program Studi** dan Surat Pemeriksaan Buta Warna untuk Program Studi berikut (*scan*, **jadikan 1 file**, dan *upload*)
 
             | No.  | Program Studi                            | Keterangan                              |
             |:-----|:-----------------------------------------|:----------------------------------------|
@@ -85,53 +81,68 @@ Calon Mahasiswa Baru yang sudah **dinyatakan** **Lulus lewat** jalur Seleksi Nas
             | 26\. | Ilmu Keolahragaan                        | Tidak Boleh Buta Warna                  |
             | 27\. | Keperawatan (D3 & S1)                    | Tidak Boleh Buta Warna                  |
 
-        j.  Bukti Penghasilan Ayah dan Penghasilan Ibu atau diisi dengan penghasilan Wali yang membiayai Kuliah dengan ketentuan sebagai berikut (*scan* dan *upload*):
+        10. Bukti Penghasilan Ayah atau diisi dengan penghasilan Wali yang membiayai Kuliah dengan ketentuan sebagai berikut.
 
-            -   **PNS**/**TNI**/**BUMN**/**Karyawan Swasta**: Slip Gaji / Bukti Penghasilan (max dua bulan terakhir),
+            -   **PNS**/**TNI**/**BUMN**/**Karyawan Swasta**: Slip Gaji / Bukti Penghasilan (maksimal dua bulan terakhir),
+            -   **Wiraswasta**/**Petani**/**Pedagang**/**Buruh**/**Tidak Mempunyai Pekerjaan Tetap** : Surat Keterangan Penghasilan dari Kelurahan dengan mencantumkan nama Pekerjaan dan Nominal Penghasilannya
+            -   **Pensiunan** : Rekening Koran atau *print out* Buku Rekening Pensiun (max dua bulan terakhir).<br><br>
+
+        11. Bukti Penghasilan Ibu atau diisi dengan penghasilan Wali yang membiayai Kuliah dengan ketentuan sebagai berikut.
+
+            -   **PNS**/**TNI**/**BUMN**/**Karyawan Swasta**: Slip Gaji / Bukti Penghasilan (maksimal dua bulan terakhir),
 
             -   **Wiraswasta**/**Petani**/**Pedagang**/**Buruh**/**Tidak Mempunyai Pekerjaan Tetap** : Surat Keterangan Penghasilan dari Kelurahan dengan mencantumkan nama Pekerjaan dan Nominal Penghasilannya
 
             -   **Pensiunan** : Rekening Koran atau *print out* Buku Rekening Pensiun (max dua bulan terakhir).<br><br>
 
-                ***\*) Kolom Penghasilan Ayah dan Ibu tidak boleh Nol dua-duanya, Jika memang Nol dua-duanya maka masukan Slip/penghasilan dari penanggung jawab biaya kuliah.***
+                > ***Kolom Penghasilan Ayah dan Ibu tidak boleh Nol dua-duanya. Jika memang Nol dua-duanya maka masukan Slip/penghasilan dari penanggung jawab biaya kuliah.***
 
-    -   **Berkas tambahan bagi pendaftar KIP-Kuliah** khusus jalur SNMPTN dan SBMPTN (format pdf /jpg tidak lebih dari 250 KB):
+        12. Foto diri berukuran 4×6 dengan format JPG sesuai dengan ketentuan berikut.
 
-        a.  Bukti registrasi KIP-Kuliah (*scan* dan *upload*)
-        b.  Peta rute menuju rumah dari kota terdekat (*scan* dan *upload*)
-        c.  Foto rumah tampak depan, tampak samping, dan tampak belakang. Jadikan 1 file (*upload*) <br><br>
+            -   Laki-laki: jas hitam, baju putih, dasi hitam, *background* merah,
+            -   Perempuan: jas hitam/blazer, baju putih, dasi hitam, *background* merah,
+            -   Perempuan berjilbab: jilbab warna putih, *background* merah, jas hitam/blazer tanpa dasi.
 
-    **KETENTUAN PHOTO DIRI :**
+        13. **Berkas tambahan bagi pendaftar KIP-Kuliah**
 
-3.  *Upload* foto diri, dengan ketentuan:
+            -   Bukti registrasi KIP-Kuliah,
+            -   Peta rute menuju rumah dari kota terdekat,
+            -   Foto rumah tampak depan, tampak samping, dan tampak belakang (**jadikan 1 file**).
 
-    -   Laki-laki (jas hitam, baju putih, dasi hitam, *background* merah, ukuran (4×6)),
-    -   Perempuan (jas hitam/blazer, baju putih, dasi hitam, *background* merah, ukuran ( 4×6)),
-    -   Perempuan berjilbab (jilbab warna putih, *background* merah, jas hitam/blazer tanpa dasi, ukuran (4×6)),
-    -   Format file adalah JPG.
+    B.  Menunggu *Username* dan *Password* untuk melakukan Registrasi ulang secara *online* yang akan dikirim ke alamat email yang digunakan saat mendaftar SNMPTN. *Username* dan *Password* akan dikirim mulai tanggal **22 -- 24 Maret 2021**.
 
-4.  Isilah dengan **BENAR**, **AKURAT**, dan **JUJUR** semua data diri anda.
+        > **Cek juga folder SPAM di email anda, karena mungkin email kami masuk ke folder SPAM anda.**
 
-5.  Penetapan UKT akan dikirim melalui email masing masing calon mahasiswa setelah menyelesaikan proses 2 hingga 4 dan sesuai Jadwal Pembayaran UKT.
+    C.  Melakukan Registrasi ulang secara *online* dari tanggal **25 Maret - 06 April 2021** di <http://admisi.untirta.ac.id> setelah menerima email *Username* dan *Password*. Pastikan semua data yang diisi dan berkas yang diunggah harus lengkap.
 
-    > **Cek juga folder SPAM di email anda, karena mungkin email kami masuk ke folder SPAM anda.**
+        > Isilah dengan **BENAR**, **AKURAT**, dan **JUJUR** semua data diri anda. Kesalahan dalam mengisi data dan memahami panduan registrasi menjadi tanggung jawab calon mahasiswa baru.
 
-6.  Tatacara pembayaran UKT dan Biaya Pendidikan dapat dilihat [**di sini**](https://drive.google.com/file/d/1IIaFh62Irl6cK4EpdaTqcwOk3OMfmH8t/view?usp=sharing){target="_blank"}.
+    D.  Menerima nominal UKT akan dikirim melalui email masing masing calon mahasiswa setelah menyelesaikan proses **A** hingga **C**.
 
-7.  **Lain-lain**:
+        > **Cek juga folder SPAM di email anda, karena mungkin email kami masuk ke folder SPAM anda.**
 
-    -   Setiap calon mahasiswa yang **tidak dapat memenuhi ketentuan pengumuman ini dinyatakan mengundurkan diri** sebagai calon mahasiswa Universitas Sultan Ageng Tirtayasa;
+    E.  Pembayaran Uang Kuliah Tunggal (UKT) di Bank BNI seluruh Cabang Indonesia melalui *Teller* atau ATM dengan menggunakan menu *Student* *Payment* *Center* (SPC) kode untirta 8041, dengan
+        ketentuan sebagai berikut.
 
-        <br><br>
+        1.  Waktu: **12 s/d 23 April 2021**.
+        2.  Melakukan pembayaran Uang Kuliah Tunggal (UKT) dengan menyebut No Peserta SNMPTN
+        3.  Menerima bukti pembayaran dari Bank BNI (Teller atau ATM)
+        4.  Tata cara pembayaran UKT bisa diakses **di sini**.bit.ly/tirtaUKT
+        5.  Khusus untuk Program Studi Kedokteran, UKT sebesar Rp15.000.000,00 s.d. Rp22.000.000,00 (UKT Kelompok III s.d. VIII)
 
-    **SALURAN INFORMASI RESMI KAMI :**
+    F.  Menerima Nomor Induk Mahasiswa (NIM) dan *Password* SIAKAD akan dikirim melalui email masing-masing.
 
-    -   Jika ada pengumuman atau perubahan jadwal akan diberitahukan kemudian melalui
+        -   **Pendaftar Non KIP-K**: setelah melakukan pembayaran UKT
+        -   **Pendaftar KIP-K**: setelah dinyatakan sebagai penerima KIP-K
 
-        a\. [**https://admisi.untirta.ac.id**](https://admisi.untirta.ac.id){.uri},
+3.  **Lain-lain**:
 
-        b\. [**https://untirta.ac.id**](https://untirta.ac.id){.uri},
+    A.  Setiap calon mahasiswa yang **tidak dapat memenuhi ketentuan pengumuman ini dinyatakan mengundurkan diri** sebagai calon mahasiswa Universitas Sultan Ageng Tirtayasa;
 
-        c\. email anda masing-masing (**pastikan email anda aktif**).
+    B.  Jika ada pengumuman atau perubahan jadwal akan diberitahukan kemudian melalui
 
-        d\. Hal yang belum jelas bisa ditanyakan melalui email [**registrasi\@untirta.ac.id**](mailto:registrasi@untirta.ac.id){.email}. atau [**Hotline Registrasi : 0813-1173-4542**](http://wa.me/6281311734542)
+        1.  https://admisi.untirta.ac.id,
+        2.  https://untirta.ac.id,
+        3.  email anda masing-masing (**pastikan email anda aktif**).
+
+    C.  Hal yang belum jelas bisa ditanyakan melalui email [**registrasi\@untirta.ac.id**](mailto:registrasi@untirta.ac.id){.email}. atau [**Hotline Registrasi : 0813-1173-4542**](http://wa.me/6281311734542)
