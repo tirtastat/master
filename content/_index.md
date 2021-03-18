@@ -10,3 +10,5 @@ Selamat datang calon mahasiswa baru Universitas Sultan Ageng Tirtayasa (Untirta)
 > Kedua adalah seleksi masuk secara lokal yang diselenggarakan oleh Untirta. Pada proses seleksi ini, proses pendaftaran, ujian, hingga pengumuman hasil seleksi diselenggarakan oleh Untirta. Yang termasuk seleksi masuk secara lokal adalah jalur UMM (D3 dan S1 Alih Jenjang) dan jalur SPMB (S2 dan S3). Bagi yang ingin mendaftar ke Untirta melalui jalur **UMM** atau **SPMB** bisa melihat panduannya [**di sini**.](https://auh.netlify.app/post/2021-02-23-pmb-umm/)
 
 ![](images/pexels-olia-danilevich-5088012-01.jpg)
+
+> > > > > > > d27c755f6fe15f046725c5df8c6d4861a9c744d6
