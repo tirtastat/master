@@ -24,7 +24,11 @@ Calon Mahasiswa Baru yang sudah **dinyatakan** **Lulus lewat** jalur Seleksi Nas
 
     ***\*) Jika ada perubahan jadwal akan kami informasikan melalui email.***
 
-2.  Registrasi ulang secara *online* sesuai dengan jadwal di atas dengan ketentuan sebagai berikut.
+2.  Diagram alur proses registrasi ulang secara *online.*
+
+    ![](images/Alur%20Registrasi.JPG)
+
+3.  Penjelasan registrasi ulang secara *online* sesuai dengan jadwal dan diagram alur di atas dengan ketentuan sebagai berikut.
 
     A.  Mempersiapkan dokumen yang harus diunggah (*upload*) dalam bentuk **pdf** atau **jpg** (**ukuran file tidak melebihi 250 KB**).
 
@@ -134,7 +138,7 @@ Calon Mahasiswa Baru yang sudah **dinyatakan** **Lulus lewat** jalur Seleksi Nas
         -   **Pendaftar Non KIP-K**: setelah melakukan pembayaran UKT
         -   **Pendaftar KIP-K**: setelah dinyatakan sebagai penerima KIP-K
 
-3.  **Lain-lain**:
+4.  **Lain-lain**:
 
     A.  Setiap calon mahasiswa yang **tidak dapat memenuhi ketentuan pengumuman ini dinyatakan mengundurkan diri** sebagai calon mahasiswa Universitas Sultan Ageng Tirtayasa.
 
