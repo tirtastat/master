@@ -1,0 +1,43 @@
+---
+title: Daftar Ulang Mahasiswa Baru Peserta KIP-Kuliah Jalur SNMPTN 2021
+author: kemahasiswaan
+date: '2021-02-01'
+slug: []
+categories: []
+tags:
+  - KIP-K
+  - snmptn 2021
+description: ''
+thumbnail: ''
+---
+
+#### (Diumumkan oleh Kemahasiswaan -- BAKP) 
+
+1.  Wajib melakukan daftar ulang Calon Mahasiswa Baru jalur SNMPTN, Tgl 23 Maret s.d. 06 April\
+    2021 pada Laman : <http://admisi.untirta.ac.id>
+
+2.  Lengkapi data pada laman <https://kip-kuliah.kemdikbud.go.id/> (Lengkapi dan perbaharui semua data yang dicantumkan di laman tersebut. Contoh: alamat, nomor HP, prestasi, upload foto keluarga, foto rumah (tampak ruang keluarga)
+
+3.  Wajib melakukan daftar ulang Calon mahasiswa Baru KIP Kuliah pada link <http://bit.ly/KIPKSNMPTN2021,> serta mengupload file berukuran tidak lebih dari 1 MB dengan format nama: **No.peserta_Nama_jenis data** :
+
+    a.  Foto/Scan Kartu Tanda Penduduk (KTP), dengan format nama: **No.peserta_Nama_KTP**
+    b.  Foto/Scan Kartu Keluarga (KK), dengan format nama: **No.peserta_Nama_KK**
+    c.  Foto/Scan Rekening Listrik (Bulan Terakhir), dengan format nama: **No.peserta_Nama_Listrik**
+    d.  Foto/Scan Gaji / Surat Keterangan Penghasilan Ayah, dengan format nama: **No.peserta_Nama_Ayah**
+    e.  Foto/Scan Gaji / Surat Keterangan Penghasilan Ibu, dengan format nama: **No.peserta_Nama_Ibu**
+    f.  Foto/Scan Gaji / Surat Keterangan Penghasilan Ibu, dengan format nama: **No.peserta_Nama_Wali**
+    g.  Foto/Scan Kartu Indonesia Pintar (KIP) / Kartu Keluarga Sejahtera (KKS) / Program Keluarga Harapan (PKH) / Surat DTKS / SKTM, dengan format nama: **No.peserta_Nama_KIP/KKS/PKH/DTKS/SKTM**.
+    h.  Foto Rumah Tinggal Tampak Depan, dengan format nama: **No.peserta_Nama_Depan**
+    i.  Foto Rumah Tampak Belakang, dengan format nama: **No.peserta_Nama_Belakang**
+    j.  Foto Ruang Keluarga, dengan format nama: **No.peserta_Nama_Keluarga**
+    k.  Foto Ruang Dapur, dengan format nama: **No.peserta_Nama_Dapur**
+    l.  Foto Kamar Mandi, dengan format nama: **No.peserta_Nama_Mandi**
+    m.  Rute Perjalanan dari pusat kota/kabupaten ke rumah tinggal, berupa tempat-tempat yang\
+        dapat dijadikan patokan, dengan format nama: **No.peserta_Nama_Rute**
+    n.  Foto/Scan SPPT PBB, dengan format nama: **No.peserta_Nama_PBB**
+    o.  Mengisi form surat pernyataan beasiswa bidikmisi bermaterai 10.000, dengan format nama: **No.peserta_Nama_Pernyataan**. Form ada di lembar kedua.
+    p.  Fotokopi Sertifikat/Piagam penghargaan atas prestasi akademik/non-akademik yang pernah\
+        diraih di SMA/SMK/MA/sederajat, dengan format nama: **No.peserta_Nama_Prestasi1**. (jika\
+        terdapat lebih dari 1 sertifikat/piagam prestasi silahkan beri angka di akhir)
+
+4.  Bergabung dengan grup Telegram : <http://bit.ly/KIPKUntirta2021>
