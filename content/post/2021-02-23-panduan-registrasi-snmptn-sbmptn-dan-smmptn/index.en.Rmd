@@ -28,7 +28,7 @@ Calon Mahasiswa Baru yang sudah **dinyatakan** **Lulus lewat** jalur Seleksi Nas
 
     ![](images/Alur%20Registrasi.JPG)
 
-3.  Penjelasan registrasi ulang secara *online* sesuai dengan jadwal dan diagram alur di atas dengan ketentuan sebagai berikut.
+3.  Penjelasan registrasi ulang secara *online* sesuai dengan jadwal dan diagram alur di atas adalah sebagai berikut.
 
     A.  Mempersiapkan dokumen yang harus diunggah (*upload*) dalam bentuk **pdf** atau **jpg** (**ukuran file tidak melebihi 250 KB**).
 
