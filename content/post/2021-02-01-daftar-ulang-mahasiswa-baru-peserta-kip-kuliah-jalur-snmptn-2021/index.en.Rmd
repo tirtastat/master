@@ -18,9 +18,9 @@ thumbnail: ''
 
 2.  Lengkapi data pada laman [**https://kip-kuliah.kemdikbud.go.id/**](https://kip-kuliah.kemdikbud.go.id/){.uri target="_blank"}
 
-    (Lengkapi dan perbaharui semua data yang dicantumkan di laman tersebut. Contoh: alamat, nomor HP, prestasi, upload foto keluarga, foto rumah (tampak ruang keluarga))
+    Lengkapi dan perbaharui semua data yang dicantumkan di laman tersebut. Contoh: alamat, nomor HP, prestasi, upload foto keluarga, foto rumah (tampak ruang keluarga)
 
-3.  Wajib melakukan daftar ulang Calon mahasiswa Baru KIP Kuliah pada link [**http://bit.ly/KIPKSNMPTN2021,**](http://bit.ly/KIPKSNMPTN2021,){.uri} serta mengupload file berukuran tidak lebih dari 1 MB dengan format nama file (rename): **No. SNMPTN_Nama Camaba_Jenis Data**.
+3.  Tanggal 23 Maret s.d. 06 April 2021 wajib melakukan daftar ulang Calon Mahasiswa Baru KIP Kuliah pada link [**http://bit.ly/KIPKSNMPTN2021,**](http://bit.ly/KIPKSNMPTN2021,){.uri} serta mengupload file berukuran **tidak lebih dari 1 MB** dengan format nama file (rename): **No. SNMPTN_Nama Camaba_Jenis Data**.
 
     +--------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
     | **No** | **File yang harus di upload**                                                                                                                                      | **Jenis File** | **Contoh Nama file (No.SNMPTN_Nama**<br> **Camaba_Jenis data)**                                                                                                             |
@@ -60,6 +60,8 @@ thumbnail: ''
     | p.     | Sertifikat/Piagam penghargaan atas prestasi <br>akademik/non-akademik yang pernah diraih di <br>SMA/SMK/MA/sederajat                                               | PDF/JPG        | 12345678_Budi Pratama_Prestasi1<br>12345678_Budi Pratama_Prestasi2<br>12345678_Budi Pratama_Prestasi3<br>12345678_Budi Pratama_Prestasi4<br>12345678_Budi Pratama_Prestasi5 |
     +--------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 
-4.  Bergabung dengan grup Telegram : [**http://bit.ly/KIPKUntirta2021**](http://bit.ly/KIPKUntirta2021){.uri}
+4.  Hasil Verifikasi akan diumumkan pada 8 April 2021. Jika **tidak diterima**, silahkan membayar UKT sesuai yang tertera di laman admisi.untirt.ac.id, dan jika **diterima**, tidak membayar UKT.
 
-5.  Hotline Kemahasiswaan BAKP 081210275080
+5.  Bergabung dengan grup Telegram : [**http://bit.ly/KIPKUntirta2021**](http://bit.ly/KIPKUntirta2021){.uri}
+
+6.  Hotline Kemahasiswaan BAKP 081210275080
