@@ -120,6 +120,8 @@ Calon Mahasiswa Baru yang sudah **dinyatakan** **Lulus lewat** jalur Seleksi Nas
     C.  Melakukan Registrasi ulang secara *online* dari tanggal **25 Maret - 06 April 2021** di [**http://admisi.untirta.ac.id**](http://admisi.untirta.ac.id){.uri target="_blank"} setelah menerima email *Username* dan *Password*. Pastikan semua data yang diisi dan berkas yang diunggah harus lengkap terlebih dahulu.
 
         > Isilah dengan **BENAR**, **AKURAT**, dan **JUJUR** semua data diri anda. Kesalahan dalam mengisi data dan memahami panduan registrasi menjadi tanggung jawab calon mahasiswa baru.
+        >
+        > Daftar nama calon mahasiswa yang sudah berhasil registrasi ulang bisa dilihat [**di sini**](https://21snm.netlify.app/#camaba-registrasi){target="_blank"}(*diupdate tiap jam 09.00 dan jam 16.00 di hari dan jam kerja*)
 
     D.  Menerima nominal UKT akan dikirim melalui email masing masing calon mahasiswa setelah menyelesaikan proses **A** hingga **C**.
 
