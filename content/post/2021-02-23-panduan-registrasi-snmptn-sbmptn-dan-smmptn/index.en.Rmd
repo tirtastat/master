@@ -26,7 +26,7 @@ Calon Mahasiswa Baru yang sudah **dinyatakan** **Lulus lewat** jalur Seleksi Nas
 
 2.  Diagram alur proses registrasi ulang secara *online.*
 
-    ![](images/Alur%20Registrasi.JPG)
+    ![](images/Alur%20Registrasi_new.jpg)
 
 3.  Penjelasan registrasi ulang secara *online* sesuai dengan jadwal dan diagram alur di atas adalah sebagai berikut.
 
@@ -123,9 +123,7 @@ Calon Mahasiswa Baru yang sudah **dinyatakan** **Lulus lewat** jalur Seleksi Nas
         >
         > Daftar nama calon mahasiswa yang sudah berhasil registrasi ulang bisa dilihat [**di sini**](https://21snm.netlify.app/#camaba-registrasi){target="_blank"}(*diupdate tiap jam 09.00 dan jam 16.00 di hari dan jam kerja*)
 
-    D.  Menerima nominal UKT akan dikirim melalui email masing masing calon mahasiswa setelah menyelesaikan proses **A** hingga **C**.
-
-        > **Cek juga folder SPAM di email anda, karena mungkin email kami masuk ke folder SPAM anda.**
+    D.  Menerima nominal UKT yang bisa dilihat di **https://admisi.untirta.ac.id** menggunakan akun *username* dan *password* masing-masing mulai tanggal **11 April 2021**.
 
     E.  Pembayaran Uang Kuliah Tunggal (UKT) di Bank BNI seluruh Cabang Indonesia melalui *Teller* atau ATM dengan menggunakan menu *Student* *Payment* *Center* (SPC) kode untirta 8041, dengan ketentuan sebagai berikut.
 
