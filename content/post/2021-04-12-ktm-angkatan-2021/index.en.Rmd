@@ -1,0 +1,63 @@
+---
+title: KTM Angkatan 2021
+author: registrasi
+date: '2021-04-07'
+slug: []
+categories: []
+tags:
+  - ktm
+  - ktm 2021
+  - snmptn
+  - sbmptn
+  - smmptn
+  - umm
+description: ''
+thumbnail: ''
+---
+
+Kami mengucapkan selamat datang kepada mahasiswa baru Universitas Sultan Ageng Tirtayasa tahun 2021. Untuk melengkapi identitas saudara sebagai mahasiswa, kami membuka pendaftaran Kartu Tanda Mahasiswa (KTM) yang diterbitkan oleh Bank Negara Indonesia (BNI) dan berfungsi sebagai kartu ATM. Kami telah menyediakan formulir pendaftaran KTM sesuai dengan jalur masuk saudara.
+
+Sebelum melakukan pengisian formulir, pastikan saudara telah mempersiapkan foto dengan ketentuan sebagai berikut.
+
+1.  Laki-laki (jas hitam, baju putih, dasi hitam, background merah, ukuran (4×6))
+
+2.  Perempuan (jas hitam/blazer, baju putih, dasi hitam, background merah, ukuran ( 4×6))
+
+3.  Perempuan berjilbab (jilbab warna putih, background merah, jas hitam/blazer tanpa dasi, ukuran (4×6))
+
+4.  File disimpan dalam format jpg dengan ukuran file : **50 KB -- 500 KB**
+
+5.  Jika NIM anda adalah **3331201234** maka nama file foto yang harus diunggah adalah **3331201234.jpg** seperti gambar berikut
+
+    ![](images/tes.jpg)
+
+6.  Pengisian formulir paling lambat tanggal
+
+    -   **09 Mei 2021** untuk jalur SNMPTN
+
+    -   *xx xxx 2021 untuk jalur SBMPTN (belum dibuka)*
+
+    -   *xx xxx 2021 untuk jalur SMMPTN (belum dibuka)*
+
+    -   *xx xxx 2021 untuk jalur UMM (belum dibuka)*
+
+**Formulir ini hanya bisa diisi menggunakan email dengan domain \@untirta.ac.id**. Jika saudara mengalami kesulitan dalam mengisi formulir dari kami, silakan pelajari langkah-langkahnya pada video berikut
+
+<iframe width="967" height="544" src="https://www.youtube.com/embed/TnH_MEHd1dc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+
+</iframe>
+
+<br><br>
+
+Berikut adalah formulir pendaftaran KTM sesuai dengan jalur masuk masing-masing (**pastikan mengisi sesuai jalur masuk**).
+
+-   Jalur **SNMPTN Reguler** silakan daftar [**di sini**](https://docs.google.com/forms/d/e/1FAIpQLSeBs8MoLnSHBRHYo_3XrtXJGQP81BdKidAvMAARI9Ebjep0FQ/viewform){target="_blank"}
+-   Jalur **SNMPTN KIP** silakan daftar [**di sini**](https://docs.google.com/forms/d/e/1FAIpQLSfbBiq4r7-C2byyqZ1ifc6kArsEgJmVIOcir9R_t00JvdKd4Q/viewform){target="_blank"}
+-   Jalur **SBMPTN Reguler** silakan daftar [**di sini**](https://docs.google.com/forms/d/e/1FAIpQLScDcAdYOyu9LVai3z2rhtJYiDL58oc38R1ISHJk0RGSlJOE5Q/viewform){target="_blank"}
+-   Jalur **SBMPTN KIP** silakan daftar [**di sini**](https://docs.google.com/forms/d/e/1FAIpQLSch80CDphcvQ22NMwG34c41fFVFSBeHdKWXUJWto38vzSoA8w/viewform){target="_blank"}
+-   Jalur **SMMPTN** silakan daftar [**di sini**](https://docs.google.com/forms/d/e/1FAIpQLSdNpjikwc5voegw8L7jI3M9ybrwRpeoZlw_syZXp1OhAHEHyg/viewform){target="_blank"}
+-   Jalur **UMM D3**, **Alih Jenjang**, dan **ADIK** silakan daftar [**di sini**](https://docs.google.com/forms/d/e/1FAIpQLSdJFwYSK9GGtDeIvDBWqo2E5j6wAfh_TVGmcQkyEiZQVrJwzg/viewform){target="_blank"}
+
+Jika ada yang ingin ditanyakan, silakan hubungi Subbagian Registrasi dan Statistik melalui email registrasi\@untirta.ac.id di hari dan jam kerja, Senin s/d Jumat pukul 08.00 - 16.00
+
+Berikut adalah mahasiswa baru yang sudah mengisi formulir pendaftaran KTM (**gunakan Search untuk pencarian cepat**)
