@@ -87,6 +87,7 @@ data1 <- data.frame(read_sheet(snm_ukt))
 data1 <- data1[,c(1, 2, 4, 8)]
 names(data1) <- c("waktu_daftar", "email", "nama", "jk")
 data <- rbind(data, unique(data1))
+data$nama <- toupper(data$nama)
 
 names(data) <- c("Waktu Pendaftaran", "Email", "Nama", "Jenis Kelamin")
 
