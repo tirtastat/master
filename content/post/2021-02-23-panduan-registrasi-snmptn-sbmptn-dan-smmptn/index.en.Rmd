@@ -97,9 +97,8 @@ Calon Mahasiswa Baru yang sudah **dinyatakan** **Lulus lewat** jalur Seleksi Nas
             | 27\. | Ilmu Keolahragaan                         | Tidak Boleh Buta Warna                    |
             | 28\. | Keperawatan (D3 & S1)                     | Tidak Boleh Buta Warna                    |
 
-        ```{=html}
         <!-- -->
-        ```
+
         12. Bukti Penghasilan Ayah atau diisi dengan penghasilan Wali yang membiayai Kuliah dengan ketentuan sebagai berikut.
 
             -   **PNS**/**TNI**/**BUMN**/**Karyawan Swasta**: Slip Gaji / Bukti Penghasilan (maksimal dua bulan terakhir),
