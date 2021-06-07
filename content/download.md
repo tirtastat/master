@@ -37,11 +37,11 @@ title: Download
 
 ## 2018
 
-| No  | Tahun | Keterangan                                      |
-|-----|-------|-------------------------------------------------|
-| 1   | 2018  | **SK DAYA TAMPUNG PENERIMAAN MAHASISWA BARU**   |
-| 2   | 2018  | **SK PENETAPAN NIM SNMPTN**                     |
-| 3   | 2019  | **SK PENETAPAN NIM SBMPTN**                     |
-| 4   | 2018  | **SK PENETAPAN NIM SMMPTN**                     |
-| 5   | 2018  | **SK PENETAPAN NIM UMM D3 DAN ALIH JENJANG S1** |
-| 6   | 2018  | **SK PENETAPAN NIM ADIK**                       |
+| No  | Tahun | Keterangan                                                                                                                            |
+|-----|-------|---------------------------------------------------------------------------------------------------------------------------------------|
+| 1   | 2018  | [**SK DAYA TAMPUNG PENERIMAAN MAHASISWA BARU**](https://drive.google.com/file/d/1NeZl55Opti_E_fQJBpV599XyDywt17DD/view?usp=sharing)   |
+| 2   | 2018  | [**SK PENETAPAN NIM SNMPTN**](https://drive.google.com/file/d/1rFrGOJrHBspw0dnJNxE4jyPgl4XPF1LA/view?usp=sharing)                     |
+| 3   | 2019  | [**SK PENETAPAN NIM SBMPTN**](https://drive.google.com/file/d/1E212Pz6HgJ_58nWJ_fGYFYQibXhh4dqt/view?usp=sharing)                     |
+| 4   | 2018  | [**SK PENETAPAN NIM SMMPTN**](https://drive.google.com/file/d/1DyTJ1g5nXM4ROE-zUzmggZO1t5gCnQRu/view?usp=sharing)                     |
+| 5   | 2018  | [**SK PENETAPAN NIM UMM D3 DAN ALIH JENJANG S1**](https://drive.google.com/file/d/1DtKXDtzh37brWtryNQnqPBKyTY-GWHrT/view?usp=sharing) |
+| 6   | 2018  | **SK PENETAPAN NIM ADIK**                                                                                                             |
