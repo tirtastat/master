@@ -1,0 +1,23 @@
+---
+title: Jadwal Ujian UMM D3 dan Alih Jenjang
+author: registrasi
+date: '2021-06-11'
+slug: []
+categories: []
+tags:
+  - umm 2021
+description: ''
+thumbnail: ''
+---
+
+Diinformasikan kepada pendaftar UMM D3 dan Alih Jenjang Universitas Sultan Ageng Tirtayasa bahwa jadwal ujian UMM D3 dan Alih Jenjang akan diumumkan melalui halaman ini jika sudah tersedia.
+
+Terima kasih
+
+```{r warning=FALSE, message=FALSE, echo=FALSE}
+library(readxl)
+data <- read_excel("G:/My Drive/#PMB/2021/04_D3 dan Alih Jenjang/21umm/jadwal umm 2021.xlsx")
+names(data) <- c("No Tes", "Nama", "Tanggal Ujian", "Jam", "Tempat Ujian", "Ruan Ujian")
+
+DT::datatable(data, rownames = F)
+```

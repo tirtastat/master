@@ -1,7 +1,7 @@
 ---
 title: Panduan PMB Jalur UMM D3 dan S1 Alih Jenjang
 author: registrasi
-date: '2021-02-23'
+date: '2021-06-11'
 slug: []
 categories: []
 tags: []
@@ -11,11 +11,11 @@ thumbnail: ''
 
 ## Persyaratan
 
-**Diploma Keperawatan**
+**DIPLOMA KEPERAWATAN**
 
-1.  Lulusan SMA/MA/SMK Kesehatan/SMK Farmasi/SMK Analis/SMK Kimia, berijazah, 3 (tiga) tahun terakhir 2018, 2019, atau 2020.
+1.  Lulusan SMA/MA/SMK Kesehatan/SMK Farmasi/SMK Analis/SMK Kimia, berijazah, 5 (lima) tahun terakhir 2017, 2018, 2019, 2020 atau 2021.
 
-2.  Bagi lulusan tahun 2020, telah memiliki Surat Keterangan Lulus yang memuat sekurang-kurangnya informasi jati diri, pas foto yang bersangkutan, serta dibubuhi cap yang sah.
+2.  Bagi lulusan tahun 2021, telah memiliki Surat Keterangan Lulus yang memuat sekurang-kurangnya informasi jati diri, pas foto yang bersangkutan, serta dibubuhi cap yang sah.
 
 3.  Peserta seleksi dalam kondisi sehat jasmani dan rohani.
 
@@ -28,27 +28,30 @@ thumbnail: ''
 
 6.  Bebas Narkoba.
 
-**Diploma Ekonomi**
+**DIPLOMA EKONOMI**
 
-1.  Lulusan SMA/MA/SMK dan Paket C, berijazah, 3 (tiga) tahun terakhir 2018, 2019, atau 2020.
-2.  Bagi lulusan tahun 2020, telah memiliki Surat Keterangan Lulus yang memuat sekurang-kurangnya informasi jati diri, pas foto yang bersangkutan, serta dibubuhi cap yang sah.
-3.  Peserta seleksi dalam kondisi sehat jasmani dan rohani.
+1.  Lulusan SMA/MA/SMK atau sederajat dan Paket C, berijazah, 5 (lima) tahun terakhir 2017, 2018, 2019, 2020 atau 2021.
+2.  Bagi lulusan tahun 2021, telah memiliki Surat Keterangan Lulus yang memuat sekurang-kurangnya informasi jati diri, pas foto yang bersangkutan, serta dibubuhi cap yang sah.
+3.  Bagi Lulusan Paket C, usia maksimum saat Pendaftaran adalah 24 tahun.
+4.  Peserta seleksi dalam kondisi sehat jasmani dan rohani.
+5.  Bebas Narkoba.
 
-**Diploma Studi Lanjut (Alih Jenjang)**
+**ALIH JENJANG FAKULTAS EKONOMI**
 
 1.  Lulusan PTN angkatan lima tahun terakhir.
-2.  Ijazah D3 dengan **IPK minimal 3,0**.
-3.  Akreditasi BAN PT Asal D3 dari PTN Lain, minimal B.
+2.  Ijazah D3 dengan **IPK minimal 2,75**.
+3.  Akreditasi BAN PT Asal D3 dari PTN Lain, minimal B (Baik)
 4.  Peserta seleksi dalam kondisi sehat jasmani dan rohani.
+5.  Bebas Narkoba.
 
 ## Timeline
 
-| No  | Kegiatan         | Waktu           |
-|:----|:-----------------|:----------------|
-| 1\. | Pendaftaran      | jadwal menyusul |
-| 2\. | Ujian Masuk      | jadwal menyusul |
-| 3\. | Pengumuman Ujian | jadwal menyusul |
-| 4\. | Pembayaran UKT   | jadwal menyusul |
+| No  | Kegiatan                         | Waktu                     |
+|:----|:---------------------------------|:--------------------------|
+| 1\. | Pendaftaran                      | 14 Juni - 28 Juli 2021    |
+| 2\. | Ujian Masuk                      | 31 Juli - 01 Agustus 2021 |
+| 3\. | Pengumuman Hasil Ujian           | 02 Agustus 2021           |
+| 4\. | Pembayaran UKT dan Pemberian NIM | 05 - 11 Agustus 2021      |
 
 ## Biaya
 
@@ -73,23 +76,23 @@ thumbnail: ''
 
 2.  Iuran Pengembangan Institusi (IPIN) bagi mahasiswa Baru:
 
-    -   Diploma Ekonomi: Rp5.000.000,-
-    -   Diploma Keperawatan: Rp10.000.000,-
-    -   D3 Studi Lanjut (Alih Jenjang): Rp10.000.000,-
+    -   Diploma Ekonomi : Rp5.000.000,-
+    -   Diploma Keperawatan : Rp10.000.000,-
+    -   Alih Jenjang Ekonomi : Rp10.000.000,-
 
-3.  Biaya konversi bagi mahasiswa yang lulus Program D3 Studi Lanjut (Alih Jenjang) sebesar Rp500.000,-
+3.  Biaya konversi bagi mahasiswa yang lulus Alih Jenjang sebesar Rp1.000.000,-
 
-4.  Pembayaran biaya UKT dan IPIn dilaksanakan pada tanggal **\#\# \#\#\# 2021**.
+4.  Pembayaran biaya UKT dan IPIn dilaksanakan pada tanggal **05 Juli 2021**.
 
 ## Pendaftaran
 
-1.  Pendaftaran *online* dilakukan mulai tanggal **\#\# \#\#\# 2021 pukul 08.00 WIB dan berakhir tanggal \#\# \#\#\# 2021 pukul 23.59 WIB**
+1.  Pendaftaran *online* dilakukan mulai tanggal **14 Juni 2021 pukul 08.00 WIB dan berakhir tanggal 28 Juli 2021 pukul 23.59 WIB**
 
 2.  Ambil kode bayar di laman [**https://admisi.untirta.ac.id**](https://admisi.untirta.ac.id), klik Daftar untuk memulai pendaftaran, serta mendapatkan Nomor Pendaftaran dan *Password* (dicetak) kemudian bayar sesuai dengan biaya pendaftaran per program studi di Bank dengan menggunakan Nomor Pendaftaran tersebut. Catatan :
 
-    -   Pilihan Jalur Masuk : UUMD3 atau JAJ (Jalur Alih Jenjang S1)
+    -   Pilihan Jalur Masuk : **UUMD3** atau **JAJ** (Jalur Alih Jenjang S1)
     -   Pilihan Gelombang : Gelombang I
-    -   Pilihan Kelompok Ujian : IPS (D3 Ekonomi), IPA (D3 Keperawatan), UMK (Alih Jenjang)
+    -   Pilihan Kelompok Ujian : **Ekonomi** (D3-Ekonomi), **Keperawatan** (D3-Keperawatan), **UMK** (Alih Jenjang)
 
 3.  Cetak konfirmasi pembayaran
 
@@ -113,15 +116,17 @@ thumbnail: ''
 
     -   Bukti pembayaran listrik bagi pelanggang *pascabayar* **atau** bukti pembelian token listrik bagi pelanggan *prabayar* (*scan* dan *upload*).
 
-    -   SPPT Pajak Bumi dan Bangunan (PBB) Tahun 2017/2018/2019 **atau** [**Surat Pernyataan tentang Luas Tanah dan Bangunan Rumah yang ditempati bagi yang tidak punya SPPT**](https://drive.google.com/file/d/1N_psISSck4wNBiVjphcQqBRLAIKMPWF6/view?usp=sharing) (*download*, isi, *scan*, dan *upload*).
+    -   SPPT Pajak Bumi dan Bangunan (PBB) maximal 2 (dua) Tahun terakhir **atau** [**Surat Pernyataan tentang Luas Tanah dan Bangunan Rumah yang ditempati bagi yang tidak punya SPPT**](https://drive.google.com/file/d/1N_psISSck4wNBiVjphcQqBRLAIKMPWF6/view?usp=sharing) (*download*, isi, *scan*, dan *upload*).
 
     -   Surat Keterangan Kesehatan untuk **semua Program Studi di Fakultas Ekonomi dan Bisnis** (*scan* dan *upload*)
 
+    -   Untuk **Program Studi Keperawatan** wajib melakukan Test Kesehatan dan Narkoba setelah Jadwal Test selesai di Klinik Untirta.
+
     -   Bukti Penghasilan Ayah dan Penghasilan Ibu dengan ketentuan sebagai berikut (*scan* dan *upload*):
 
-        -   **PNS**/**TNI**/**BUMN**/**Karyawan Swasta**: Slip Gaji / Bukti Penghasilan (bulan Juli atau Agustus),
-        -   **Wiraswasta**/**Petani**/**Pedagang**/**Buruh**/**Tidak Mempunyai Pekerjaan Tetap** : [**Surat Pernyataan Penghasilan bermaterai dan ditandatangani Orang tua/Wali**](https://drive.google.com/file/d/1NZq31ZS_zoJofnCPWnpP07nOvCYvRSM0/view?usp=sharing) (*download*, isi, *scan*, dan *upload*),
-        -   **Pensiunan** : Rekening Koran atau *print out* Buku Rekening Pensiun (bulan Juli atau Agustus).
+        -   **PNS**/**TNI**/**BUMN**/**Karyawan Swasta**: Slip Gaji / Bukti Penghasilan maksimal 2 (dua) bulan terakhir (terbaru),
+        -   **Wiraswasta**/**Petani**/**Pedagang**/**Buruh**/**Tidak Mempunyai Pekerjaan Tetap** : Surat Keterangan Penghasilan dari Kelurahan dengan mencantumkan nama Pekerjaan dan Nominal Penghasilannya (*scan* dan *upload*),
+        -   **Pensiunan** : Rekening Koran atau *print out* Buku Rekening Pensiun maksimal 2 (dua) bulan terakhir (terbaru).
 
     -   Pasfoto berwarna terbaru (standar untuk ijazah) dengan wajah menghadap ke depan, ukuran 4x6 cm, berformat \*jpg, dengan resolusi maksimum 300pxl x 450pxl, dan ukuran file maksimum 200 kb.
 
@@ -129,39 +134,44 @@ thumbnail: ''
 
 8.  Peserta Program studi **Diploma Ekonomi dapat memilih maksimal dua program studi**, sedangkan peserta **D3 Studi Lanjut (Ahli Jenjang) hanya diperbolehkan memilih satu jurusan**, sesuai dengan linieritasnya.
 
-9.  Peserta yang berminat memilih **Diploma Keperawatan**, pilihan keduanya dikosongkan
+9.  **Helpdesk** pendaftaran di Gedung Pusdainfo Lantai 1, Universitas Sultan Ageng Tirtayasa. Telpon; 0817738817; 081911106670
 
-10. **Helpdesk** pendaftaran di Gedung Pusdainfo Lantai 1, Universitas Sultan Ageng Tirtayasa. Telpon; 0817738817; 081911106670
+10. Email: [pmb\@untirta.ac.id](mailto:pmb@untirta.ac.id) dan [humas\@untirta.ac.id](mailto:humas@untirta.ac.id)
 
-11. Email: [pusdainfo\@untirta.ac.id](mailto:pusdainfo@untirta.ac.id) dan [humas\@untirta.ac.id](mailto:humas@untirta.ac.id)
+11. Daftar Kode dan Nama Program Studi
 
-12. Daftar Kode dan Nama Program Studi
-
-    | No  | Kode | Program Studi             | Fakultas   | Kelompok Ujian                 |
-    |:----|:-----|:--------------------------|:-----------|:-------------------------------|
-    | 1\. | 5501 | D3 Akuntansi              | FEB        | Diploma Ekonomi                |
-    | 2\. | 5502 | D3 Manajemen Pemasaran    | FEB        | Diploma Ekonomi                |
-    | 3\. | 5503 | D3 Perpajakan             | FEB        | Diploma Ekomomi                |
-    | 4\. | 5504 | D3 Perbankan dan Keuangan | FEB        | Diploma Ekonomi                |
-    | 5\. | 8801 | D3 Keperawatan            | Kedokteran | Diploma Keperawatan            |
-    | 6\. | 5551 | S1 Manajemen              | FEB        | D3 Studi Lanjut (Alih Jenjang) |
-    | 7\. | 5552 | S1 Akuntansi              | FEB        | D3 Studi Lanjut (Alih Jenjang) |
+    | No  | Kode | Program Studi             | Fakultas   | Kelompok Ujian              |
+    |:----|:-----|:--------------------------|:-----------|:----------------------------|
+    | 1\. | 5501 | D3 Akuntansi              | FEB        | Diploma Ekonomi             |
+    | 2\. | 5502 | D3 Manajemen Pemasaran    | FEB        | Diploma Ekonomi             |
+    | 3\. | 5503 | D3 Perpajakan             | FEB        | Diploma Ekomomi             |
+    | 4\. | 5504 | D3 Perbankan dan Keuangan | FEB        | Diploma Ekonomi             |
+    | 5\. | 8801 | D3 Keperawatan            | Kedokteran | Diploma Keperawatan         |
+    | 6\. | 5551 | S1 Manajemen              | FEB        | Studi Lanjut (Alih Jenjang) |
+    | 7\. | 5552 | S1 Akuntansi              | FEB        | Studi Lanjut (Alih Jenjang) |
 
 ## Materi Ujian
 
--   **Diploma Ekonomi**: Tes Kemampuan dan Potensi Akademik (TKPA)
--   **Diploma Keperawatan**: Tes Kemampuan dan Potensi Akademik (TKPA)
--   **S1 Alih Jenjang**: Tes Kemampuan Keilmuan (Ilmu Ekonomi, Manajemen, dan Akuntansi)
+| EKONOMI                                                                      | KEPERAWATAN                                                                    | ALIH JENJANG                                                                |
+|------------------------------------------------------------------------------|:-------------------------------------------------------------------------------|-----------------------------------------------------------------------------|
+| Tes Potensi Skolastik (TPS)                                                  | Tes Potensi Skolastik (TPS)                                                    | Tes Potensi Skolastik (TPS)                                                 |
+| Tes Kemampuan Akademik Soshum (TKAS) (geografi, sejarah, sosiologi, ekonomi) | Tes Kemampuan Akademik Saintek (TKAS) (matematika, fisika, kimia, dan biologi) | Tes Kemampuan Akademik Keilmuan (TKAK) (Manajemen, Akuntansi, Ilmu Ekonomi) |
 
 ## Jadwal Ujian
 
-| Hari dan Tanggal     | Kegiatan                                                                     | Waktu (WIB)    | Kelompok Ujian                 |
-|:---------------------|:-----------------------------------------------------------------------------|:---------------|:-------------------------------|
-| **\#\# \#\#\# 2021** | Peserta masuk ruang ujian, mengisi biodata, dan pengawas memeriksa identitas | 09.00 -- 09.30 | D3 Ekonomi dan D3 Keperawatan  |
-|                      | Tes Kemampuan dan Potensi Akademik (TKPA)                                    | 09.30 -- 10.30 |                                |
-| **\#\# \#\#\# 2021** | Peserta masuk ruang ujian, mengisi biodata, dan pengawas memeriksa identitas | 09.00 -- 09.30 | D3 Studi Lanjut (Alih Jenjang) |
-|                      | Tes Kemampuan Keilmuan (Ilmu Ekonomi, Manajemen dan Akuntansi)               | 09.30 -- 10.30 |                                |
-| **\#\# \#\#\# 2021** | Tes Kesehatan (Kampus Pakupatan)                                             | 11.00 -- 17.00 | Khusus D3 Keperawatan          |
+| Hari dan Tanggal | Kegiatan                                    | Waktu (WIB)    | Kelompok Ujian |
+|:-----------------|:--------------------------------------------|:---------------|:---------------|
+| **31 Juli 2021** | Peserta masuk ruang ujian                   | 07.25 -- 07.30 | **Sesi 1**     |
+|                  | Pemeriksaan identitas dan dokumen           | 07.30 -- 07.40 |                |
+|                  | Latihan                                     | 07.40 -- 07.45 |                |
+|                  | Tes Potensi Skolastik (TPS)                 | 07.45 -- 09.30 |                |
+|                  | Tes Kemampuan Akademik (TKA) Saintek/Soshum | 09.30 -- 11.00 |                |
+|                  | **I S T I R A H A T**                       |                |                |
+|                  | Peserta masuk ruang ujian                   | 13.00 -- 13.05 | **Sesi 2**     |
+|                  | Pemeriksaan identitas dan dokumen           | 13.05 -- 13.15 |                |
+|                  | Latihan                                     | 13.15 -- 13.30 |                |
+|                  | Tes Potensi Skolastik (TPS)                 | 13.30 -- 15.15 |                |
+|                  | Tes Kemampuan Akademik (TKA) Saintek/Soshum | 15.15 -- 17.00 |                |
 
 **Ketentuan Khusus**
 
@@ -169,11 +179,11 @@ thumbnail: ''
 
 2.  Calon mahasiswa baru yang dinyatakan lulus tes tulis, **wajib**:
 
-    -   **Bagi calon mahasiswa baru D3 Keperawatan**, setelah ujian tertulis, wajib: Mengikuti tes kesehatan dan bebas narkoba dilakukan di Kampus Untirta Pakupatan pada tanggal **06 September 2020**.
+    -   **Bagi calon mahasiswa baru D3 Keperawatan**, setelah ujian tertulis, wajib: Mengikuti tes kesehatan dan bebas narkoba dilakukan di Kampus Untirta Pakupatan pada tanggal **31 Juli dan 01 Agustus 2021**.
     -   **Untuk D3 Ekonomi dan Alih Jenjang S1, melampirkan / upload Surat Tes Kesehatan dan Bebas Narkoba dari RSUD daerah masing masing pada saat pengisian online di admisi**.
-    -   Melakukan **Pembayaran UKT, IPIn dan Konversi (S1 Alih Jenjang) pada tanggal 9 -- 13 Septeber 2020**.
+    -   Melakukan **Pembayaran UKT, IPIn dan Konversi (S1 Alih Jenjang) pada tanggal 05 -- 11 Agustus 2021**.
 
-3.  Pengumuman hasil kelulusan (tes tertulis dan kesehatan) akan diumumkan tanggal **\#\# \#\#\# 2021** mulai pukul 14.00 melalui laman [**https://admisi.untirta.ac.id**](https://admisi.untirta.ac.id) dan [**https://spmb.untirta.ac.id**](https://spmb.untirta.ac.id).
+3.  Pengumuman hasil kelulusan (tes tertulis dan kesehatan) akan diumumkan tanggal **02 Agustus 2021** mulai pukul 14.00 melalui laman [**https://admisi.untirta.ac.id**](https://admisi.untirta.ac.id) dan [**https://spmb.untirta.ac.id**](https://spmb.untirta.ac.id).
 
 4.  Calon mahasiswa baru yang tidak dapat memenuhi persyaratan registrasi administrasi sebagaimana yang ditetapkan dinyatakan **GUGUR**.
 
@@ -181,4 +191,4 @@ thumbnail: ''
 
 6.  Kegiatan Pengenalan Kampus (KPK) mahasiswa waktunya akan disampaikan kemudian.
 
-7.  Kegiatan awal perkuliahan direncanakan mulai tanggal **\#\# \#\#\# 2021**
+7.  Kegiatan awal perkuliahan direncanakan mulai tanggal **23 Agustus 2021**
