@@ -5,7 +5,7 @@ title: Home
 
 # Penerimaan Mahasiswa Baru
 
-![](images/selamat%20datang%20snmptn-01.jpg)
+![](images/selamat%20datang%20sbmptn-01-02.jpg)
 
 Selamat datang calon mahasiswa baru Universitas Sultan Ageng Tirtayasa (Untirta) jenjang D3, S1, S2, dan S3. Terima kasih atas kepercayaannya untuk memilih Untirta sebagai tempat menuntut ilmu. Tahun Akademik 2021/2022 Untirta menerima mahasiswa baru melalui jalur SNMPTN, SBMPTN, dan SMMPTN untuk **jenjang S1**, jalur UMM untuk **jenjang D3 dan S1 Alih Jenjang**, serta SPMB untuk **jenjang S2 dan S3**.
 
