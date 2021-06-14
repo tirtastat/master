@@ -159,19 +159,19 @@ thumbnail: ''
 
 ## Jadwal Ujian
 
-| Hari dan Tanggal | Kegiatan                                    | Waktu (WIB)    | Kelompok Ujian |
-|:-----------------|:--------------------------------------------|:---------------|:---------------|
-| **31 Juli 2021** | Peserta masuk ruang ujian                   | 07.25 -- 07.30 | **Sesi 1**     |
-|                  | Pemeriksaan identitas dan dokumen           | 07.30 -- 07.40 |                |
-|                  | Latihan                                     | 07.40 -- 07.45 |                |
-|                  | Tes Potensi Skolastik (TPS)                 | 07.45 -- 09.30 |                |
-|                  | Tes Kemampuan Akademik (TKA) Saintek/Soshum | 09.30 -- 11.00 |                |
-|                  | **I S T I R A H A T**                       |                |                |
-|                  | Peserta masuk ruang ujian                   | 13.00 -- 13.05 | **Sesi 2**     |
-|                  | Pemeriksaan identitas dan dokumen           | 13.05 -- 13.15 |                |
-|                  | Latihan                                     | 13.15 -- 13.30 |                |
-|                  | Tes Potensi Skolastik (TPS)                 | 13.30 -- 15.15 |                |
-|                  | Tes Kemampuan Akademik (TKA) Saintek/Soshum | 15.15 -- 17.00 |                |
+| Hari dan Tanggal                   | Kegiatan                                    | Waktu (WIB)    | Kelompok Ujian |
+|:-----------------------------------|:--------------------------------------------|:---------------|:---------------|
+| **31 Juli 2021 & 01 Agustus 2021** | Peserta masuk ruang ujian                   | 07.25 -- 07.30 | **Sesi 1**     |
+|                                    | Pemeriksaan identitas dan dokumen           | 07.30 -- 07.40 |                |
+|                                    | Latihan                                     | 07.40 -- 07.45 |                |
+|                                    | Tes Potensi Skolastik (TPS)                 | 07.45 -- 09.30 |                |
+|                                    | Tes Kemampuan Akademik (TKA) Saintek/Soshum | 09.30 -- 11.00 |                |
+|                                    | **I S T I R A H A T**                       |                |                |
+|                                    | Peserta masuk ruang ujian                   | 13.00 -- 13.05 | **Sesi 2**     |
+|                                    | Pemeriksaan identitas dan dokumen           | 13.05 -- 13.15 |                |
+|                                    | Latihan                                     | 13.15 -- 13.30 |                |
+|                                    | Tes Potensi Skolastik (TPS)                 | 13.30 -- 15.15 |                |
+|                                    | Tes Kemampuan Akademik (TKA) Saintek/Soshum | 15.15 -- 17.00 |                |
 
 **Ketentuan Khusus**
 
