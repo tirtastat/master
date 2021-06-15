@@ -60,11 +60,11 @@ Calon Mahasiswa Baru yang sudah **dinyatakan** **Lulus lewat** jalur Seleksi Nas
             b.  [**Surat Pernyataan tentang Luas Tanah dan Bangunan Rumah yang ditempati**](https://drive.google.com/file/d/1HxczESstO4LjNTLd5_oQNXy0FQPAG96-/view?usp=sharing){target="_blank"} bagi yang tidak punya SPPT (*download*, cetak, isi, *scan*)
             c.  Bukti pembayaran sewa rumah bagi yang mengontrak/sewa ditambah [**Surat Pernyataan tentang Luas Tanah dan Bangunan Rumah yang ditempati**](https://drive.google.com/file/d/1HxczESstO4LjNTLd5_oQNXy0FQPAG96-/view?usp=sharing){target="_blank"}
 
-        9.  Surat Keterangan Kesehatan (*scan* dan *upload*)
+        9.  Surat Keterangan Kesehatan dari Rumah Sakit (*scan* dan *upload*)
 
-        10. Surat Tes Narkoba untuk **semua Program Studi** (*scan* dan *upload*)
+        10. Surat Tes Narkoba dari Rumah Sakit untuk **semua Program Studi** (*scan* dan *upload*)
 
-        11. Surat Pemeriksaan Buta Warna untuk Program Studi berikut (*scan* dan *upload*) :
+        11. Surat Pemeriksaan Buta Warna dari Rumah Sakit untuk Program Studi berikut (*scan* dan *upload*) :
 
             | No.  | Program Studi                             | Keterangan                                |
             |------|-------------------------------------------|-------------------------------------------|
