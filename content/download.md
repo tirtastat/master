@@ -12,6 +12,7 @@ title: Download
 | 1   | 2021  | [**SK DAYA TAMPUNG PENERIMAAN MAHASISWA BARU**](https://drive.google.com/file/d/1JUA7SXk_Jh-J7yyc6tbLJs_-Cp_MzYVH/view?usp=sharing)         |
 | 2   | 2021  | [**SK HASIL SNMPTN**](https://drive.google.com/file/d/1gZ78dCnISrTGLe7aS93yaCLOviFCoI_B/view?usp=sharing "SK HASIL SNMPTN")                 |
 | 3   | 2021  | [**SK PENETAPAN NIM SNMPTN**](https://drive.google.com/file/d/1Iwmi1fL6KpHUQWtEw5K3M9oC6YDcwnR0/view?usp=sharing "SK PENETAPAN NIM SNMPTN") |
+| 4   | 2021  | [**SK HASIL SBMPTN**](https://drive.google.com/file/d/1P7ipet3Pwz2J2OpHXx-Ghv99Cc0RCAKQ/view?usp=sharing)                                   |
 
 ## **2020**
 
