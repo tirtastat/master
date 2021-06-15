@@ -19,7 +19,7 @@ Laporan ini rutin dibuat setiap semester oleh Subbagian Registrasi dan Statistik
 
 Berikut adalah laporan semester Subbagian Registrasi dan Statisik.
 
--   2020-2021 [**Ganjil**](https://202101.netlify.app)- [**Genap (under construction)**](https://202102.netlify.app)
+-   2020-2021 [**Ganjil**](https://202101.netlify.app)- [**Genap**](https://202102.netlify.app)
 -   2019-2020 Ganjil - [**Genap**](https://192002.netlify.app)
 
 ## **Penerimaan Mahasiswa Baru**
@@ -28,6 +28,6 @@ Tidak semua calon mahasiswa baru Universitas Sultan Ageng Tirtayasa yang lolos s
 
 Berikut adalah laporan penerimaan mahasiswa baru di setiap jalur penerimaan.
 
--   **2021 [SNMPTN](https://21snm.netlify.app)**- **SBMPTN**- **SMMPTN** - **Semua Jalur**
+-   **2021 [SNMPTN](https://21snm.netlify.app)**- [**SBMPTN**](https://21sbm.netlify.app)- **SMMPTN** - **Semua Jalur**
 -   **2020 [SNMPTN](https://20snm.netlify.app)**- [**SBMPTN**](https://20sbm.netlify.app)- [**SMMPTN**](https://20smm.netlify.app) - [**Semua Jalur**](https://20pmb.netlify.app)
 -   **2019** SNMPTN - SBMPTN - SMMPTN - Semua Jalur
