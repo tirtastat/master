@@ -58,9 +58,9 @@ thumbnail: ''
     | p.     | Sertifikat/Piagam penghargaan atas prestasi <br>akademik/non-akademik yang pernah diraih di <br>SMA/SMK/MA/sederajat                                               | PDF/JPG        | 12345678_Budi Pratama_Prestasi1<br>12345678_Budi Pratama_Prestasi2<br>12345678_Budi Pratama_Prestasi3<br>12345678_Budi Pratama_Prestasi4<br>12345678_Budi Pratama_Prestasi5 |
     +--------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 
-4.  Hasil Verifikasi akan diumumkan pada **29 Juni 2021** melalui web [**kemahasiswaan.untirta.ac.id**](kemahasiswaan.untirta.ac.id)
+4.  Hasil Verifikasi akan diumumkan pada **29 Juni 2021** melalui web [**kemahasiswaan.untirta.ac.id**](https://kemahasiswaan.untirta.ac.id)
 
-    -   Jika **tidak diterima**, silahkan membayar UKT sesuai yang tertera di laman [**admisi.untirt.ac.id**](admisi.untirta.ac.id)
+    -   Jika **tidak diterima**, silahkan membayar UKT sesuai yang tertera di laman [**admisi.untirta.ac.id**](https://admisi.untirta.ac.id)
     -   Jika **diterima**, anda tidak membayar UKT.
 
 5.  Bergabung dengan grup Telegram : [**http://bit.ly/KIPKUntirta2021**](http://bit.ly/KIPKUntirta2021){.uri}
