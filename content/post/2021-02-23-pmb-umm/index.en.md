@@ -90,7 +90,7 @@ thumbnail: ''
 
 2.  Ambil kode bayar di laman [**https://admisi.untirta.ac.id**](https://admisi.untirta.ac.id), klik Daftar untuk memulai pendaftaran, serta mendapatkan Nomor Pendaftaran dan *Password* (dicetak) kemudian bayar sesuai dengan biaya pendaftaran per program studi di Bank dengan menggunakan Nomor Pendaftaran tersebut. Catatan :
 
-    -   Pilihan Jalur Masuk : **UUMD3** atau **JAJ** (Jalur Alih Jenjang S1)
+    -   Pilihan Jalur Masuk : **UUMD3** (Diploma 3) atau **JAJ** (Jalur Alih Jenjang S1)
     -   Pilihan Gelombang : Gelombang I
     -   Pilihan Kelompok Ujian : **Ekonomi** (D3-Ekonomi), **Keperawatan** (D3-Keperawatan), **UMK** (Alih Jenjang)
 
@@ -107,8 +107,6 @@ thumbnail: ''
     -   [**Surat Pernyataan Mentaati Peraturan**](https://drive.google.com/file/d/1PVRiZNWKmgZjpMcnoPaplPmC19CldU3r/view?usp=sharing) (*download*, isi, *scan*, dan *upload*).
 
     -   Ijazah / Surat Keterangan Lulus bagi lulusan tahun 2020 yang belum memperoleh Ijazah.
-
-    -   Kartu Peserta Tes (*scan* dan *upload*).
 
     -   Akta Kelahiran (*scan* dan *upload*).
 
@@ -152,10 +150,10 @@ thumbnail: ''
 
 ## Materi Ujian
 
-| EKONOMI                                                                      | KEPERAWATAN                                                                    | ALIH JENJANG                                                                |
-|------------------------------------------------------------------------------|:-------------------------------------------------------------------------------|-----------------------------------------------------------------------------|
-| Tes Potensi Skolastik (TPS)                                                  | Tes Potensi Skolastik (TPS)                                                    | Tes Potensi Skolastik (TPS)                                                 |
-| Tes Kemampuan Akademik Soshum (TKAS) (geografi, sejarah, sosiologi, ekonomi) | Tes Kemampuan Akademik Saintek (TKAS) (matematika, fisika, kimia, dan biologi) | Tes Kemampuan Akademik Keilmuan (TKAK) (Manajemen, Akuntansi, Ilmu Ekonomi) |
+| EKONOMI                                                                  | KEPERAWATAN                                                                    | ALIH JENJANG                                                                |
+|--------------------------------------------------------------------------|:-------------------------------------------------------------------------------|-----------------------------------------------------------------------------|
+| Tes Potensi Skolastik (TPS)                                              | Tes Potensi Skolastik (TPS)                                                    | Tes Potensi Skolastik (TPS)                                                 |
+| Tes Kemampuan Akademik Soshum (TKAS) (ekonomi dan sosial humaniora umum) | Tes Kemampuan Akademik Saintek (TKAS) (matematika, fisika, kimia, dan biologi) | Tes Kemampuan Akademik Keilmuan (TKAK) (Manajemen, Akuntansi, Ilmu Ekonomi) |
 
 ## Jadwal Ujian
 
