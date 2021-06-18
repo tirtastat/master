@@ -125,7 +125,7 @@ Calon Mahasiswa Baru yang sudah **dinyatakan** **Lulus lewat** jalur Seleksi Nas
 
     B.  Menunggu *Username* dan *Password* untuk melakukan Registrasi ulang secara *online* yang akan dikirim ke alamat email yang digunakan saat mendaftar SBMPTN. *Username* dan *Password* akan dikirim mulai tanggal **14 -- 15 Juni 2021**.
 
-        > Cek juga folder SPAM di email anda, karena mungkin email kami masuk ke folder SPAM anda**.**
+        > Cek juga folder SPAM di email anda, karena mungkin email kami masuk ke folder SPAM anda. Atau **search** email dengan judul **"Konfirmasi Pendaftaran"**.
 
     C.  Melakukan Registrasi ulang secara *online* dari tanggal **15 Juni - 25 Juni 2021** di [**http://admisi.untirta.ac.id**](http://admisi.untirta.ac.id){.uri target="_blank"} setelah menerima email *Username* dan *Password*. Pastikan semua data yang diisi dan berkas yang diunggah harus lengkap terlebih dahulu.
 
