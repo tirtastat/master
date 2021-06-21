@@ -16,15 +16,11 @@ Calon Mahasiswa Baru yang sudah **dinyatakan** **Lulus lewat** jalur Seleksi Nas
 
 1.  Jadwal registrasi ulang\*
 
-    +-----+----------+--------------------------+--------------------------+
-    | NO  | SELEKSI  | REGISTRASI ULANG         | PEMBAYARAN UKT           |
-    +:====+:=========+:=========================+:=========================+
-    | 1\. | SNMPTN   | 23 Maret - 06 April 2021 | 12 - 23 April 2021       |
-    +-----+----------+--------------------------+--------------------------+
-    | 2\. | SBMPTN   | 15 - 25 Juni 2021        | 29 Juni - 09 Juli 2021   |
-    +-----+----------+--------------------------+--------------------------+
-    | 3\. | SMMPTN   | 15 - 21 Juli 2021        | 26 - 30 Juli 2021        |
-    +-----+----------+--------------------------+--------------------------+
+    | NO  | SELEKSI | REGISTRASI ULANG         | PEMBAYARAN UKT         |
+    |:----|:--------|:-------------------------|:-----------------------|
+    | 1\. | SNMPTN  | 23 Maret - 06 April 2021 | 12 - 23 April 2021     |
+    | 2\. | SBMPTN  | 15 - 25 Juni 2021        | 29 Juni - 09 Juli 2021 |
+    | 3\. | SMMPTN  | 15 - 21 Juli 2021        | 26 - 30 Juli 2021      |
 
     ***\*) Jika ada perubahan jadwal akan kami informasikan melalui email.***
 
