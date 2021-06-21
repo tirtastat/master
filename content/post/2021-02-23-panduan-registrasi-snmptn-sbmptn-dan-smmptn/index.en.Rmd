@@ -102,14 +102,14 @@ Calon Mahasiswa Baru yang sudah **dinyatakan** **Lulus lewat** jalur Seleksi Nas
         12. Bukti Penghasilan Ayah atau diisi dengan penghasilan Wali yang membiayai Kuliah dengan ketentuan sebagai berikut.
 
             -   **PNS**/**TNI**/**BUMN**/**Karyawan Swasta**: Slip Gaji / Bukti Penghasilan (maksimal dua bulan terakhir),
-            -   **Wiraswasta**/**Petani**/**Pedagang**/**Buruh**/**Tidak Mempunyai Pekerjaan Tetap** : Surat Keterangan Penghasilan dari Kelurahan dengan mencantumkan nama Pekerjaan dan Nominal Penghasilannya
+            -   **Wiraswasta**/**Petani**/**Pedagang**/**Buruh**/**Pekerjaan yang tidak mempunyai Slip Gaji/Tidak Mempunyai Pekerjaan Tetap/** : Surat Keterangan Penghasilan dari Kelurahan dengan mencantumkan nama Pekerjaan dan Nominal Penghasilannya
             -   **Pensiunan** : Rekening Koran atau *print out* Buku Rekening Pensiun (max dua bulan terakhir).
 
         13. Bukti Penghasilan Ibu atau diisi dengan penghasilan Wali yang membiayai Kuliah dengan ketentuan sebagai berikut.
 
             -   **PNS**/**TNI**/**BUMN**/**Karyawan Swasta**: Slip Gaji / Bukti Penghasilan (maksimal dua bulan terakhir),
 
-            -   **Wiraswasta**/**Petani**/**Pedagang**/**Buruh**/**Tidak Mempunyai Pekerjaan Tetap** : Surat Keterangan Penghasilan dari Kelurahan dengan mencantumkan nama Pekerjaan dan Nominal Penghasilannya
+            -   **Wiraswasta**/**Petani**/**Pedagang**/**Buruh**/**Pekerjaan yang tidak mempunyai Slip Gaji/Tidak Mempunyai Pekerjaan Tetap/Ibu Rumah Tangga** : Surat Keterangan Penghasilan dari Kelurahan dengan mencantumkan nama Pekerjaan dan Nominal Penghasilannya
 
             -   **Pensiunan** : Rekening Koran atau *print out* Buku Rekening Pensiun (max dua bulan terakhir).
 
@@ -125,11 +125,13 @@ Calon Mahasiswa Baru yang sudah **dinyatakan** **Lulus lewat** jalur Seleksi Nas
 
     B.  Menunggu *Username* dan *Password* untuk melakukan Registrasi ulang secara *online* yang akan dikirim ke alamat email yang digunakan saat mendaftar SBMPTN. *Username* dan *Password* akan dikirim mulai tanggal **14 -- 15 Juni 2021**.
 
-        > Cek juga folder SPAM di email anda, karena mungkin email kami masuk ke folder SPAM anda. Atau **search** email dengan judul **"Konfirmasi Pendaftaran"**.
+        > **Cek juga folder SPAM di email anda**, karena mungkin email dari kami masuk ke folder SPAM anda. Atau **search** email dengan judul **"Konfirmasi Pendaftaran"**.
 
     C.  Melakukan Registrasi ulang secara *online* dari tanggal **15 Juni - 25 Juni 2021** di [**http://admisi.untirta.ac.id**](http://admisi.untirta.ac.id){.uri target="_blank"} setelah menerima email *Username* dan *Password*. Pastikan semua data yang diisi dan berkas yang diunggah harus lengkap terlebih dahulu.
 
         > Isilah dengan **BENAR**, **AKURAT**, dan **JUJUR** semua data diri anda. Kesalahan dalam mengisi data dan memahami panduan registrasi menjadi tanggung jawab calon mahasiswa baru.
+        >
+        > **Pertanyaan / Isian yang bertanda bintang (\*) wajib di isi**, sedangkan untuk pertanyaan yang tidak ada tanda bintang bisa di isi jika anda mempunyai datanya atau boleh dikosongkan.
         >
         > Daftar nama calon mahasiswa yang sudah berhasil registrasi ulang bisa dilihat [**di sini**](https://21snm.netlify.app/#camaba-registrasi){target="_blank"}(*diupdate tiap jam 09.00 dan jam 16.00 di hari dan jam kerja*)
 
