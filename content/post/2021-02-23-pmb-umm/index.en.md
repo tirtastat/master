@@ -155,7 +155,7 @@ thumbnail: ''
 | Tes Potensi Skolastik (TPS)                                              | Tes Potensi Skolastik (TPS)                                                    | Tes Potensi Skolastik (TPS)                                                 |
 | Tes Kemampuan Akademik Soshum (TKAS) (ekonomi dan sosial humaniora umum) | Tes Kemampuan Akademik Saintek (TKAS) (matematika, fisika, kimia, dan biologi) | Tes Kemampuan Akademik Keilmuan (TKAK) (Manajemen, Akuntansi, Ilmu Ekonomi) |
 
-## Jadwal Ujian
+## Jadwal Ujian Tulis Berbasis Komputer (UTBK)
 
 | Hari dan Tanggal                   | Kegiatan                                    | Waktu (WIB)    | Kelompok Ujian |
 |:-----------------------------------|:--------------------------------------------|:---------------|:---------------|
@@ -177,11 +177,11 @@ thumbnail: ''
 
 2.  Calon mahasiswa baru yang dinyatakan lulus tes tulis, **wajib**:
 
-    -   **Bagi calon mahasiswa baru D3 Keperawatan**, setelah ujian tertulis, wajib: Mengikuti tes kesehatan dan bebas narkoba dilakukan di Kampus Untirta Pakupatan pada tanggal **31 Juli dan 01 Agustus 2021**.
+    -   **Bagi calon mahasiswa baru D3 Keperawatan**, setelah ujian tertulis / UTBK, wajib: Mengikuti tes kesehatan dan bebas narkoba dilakukan di Kampus Untirta Pakupatan pada tanggal **31 Juli dan 01 Agustus 2021**.
     -   **Untuk D3 Ekonomi dan Alih Jenjang S1, melampirkan / upload Surat Tes Kesehatan dan Bebas Narkoba dari RSUD daerah masing masing pada saat pengisian online di admisi**.
     -   Melakukan **Pembayaran UKT, IPIn dan Konversi (S1 Alih Jenjang) pada tanggal 05 -- 11 Agustus 2021**.
 
-3.  Pengumuman hasil kelulusan (tes tertulis dan kesehatan) akan diumumkan tanggal **02 Agustus 2021** mulai pukul 14.00 melalui laman [**https://admisi.untirta.ac.id**](https://admisi.untirta.ac.id) dan [**https://spmb.untirta.ac.id**](https://spmb.untirta.ac.id).
+3.  Pengumuman hasil kelulusan (UTBK dan kesehatan) akan diumumkan tanggal **02 Agustus 2021** mulai pukul 14.00 melalui laman [**https://admisi.untirta.ac.id**](https://admisi.untirta.ac.id) dan [**https://spmb.untirta.ac.id**](https://spmb.untirta.ac.id).
 
 4.  Calon mahasiswa baru yang tidak dapat memenuhi persyaratan registrasi administrasi sebagaimana yang ditetapkan dinyatakan **GUGUR**.
 
