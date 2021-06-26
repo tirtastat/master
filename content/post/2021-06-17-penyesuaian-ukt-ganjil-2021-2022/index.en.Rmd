@@ -94,7 +94,7 @@ Pendaftaran dapat dilakukan dengan mengisi formulir berikut **menggunakan akun e
 Sys.setlocale("LC_TIME", "IND") 
 ```
 
-Berikut adalah daftar mahasiswa pendaftar penyesuaian UKT semester ganjil Tahun Akademik 2021/2022 sampai dengan `r format(Sys.time(), "%d %B %Y")` pukul `r format(Sys.time(), "%X")`
+Berikut adalah daftar mahasiswa pendaftar penyesuaian UKT semester ganjil Tahun Akademik 2021/2022.
 
 ```{r echo=FALSE, message=FALSE, warning=FALSE}
 # sampai dengan r format(Sys.time(), "%d %B %Y") pukul r format(Sys.time(), "%X") 
