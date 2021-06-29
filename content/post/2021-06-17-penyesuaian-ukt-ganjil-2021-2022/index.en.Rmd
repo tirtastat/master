@@ -109,6 +109,7 @@ form <- "https://docs.google.com/spreadsheets/d/1rDhS9cn0Mbjk11awIutcKjrZdbrtQx2
 
 data <- data.frame(read_sheet(form))
 data <- data[,c(1, 4, 7, 19)]
+data <- data[1:3437,]
 names(data) <- c("Waktu Pendaftaran", "Email", "Jalur Masuk", "Jenis Penyesuaian")
 DT::datatable(data, rownames = F)
 ```

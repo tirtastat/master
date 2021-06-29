@@ -26,3 +26,30 @@ Berikut adalah berkas-berkas yang harus disiapkan:
 Pendaftaran penyesuaian UKT 50% **hanya bisa dilakukan** dengan mengisi formulir berikut **menggunakan akun email Untirta pendaftar** dari tanggal **28 Juni -- 03 Juni 2021**.
 
 [![](images/daftar.jpg){width="90" height="42"}](https://docs.google.com/forms/d/e/1FAIpQLSeAnQCdl3no90vsZ6gAPBfJkrCNQOoz9AEYgQufDQ9xyj_eQg/viewform)
+
+<br><br>
+
+```{r message=FALSE, warning=FALSE, include=FALSE}
+Sys.setlocale("LC_TIME", "IND") 
+```
+
+Berikut adalah daftar mahasiswa pendaftar perpanjangan penyesuaian UKT Tugas Akhir semester ganjil Tahun Akademik 2021/2022 sampai dengan `r format(Sys.time(), "%d %B %Y")` pukul `r format(Sys.time(), "%X")`
+
+```{r echo=FALSE, message=FALSE, warning=FALSE}
+# sampai dengan r format(Sys.time(), "%d %B %Y") pukul r format(Sys.time(), "%X") 
+
+library(googlesheets4)
+gs4_deauth()
+
+data <- NULL
+
+# SNM KIP
+form <- "https://docs.google.com/spreadsheets/d/1rDhS9cn0Mbjk11awIutcKjrZdbrtQx2uBlbl8Fiv-yQ/edit?usp=sharing"
+
+data <- data.frame(read_sheet(form))
+data <- data[,c(1, 4, 7, 19)]
+data <- data[-c(1:3437),]
+names(data) <- c("Waktu Pendaftaran", "Email", "Jalur Masuk", "Jenis Penyesuaian")
+DT::datatable(data, rownames = F)
+
+```
