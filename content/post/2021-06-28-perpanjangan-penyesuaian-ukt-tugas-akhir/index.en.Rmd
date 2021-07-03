@@ -23,7 +23,7 @@ Berikut adalah berkas-berkas yang harus disiapkan:
 -   Surat Pernyataan bermaterai yang menyatakan sudah menyelesaikan perkuliahan dan hanya akan mengambil Mata Kuliah Tugas Akhir/Skripsi di semester ganjil TA 2021/2022 dan diketahui oleh Dosen Wali dan Kepala Program Studi. Format Surat Pernyataan bisa diunduh setelah anda masuk ke dalam formulir pendaftaran (***login*** **menggunakan email Untirta pendaftar**).
 -   Transkrip nilai terbaru (sampai dengan semester genap TA 2021/2022)
 
-Pendaftaran penyesuaian UKT 50% **hanya bisa dilakukan** dengan mengisi formulir berikut **menggunakan akun email Untirta pendaftar** dari tanggal **28 Juni -- 03 Juni 2021**.
+Pendaftaran penyesuaian UKT 50% **hanya bisa dilakukan** dengan mengisi formulir berikut **menggunakan akun email Untirta pendaftar** dari tanggal **28 Juni -- 03 Juli 2021**.
 
 [![](images/daftar.jpg){width="90" height="42"}](https://docs.google.com/forms/d/e/1FAIpQLSeAnQCdl3no90vsZ6gAPBfJkrCNQOoz9AEYgQufDQ9xyj_eQg/viewform)
 
@@ -33,7 +33,7 @@ Pendaftaran penyesuaian UKT 50% **hanya bisa dilakukan** dengan mengisi formulir
 Sys.setlocale("LC_TIME", "IND") 
 ```
 
-Berikut adalah daftar mahasiswa pendaftar perpanjangan penyesuaian UKT Tugas Akhir semester ganjil Tahun Akademik 2021/2022 sampai dengan `r format(Sys.time(), "%d %B %Y")` pukul `r format(Sys.time(), "%X")`
+Berikut adalah daftar seluruh mahasiswa pendaftar perpanjangan penyesuaian UKT Tugas Akhir semester ganjil Tahun Akademik 2021/2022.
 
 ```{r echo=FALSE, message=FALSE, warning=FALSE}
 # sampai dengan r format(Sys.time(), "%d %B %Y") pukul r format(Sys.time(), "%X") 
