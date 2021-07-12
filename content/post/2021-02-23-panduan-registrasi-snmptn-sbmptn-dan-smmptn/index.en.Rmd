@@ -119,11 +119,11 @@ Calon Mahasiswa Baru yang sudah **dinyatakan** **Lulus lewat** jalur Seleksi Nas
 
         15. Berkas dan registrasi tambahan bagi pendaftar KIP-Kuliah bisa diakses [**di sini**](/post/2021-06-14-daftar-ulang-mahasiswa-baru-peserta-kip-kuliah-jalur-sbmptn-2021/){target="_blank"}.
 
-    B.  Menunggu *Username* dan *Password* untuk melakukan Registrasi ulang secara *online* yang akan dikirim ke alamat email yang digunakan saat mendaftar SBMPTN. *Username* dan *Password* akan dikirim mulai tanggal **14 -- 15 Juni 2021**.
+    B.  Menunggu *Username* dan *Password* untuk melakukan Registrasi ulang secara *online* yang akan dikirim ke alamat email yang digunakan saat mendaftar SBMPTN. *Username* dan *Password* akan dikirim mulai tanggal **15 Juli 2021**.
 
         > **Cek juga folder SPAM di email anda**, karena mungkin email dari kami masuk ke folder SPAM anda. Atau **search** email dengan judul **"Konfirmasi Pendaftaran"**.
 
-    C.  Melakukan Registrasi ulang secara *online* dari tanggal **15 Juni - 25 Juni 2021** di [**http://admisi.untirta.ac.id**](http://admisi.untirta.ac.id){.uri target="_blank"} setelah menerima email *Username* dan *Password*. Pastikan semua data yang diisi dan berkas yang diunggah harus lengkap terlebih dahulu.
+    C.  Melakukan Registrasi ulang secara *online* dari tanggal **15 - 21 Juli 2021** di [**http://admisi.untirta.ac.id**](http://admisi.untirta.ac.id){.uri target="_blank"} setelah menerima email *Username* dan *Password*. Pastikan semua data yang diisi dan berkas yang diunggah harus lengkap terlebih dahulu.
 
         > Isilah dengan **BENAR**, **AKURAT**, dan **JUJUR** semua data diri anda. Kesalahan dalam mengisi data dan memahami panduan registrasi menjadi tanggung jawab calon mahasiswa baru.
         >
@@ -131,17 +131,17 @@ Calon Mahasiswa Baru yang sudah **dinyatakan** **Lulus lewat** jalur Seleksi Nas
         >
         > Daftar nama calon mahasiswa yang sudah berhasil registrasi ulang bisa dilihat [**di sini**](https://21sbm.netlify.app/#camaba-registrasi){target="_blank"}(*diupdate tiap jam 09.00 dan jam 16.00 di hari dan jam kerja*)
 
-    D.  Menerima nominal UKT yang bisa dilihat di [**https://admisi.untirta.ac.id**](https://admisi.untirta.ac.id){.uri} menggunakan akun *username* dan *password* masing-masing mulai tanggal **29 Juni 2021**.
+    D.  Menerima nominal UKT yang bisa dilihat di [**https://admisi.untirta.ac.id**](https://admisi.untirta.ac.id){.uri} menggunakan akun *username* dan *password* masing-masing mulai tanggal **26 Juli 2021**.
 
     E.  Pembayaran Uang Kuliah Tunggal (UKT) di Bank BNI seluruh Cabang Indonesia melalui *Teller* atau ATM dengan menggunakan menu *Student* *Payment* *Center* (SPC) kode untirta 8041, dengan ketentuan sebagai berikut.
 
-        -   Waktu: **29 Juni s/d 09 Juli 2021**.
+        -   Waktu: **26 - 30 Juli 2021**.
         -   Melakukan pembayaran Uang Kuliah Tunggal (UKT) dengan menyebut No Peserta SBMPTN.
         -   Menerima bukti pembayaran dari Bank BNI (Teller atau ATM).
         -   Tata cara pembayaran UKT bisa diakses [**di sini**](https://drive.google.com/file/d/1IIaFh62Irl6cK4EpdaTqcwOk3OMfmH8t/view?usp=sharing){target="_blank"}.
         -   Khusus untuk Program Studi Kedokteran, UKT sebesar Rp15.000.000,00 s.d. Rp22.000.000,00 (UKT Kelompok III s.d. VIII)
 
-    F.  Menerima Nomor Induk Mahasiswa (NIM) dan *Password* SIAKAD akan dikirim melalui email masing-masing (**30 Juni - 09 Juli 2021**).
+    F.  Menerima Nomor Induk Mahasiswa (NIM) dan *Password* SIAKAD akan dikirim melalui email masing-masing (**26 - 30 Juli 2021**).
 
         -   **Pendaftar Non KIP-K**: setelah melakukan pembayaran UKT
         -   **Pendaftar KIP-K**: setelah dinyatakan sebagai penerima KIP-K
