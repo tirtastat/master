@@ -96,9 +96,8 @@ Sys.setlocale("LC_TIME", "IND")
     DT::datatable(data, rownames = F)
     ```
 
--   Berikut adalah mahasiswa baru jalur SBMPTN yang sudah mengisi formulir pendaftaran KTM sampai dengan `r format(Sys.time(), "%d %B %Y")` pukul `r format(Sys.time(), "%X")` (**gunakan Search untuk pencarian cepat**)
-
-    ```{r echo=FALSE, message=FALSE, warning=FALSE}
+    ```{r eval=FALSE, message=FALSE, warning=FALSE, include=FALSE}
+    # Berikut adalah mahasiswa baru jalur SBMPTN yang sudah mengisi formulir pendaftaran KTM sampai dengan r format(Sys.time(), "%d %B %Y") pukul r format(Sys.time(), "%X") (gunakan Search untuk pencarian cepat)
     # sampai dengan r format(Sys.time(), "%d %B %Y") pukul r format(Sys.time(), "%X") 
 
     library(googlesheets4)
@@ -117,9 +116,8 @@ Sys.setlocale("LC_TIME", "IND")
     DT::datatable(data, rownames = F)
     ```
 
--   Berikut adalah mahasiswa baru jalur SMMPTN yang sudah mengisi formulir pendaftaran KTM sampai dengan `r format(Sys.time(), "%d %B %Y")` pukul `r format(Sys.time(), "%X")` (**gunakan Search untuk pencarian cepat**)
-
-    ```{r echo=FALSE, message=FALSE, warning=FALSE}
+    ```{r eval=FALSE, message=FALSE, warning=FALSE, include=FALSE}
+    # Berikut adalah mahasiswa baru jalur SMMPTN yang sudah mengisi formulir pendaftaran KTM sampai dengan r format(Sys.time(), "%d %B %Y") pukul r format(Sys.time(), "%X") (gunakan Search untuk pencarian cepat)
     # sampai dengan r format(Sys.time(), "%d %B %Y") pukul r format(Sys.time(), "%X") 
 
     library(googlesheets4)
@@ -137,5 +135,3 @@ Sys.setlocale("LC_TIME", "IND")
 
     DT::datatable(data, rownames = F)
     ```
-
--   ff
