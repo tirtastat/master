@@ -35,7 +35,7 @@ Sebelum melakukan pengisian formulir, pastikan saudara telah mempersiapkan foto 
 
     -   **09 Mei 2021** untuk jalur SNMPTN
 
-    -   *xx xxx 2021 untuk jalur SBMPTN (belum dibuka)*
+    -   **23 Juli 2021** untuk jalur SBMPTN
 
     -   *xx xxx 2021 untuk jalur SMMPTN (belum dibuka)*
 
@@ -64,34 +64,78 @@ Jika ada yang ingin ditanyakan, silakan hubungi Subbagian Registrasi dan Statist
 Sys.setlocale("LC_TIME", "IND") 
 ```
 
-Berikut adalah mahasiswa baru yang sudah mengisi formulir pendaftaran KTM (**gunakan Search untuk pencarian cepat**)
+-   Berikut adalah mahasiswa baru jalur SNMPTN yang mengisi formulir pendaftaran KTM (**gunakan Search untuk pencarian cepat**)
 
-```{r echo=FALSE, message=FALSE, warning=FALSE}
-# sampai dengan r format(Sys.time(), "%d %B %Y") pukul r format(Sys.time(), "%X") 
+    ```{r echo=FALSE, message=FALSE, warning=FALSE}
+    # sampai dengan r format(Sys.time(), "%d %B %Y") pukul r format(Sys.time(), "%X") 
 
-library(googlesheets4)
-gs4_deauth()
+    library(googlesheets4)
+    gs4_deauth()
 
-data <- NULL
+    data <- NULL
 
-# SNM KIP
-snm_kip <- "https://docs.google.com/spreadsheets/d/1JDcIpN7rleIKHTxT9kNtQ1W-P-i7pzbjLSSGOnOB_54/edit?usp=sharing"
+    # SNM KIP
+    snm_kip <- "https://docs.google.com/spreadsheets/d/1JDcIpN7rleIKHTxT9kNtQ1W-P-i7pzbjLSSGOnOB_54/edit?usp=sharing"
 
-data1 <- data.frame(read_sheet(snm_kip))
-data1 <- data1[,c(1, 2, 4, 8)]
-names(data1) <- c("waktu_daftar", "email", "nama", "jk")
-data <- rbind(data, unique(data1))
+    data1 <- data.frame(read_sheet(snm_kip))
+    data1 <- data1[,c(1, 2, 4, 8)]
+    names(data1) <- c("waktu_daftar", "email", "nama", "jk")
+    data <- rbind(data, unique(data1))
 
-# SNM UKT
-snm_ukt <- "https://docs.google.com/spreadsheets/d/1hTbSLIYAhdWB-EWdH_mZSiMTKY8A-e4kzjX1YtBgsc0/edit?usp=sharing"
+    # SNM UKT
+    snm_ukt <- "https://docs.google.com/spreadsheets/d/1hTbSLIYAhdWB-EWdH_mZSiMTKY8A-e4kzjX1YtBgsc0/edit?usp=sharing"
 
-data1 <- data.frame(read_sheet(snm_ukt))
-data1 <- data1[,c(1, 2, 4, 8)]
-names(data1) <- c("waktu_daftar", "email", "nama", "jk")
-data <- rbind(data, unique(data1))
-data$nama <- toupper(data$nama)
+    data1 <- data.frame(read_sheet(snm_ukt))
+    data1 <- data1[,c(1, 2, 4, 8)]
+    names(data1) <- c("waktu_daftar", "email", "nama", "jk")
+    data <- rbind(data, unique(data1))
+    data$nama <- toupper(data$nama)
 
-names(data) <- c("Waktu Pendaftaran", "Email", "Nama", "Jenis Kelamin")
+    names(data) <- c("Waktu Pendaftaran", "Email", "Nama", "Jenis Kelamin")
 
-DT::datatable(data, rownames = F)
-```
+    DT::datatable(data, rownames = F)
+    ```
+
+-   Berikut adalah mahasiswa baru jalur SBMPTN yang sudah mengisi formulir pendaftaran KTM sampai dengan `r format(Sys.time(), "%d %B %Y")` pukul `r format(Sys.time(), "%X")` (**gunakan Search untuk pencarian cepat**)
+
+    ```{r echo=FALSE, message=FALSE, warning=FALSE}
+    # sampai dengan r format(Sys.time(), "%d %B %Y") pukul r format(Sys.time(), "%X") 
+
+    library(googlesheets4)
+    gs4_deauth()
+
+    data <- "https://docs.google.com/spreadsheets/d/1JDcIpN7rleIKHTxT9kNtQ1W-P-i7pzbjLSSGOnOB_54/edit?usp=sharing"
+
+    data <- data.frame(read_sheet(data))
+    data <- data[,c(1, 2, 4, 9)]
+    names(data) <- c("waktu_daftar", "email", "nama", "jk")
+
+    data$nama <- toupper(data$nama)
+
+    names(data) <- c("Waktu Pendaftaran", "Email", "Nama", "Jenis Kelamin")
+
+    DT::datatable(data, rownames = F)
+    ```
+
+-   Berikut adalah mahasiswa baru jalur SMMPTN yang sudah mengisi formulir pendaftaran KTM sampai dengan `r format(Sys.time(), "%d %B %Y")` pukul `r format(Sys.time(), "%X")` (**gunakan Search untuk pencarian cepat**)
+
+    ```{r echo=FALSE, message=FALSE, warning=FALSE}
+    # sampai dengan r format(Sys.time(), "%d %B %Y") pukul r format(Sys.time(), "%X") 
+
+    library(googlesheets4)
+    gs4_deauth()
+
+    data <- "https://docs.google.com/spreadsheets/d/1JDcIpN7rleIKHTxT9kNtQ1W-P-i7pzbjLSSGOnOB_54/edit?usp=sharing"
+
+    data <- data.frame(read_sheet(data))
+    data <- data[,c(1, 2, 4, 9)]
+    names(data) <- c("waktu_daftar", "email", "nama", "jk")
+
+    data$nama <- toupper(data$nama)
+
+    names(data) <- c("Waktu Pendaftaran", "Email", "Nama", "Jenis Kelamin")
+
+    DT::datatable(data, rownames = F)
+    ```
+
+-   ff
