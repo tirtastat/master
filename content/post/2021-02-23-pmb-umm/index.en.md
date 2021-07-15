@@ -96,7 +96,7 @@ thumbnail: ''
 
 3.  Cetak konfirmasi pembayaran
 
-4.  Lakukan pembayaran di *teller* bank BNI
+4.  Lakukan pembayaran di bank BNI (*teller*, ATM BNI, *mobile banking* BNI, dan *internet banking* BNI). Panduan pembayaran bisa dilihat [**di sini**](https://drive.google.com/file/d/1IIaFh62Irl6cK4EpdaTqcwOk3OMfmH8t/view?usp=sharing)
 
 5.  Setelah melakukan pembayaran, pendaftar melakukan login kembali ke laman [**https://admisi.untirta.ac.id**](https://admisi.untirta.ac.id), dengan menggunakan Nomor Pendaftaran dan Password.
 
