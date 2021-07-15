@@ -58,7 +58,7 @@ Calon Mahasiswa Baru yang sudah **dinyatakan** **Lulus lewat** jalur Seleksi Nas
 
         9.  Surat Keterangan Kesehatan dari Rumah Sakit/Klinik/Puskesmas (*scan* dan *upload*)
 
-        10. Surat Tes Narkoba dari Rumah Sakit/Klinik untuk **semua Program Studi** (*scan* dan *upload*)
+        10. Surat Tes Narkoba dari Rumah Sakit/Klinik/Laboratorium untuk **semua Program Studi** (*scan* dan *upload*)
 
         11. Surat Pemeriksaan Buta Warna dari Rumah Sakit untuk Program Studi berikut (*scan* dan *upload*) :
 
