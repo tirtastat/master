@@ -102,6 +102,8 @@ thumbnail: ''
 
 6.  Lengkapi Data dengan Benar. Siapkan dokumen pdf dengan ukuran maksimal 280 KB.
 
+    > **Pertanyaan / Isian yang bertanda bintang (\*) wajib di isi**, sedangkan untuk pertanyaan yang tidak ada tanda bintang bisa di isi jika anda mempunyai datanya atau boleh dikosongkan.
+
     -   Pakta Integritas Uang Kuliah Tunggal [**Jalur UMM D3 dan Alih Jenjang**](https://drive.google.com/file/d/1F19P5ILL59fXVp004ce3mLjBcmfkbjkp/view?usp=sharing) (*download*, isi, *scan*, dan *upload*).
 
     -   [**Surat Pernyataan Mentaati Peraturan**](https://drive.google.com/file/d/1PVRiZNWKmgZjpMcnoPaplPmC19CldU3r/view?usp=sharing) (*download*, isi, *scan*, dan *upload*).
