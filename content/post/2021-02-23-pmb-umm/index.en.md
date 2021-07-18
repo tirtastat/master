@@ -82,7 +82,7 @@ thumbnail: ''
 
 3.  Biaya konversi bagi mahasiswa yang lulus Alih Jenjang sebesar Rp1.000.000,-
 
-4.  Pembayaran biaya UKT dan IPIn dilaksanakan pada tanggal **05 Juli 2021**.
+4.  Pembayaran biaya UKT dan IPIn dilaksanakan pada tanggal **05 Agustus 2021**.
 
 ## Pendaftaran
 
