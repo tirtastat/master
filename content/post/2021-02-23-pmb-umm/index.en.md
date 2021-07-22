@@ -48,10 +48,10 @@ thumbnail: ''
 
 | No  | Kegiatan                         | Waktu                     |
 |:----|:---------------------------------|:--------------------------|
-| 1\. | Pendaftaran                      | 14 Juni - 28 Juli 2021    |
-| 2\. | Ujian Masuk                      | 31 Juli - 01 Agustus 2021 |
-| 3\. | Pengumuman Hasil Ujian           | 02 Agustus 2021           |
-| 4\. | Pembayaran UKT dan Pemberian NIM | 05 - 11 Agustus 2021      |
+| 1\. | Pendaftaran                      | 14 Juni - 04 Agustus 2021 |
+| 2\. | Ujian Masuk                      | 08 Agustus 2021           |
+| 3\. | Pengumuman Hasil Ujian           | 09 Agustus 2021           |
+| 4\. | Pembayaran UKT dan Pemberian NIM | 09 - 14 Agustus 2021      |
 
 ## Biaya
 
@@ -82,11 +82,11 @@ thumbnail: ''
 
 3.  Biaya konversi bagi mahasiswa yang lulus Alih Jenjang sebesar Rp1.000.000,-
 
-4.  Pembayaran biaya UKT dan IPIn dilaksanakan pada tanggal **05 Agustus 2021**.
+4.  Pembayaran biaya UKT dan IPIn dilaksanakan pada tanggal **09 - 14 Agustus 2021**.
 
 ## Pendaftaran
 
-1.  Pendaftaran *online* dilakukan mulai tanggal **14 Juni 2021 pukul 08.00 WIB dan berakhir tanggal 28 Juli 2021 pukul 23.59 WIB**
+1.  Pendaftaran *online* dilakukan mulai tanggal **14 Juni 2021 pukul 08.00 WIB dan berakhir tanggal 04 Agustus 2021 pukul 23.59 WIB**
 
 2.  Ambil kode bayar di laman [**https://admisi.untirta.ac.id**](https://admisi.untirta.ac.id), klik Daftar untuk memulai pendaftaran, serta mendapatkan Nomor Pendaftaran dan *Password* (dicetak) kemudian bayar sesuai dengan biaya pendaftaran per program studi di Bank dengan menggunakan Nomor Pendaftaran tersebut. Catatan :
 
@@ -134,7 +134,7 @@ thumbnail: ''
 
 8.  Peserta Program studi **Diploma Ekonomi dapat memilih maksimal dua program studi**, sedangkan peserta **D3 Studi Lanjut (Ahli Jenjang) hanya diperbolehkan memilih satu jurusan**, sesuai dengan linieritasnya.
 
-9.  **Helpdesk** pendaftaran di Gedung Pusdainfo Lantai 1, Universitas Sultan Ageng Tirtayasa. Telpon; 0817738817; 081911106670
+9.  **Helpdesk** pendaftaran di Gedung Pusdainfo Lantai 1, Universitas Sultan Ageng Tirtayasa. Telpon; [**0817738817**](https://wa.me/62817738817); [**081911106670**](https://wa.me/6281911106670)
 
 10. Email: [pmb\@untirta.ac.id](mailto:pmb@untirta.ac.id) dan [humas\@untirta.ac.id](mailto:humas@untirta.ac.id)
 
@@ -159,19 +159,19 @@ thumbnail: ''
 
 ## Jadwal Ujian Tulis Berbasis Komputer (UTBK)
 
-| Hari dan Tanggal                   | Kegiatan                                    | Waktu (WIB)    | Kelompok Ujian |
-|:-----------------------------------|:--------------------------------------------|:---------------|:---------------|
-| **31 Juli 2021 & 01 Agustus 2021** | Peserta masuk ruang ujian                   | 07.25 -- 07.30 | **Sesi 1**     |
-|                                    | Pemeriksaan identitas dan dokumen           | 07.30 -- 07.40 |                |
-|                                    | Latihan                                     | 07.40 -- 07.45 |                |
-|                                    | Tes Potensi Skolastik (TPS)                 | 07.45 -- 09.30 |                |
-|                                    | Tes Kemampuan Akademik (TKA) Saintek/Soshum | 09.30 -- 11.00 |                |
-|                                    | **I S T I R A H A T**                       |                |                |
-|                                    | Peserta masuk ruang ujian                   | 13.00 -- 13.05 | **Sesi 2**     |
-|                                    | Pemeriksaan identitas dan dokumen           | 13.05 -- 13.15 |                |
-|                                    | Latihan                                     | 13.15 -- 13.30 |                |
-|                                    | Tes Potensi Skolastik (TPS)                 | 13.30 -- 15.15 |                |
-|                                    | Tes Kemampuan Akademik (TKA) Saintek/Soshum | 15.15 -- 17.00 |                |
+| Hari dan Tanggal    | Kegiatan                                    | Waktu (WIB)    | Kelompok Ujian |
+|:--------------------|:--------------------------------------------|:---------------|:---------------|
+| **08 Agustus 2021** | Peserta masuk ruang ujian                   | 07.25 -- 07.30 | **Sesi 1**     |
+|                     | Pemeriksaan identitas dan dokumen           | 07.30 -- 07.40 |                |
+|                     | Latihan                                     | 07.40 -- 07.45 |                |
+|                     | Tes Potensi Skolastik (TPS)                 | 07.45 -- 09.30 |                |
+|                     | Tes Kemampuan Akademik (TKA) Saintek/Soshum | 09.30 -- 11.00 |                |
+|                     | **I S T I R A H A T**                       |                |                |
+|                     | Peserta masuk ruang ujian                   | 13.00 -- 13.05 | **Sesi 2**     |
+|                     | Pemeriksaan identitas dan dokumen           | 13.05 -- 13.15 |                |
+|                     | Latihan                                     | 13.15 -- 13.30 |                |
+|                     | Tes Potensi Skolastik (TPS)                 | 13.30 -- 15.15 |                |
+|                     | Tes Kemampuan Akademik (TKA) Saintek/Soshum | 15.15 -- 17.00 |                |
 
 **Ketentuan Khusus**
 
@@ -181,9 +181,9 @@ thumbnail: ''
 
     -   **Bagi calon mahasiswa baru D3 Keperawatan**, setelah ujian tertulis / UTBK, wajib: Mengikuti tes kesehatan dan bebas narkoba dilakukan di Kampus Untirta Pakupatan pada tanggal **31 Juli dan 01 Agustus 2021**.
     -   **Untuk D3 Ekonomi dan Alih Jenjang S1, melampirkan / upload Surat Tes Kesehatan dan Bebas Narkoba dari RSUD daerah masing masing pada saat pengisian online di admisi**.
-    -   Melakukan **Pembayaran UKT, IPIn dan Konversi (S1 Alih Jenjang) pada tanggal 05 -- 11 Agustus 2021**.
+    -   Melakukan **Pembayaran UKT, IPIn dan Konversi (S1 Alih Jenjang) pada tanggal 09 -- 14 Agustus 2021**.
 
-3.  Pengumuman hasil kelulusan (UTBK dan kesehatan) akan diumumkan tanggal **02 Agustus 2021** mulai pukul 14.00 melalui laman [**https://admisi.untirta.ac.id**](https://admisi.untirta.ac.id) dan [**https://spmb.untirta.ac.id**](https://spmb.untirta.ac.id).
+3.  Pengumuman hasil kelulusan (UTBK dan kesehatan) akan diumumkan tanggal **09 Agustus 2021** mulai pukul 14.00 melalui laman [**https://admisi.untirta.ac.id**](https://admisi.untirta.ac.id) dan [**https://spmb.untirta.ac.id**](https://spmb.untirta.ac.id).
 
 4.  Calon mahasiswa baru yang tidak dapat memenuhi persyaratan registrasi administrasi sebagaimana yang ditetapkan dinyatakan **GUGUR**.
 
