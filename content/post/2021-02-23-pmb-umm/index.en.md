@@ -130,7 +130,7 @@ thumbnail: ''
 
     -   Pasfoto berwarna terbaru (standar untuk ijazah) dengan wajah menghadap ke depan, ukuran 4x6 cm, berformat \*jpg, dengan resolusi maksimum 300pxl x 450pxl, dan ukuran file maksimum 200 kb.
 
-7.  Cetak Kartu Peserta Ujian
+7.  Cetak Kartu Peserta Ujian. Untuk mendapatkan informasi terkini, silakan bergabung dengan [**group whatsapp D3 Keperawatan**](https://chat.whatsapp.com/HU5lqKMEOywJNhRxR5v6Cz) dan [**group whatsapp D3 Ekonomi dan Alih Jenjang**](https://chat.whatsapp.com/EdjpsxRfty11C423FuapN0).
 
 8.  Peserta Program studi **Diploma Ekonomi dapat memilih maksimal dua program studi**, sedangkan peserta **D3 Studi Lanjut (Ahli Jenjang) hanya diperbolehkan memilih satu jurusan**, sesuai dengan linieritasnya.
 
