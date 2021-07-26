@@ -28,6 +28,8 @@ thumbnail: ''
 
 6.  Bebas Narkoba.
 
+7.  Bagi anda yang sudah mendaftar silahkan bergabung di Grup Whatsapp klik [**group whatsapp D3 Keperawatan**](https://chat.whatsapp.com/HU5lqKMEOywJNhRxR5v6Cz)Untuk mendapatkan informasi seputar kegiatan PMB.
+
 **DIPLOMA EKONOMI**
 
 1.  Lulusan SMA/MA/SMK atau sederajat dan Paket C, berijazah, 5 (lima) tahun terakhir 2017, 2018, 2019, 2020 atau 2021.
@@ -35,6 +37,7 @@ thumbnail: ''
 3.  Bagi Lulusan Paket C, usia maksimum saat Pendaftaran adalah 24 tahun.
 4.  Peserta seleksi dalam kondisi sehat jasmani dan rohani.
 5.  Bebas Narkoba.
+6.  Bagi anda yang sudah mendaftar silahkan bergabung di Grup Whatsapp klik [**group whatsapp D3 Ekonomi dan Alih Jenjang**](https://chat.whatsapp.com/EdjpsxRfty11C423FuapN0). Untuk mendapatkan informasi seputar kegiatan PMB.
 
 **ALIH JENJANG FAKULTAS EKONOMI**
 
@@ -43,6 +46,7 @@ thumbnail: ''
 3.  Akreditasi BAN PT Asal D3 dari PTN Lain, minimal B (Baik)
 4.  Peserta seleksi dalam kondisi sehat jasmani dan rohani.
 5.  Bebas Narkoba.
+6.  Bagi anda yang sudah mendaftar silahkan bergabung di Grup Whatsapp klik [**group whatsapp D3 Ekonomi dan Alih Jenjang**](https://chat.whatsapp.com/EdjpsxRfty11C423FuapN0). Untuk mendapatkan informasi seputar kegiatan PMB.
 
 ## Timeline
 
@@ -152,10 +156,7 @@ thumbnail: ''
 
 ## Materi Ujian
 
-| EKONOMI                                                                  | KEPERAWATAN                                                                    | ALIH JENJANG                                                                |
-|--------------------------------------------------------------------------|:-------------------------------------------------------------------------------|-----------------------------------------------------------------------------|
-| Tes Potensi Skolastik (TPS)                                              | Tes Potensi Skolastik (TPS)                                                    | Tes Potensi Skolastik (TPS)                                                 |
-| Tes Kemampuan Akademik Soshum (TKAS) (ekonomi dan sosial humaniora umum) | Tes Kemampuan Akademik Saintek (TKAS) (matematika, fisika, kimia, dan biologi) | Tes Kemampuan Akademik Keilmuan (TKAK) (Manajemen, Akuntansi, Ilmu Ekonomi) |
++--------------------------------------------------------------------------+--------------------------------------------------------------------------------+-----------------------------------------------------------------------------+ \| EKONOMI \| KEPERAWATAN \| ALIH JENJANG \| +==========================================================================+:===============================================================================+=============================================================================+ \| Tes Potensi Skolastik (TPS) \| Tes Potensi Skolastik (TPS) \| Tes Potensi Skolastik (TPS) \| +--------------------------------------------------------------------------+--------------------------------------------------------------------------------+-----------------------------------------------------------------------------+ \| Tes Kemampuan Akademik Soshum (TKAS) (ekonomi dan sosial humaniora umum) \| Tes Kemampuan Akademik Saintek (TKAS) (matematika, fisika, kimia, dan biologi) \| Tes Kemampuan Akademik Keilmuan (TKAK) (Manajemen, Akuntansi, Ilmu Ekonomi) \| +--------------------------------------------------------------------------+--------------------------------------------------------------------------------+-----------------------------------------------------------------------------+
 
 ## Jadwal Ujian Tulis Berbasis Komputer (UTBK)
 
