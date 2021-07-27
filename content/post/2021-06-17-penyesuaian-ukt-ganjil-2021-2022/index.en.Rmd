@@ -31,7 +31,29 @@ Universitas Sultan Ageng Tirtayasan kembali mengeluarkan kebijakan penyesuaian U
 
 <br><br>
 
-### **1. Penyesuaian UKT 50%**
+### 1. Penangguhan Pembayaran UKT
+
+Kebijakan ini diperuntukan bagi mahasiswa yang **tidak mendapatkan Penyesuaian UKT** dan terkendala dengan pembayaran UKT sehingga memerlukan penangguhan pembayaran UKT. Bagi para pendaftar penangguhan pembayaran UKT diharapkan memahami, memperhatikan, dan melaksanakan urutan jadwal berikut.
+
+1.  Pendaftaran: **02 - 05 Agustus 2021**
+
+2.  KRS Manual: **07 - 13 Agustus 2021** (bagi yang sudah melakukan pendaftaran)
+
+    Formulir KRS manual bisa diunduh [**di sini**](https://drive.google.com/file/d/1yAM0GfI8bXYS2bw_Q6sRvMypzDFzgkdP/view?usp=sharing).
+
+3.  Pembayaran UKT: **01 - 04 Oktober 2021**
+
+4.  KRS *Online*: **02 - 06 Oktober 2021**
+
+5.  Persetujuan KRS: **paling lambat 07 Oktober 2021**
+
+Adapun berkas yang harus disiapkan dan diunggah adalah [**Surat Pernyataan Kesanggupan Membayar UKT**](https://drive.google.com/file/d/1wTfyJHu3QZsNu5QzvOjjo1oqr88CIkgJ/view?usp=sharing) dan foto KTP orang tua/wali.
+
+Pendaftaran penangguhan pembayaran UKT dilakukan dengan mengisi formulir berikut **menggunakan akun email Untirta pendaftar** (email tidak sesuai dengan NIM akan ditolak)
+
+![](images/daftar.jpg){target="_blank" width="90"}
+
+### **2. Penyesuaian UKT 50%**
 
 Penyesuaian UKT sebesar 50% diberikan kepada mahasiswa dengan kriteria berikut:
 
@@ -48,7 +70,7 @@ Pendaftaran penyesuaian UKT 50% dilakukan dengan mengisi formulir berikut **meng
 
 [![](images/daftar.jpg){target="_blank" width="90"}](/post/2021-06-28-perpanjangan-penyesuaian-ukt-tugas-akhir/)
 
-### **2. Penyesuaian UKT Kelompok Yatim dan Yatim Piatu**
+### **3. Penyesuaian UKT Kelompok Yatim dan Yatim Piatu**
 
 Penyesuaian UKT Kelompok Yatim dan Yatim Piatu adalah pengurangan UKT menjadi UKT kelompok 3 (tiga) yang diberikan kepada mahasiswa dengan golongan UKT minimal 4 di mana orang tua/wali mahasiswa meninggal dunia sehingga kesulitan membayar UKT.
 
@@ -64,7 +86,7 @@ Pendaftaran penyesuaian UKT Kelompok Yatim dan Yatim Piatu dilakukan dengan meng
 
 ![](images/daftar.jpg){target="_blank" width="90"}
 
-### **3. Penyesuaian UKT di masa Pandemi Covid-19**
+### **4. Penyesuaian UKT di masa Pandemi Covid-19**
 
 Penyesuaian UKT di masa Pandemi Covid-19 adalah penyesuaian UKT yang diberikan kepada mahasiswa di mana Orang Tua / Wali yang terkena PHK, Pensiun, Sakit Permanen, dan Pendapatan Berkurang akibat Bencana Alam atau Covid-19. Penyesuaian ini paling banyak 2 tingkat dan minimal diajukan oleh **Mahasiswa dengan Kelompok UKT K4** (**kategori sakit permanen** dan **orang tua/wali pensiun**) dan **Kelompok UKT K3** untuk kategori lainnya
 

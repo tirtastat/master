@@ -183,7 +183,7 @@ thumbnail: ''
 
 2.  Calon mahasiswa baru yang dinyatakan lulus tes tulis, **wajib**:
 
-    -   **Bagi calon mahasiswa baru D3 Keperawatan**, setelah ujian tertulis / UTBK, wajib: Mengikuti tes kesehatan dan bebas narkoba dilakukan di Kampus Untirta Pakupatan pada tanggal **31 Juli dan 01 Agustus 2021**.
+    -   **Bagi calon mahasiswa baru D3 Keperawatan**, setelah ujian tertulis / UTBK, wajib: Mengikuti tes kesehatan dan bebas narkoba dilakukan di Kampus Untirta Pakupatan pada tanggal **08 Agustus 2021**.
     -   **Untuk D3 Ekonomi dan Alih Jenjang S1, melampirkan / upload Surat Tes Kesehatan dan Bebas Narkoba dari RSUD daerah masing masing pada saat pengisian online di admisi**.
     -   Melakukan **Pembayaran UKT, IPIn dan Konversi (S1 Alih Jenjang) pada tanggal 09 -- 14 Agustus 2021**.
 
