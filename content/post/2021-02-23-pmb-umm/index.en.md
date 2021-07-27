@@ -156,7 +156,10 @@ thumbnail: ''
 
 ## Materi Ujian
 
-+--------------------------------------------------------------------------+--------------------------------------------------------------------------------+-----------------------------------------------------------------------------+ \| EKONOMI \| KEPERAWATAN \| ALIH JENJANG \| +==========================================================================+:===============================================================================+=============================================================================+ \| Tes Potensi Skolastik (TPS) \| Tes Potensi Skolastik (TPS) \| Tes Potensi Skolastik (TPS) \| +--------------------------------------------------------------------------+--------------------------------------------------------------------------------+-----------------------------------------------------------------------------+ \| Tes Kemampuan Akademik Soshum (TKAS) (ekonomi dan sosial humaniora umum) \| Tes Kemampuan Akademik Saintek (TKAS) (matematika, fisika, kimia, dan biologi) \| Tes Kemampuan Akademik Keilmuan (TKAK) (Manajemen, Akuntansi, Ilmu Ekonomi) \| +--------------------------------------------------------------------------+--------------------------------------------------------------------------------+-----------------------------------------------------------------------------+
+| EKONOMI                                                                  | KEPERAWATAN                                                                    | ALIH JENJANG                                                                |
+|--------------------------------------------------------------------------|--------------------------------------------------------------------------------|-----------------------------------------------------------------------------|
+| Tes Potensi Skolastik (TPS)                                              | Tes Potensi Skolastik (TPS)                                                    | Tes Potensi Skolastik (TPS)                                                 |
+| Tes Kemampuan Akademik Soshum (TKAS) (ekonomi dan sosial humaniora umum) | Tes Kemampuan Akademik Saintek (TKAS) (matematika, fisika, kimia, dan biologi) | Tes Kemampuan Akademik Keilmuan (TKAK) (Manajemen, Akuntansi, Ilmu Ekonomi) |
 
 ## Jadwal Ujian Tulis Berbasis Komputer (UTBK)
 
