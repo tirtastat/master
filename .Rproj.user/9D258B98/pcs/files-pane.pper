@@ -1,9 +1,13 @@
 {
     "sortOrder": [
         {
+            "columnIndex": 4,
+            "ascending": false
+        },
+        {
             "columnIndex": 2,
             "ascending": true
         }
     ],
-    "path": "G:/My Drive/# REGISTRASI DAN STATISTIK/Website/webmaster/web/web/content/post/2021-02-18-penyesuaian-ukt-di-masa-pandemi-covid-19"
+    "path": "G:/My Drive/# REGISTRASI DAN STATISTIK/Website/webmaster/web/web/themes/hugo-dpsg/layouts/partials/widgets"
 }

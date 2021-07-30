@@ -41,6 +41,8 @@ thumbnail: ''
 
 **ALIH JENJANG FAKULTAS EKONOMI**
 
+**Alih jenjang** merupakan suatu program bagi mahasiswa yang sudah lulus program D3 dan ingin langsung memperoleh gelar sarjana **S1** tanpa harus mengikuti perkuliahan selama 4 tahun dari awal
+
 1.  Lulusan PTN angkatan lima tahun terakhir.
 2.  Ijazah D3 dengan **IPK minimal 2,75**.
 3.  Akreditasi BAN PT Asal D3 dari PTN Lain, minimal B (Baik)
