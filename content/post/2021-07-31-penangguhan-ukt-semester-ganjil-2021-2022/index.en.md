@@ -21,7 +21,7 @@ Sebelum melakukan pendaftaran penangguhan UKT, mahasiswa diharapkan mencermati d
 
 2.  Pendaftaran hanya bisa dilakukan sekali dan tidak bisa diubah/edit.
 
-3.  Surat Permohonan / Pernyataan Kesangupan Membayar harus ditandatangani oleh Orang Tua dan dilengkapi dengan Foto KTP.
+3.  Surat Permohonan / Pernyataan Kesangupan Membayar harus ditandatangani oleh Orang Tua dan dilengkapi dengan Foto KTP orang tua/wali.
 
 4.  Bagi Anda yang tidak mendaftar sesuai jadwal dan ketentuan diharuskan membayar UKT semester ini pada tanggal **06 Agustus 2021** atau **DICUTIKAN**.
 
