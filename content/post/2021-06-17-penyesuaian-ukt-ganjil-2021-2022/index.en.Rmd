@@ -35,23 +35,23 @@ Universitas Sultan Ageng Tirtayasan kembali mengeluarkan kebijakan penyesuaian U
 
 Kebijakan ini diperuntukan bagi mahasiswa yang **tidak mendapatkan Penyesuaian UKT** dan terkendala dengan pembayaran UKT sehingga memerlukan penangguhan pembayaran UKT. Bagi para pendaftar penangguhan pembayaran UKT diharapkan memahami, memperhatikan, dan melaksanakan urutan jadwal berikut.
 
-1.  Pendaftaran: **02 - 05 Agustus 2021**
+1.  Pendaftaran: **02 - 05 Agustus** (bukti pendaftaran akan dikirim secara otomatis ke email pendaftar)
 
-2.  KRS Manual: **07 - 13 Agustus 2021** (bagi yang sudah melakukan pendaftaran)
+2.  KRS Manual: **07 - 13 Agustus 2021** (hanya bagi yang sudah melakukan pendaftaran)
 
     Formulir KRS manual bisa diunduh [**di sini**](https://drive.google.com/file/d/1yAM0GfI8bXYS2bw_Q6sRvMypzDFzgkdP/view?usp=sharing).
 
-3.  Pembayaran UKT: **01 - 04 Oktober 2021**
+3.  Pembayaran UKT: **01 - 06 Oktober 2021**
 
-4.  KRS *Online*: **02 - 06 Oktober 2021**
+4.  KRS *Online*: **01 - 06 Oktober 2021**
 
-5.  Persetujuan KRS: **paling lambat 07 Oktober 2021**
+5.  Persetujuan Dosen: **paling lambat 07 Oktober 2021**
 
-Adapun berkas yang harus disiapkan dan diunggah adalah [**Surat Pernyataan Kesanggupan Membayar UKT**](https://drive.google.com/file/d/1wTfyJHu3QZsNu5QzvOjjo1oqr88CIkgJ/view?usp=sharing) dan foto KTP orang tua/wali.
+Adapun berkas yang harus disiapkan dan diunggah adalah [**Surat Pernyataan Kesanggupan Membayar UKT**](https://drive.google.com/file/d/1u94BD-VYyPNqSCgsd2fmULV83uJa9xdm/view?usp=sharing) dan foto KTP orang tua/wali.
 
 Pendaftaran penangguhan pembayaran UKT dilakukan dengan mengisi formulir berikut **menggunakan akun email Untirta pendaftar** (email tidak sesuai dengan NIM akan ditolak)
 
-![](images/daftar.jpg){target="_blank" width="90"}
+[![](images/daftar.jpg){target="_blank" width="90"}](https://docs.google.com/forms/d/e/1FAIpQLSfTrev20moyr2LbltvWqfWpmdO6ITT8af-7794R9e5cKIFovg/viewform)
 
 ### **2. Penyesuaian UKT 50%**
 
@@ -126,7 +126,6 @@ gs4_deauth()
 
 data <- NULL
 
-# SNM KIP
 form <- "https://docs.google.com/spreadsheets/d/1rDhS9cn0Mbjk11awIutcKjrZdbrtQx2uBlbl8Fiv-yQ/edit?usp=sharing"
 
 data <- data.frame(read_sheet(form))
