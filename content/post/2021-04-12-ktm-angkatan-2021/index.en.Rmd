@@ -115,6 +115,15 @@ Sys.setlocale("LC_TIME", "IND")
     data1 <- data1[,c(1, 2, 4, 8)]
     names(data1) <- c("waktu_daftar", "email", "nama", "jk")
     data <- rbind(data, unique(data1))
+
+    # SNM SUSULAN
+    susu <- "https://docs.google.com/spreadsheets/d/1ERfZqezTU2RUnyK9XbwTfq2QDlCPyRefXPRv3qrHXig/edit?usp=sharing"
+
+    data1 <- data.frame(read_sheet(susu))
+    data1 <- data1[,c(1, 2, 3, 7)]
+    names(data1) <- c("waktu_daftar", "email", "nama", "jk")
+    data <- rbind(data, unique(data1))
+
     data$nama <- toupper(data$nama)
 
     names(data) <- c("Waktu Pendaftaran", "Email", "Nama", "Jenis Kelamin")
