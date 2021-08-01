@@ -19,13 +19,15 @@ Sebelum melakukan pendaftaran penangguhan UKT, mahasiswa diharapkan mencermati d
 
 1.  Pendaftaran melalui Googleform dengan menggunakan email domain UNTIRTA **(nim\@untirta.ac.id)**. Pastikan Laptop anda atau Handphone anda tidak sedang login email orang lain.
 
-2.  Pendaftaran hanya bisa dilakukan sekali dan tidak bisa diubah/edit.
+2.  Semua file yang harus diunduh terkait penangguhan UKT hanya bisa diakses menggunakan email domain \@untirta.ac.id
 
-3.  Surat Permohonan / Pernyataan Kesangupan Membayar harus ditandatangani oleh Orang Tua dan dilengkapi dengan Foto KTP orang tua/wali.
+3.  Pendaftaran hanya bisa dilakukan sekali dan tidak bisa diubah/edit.
 
-4.  Bagi Anda yang tidak mendaftar sesuai jadwal dan ketentuan diharuskan membayar UKT semester ini pada tanggal **06 Agustus 2021** atau **DICUTIKAN**.
+4.  Surat Permohonan / Pernyataan Kesanggupan Membayar harus ditandatangani oleh Orang Tua dan dilengkapi dengan Foto KTP orang tua/wali.
 
-5.  Alur pendaftaran dan KRS Manual mahasiswa penangguhan semester ganjil 2021/2022 bisa didownloda [**di sini**](https://drive.google.com/file/d/1GQrQU8PpRjlhKU34vkrNnCmfB9mE31yb/view?usp=sharing).
+5.  Bagi Anda yang tidak mendaftar sesuai jadwal dan ketentuan diharuskan membayar UKT semester ini pada tanggal **06 Agustus 2021** atau **DICUTIKAN**.
+
+6.  Alur pendaftaran dan KRS Manual mahasiswa penangguhan semester ganjil 2021/2022 bisa didownloda [**di sini**](https://drive.google.com/file/d/1GQrQU8PpRjlhKU34vkrNnCmfB9mE31yb/view?usp=sharing).
 
 Demikian informasi yang harus di patuhi dan dilaksanakan oleh mahasiswa yang ingin mengajukan penangguhan UKT semester ganjil 2021/2022. **Pendaftaran akan dibuka tanggal 02 Agustus 2021 Pukul 10:00 WIB.**
 
