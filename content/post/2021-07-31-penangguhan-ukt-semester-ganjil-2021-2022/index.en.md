@@ -19,7 +19,7 @@ Sebelum melakukan pendaftaran penangguhan UKT, mahasiswa diharapkan mencermati d
 
 1.  Pendaftaran melalui Googleform dengan menggunakan email domain UNTIRTA **(nim\@untirta.ac.id)**. Pastikan Laptop anda atau Handphone anda tidak sedang login email orang lain.
 
-2.  Semua file yang harus diunduh terkait penangguhan UKT hanya bisa diakses menggunakan email domain \@untirta.ac.id
+2.  **Semua file yang harus diunduh terkait penangguhan UKT hanya bisa diakses menggunakan email domain \@untirta.ac.id**
 
 3.  Pendaftaran hanya bisa dilakukan sekali dan tidak bisa diubah/edit.
 
