@@ -15,6 +15,10 @@ Diinformasikan kepada pendaftar UMM D3 dan S1 Alih Jenjang bahwa jadwal ujian le
 
 -   [**D3 Keperawatan**](https://drive.google.com/file/d/1kLVR-mzrUveEVbfPnaJPosvSRr8iqla3/view?usp=sharing)
 
+    Tes kesehatan untuk peserta Test Pagi (sesi ke-1) dilaksanakan pukul 13.00 sd selesai
+
+    Tes kesehatan untuk peserta Test Siang (sesi ke-2) dilaksanakan pukul 09.00 sd selesai
+
 -   [**S1 Alih Jenjang**](https://drive.google.com/file/d/1kMvm2sSXngZ5Ooe_zBZQkbMGU3VNe0AL/view?usp=sharing)
 
 -   [**Tata Tertib**](https://drive.google.com/file/d/1kKjU51HfyXBymFHYJoHW7Pg_zHZOy6a1/view?usp=sharing)
