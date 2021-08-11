@@ -37,9 +37,9 @@ Sebelum melakukan pengisian formulir, pastikan saudara telah mempersiapkan foto 
 
     -   **26 Juli 2021** untuk jalur SBMPTN
 
-    -   *xx xxx 2021 untuk jalur SMMPTN (belum dibuka)*
+    -   **19 Agustus 2021** untuk jalur SMMPTN
 
-    -   *xx xxx 2021 untuk jalur UMM (belum dibuka)*
+    -   **22 Agustus 2021** untuk jalur UMM
 
 **Formulir ini hanya bisa diisi menggunakan email dengan domain \@untirta.ac.id**. Jika saudara mengalami kesulitan dalam mengisi formulir dari kami, silakan pelajari langkah-langkahnya pada video berikut
 
@@ -66,14 +66,44 @@ Jika ada yang ingin ditanyakan, silakan hubungi Subbagian Registrasi dan Statist
 Sys.setlocale("LC_TIME", "IND") 
 ```
 
+-   Berikut adalah mahasiswa baru jalur **SMMPTN**, **UMM**, **Alih Jenjang**, dan **ADIK** yang sudah mengisi formulir pendaftaran KTM sampai dengan **`r format(Sys.time(), "%d %B %Y")`** pukul **`r format(Sys.time(), "%X")`** (**gunakan Search untuk pencarian cepat**)
+
+    ```{r message=FALSE, warning=FALSE, echo=FALSE}
+    # 
+    # sampai dengan r format(Sys.time(), "%d %B %Y") pukul r format(Sys.time(), "%X")
+    library(googlesheets4)
+    gs4_deauth()
+
+    data <- NULL
+
+    # SMMPTN
+    smm <- "https://docs.google.com/spreadsheets/d/1NVirpoT-43bBo3Y3AavHyg7RUCLcOir-EKgZKELhnpk/edit?usp=sharing"
+
+    data1 <- data.frame(read_sheet(smm))
+    data1 <- data1[,c(1, 2, 4, 8)]
+    names(data1) <- c("waktu_daftar", "email", "nama", "jk")
+    data <- rbind(data, unique(data1))
+
+    # adik, umm, jaj
+    adik <- "https://docs.google.com/spreadsheets/d/1HbsxFg3KyUa1rKNaTitK1x1DejhY8H3OH1onZV9f_ZY/edit?usp=sharing"
+
+    data1 <- data.frame(read_sheet(adik))
+    data1 <- data1[,c(1, 2, 4, 8)]
+    names(data1) <- c("waktu_daftar", "email", "nama", "jk")
+    data <- rbind(data, unique(data1))
+
+    data$nama <- toupper(data$nama)
+
+    names(data) <- c("Waktu Pendaftaran", "Email", "Nama", "Jenis Kelamin")
+
+    DT::datatable(data, rownames = F)
+    ```
+
 -   Berikut adalah mahasiswa baru jalur **SBMPTN** yang sudah mengisi formulir pendaftaran KTM sampai dengan **`r format(Sys.time(), "%d %B %Y")`** pukul **`r format(Sys.time(), "%X")`** (**gunakan Search untuk pencarian cepat**)
 
     ```{r message=FALSE, warning=FALSE, echo=FALSE}
     # 
     # sampai dengan r format(Sys.time(), "%d %B %Y") pukul r format(Sys.time(), "%X") 
-
-    library(googlesheets4)
-    gs4_deauth()
 
     data <- "https://docs.google.com/spreadsheets/d/1zAMdqmBBnUc3vkdOQCHPEG0_tOsyYkl78QgKXk4tCp0/edit?usp=sharing"
 
@@ -94,9 +124,6 @@ Sys.setlocale("LC_TIME", "IND")
 
     ```{r echo=FALSE, message=FALSE, warning=FALSE}
     # sampai dengan r format(Sys.time(), "%d %B %Y") pukul r format(Sys.time(), "%X") 
-
-    library(googlesheets4)
-    gs4_deauth()
 
     data <- NULL
 
