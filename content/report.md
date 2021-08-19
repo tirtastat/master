@@ -28,6 +28,6 @@ Tidak semua calon mahasiswa baru Universitas Sultan Ageng Tirtayasa yang lolos s
 
 Berikut adalah laporan penerimaan mahasiswa baru di setiap jalur penerimaan.
 
--   **2021 [SNMPTN](https://21snm.netlify.app)**- [**SBMPTN**](https://21sbm.netlify.app)- [**SMMPTN**](https://21smm.netlify.app) - [**MANDIRI**](https://21umm.netlify.app) - **Semua Jalur**
+-   **2021 [SNMPTN](https://21snm.netlify.app)**- [**SBMPTN**](https://21sbm.netlify.app)- [**SMMPTN**](https://21smm.netlify.app) - [**MANDIRI**](https://21umm.netlify.app) - [**Semua Jalur**](https://21pmb.netlify.app)
 -   **2020 [SNMPTN](https://20snm.netlify.app)**- [**SBMPTN**](https://20sbm.netlify.app)- [**SMMPTN**](https://20smm.netlify.app) - [**Semua Jalur**](https://20pmb.netlify.app)
 -   **2019** SNMPTN - SBMPTN - SMMPTN - Semua Jalur
