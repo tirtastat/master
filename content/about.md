@@ -19,4 +19,4 @@ title: About
 10. melakukan penyimpanan dan pemeliharaan dokumen Subbagian; dan
 11. melakukan penyusunan laporan Subbagian.
 
-Subbagian Registrasi dan Statistik dikoordinasi oleh seorang Kepala Subbagian dan dibantu oleh 3 orang staf. Berikut adalah sumber daya manusia di Subbagian Registrasi dan Statistik.
+Subbagian Registrasi dan Statistik dikoordinasi oleh seorang Kepala Subbagian dan dibantu oleh 3 orang staf.
