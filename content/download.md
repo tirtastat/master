@@ -32,8 +32,8 @@ title: Download
 | 6   | 2020  | [**SK HASIL SMMPTN**](https://drive.google.com/file/d/1PbwdzG3KcFrnCu2W85litTBjHuNndllT/view?usp=sharing)                                                                           |
 | 7   | 2020  | [**SK PENETAPAN NIM SMMPTN**](https://drive.google.com/file/d/10dhjQp_UuTvpvAut9Pqr3W0p2fFp3u-X/view?usp=sharing "SK PENETAPAN NIM SMMPTN")                                         |
 | 8   | 2020  | [**SK HASIL UMM D3 ALIH JENJANG**](https://drive.google.com/file/d/1Pwu9Bj1Pfq1MmRY6UIfP4eQAXd0u3CIr/view?usp=sharing)                                                              |
-| 5   | 2020  | [**SK PENETAPAN NIM UMM D3 DAN ALIH JENJANG S1**](https://drive.google.com/file/d/10_o2nF4w4tllsXBDc9ZOjjS_C_16-CwX/view?usp=sharing "SK PENETAPAN NIM UMM D3 DAN ALIH JENJANG S1") |
-| 6   | 2020  | [**SK PENETAPAN NIM ADIK**](https://drive.google.com/file/d/10_Tr9LkkAVasp2ivbkbgIAEDj_dbm3Hp/view?usp=sharing "SK PENETAPAN NIM ADIK")                                             |
+| 9   | 2020  | [**SK PENETAPAN NIM UMM D3 DAN ALIH JENJANG S1**](https://drive.google.com/file/d/10_o2nF4w4tllsXBDc9ZOjjS_C_16-CwX/view?usp=sharing "SK PENETAPAN NIM UMM D3 DAN ALIH JENJANG S1") |
+| 10  | 2020  | [**SK PENETAPAN NIM ADIK**](https://drive.google.com/file/d/10_Tr9LkkAVasp2ivbkbgIAEDj_dbm3Hp/view?usp=sharing "SK PENETAPAN NIM ADIK")                                             |
 
 ## **2019**
 
