@@ -17,17 +17,21 @@ title: Download
 | 6   | 2021  | [**SK HASIL SMMPTN**](https://drive.google.com/file/d/1BciZl5SsJGfZmKUtzNWNRplpIv6stepn/view?usp=sharing)                                   |
 | 7   | 2021  | [**SK PENETAPAN NIM SMMPTN**](https://drive.google.com/file/d/1RhgkJ1Eh9KEO94WYpWFkf0RppsZ3nfJ9/view?usp=sharing)                           |
 | 8   | 2021  | [**SK HASIL D3 ALIH JENJANG**](https://drive.google.com/file/d/1L7o8lbDz0GpGDdEheO9nkTZKBZ03gpPE/view?usp=sharing)                          |
-| 9   | 2021  | SK PENETAPAN NIM D3 ALIH JENJANG                                                                                                            |
-| 10  | 2021  | SK HASIL PASCASARJANA                                                                                                                       |
+| 9   | 2021  | [**SK PENETAPAN NIM D3 ALIH JENJANG**](https://drive.google.com/file/d/15n43bbauQcB0DprnMrMvVXQyefY_OuyJ/view?usp=sharing)                  |
+| 10  | 2021  | [**SK PENETAPAN NIM PASCASARJANA**](https://drive.google.com/file/d/15nctmlic6hpZHSLcxNSRY36R1WlKDRWr/view?usp=sharing)                     |
 
 ## **2020**
 
 | No  | Tahun | Keterangan                                                                                                                                                                          |
 |-----|-------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 1   | 2020  | [**SK DAYA TAMPUNG PENERIMAAN MAHASISWA BARU**](https://drive.google.com/file/d/1ivkzQcCqRRR5eCyfnpQeHmUt6zCR8MfW/view?usp=sharing "SK DAYA TAMPUNG PENERIMAAN MAHASISWA BARU")     |
-| 2   | 2020  | [**SK PENETAPAN NIM SNMPTN**](https://drive.google.com/file/d/1zXgfvr6WzToKRT8Ftbe2AjhbWe4VpmSr/view?usp=sharing "SK PENETAPAN NIM SNMPTN")                                         |
-| 3   | 2020  | [**SK PENETAPAN NIM SBMPTN**](https://drive.google.com/file/d/10uycg7uh-hBRnxJFv_L4oVFK-8B3JuOh/view?usp=sharing "SK PENETAPAN NIM SBMPTN")                                         |
-| 4   | 2020  | [**SK PENETAPAN NIM SMMPTN**](https://drive.google.com/file/d/10dhjQp_UuTvpvAut9Pqr3W0p2fFp3u-X/view?usp=sharing "SK PENETAPAN NIM SMMPTN")                                         |
+| 2   | 2020  | [**SK HASIL SNMPTN**](https://drive.google.com/file/d/1_rwzyvZeD8KKkmn4WKRJcDnv3wYp7RHY/view?usp=sharing)                                                                           |
+| 3   | 2020  | [**SK PENETAPAN NIM SNMPTN**](https://drive.google.com/file/d/1zXgfvr6WzToKRT8Ftbe2AjhbWe4VpmSr/view?usp=sharing "SK PENETAPAN NIM SNMPTN")                                         |
+| 4   | 2020  | [**SK HASIL SBMPTN**](https://drive.google.com/file/d/1O4zKzMJaYn4aoBf4FJH-OS85j4oCm8Fx/view?usp=sharing)                                                                           |
+| 5   | 2020  | [**SK PENETAPAN NIM SBMPTN**](https://drive.google.com/file/d/10uycg7uh-hBRnxJFv_L4oVFK-8B3JuOh/view?usp=sharing "SK PENETAPAN NIM SBMPTN")                                         |
+| 6   | 2020  | [**SK HASIL SMMPTN**](https://drive.google.com/file/d/1PbwdzG3KcFrnCu2W85litTBjHuNndllT/view?usp=sharing)                                                                           |
+| 7   | 2020  | [**SK PENETAPAN NIM SMMPTN**](https://drive.google.com/file/d/10dhjQp_UuTvpvAut9Pqr3W0p2fFp3u-X/view?usp=sharing "SK PENETAPAN NIM SMMPTN")                                         |
+| 8   | 2020  | [**SK HASIL UMM D3 ALIH JENJANG**](https://drive.google.com/file/d/1Pwu9Bj1Pfq1MmRY6UIfP4eQAXd0u3CIr/view?usp=sharing)                                                              |
 | 5   | 2020  | [**SK PENETAPAN NIM UMM D3 DAN ALIH JENJANG S1**](https://drive.google.com/file/d/10_o2nF4w4tllsXBDc9ZOjjS_C_16-CwX/view?usp=sharing "SK PENETAPAN NIM UMM D3 DAN ALIH JENJANG S1") |
 | 6   | 2020  | [**SK PENETAPAN NIM ADIK**](https://drive.google.com/file/d/10_Tr9LkkAVasp2ivbkbgIAEDj_dbm3Hp/view?usp=sharing "SK PENETAPAN NIM ADIK")                                             |
 
