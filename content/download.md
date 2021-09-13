@@ -13,6 +13,12 @@ title: Download
 | 2   | 2021  | [**SK HASIL SNMPTN**](https://drive.google.com/file/d/1gZ78dCnISrTGLe7aS93yaCLOviFCoI_B/view?usp=sharing "SK HASIL SNMPTN")                 |
 | 3   | 2021  | [**SK PENETAPAN NIM SNMPTN**](https://drive.google.com/file/d/1Iwmi1fL6KpHUQWtEw5K3M9oC6YDcwnR0/view?usp=sharing "SK PENETAPAN NIM SNMPTN") |
 | 4   | 2021  | [**SK HASIL SBMPTN**](https://drive.google.com/file/d/1P7ipet3Pwz2J2OpHXx-Ghv99Cc0RCAKQ/view?usp=sharing)                                   |
+| 5   | 2021  | [**SK PENETAPAN NIM SBMPTN**](https://drive.google.com/file/d/1JhHD8SVedhRUfoLRjRwIr4IE-jS-QKys/view?usp=sharing)                           |
+| 6   | 2021  | [**SK HASIL SMMPTN**](https://drive.google.com/file/d/1BciZl5SsJGfZmKUtzNWNRplpIv6stepn/view?usp=sharing)                                   |
+| 7   | 2021  | [**SK PENETAPAN NIM SMMPTN**](https://drive.google.com/file/d/1RhgkJ1Eh9KEO94WYpWFkf0RppsZ3nfJ9/view?usp=sharing)                           |
+| 8   | 2021  | [**SK HASIL D3 ALIH JENJANG**](https://drive.google.com/file/d/1L7o8lbDz0GpGDdEheO9nkTZKBZ03gpPE/view?usp=sharing)                          |
+| 9   | 2021  | SK PENETAPAN NIM D3 ALIH JENJANG                                                                                                            |
+| 10  | 2021  | SK HASIL PASCASARJANA                                                                                                                       |
 
 ## **2020**
 
