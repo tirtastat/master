@@ -37,14 +37,14 @@ title: Download
 
 ## **2019**
 
-| No  | Tahun | Keterangan                                                                                                                                                                          |
-|-----|-------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 1   | 2019  | [**SK DAYA TAMPUNG PENERIMAAN MAHASISWA BARU**](https://drive.google.com/file/d/1Y2eXaUttYFmrUdg0uby6_sXmw4tkGs0w/view?usp=sharing "SK DAYA TAMPUNG PENERIMAAN MAHASISWA BARU")     |
-| 2   | 2019  | [**SK PENETAPAN NIM SNMPTN**](https://drive.google.com/file/d/0B4KY1MhkjLm8SlNTa3FiRDJUY1VOb1B2Z1VPSmFuckMxeDNv/view?usp=sharing "SK PENETAPAN NIM SNMPTN")                         |
-| 3   | 2019  | [**SK PENETAPAN NIM SBMPTN**](https://drive.google.com/file/d/1bUlb2rCtC6xJdlqoP8MvGZ8kACsA4MMM/view?usp=sharing "SK PENETAPAN NIM SBMPTN")                                         |
-| 4   | 2019  | [**SK PENETAPAN NIM SMMPTN**](https://drive.google.com/file/d/1Pj4dbs6EF2W3DzU-78g0PdhR6Ti--dgV/view?usp=sharing "SK PENETAPAN NIM SMMPTN")                                         |
-| 5   | 2019  | [**SK PENETAPAN NIM UMM D3 DAN ALIH JENJANG S1**](https://drive.google.com/file/d/15QHezmTCTIIcC4AQw6zZlIuz9QWSvjra/view?usp=sharing "SK PENETAPAN NIM UMM D3 DAN ALIH JENJANG S1") |
-| 6   | 2019  | **SK PENETAPAN NIM ADIK**                                                                                                                                                           |
+| No  | Tahun | Keterangan                                                                                                                                                                                       |
+|-----|-------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1   | 2019  | [**SK DAYA TAMPUNG PENERIMAAN MAHASISWA BARU**](https://drive.google.com/file/d/1Y2eXaUttYFmrUdg0uby6_sXmw4tkGs0w/view?usp=sharing "SK DAYA TAMPUNG PENERIMAAN MAHASISWA BARU")                  |
+| 2   | 2019  | [**SK PENETAPAN NIM SNMPTN**](https://drive.google.com/file/d/0B4KY1MhkjLm8SlNTa3FiRDJUY1VOb1B2Z1VPSmFuckMxeDNv/view?usp=sharing&resourcekey=0-rKXR73bXonAkBj5_pZGx2w "SK PENETAPAN NIM SNMPTN") |
+| 3   | 2019  | [**SK PENETAPAN NIM SBMPTN**](https://drive.google.com/file/d/1bUlb2rCtC6xJdlqoP8MvGZ8kACsA4MMM/view?usp=sharing "SK PENETAPAN NIM SBMPTN")                                                      |
+| 4   | 2019  | [**SK PENETAPAN NIM SMMPTN**](https://drive.google.com/file/d/1Pj4dbs6EF2W3DzU-78g0PdhR6Ti--dgV/view?usp=sharing "SK PENETAPAN NIM SMMPTN")                                                      |
+| 5   | 2019  | [**SK PENETAPAN NIM UMM D3 DAN ALIH JENJANG S1**](https://drive.google.com/file/d/15QHezmTCTIIcC4AQw6zZlIuz9QWSvjra/view?usp=sharing "SK PENETAPAN NIM UMM D3 DAN ALIH JENJANG S1")              |
+| 6   | 2019  | **SK PENETAPAN NIM ADIK**                                                                                                                                                                        |
 
 ## 2018
 
