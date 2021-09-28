@@ -19,6 +19,7 @@ title: Download
 | 8   | 2021  | [**SK HASIL D3 ALIH JENJANG**](https://drive.google.com/file/d/1L7o8lbDz0GpGDdEheO9nkTZKBZ03gpPE/view?usp=sharing)                          |
 | 9   | 2021  | [**SK PENETAPAN NIM D3 ALIH JENJANG**](https://drive.google.com/file/d/15n43bbauQcB0DprnMrMvVXQyefY_OuyJ/view?usp=sharing)                  |
 | 10  | 2021  | [**SK PENETAPAN NIM PASCASARJANA**](https://drive.google.com/file/d/15nctmlic6hpZHSLcxNSRY36R1WlKDRWr/view?usp=sharing)                     |
+| 11  | 2021  | [**REKAPAN MAHAISWA BARU 2021**](https://drive.google.com/file/d/1rDMOuLISfU730L1ZvAvDn7b7YnqXzSoZ/view?usp=sharing)                        |
 
 ## **2020**
 
@@ -34,6 +35,7 @@ title: Download
 | 8   | 2020  | [**SK HASIL UMM D3 ALIH JENJANG**](https://drive.google.com/file/d/1Pwu9Bj1Pfq1MmRY6UIfP4eQAXd0u3CIr/view?usp=sharing)                                                              |
 | 9   | 2020  | [**SK PENETAPAN NIM UMM D3 DAN ALIH JENJANG S1**](https://drive.google.com/file/d/10_o2nF4w4tllsXBDc9ZOjjS_C_16-CwX/view?usp=sharing "SK PENETAPAN NIM UMM D3 DAN ALIH JENJANG S1") |
 | 10  | 2020  | [**SK PENETAPAN NIM ADIK**](https://drive.google.com/file/d/10_Tr9LkkAVasp2ivbkbgIAEDj_dbm3Hp/view?usp=sharing "SK PENETAPAN NIM ADIK")                                             |
+| 11  | 2020  | [**REKAPAN MAHASISWA BARU 2020**](https://drive.google.com/file/d/1rJ-GNAcEVuq8Y1YX2tl3o6IuHENXtR8v/view?usp=sharing)                                                               |
 
 ## **2019**
 
@@ -45,6 +47,7 @@ title: Download
 | 4   | 2019  | [**SK PENETAPAN NIM SMMPTN**](https://drive.google.com/file/d/1Pj4dbs6EF2W3DzU-78g0PdhR6Ti--dgV/view?usp=sharing "SK PENETAPAN NIM SMMPTN")                                                      |
 | 5   | 2019  | [**SK PENETAPAN NIM UMM D3 DAN ALIH JENJANG S1**](https://drive.google.com/file/d/15QHezmTCTIIcC4AQw6zZlIuz9QWSvjra/view?usp=sharing "SK PENETAPAN NIM UMM D3 DAN ALIH JENJANG S1")              |
 | 6   | 2019  | **SK PENETAPAN NIM ADIK**                                                                                                                                                                        |
+| 7   | 2019  | [**REKAPITULASI MAHASISWA BARU 2019**](https://drive.google.com/file/d/1rQuGviO92LlHbgXDbmYCbsWo3vIt28CT/view?usp=sharing)                                                                       |
 
 ## 2018
 
@@ -56,3 +59,4 @@ title: Download
 | 4   | 2018  | [**SK PENETAPAN NIM SMMPTN**](https://drive.google.com/file/d/1DyTJ1g5nXM4ROE-zUzmggZO1t5gCnQRu/view?usp=sharing)                     |
 | 5   | 2018  | [**SK PENETAPAN NIM UMM D3 DAN ALIH JENJANG S1**](https://drive.google.com/file/d/1DtKXDtzh37brWtryNQnqPBKyTY-GWHrT/view?usp=sharing) |
 | 6   | 2018  | **SK PENETAPAN NIM ADIK**                                                                                                             |
+| 7   | 2018  | [**REKAPITULASI MAHASISWA BARU 2018**](https://drive.google.com/file/d/1rdDVn9Vo8d3JT1yiAssazB80MUJM5E40/view?usp=sharing)            |
