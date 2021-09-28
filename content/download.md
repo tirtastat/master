@@ -19,7 +19,7 @@ title: Download
 | 8   | 2021  | [**SK HASIL D3 ALIH JENJANG**](https://drive.google.com/file/d/1L7o8lbDz0GpGDdEheO9nkTZKBZ03gpPE/view?usp=sharing)                          |
 | 9   | 2021  | [**SK PENETAPAN NIM D3 ALIH JENJANG**](https://drive.google.com/file/d/15n43bbauQcB0DprnMrMvVXQyefY_OuyJ/view?usp=sharing)                  |
 | 10  | 2021  | [**SK PENETAPAN NIM PASCASARJANA**](https://drive.google.com/file/d/15nctmlic6hpZHSLcxNSRY36R1WlKDRWr/view?usp=sharing)                     |
-| 11  | 2021  | [**REKAPAN MAHAISWA BARU 2021**](https://drive.google.com/file/d/1rDMOuLISfU730L1ZvAvDn7b7YnqXzSoZ/view?usp=sharing)                        |
+| 11  | 2021  | [**REKAPITULASI MAHAISWA BARU 2021**](https://drive.google.com/file/d/1rDMOuLISfU730L1ZvAvDn7b7YnqXzSoZ/view?usp=sharing)                   |
 
 ## **2020**
 
@@ -35,7 +35,7 @@ title: Download
 | 8   | 2020  | [**SK HASIL UMM D3 ALIH JENJANG**](https://drive.google.com/file/d/1Pwu9Bj1Pfq1MmRY6UIfP4eQAXd0u3CIr/view?usp=sharing)                                                              |
 | 9   | 2020  | [**SK PENETAPAN NIM UMM D3 DAN ALIH JENJANG S1**](https://drive.google.com/file/d/10_o2nF4w4tllsXBDc9ZOjjS_C_16-CwX/view?usp=sharing "SK PENETAPAN NIM UMM D3 DAN ALIH JENJANG S1") |
 | 10  | 2020  | [**SK PENETAPAN NIM ADIK**](https://drive.google.com/file/d/10_Tr9LkkAVasp2ivbkbgIAEDj_dbm3Hp/view?usp=sharing "SK PENETAPAN NIM ADIK")                                             |
-| 11  | 2020  | [**REKAPAN MAHASISWA BARU 2020**](https://drive.google.com/file/d/1rJ-GNAcEVuq8Y1YX2tl3o6IuHENXtR8v/view?usp=sharing)                                                               |
+| 11  | 2020  | [**REKAPITULASI MAHASISWA BARU 2020**](https://drive.google.com/file/d/1rJ-GNAcEVuq8Y1YX2tl3o6IuHENXtR8v/view?usp=sharing)                                                          |
 
 ## **2019**
 
