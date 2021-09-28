@@ -60,3 +60,10 @@ title: Download
 | 5   | 2018  | [**SK PENETAPAN NIM UMM D3 DAN ALIH JENJANG S1**](https://drive.google.com/file/d/1DtKXDtzh37brWtryNQnqPBKyTY-GWHrT/view?usp=sharing) |
 | 6   | 2018  | **SK PENETAPAN NIM ADIK**                                                                                                             |
 | 7   | 2018  | [**REKAPITULASI MAHASISWA BARU 2018**](https://drive.google.com/file/d/1rdDVn9Vo8d3JT1yiAssazB80MUJM5E40/view?usp=sharing)            |
+
+## 2017
+
+| No  | Tahun | Keterangan                                                                                                                 |
+|-----|-------|----------------------------------------------------------------------------------------------------------------------------|
+| 1   | 2017  | SK DAYA TAMPUNG PENERIMAAN MAHASISWA BARU                                                                                  |
+| 2   | 2017  | [**REKAPITULASI MAHASISWA BARU 2017**](https://drive.google.com/file/d/1s5bXXtqWlgAhOY6ZJjU37FaqLsyE345V/view?usp=sharing) |
