@@ -63,7 +63,7 @@ title: Download
 
 ## 2017
 
-| No  | Tahun | Keterangan                                                                                                                 |
-|-----|-------|----------------------------------------------------------------------------------------------------------------------------|
-| 1   | 2017  | SK DAYA TAMPUNG PENERIMAAN MAHASISWA BARU                                                                                  |
-| 2   | 2017  | [**REKAPITULASI MAHASISWA BARU 2017**](https://drive.google.com/file/d/1s5bXXtqWlgAhOY6ZJjU37FaqLsyE345V/view?usp=sharing) |
+| No  | Tahun | Keterangan                                                                                                                          |
+|-----|-------|-------------------------------------------------------------------------------------------------------------------------------------|
+| 1   | 2017  | [**SK DAYA TAMPUNG PENERIMAAN MAHASISWA BARU**](https://drive.google.com/file/d/10Za2awbPbGrQ08HElhFGTOh5D9RMcss4/view?usp=sharing) |
+| 2   | 2017  | [**REKAPITULASI MAHASISWA BARU 2017**](https://drive.google.com/file/d/1s5bXXtqWlgAhOY6ZJjU37FaqLsyE345V/view?usp=sharing)          |
