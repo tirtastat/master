@@ -17,7 +17,7 @@ Laporan ini rutin dibuat setiap semester oleh Subbagian Registrasi dan Statistik
 6.  **Tenaga Kependidikan**. Tenaga kerja non dosen baik yang berstatus sebagai PNS maupun non PNS.
 7.  **Rekapitulasi SDM**. Rekapitulasi seluruh pegawai baik dosen maupun non dosen di Universitas Sultan Ageng Tirtayasa.
 
-Berikut adalah laporan semester Subbagian Registrasi dan Statisik.
+Berikut adalah laporan semester Subbagian Registrasi dan Statisik. Silahkan klik :
 
 -   2021-2022 [**Ganjil**](https://212201.netlify.app) - Genap
 -   2020-2021 [**Ganjil**](https://202101.netlify.app)- [**Genap**](https://202102.netlify.app)
