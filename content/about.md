@@ -16,7 +16,8 @@ title: About
 7.  melakukan urusan cuti akademik mahasiswa;
 8.  melakukan pemrosesan pindah mahasiswa dan/atau pengunduran diri mahasiswa;
 9.  melakukan penyusunan statistik mahasiswa;
-10. melakukan penyimpanan dan pemeliharaan dokumen Subbagian; dan
-11. melakukan penyusunan laporan Subbagian.
+10. melakukan penyusunan statistik dosen dan tenaga kependidikan;
+11. melakukan penyimpanan dan pemeliharaan dokumen Subbagian; dan
+12. melakukan penyusunan laporan Subbagian.
 
 Subbagian Registrasi dan Statistik dikoordinasi oleh seorang Kepala Subbagian dan dibantu oleh 3 orang staf.
