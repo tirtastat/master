@@ -1,7 +1,7 @@
 ---
-title: Panduan UMM
+title: Panduan Ujian Masuk Mandiri (UMM)
 author: ''
-date: '2022-01-12'
+date: '2020-01-12'
 slug: []
 categories:
   - ''
@@ -91,13 +91,13 @@ TAHUN AKADEMIK 2022/2023
 
 ### **JADUAL PELAKSANAAN**
 
-| **Keterangan**                              | **Gelombang 1**             | **Gelombang 2 (tentatif)** |
-|---------------------------------------------|-----------------------------|----------------------------|
-| Pendaftaran                                 | 24 Januari -- 29 April 2022 | 17 Mei -- 15 Juli 2022     |
-| Ujian Masuk                                 | 7 Mei 2022                  | 30 Juli 2022               |
-| Pengumuman Hasil Ujian                      | 9 Mei 2022                  | 1 Agustus 2022             |
-| Mengunggah Hasil Test Kesehatan dan Narkoba | 10 - 12 Mei 2022            |                            |
-| Pembayaran UKT dan BPIN                     | 17 - 20 Mei 2022            | 1-5 Agustus 2022           |
+| **Keterangan**                                                 | **Gelombang 1**             | **Gelombang 2 (tentatif)** |
+|----------------------------------------------------------------|-----------------------------|----------------------------|
+| Pendaftaran                                                    | 24 Januari -- 29 April 2022 | 17 Mei -- 15 Juli 2022     |
+| Ujian Masuk                                                    | 7 Mei 2022                  | 30 Juli 2022               |
+| Pengumuman Hasil Ujian                                         | 9 Mei 2022                  | 1 Agustus 2022             |
+| Mengunggah Hasil Test Kesehatan dan Narkoba (Kelompok Ekonomi) | 10 - 12 Mei 2022            |                            |
+| Pembayaran UKT dan BPIN                                        | 17 - 20 Mei 2022            | 1-5 Agustus 2022           |
 
 ### **MATERI UJIAN**
 
@@ -112,7 +112,7 @@ TAHUN AKADEMIK 2022/2023
 
 ### **PENGUMUMAN HASIL SELEKSI**
 
-Hasil seleksi diumumkan melalui laman [**https://admisi.untirta.ac.id**](https://admisi.untirta.ac.id)
+Hasil seleksi diumumkan melalui laman [**https://admisi.untirta.ac.id**](https://admisi.untirta.ac.id)atau bisa dilihat di web <https://untirta.ac.id>, <https://spmb.untirta.ac.id>
 
 **BIAYA PENDAFTARAN**
 
@@ -132,7 +132,7 @@ Biaya konversi setelah diterima : Rp 1.000.000,-
 
 ### **BIAYA PENDIDIKAN**
 
-1.  Biaya Uang Kuliah Tunggal (UKT) sesuai dengan Keputusan Rektor Nomor: 379/UN43/KP.TM.01.03/2020 tentang Penetapan Biaya Pendaftaran, Uang Kuliah Tunggal, dan Iuran Pembangunan Institusi Bagi Mahasiswa Baru Program Sarjana Jalur Seleksi Mandiri Masuk Perguruan Tinggi Negeri Wilayah Barat Universitas Sultan Ageng Tirtayasa Tahun Akademik 2020/2021, yaitu:
+1.  Biaya Uang Kuliah Tunggal (UKT) sesuai dengan Keputusan Rektor Nomor: 379/UN43/KP.TM.01.03/2020 tentang Penetapan Biaya Pendaftaran, Uang Kuliah Tunggal, dan Iuran Pembangunan Institusi Bagi Mahasiswa Baru Program Sarjana Jalur Seleksi Mandiri Masuk Perguruan Tinggi Negeri Wilayah Barat Universitas Sultan Ageng Tirtayasa Tahun Akademik 2022/2023, yaitu:
 
 | No  | Kode | Program Studi         | K3          | K4          | K5          | K6          |
 |:----|:-----|:----------------------|:------------|:------------|:------------|:------------|
@@ -164,9 +164,9 @@ Biaya konversi setelah diterima : Rp 1.000.000,-
 
     ![](images/Picture2.png)
 
-    > Peserta Program studi **Diploma Tiga Ekonomi**, dapat memilih maksimal **dua program studi**, sedangkan peserta **Ahli Jenjang** **(S1)**, hanya diperbolehkan memilih **satu** jurusan, sesuai dengan linieritas ijazah diplomanya.
+    > *Peserta Program studi **Diploma Tiga Ekonomi**, dapat memilih maksimal **dua program studi**, sedangkan peserta **Ahli Jenjang (S1)**, hanya diperbolehkan memilih **satu** jurusan, sesuai dengan linieritas ijazah diplomanya.*
 
-    > Peserta yang berminat memilih **Diploma Tiga Keperawatan** hanya satu pilihan.
+    > *Peserta yang berminat memilih **Diploma Tiga Keperawatan** hanya satu pilihan.*
 
 4.  **Cetak Bukti Pendaftaran** dan tunjukan ke petugas Teler Bank untuk pembayaran, atau bisa melakukan pembayaran dengan salah satu fasilitas Bank cek [**di sini**](https://drive.google.com/file/d/1IIaFh62Irl6cK4EpdaTqcwOk3OMfmH8t/view?usp=sharing)
 
@@ -174,33 +174,35 @@ Biaya konversi setelah diterima : Rp 1.000.000,-
 
 6.  **Lengkapi Data dengan Benar dan Jujur,** berikut dokumen yang harus dilengkapi :
 
-    1.  Pakta Integritas Uang Kuliah Tunggal [**Jalur UMM D3 dan Alih Jenjang**](https://drive.google.com/file/d/1F19P5ILL59fXVp004ce3mLjBcmfkbjkp/view?usp=sharing) (*download*, isi, *scan*, dan *upload*).
+    1.  File Pasfoto berwarna terbaru (standar untuk ijazah) dengan wajah menghadap ke depan, ukuran 4x6 cm, **berformat \*jpg**, dengan resolusi maksimum 300pxl x 450pxl, dan ukuran file maksimum 200 kb.
 
-    2.  [**Surat Pernyataan Mentaati Peraturan**](https://drive.google.com/file/d/1PVRiZNWKmgZjpMcnoPaplPmC19CldU3r/view?usp=sharing) (*download*, isi, *scan*, dan *upload*).
+    2.  Pakta Integritas Uang Kuliah Tunggal [**Jalur UMM D3 dan Alih Jenjang**](https://drive.google.com/file/d/1KVdwLtAwVy13ppo2aW-Qh8Gwhs2JLWt_/view?usp=sharing) (*download*, isi, *scan*, dan *upload*).
 
-    3.  Ijazah / Surat Keterangan Lulus bagi lulusan tahun 2022 yang belum memperoleh Ijazah.
+    3.  [**Surat Pernyataan Mentaati Peraturan**](https://drive.google.com/file/d/1KicWOfHIsxk0aDctxTJ0eVCwMioxHGLW/view?usp=sharing) (*download*, isi, *scan*, dan *upload*).
 
-    4.  Akta Kelahiran (*scan* dan *upload*).
+    4.  Ijazah / Surat Keterangan Lulus bagi lulusan tahun 2022 yang belum memperoleh Ijazah. (scan, upload)
 
-    5.  Kartu Keluarga (*scan* dan *upload*).
+    5.  Akta Kelahiran (*scan* dan *upload*).
 
-    6.  Bukti pembayaran listrik bagi pelanggang *pascabayar* **atau** bukti pembelian token listrik bagi pelanggan *prabayar* (*scan* dan *upload*).
+    6.  Kartu Keluarga (*scan* dan *upload*).
 
-    7.  SPPT Pajak Bumi dan Bangunan (PBB) maximal 2 (dua) Tahun terakhir **atau** [**Surat Pernyataan tentang Luas Tanah dan Bangunan Rumah yang ditempati bagi yang tidak punya SPPT**](https://drive.google.com/file/d/1N_psISSck4wNBiVjphcQqBRLAIKMPWF6/view?usp=sharing) (*download*, isi, *scan*, dan *upload*).
+    7.  Bukti pembayaran listrik bagi pelanggang *pascabayar* **atau** bukti pembelian token listrik bagi pelanggan *prabayar* (*scan* dan *upload*).
 
-    8.  Bukti Penghasilan Ayah dan Penghasilan Ibu dengan ketentuan sebagai berikut (*scan* dan *upload*):
+    8.  SPPT Pajak Bumi dan Bangunan (PBB) maximal 2 (dua) Tahun terakhir **atau** [**Surat Pernyataan tentang Luas Tanah dan Bangunan Rumah yang ditempati bagi yang tidak punya SPPT**](https://drive.google.com/file/d/1KcB8OgHbwCVpOmQ5tBbOWvJAfmTyc6sR/view?usp=sharing) (*download*, isi, *scan*, dan *upload*).
 
-        -   **PNS**/**TNI**/**BUMN**/**Karyawan Swasta**: Slip Gaji / Bukti Penghasilan maksimal 2 (dua) bulan terakhir (terbaru),
+    9.  Bukti Penghasilan Ayah dan Penghasilan Ibu dengan ketentuan sebagai berikut (*scan* dan *upload*):
+
+        -   **PNS**/**TNI**/**BUMN**/**Karyawan Swasta** : Slip Gaji / Bukti Penghasilan maksimal 2 (dua) bulan terakhir **tahun 2022 (terbaru)**,
 
         -   **Wiraswasta**/**Petani**/**Pedagang**/**Buruh**/**Tidak Mempunyai Pekerjaan Tetap** : Surat Keterangan Penghasilan dari Kelurahan dengan wajib mencantumkan **(1) NAMA PEKERJAAN (2) NOMINAL PENGHASILAN/bulan** (*scan* dan *upload*),
 
-        -   **Pensiunan** : Rekening Koran atau *print out* Buku Rekening Pensiun maksimal 2 (dua) bulan terakhir (terbaru).
+        -   **Pensiunan** : Rekening Koran atau *print out* Buku Rekening Pensiun maksimal 2 (dua) bulan terakhir **tahun 2022 (terbaru)**.
 
-            > Jika Ayah sudah meninggal kolom penghasilan di isi nol. Dokumen yang di upload Surat Kematian.
+            > ***Jika Ayah sudah meninggal** kolom penghasilan di isi nol. Dokumen yang di upload Surat Kematian.*
             >
-            > Penghasilan Ayah dan Ibu di isi dengan data sebenarnya dan tidak boleh 0 semua.
+            > *Penghasilan Ayah dan Ibu di isi dengan data sebenarnya dan **tidak boleh 0 semua**.*
 
-    9.  File Pasfoto berwarna terbaru (standar untuk ijazah) dengan wajah menghadap ke depan, ukuran 4x6 cm, berformat \*jpg, dengan resolusi maksimum 300pxl x 450pxl, dan ukuran file maksimum 200 kb.
+    10. [**Surat Pernyataan Kebenaran / Keabsahan Data**](https://drive.google.com/file/d/1MFw80ubHzl9h9FIHJNGzGmkVkNfNkEQ5/view?usp=sharing) (dowload, isi, scan dan upload)
 
     > **Pertanyaan / Isian yang bertanda bintang (\*) wajib di isi**, sedangkan untuk pertanyaan yang tidak ada tanda bintang bisa di isi jika anda mempunyai datanya atau boleh dikosongkan.
 
