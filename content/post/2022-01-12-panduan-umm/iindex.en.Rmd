@@ -91,13 +91,19 @@ TAHUN AKADEMIK 2022/2023
 
 ### **JADUAL PELAKSANAAN**
 
++----------------------------------------------------------------+-----------------------------+----------------------------+
 | **Keterangan**                                                 | **Gelombang 1**             | **Gelombang 2 (tentatif)** |
-|----------------------------------------------------------------|-----------------------------|----------------------------|
++================================================================+=============================+============================+
 | Pendaftaran                                                    | 24 Januari -- 29 April 2022 | 17 Mei -- 15 Juli 2022     |
++----------------------------------------------------------------+-----------------------------+----------------------------+
 | Ujian Masuk                                                    | 7 Mei 2022                  | 30 Juli 2022               |
++----------------------------------------------------------------+-----------------------------+----------------------------+
 | Pengumuman Hasil Ujian                                         | 9 Mei 2022                  | 1 Agustus 2022             |
++----------------------------------------------------------------+-----------------------------+----------------------------+
 | Mengunggah Hasil Test Kesehatan dan Narkoba (Kelompok Ekonomi) | 10 - 12 Mei 2022            |                            |
++----------------------------------------------------------------+-----------------------------+----------------------------+
 | Pembayaran UKT dan BPIN                                        | 17 - 20 Mei 2022            | 1-5 Agustus 2022           |
++----------------------------------------------------------------+-----------------------------+----------------------------+
 
 ### **MATERI UJIAN**
 
@@ -158,7 +164,7 @@ Biaya konversi setelah diterima : Rp 1.000.000,-
 
     ![](images/Picture1.png)
 
-2.  Masukan data yang diminta dan pilihan program studi yang diinginkan. Pastikan data diisi dengan benar (no.HP/email) karena semua data akan mejadi acuan panitia dalam berkomunikasi atu mengirim notifikasi.  
+2.  Masukan data yang diminta dan pilihan program studi yang diinginkan. Pastikan data diisi dengan benar (no.HP/email) karena semua data akan mejadi acuan panitia dalam berkomunikasi atu mengirim notifikasi. Satu email hanya bisa dipakai untuk mendaftar satu kali.  
 
 3.  Setelah memasukan kode verifikasi dan ceklis konfirmasi kemudian klik **Daftar**.
 

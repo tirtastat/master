@@ -1,7 +1,7 @@
 ---
 title: Panduan PMB Jalur UMM D3 dan S1 Alih Jenjang
 author: registrasi
-date: '2022-01-11'
+date: '2020-01-11'
 slug: []
 categories: []
 tags: []
