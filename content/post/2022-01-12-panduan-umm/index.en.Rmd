@@ -1,7 +1,7 @@
 ---
 title: Panduan Ujian Masuk Mandiri (UMM)
 author: ''
-date: '2020-01-12'
+date: '2022-01-12'
 slug: []
 categories:
   - ''
@@ -91,13 +91,19 @@ TAHUN AKADEMIK 2022/2023
 
 ### **JADUAL PELAKSANAAN**
 
++----------------------------------------------------------------+-----------------------------+----------------------------+
 | **Keterangan**                                                 | **Gelombang 1**             | **Gelombang 2 (tentatif)** |
-|----------------------------------------------------------------|-----------------------------|----------------------------|
++================================================================+=============================+============================+
 | Pendaftaran                                                    | 24 Januari -- 29 April 2022 | 17 Mei -- 15 Juli 2022     |
++----------------------------------------------------------------+-----------------------------+----------------------------+
 | Ujian Masuk                                                    | 7 Mei 2022                  | 30 Juli 2022               |
++----------------------------------------------------------------+-----------------------------+----------------------------+
 | Pengumuman Hasil Ujian                                         | 9 Mei 2022                  | 1 Agustus 2022             |
++----------------------------------------------------------------+-----------------------------+----------------------------+
 | Mengunggah Hasil Test Kesehatan dan Narkoba (Kelompok Ekonomi) | 10 - 12 Mei 2022            |                            |
++----------------------------------------------------------------+-----------------------------+----------------------------+
 | Pembayaran UKT dan BPIN                                        | 17 - 20 Mei 2022            | 1-5 Agustus 2022           |
++----------------------------------------------------------------+-----------------------------+----------------------------+
 
 ### **MATERI UJIAN**
 
@@ -122,11 +128,11 @@ Diploma Tiga Keperawatan : Rp 550.000,-
 
 Membayar Iuran Pengembangan Institusi Negara (IPIN), jika dinyatakan Lulus;
 
--   Diploma Tiga Ekonomi : Rp  5.000.000,-
+-   Diploma Tiga Ekonomi : Rp
 
--   Diploma Tiga Keperawatan : Rp 10.000.000,-
+-   Diploma Tiga Keperawatan : Rp
 
--   Alih Jenjang Ekonomi Fakultas Ekonomi dan Bisnis : Rp 10.000.000,-
+-   Alih Jenjang Ekonomi Fakultas Ekonomi dan Bisnis : Rp
 
 Biaya konversi setelah diterima : Rp 1.000.000,-
 
@@ -290,7 +296,7 @@ Biaya konversi setelah diterima : Rp 1.000.000,-
 
 **Helpdesk** pendaftaran di Gedung Pusdainfo Lantai 1, Universitas Sultan Ageng Tirtayasa. Telpon; [**0817738817**](https://wa.me/62817738817); [**081911106670**](https://wa.me/6281911106670)
 
-Email: [pmb\@untirta.ac.id](mailto:pmb@untirta.ac.id) dan [humas\@untirta.ac.id](mailto:humas@untirta.ac.id)
+Email: [**pmb\@untirta.ac.id**](mailto:pmb@untirta.ac.id) dan [**humas\@untirta.ac.id**](mailto:humas@untirta.ac.id)
 
 ### Ketentuan Khusus
 
