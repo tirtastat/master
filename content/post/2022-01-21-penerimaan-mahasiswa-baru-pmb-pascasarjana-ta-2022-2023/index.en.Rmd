@@ -153,7 +153,7 @@ Awal Perkuliahan: **01 September 2022**
 
 1.  Buka laman <https://admisi.untirta.ac.id>
 
-    Klik **Daftar**, masukkan/ketik: Nama Lengkap, No. Telepon/HP, alamat e-mail, pilih jalur masuk Pascasarjana, pilih Gelombang, Pilih Kelompok Ujian IPC, dan ketik ulang Kode Verifikasi. **Cetak** Formulir Pendaftaran untuk dibawa ke BNI
+    Klik **Daftar**, masukkan/ketik: Nama Lengkap, No. Telepon/HP, alamat e-mail, pilih jalur masuk Pascasarjana, pilih Gelombang, Pilih Kelompok Ujian MAGISTER atau DOKTOR, dan ketik ulang Kode Verifikasi. **Cetak** Formulir Pendaftaran untuk dibawa ke BNI
 
 2.  Melakukan Pembayaran Pendaftaran
 
