@@ -128,11 +128,11 @@ Diploma Tiga Keperawatan : Rp 550.000,-
 
 Membayar Iuran Pengembangan Institusi Negara (IPIN), jika dinyatakan Lulus;
 
--   Diploma Tiga Ekonomi : Rp
+-   Diploma Tiga Ekonomi : Rp belum ditentukan
 
--   Diploma Tiga Keperawatan : Rp
+-   Diploma Tiga Keperawatan : Rp belum ditentukan
 
--   Alih Jenjang Ekonomi Fakultas Ekonomi dan Bisnis : Rp
+-   Alih Jenjang Ekonomi Fakultas Ekonomi dan Bisnis : Rp belum ditentukan
 
 Biaya konversi setelah diterima : Rp 1.000.000,-
 
@@ -182,9 +182,9 @@ Biaya konversi setelah diterima : Rp 1.000.000,-
 
     1.  File Pasfoto berwarna terbaru (standar untuk ijazah) dengan wajah menghadap ke depan, ukuran 4x6 cm, **berformat \*jpg**, dengan resolusi maksimum 300pxl x 450pxl, dan ukuran file maksimum 200 kb.
 
-    2.  Pakta Integritas Uang Kuliah Tunggal [**Jalur UMM D3 dan Alih Jenjang**](https://drive.google.com/file/d/1KVdwLtAwVy13ppo2aW-Qh8Gwhs2JLWt_/view?usp=sharing) (*download*, isi, *scan*, dan *upload*).
+    2.  Pakta Integritas Uang Kuliah Tunggal, klik--> [**Jalur UMM D3 dan Alih Jenjang**](https://drive.google.com/file/d/1KVdwLtAwVy13ppo2aW-Qh8Gwhs2JLWt_/view?usp=sharing) (*download*, isi, *scan*, dan *upload*).
 
-    3.  [**Surat Pernyataan Mentaati Peraturan**](https://drive.google.com/file/d/1KicWOfHIsxk0aDctxTJ0eVCwMioxHGLW/view?usp=sharing) (*download*, isi, *scan*, dan *upload*).
+    3.  klik---> **[Surat Pernyataan Mentaati Peraturan](https://drive.google.com/file/d/1KicWOfHIsxk0aDctxTJ0eVCwMioxHGLW/view?usp=sharing)** (*download*, isi, *scan*, dan *upload*).
 
     4.  Ijazah / Surat Keterangan Lulus bagi lulusan tahun 2022 yang belum memperoleh Ijazah. (scan, upload)
 
@@ -194,7 +194,7 @@ Biaya konversi setelah diterima : Rp 1.000.000,-
 
     7.  Bukti pembayaran listrik bagi pelanggang *pascabayar* **atau** bukti pembelian token listrik bagi pelanggan *prabayar* (*scan* dan *upload*).
 
-    8.  SPPT Pajak Bumi dan Bangunan (PBB) maximal 2 (dua) Tahun terakhir **atau** [**Surat Pernyataan tentang Luas Tanah dan Bangunan Rumah yang ditempati bagi yang tidak punya SPPT**](https://drive.google.com/file/d/1KcB8OgHbwCVpOmQ5tBbOWvJAfmTyc6sR/view?usp=sharing) (*download*, isi, *scan*, dan *upload*).
+    8.  SPPT Pajak Bumi dan Bangunan (PBB) maximal 2 (dua) Tahun terakhir **atau** klik--> [**Surat Pernyataan tentang Luas Tanah dan Bangunan Rumah yang ditempati bagi yang tidak punya SPPT**](https://drive.google.com/file/d/1KcB8OgHbwCVpOmQ5tBbOWvJAfmTyc6sR/view?usp=sharing) (*download*, isi, *scan*, dan *upload*).
 
     9.  Bukti Penghasilan Ayah dan Penghasilan Ibu dengan ketentuan sebagai berikut (*scan* dan *upload*):
 
@@ -206,9 +206,9 @@ Biaya konversi setelah diterima : Rp 1.000.000,-
 
             > ***Jika Ayah sudah meninggal** kolom penghasilan di isi nol. Dokumen yang di upload Surat Kematian.*
             >
-            > *Penghasilan Ayah dan Ibu di isi dengan data sebenarnya dan **tidak boleh 0 semua**.*
+            > *Penghasilan Ayah dan Ibu di isi dengan data sebenarnya dan **tidak boleh 0 (nol) semua**.*
 
-    10. [**Surat Pernyataan Kebenaran / Keabsahan Data**](https://drive.google.com/file/d/1MFw80ubHzl9h9FIHJNGzGmkVkNfNkEQ5/view?usp=sharing) (dowload, isi, scan dan upload)
+    10. klik--> **[Surat Pernyataan Kebenaran / Keabsahan Data](https://drive.google.com/file/d/1MFw80ubHzl9h9FIHJNGzGmkVkNfNkEQ5/view?usp=sharing)** (dowload, isi, scan dan upload)
 
     > **Pertanyaan / Isian yang bertanda bintang (\*) wajib di isi**, sedangkan untuk pertanyaan yang tidak ada tanda bintang bisa di isi jika anda mempunyai datanya atau boleh dikosongkan.
 
