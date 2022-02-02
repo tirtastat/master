@@ -25,6 +25,6 @@ Sebelum melakukan pendaftaran penangguhan UKT, mahasiswa diharapkan mencermati d
 5.  Bagi Anda yang tidak mendaftar sesuai jadwal dan ketentuan diharuskan membayar UKT semester ini pada tanggal **07 Februari 2022** atau **DICUTIKAN**.
 6.  Alur pendaftaran dan KRS Manual mahasiswa penangguhan semester genap 2021/2022 bisa didownloda [**di sini**](https://drive.google.com/file/d/1VPIKnL_3N36hs_ke5Ce7c4smRpYQRTBZ/view?usp=sharing).
 
-Demikian informasi yang harus di patuhi dan dilaksanakan oleh mahasiswa yang ingin mengajukan penangguhan UKT semester ganjil 2021/2022. **Pendaftaran akan dibuka tanggal 04 Februari 2021 Pukul 10:00 WIB.**
+Demikian informasi yang harus di patuhi dan dilaksanakan oleh mahasiswa yang ingin mengajukan penangguhan UKT semester genap 2021/2022. **Pendaftaran akan dibuka tanggal 04 Februari 2021 Pukul 10:00 WIB.**
 
 Pendaftaran bisa dilakukan [**di sini**](/post/2021-10-29-penyesuaian-ukt-semester-genap-2021-2022/).
