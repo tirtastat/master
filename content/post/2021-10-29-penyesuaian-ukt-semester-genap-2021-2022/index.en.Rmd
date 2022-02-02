@@ -52,7 +52,7 @@ Adapun berkas yang harus disiapkan dan diunggah adalah [**Surat Pernyataan Kesan
 
 Pendaftaran penangguhan pembayaran UKT dilakukan dengan mengisi formulir berikut **menggunakan akun email Untirta pendaftar** (email tidak sesuai dengan NIM akan ditolak)
 
-[![](images/daftar.jpg){target="_blank" width="90"}](https://docs.google.com/forms/d/e/1FAIpQLSeoQyqSVqpgrB2L7H28CyD6_8Q6OAI3uobN8LUcPPNjmcaacA/viewform)
+[![](images/daftar.jpg){target="_blank" width="90"}](https://docs.google.com/forms/d/e/1FAIpQLSfRYSvB4eKyHPd5qLz0s4FagGUkkU4WaZzrMZU5piZgXeFtEA/viewform)
 
 ### 2. **Penyesuaian UKT 50%**
 
