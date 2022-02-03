@@ -16,15 +16,15 @@ Calon Mahasiswa Baru yang sudah **dinyatakan** **Lulus lewat** jalur Seleksi Nas
 
 1.  Jadwal registrasi ulang\*
 
-    +------------------+-----------+--------------------------+--------------------+
-    | NO               | SELEKSI   | REGISTRASI ULANG         | PEMBAYARAN UKT     |
-    +:=================+:==========+:=========================+:===================+
-    | 1\.              | SNMPTN    | 29 Maret - 08 April 2022 | 12 - 23 April 2022 |
-    +------------------+-----------+--------------------------+--------------------+
-    | 2\.              | SBMPTN    | 23 - 30 Juni 2022        | 01 - 08 Juli 2022  |
-    +------------------+-----------+--------------------------+--------------------+
-    | 3\.              | SMMPTN    |                          |                    |
-    +------------------+-----------+--------------------------+--------------------+
+    +--------------+--------------+--------------------------+--------------------+
+    | NO           | SELEKSI      | REGISTRASI ULANG         | PEMBAYARAN UKT     |
+    +:=============+:=============+:=========================+:===================+
+    | 1\.          | SNMPTN       | 29 Maret - 08 April 2022 | 12 - 23 April 2022 |
+    +--------------+--------------+--------------------------+--------------------+
+    | 2\.          | SBMPTN       | 23 - 30 Juni 2022        | 01 - 08 Juli 2022  |
+    +--------------+--------------+--------------------------+--------------------+
+    | 3\.          | SMMPTN       |                          |                    |
+    +--------------+--------------+--------------------------+--------------------+
 
     ***\*) Jika ada perubahan jadwal akan kami informasikan melalui email.***
 
@@ -34,7 +34,15 @@ Calon Mahasiswa Baru yang sudah **dinyatakan** **Lulus lewat** jalur Seleksi Nas
 
 3.  Penjelasan registrasi ulang secara *online* sesuai dengan jadwal dan diagram alur di atas adalah sebagai berikut.
 
-    A.  Mempersiapkan dokumen yang harus diunggah (*upload*) dalam bentuk **pdf** atau **jpg** (**ukuran file tidak melebihi 250 KB**).
+    A.  **Mempersiapkan dokumen** yang harus diunggah (*upload*) dalam bentuk **pdf** atau **jpg** (**ukuran file tidak melebihi 250 KB**).
+
+    B.  **Menunggu Username dan Password** untuk login ke laman <https://admisi.untirta.ac.id>. yang akan dikirim oleh Panitia Registrasi ke email calon mahasiswa baru.
+
+        > **Cek juga folder SPAM di email anda**, karena mungkin email dari kami masuk ke folder SPAM anda. Atau **search** email dengan judul **"Konfirmasi Pendaftaran"**.
+
+    C.  **Menerima nominal UKT** yang bisa dilihat di [<https://admisi.untirta.ac.id>](https://admisi.untirta.ac.id){.uri} menggunakan akun *username* dan *password* masing-masing sesuai jadwal pembayaran.
+
+        > Dokumen-dokumen yang harus disiapkan :
 
         1.  [**Pakta Integritas Uang Kuliah Tunggal**](https://drive.google.com/file/d/1HyFx0AQQZaZOhc3tI8n2i71dn4yArUAG/view?usp=sharing){target="_blank"} (*download*, cetak, isi, *scan*).
 
@@ -119,28 +127,20 @@ Calon Mahasiswa Baru yang sudah **dinyatakan** **Lulus lewat** jalur Seleksi Nas
 
         14. Berkas dan registrasi tambahan bagi pendaftar KIP-Kuliah bisa diakses [**di sini**](/post/2021-06-14-daftar-ulang-mahasiswa-baru-peserta-kip-kuliah-jalur-sbmptn-2021/){target="_blank"}.
 
-    B.  Menunggu *Username* dan *Password* untuk melakukan Registrasi ulang secara *online* yang akan dikirim ke alamat email yang digunakan saat mendaftar SNMPTN / SBMPTN. *Username* dan *Password* akan dikirim satu hari setelah pengumuman.
-
-        > **Cek juga folder SPAM di email anda**, karena mungkin email dari kami masuk ke folder SPAM anda. Atau **search** email dengan judul **"Konfirmasi Pendaftaran"**.
-
-    C.  Melakukan Registrasi ulang secara *online* sesuai jadwal di [**http://admisi.untirta.ac.id**](http://admisi.untirta.ac.id){.uri target="_blank"} setelah menerima email *Username* dan *Password*. Pastikan semua data yang diisi dan berkas yang diunggah harus lengkap terlebih dahulu.
-
         > Isilah dengan **BENAR**, **AKURAT**, dan **JUJUR** semua data diri anda. Kesalahan dalam mengisi data dan memahami panduan registrasi menjadi tanggung jawab calon mahasiswa baru.
         >
         > **Pertanyaan / Isian yang bertanda bintang (\*) wajib di isi**, sedangkan untuk pertanyaan yang tidak ada tanda bintang bisa di isi jika anda mempunyai datanya atau boleh dikosongkan.
         >
         > Daftar nama calon mahasiswa yang sudah berhasil registrasi ulang bisa dilihat [**di sini**](https://21smm.netlify.app/#camaba-registrasi){target="_blank"}(*diupdate tiap jam 09.00 dan jam 16.00 di hari dan jam kerja*)
 
-    D.  Menerima nominal UKT yang bisa dilihat di [**https://admisi.untirta.ac.id**](https://admisi.untirta.ac.id){.uri} menggunakan akun *username* dan *password* masing-masing sesuai jadwal pembayaran.
-
-    E.  Pembayaran Uang Kuliah Tunggal (UKT) di Bank BNI seluruh Cabang Indonesia melalui *Teller* atau ATM dengan menggunakan menu *Student* *Payment* *Center* (SPC) kode untirta 8041, dengan ketentuan sebagai berikut.
+    D.  Pembayaran Uang Kuliah Tunggal (UKT) di Bank BNI seluruh Cabang Indonesia melalui *Teller* atau ATM dengan menggunakan menu *Student* *Payment* *Center* (SPC) kode untirta 8041, dengan ketentuan sebagai berikut.
 
         -   Melakukan pembayaran Uang Kuliah Tunggal (UKT) dengan menyebut No Peserta SMMPTN.
         -   Menerima bukti pembayaran dari Bank BNI (Teller atau ATM).
         -   Tata cara pembayaran UKT bisa diakses [**di sini**](https://drive.google.com/file/d/1IIaFh62Irl6cK4EpdaTqcwOk3OMfmH8t/view?usp=sharing){target="_blank"}.
         -   Khusus untuk Program Studi Kedokteran, UKT sebesar Rp15.000.000,00 s.d. Rp22.000.000,00 (UKT Kelompok III s.d. VIII)
 
-    F.  Menerima Nomor Induk Mahasiswa (NIM) dan *Password* SIAKAD akan dikirim melalui email masing-masing setelah Pembayran terkonfirmasi Lunas.
+    E.  Menerima Nomor Induk Mahasiswa (NIM) dan *Password* SIAKAD akan dikirim melalui email masing-masing setelah Pembayran terkonfirmasi Lunas.
 
         -   **Pendaftar Non KIP-K**: setelah melakukan pembayaran UKT
         -   **Pendaftar KIP-K**: setelah dinyatakan sebagai penerima KIP-K
