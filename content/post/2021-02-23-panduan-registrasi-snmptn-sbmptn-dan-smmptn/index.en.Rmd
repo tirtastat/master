@@ -23,10 +23,10 @@ Calon Mahasiswa Baru yang sudah **dinyatakan** **Lulus lewat** jalur Seleksi Nas
     +--------------+--------------+--------------------------+--------------------+
     | 2\.          | SBMPTN       | 23 - 30 Juni 2022        | 01 - 08 Juli 2022  |
     +--------------+--------------+--------------------------+--------------------+
-    | 3\.          | SMMPTN       |                          |                    |
+    | 3\.          | SMMPTN       | --belum ada jadwal       | --belum ada jadwal |
     +--------------+--------------+--------------------------+--------------------+
 
-    ***\*) Jika ada perubahan jadwal akan kami informasikan melalui email.***
+    ***\*) Jika ada perubahan jadwal akan kami informasikan melalui web / email.***
 
 2.  Diagram alur proses registrasi ulang secara *online.*
 
@@ -35,14 +35,6 @@ Calon Mahasiswa Baru yang sudah **dinyatakan** **Lulus lewat** jalur Seleksi Nas
 3.  Penjelasan registrasi ulang secara *online* sesuai dengan jadwal dan diagram alur di atas adalah sebagai berikut.
 
     A.  **Mempersiapkan dokumen** yang harus diunggah (*upload*) dalam bentuk **pdf** atau **jpg** (**ukuran file tidak melebihi 250 KB**).
-
-    B.  **Menunggu Username dan Password** untuk login ke laman <https://admisi.untirta.ac.id>. yang akan dikirim oleh Panitia Registrasi ke email calon mahasiswa baru.
-
-        > **Cek juga folder SPAM di email anda**, karena mungkin email dari kami masuk ke folder SPAM anda. Atau **search** email dengan judul **"Konfirmasi Pendaftaran"**.
-
-    C.  **Menerima nominal UKT** yang bisa dilihat di [\<https://admisi.untirta.ac.id>](https://admisi.untirta.ac.id){.uri} menggunakan akun *username* dan *password* masing-masing sesuai jadwal pembayaran.
-
-        <br><br>
 
         > [Dokumen-dokumen yang harus disiapkan]{.ul} :
 
@@ -60,7 +52,7 @@ Calon Mahasiswa Baru yang sudah **dinyatakan** **Lulus lewat** jalur Seleksi Nas
 
         7.  Bukti pembayaran listrik bagi pelanggang *pascabayar* **atau** bukti pembelian token listrik bagi pelanggan *prabayar*.
 
-            Bagi pelanggan listrik 450VA yang digratiskan dan tidak memiliki bukti pembayaran bisa membuatnya di halaman [**https://stimulus.pln.co.id/**](https://stimulus.pln.co.id/){.uri target="_blank"} seperti pada gambar berikut.
+            Bagi pelanggan listrik 450VA yang digratiskan dan tidak memiliki bukti pembayaran bisa membuatnya di halaman [[**https://stimulus.pln.co.id/**](https://stimulus.pln.co.id/)](https://stimulus.pln.co.id/){.uri target="_blank"} seperti pada gambar berikut.
 
             ![](pln.PNG)
 
@@ -135,17 +127,30 @@ Calon Mahasiswa Baru yang sudah **dinyatakan** **Lulus lewat** jalur Seleksi Nas
 
         <br><br>
 
-    D.  Pembayaran Uang Kuliah Tunggal (UKT) di Bank BNI seluruh Cabang Indonesia melalui *Teller* atau ATM dengan menggunakan menu *Student* *Payment* *Center* (SPC) kode untirta 8041, dengan ketentuan sebagai berikut.
+    B.  **Menunggu Username dan Password** untuk login ke laman <https://admisi.untirta.ac.id>. yang akan dikirim oleh Panitia Registrasi ke email calon mahasiswa baru.
 
-        -   Melakukan pembayaran Uang Kuliah Tunggal (UKT) dengan menyebut No Peserta SMMPTN.
+        > **Cek juga folder SPAM di email anda**, karena mungkin email dari kami masuk ke folder SPAM anda. Atau **search** email dengan judul **"Konfirmasi Pendaftaran"**.
+
+    C.  **Registrasi Ulang online** melakukan pengisian data diri dan mengunggah dokumen-dokumen yang diminta secara online di laman <https://admisi.untirta.ac.id>.
+
+    D.  **Menerima nominal UKT** yang bisa dilihat di [\<https://admisi.untirta.ac.id>](https://admisi.untirta.ac.id){.uri} menggunakan akun *username* dan *password* masing-masing sesuai jadwal pembayaran.
+
+    E.  **Melakukan Pembayaran** Uang Kuliah Tunggal (UKT) di Bank BNI seluruh Cabang Indonesia melalui *Teller* atau ATM. Tata cara pembayaran UKT bisa diakses [**di sini**](https://drive.google.com/file/d/1IIaFh62Irl6cK4EpdaTqcwOk3OMfmH8t/view?usp=sharing){target="_blank"}.
+
+        dengan ketentuan sebagai berikut.
+
+        -   Melakukan pembayaran Uang Kuliah Tunggal (UKT) dengan menyebut No Peserta Test.
         -   Menerima bukti pembayaran dari Bank BNI (Teller atau ATM).
-        -   Tata cara pembayaran UKT bisa diakses [**di sini**](https://drive.google.com/file/d/1IIaFh62Irl6cK4EpdaTqcwOk3OMfmH8t/view?usp=sharing){target="_blank"}.
         -   Khusus untuk Program Studi Kedokteran, UKT sebesar Rp15.000.000,00 s.d. Rp22.000.000,00 (UKT Kelompok III s.d. VIII)
 
-    E.  Menerima Nomor Induk Mahasiswa (NIM) dan *Password* SIAKAD akan dikirim melalui email masing-masing setelah Pembayran terkonfirmasi Lunas.
+    F.  **Menerima Nomor Induk Mahasiswa (NIM)** dan *Password* SIAKAD akan dikirim melalui email masing-masing setelah Pembayaran terkonfirmasi Lunas.
+
+        > NIM dan Password digunakan untuk melakukan proses kontrak matakuliah di laman <https://siakad.untirta.ac.id/portal>
 
         -   **Pendaftar Non KIP-K**: setelah melakukan pembayaran UKT
         -   **Pendaftar KIP-K**: setelah dinyatakan sebagai penerima KIP-K
+
+    G.  **Selesai,** Mahasiswa Baru selanjutnya menghubungi Fakultas dan Program Studi masing masing untuk **Kegiatan Belajar Mengajar (KBM)**
 
 4.  **Lain-lain**:
 
