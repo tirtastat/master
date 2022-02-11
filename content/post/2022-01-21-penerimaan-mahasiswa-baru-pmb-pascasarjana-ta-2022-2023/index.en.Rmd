@@ -1,7 +1,7 @@
 ---
 title: Penerimaan Mahasiswa Baru (PMB) Pascasarjana TA 2022/2023
 author: registrasi
-date: '2022-01-21'
+date: '2022-02-11'
 slug: []
 categories:
   - ''
@@ -162,7 +162,7 @@ Awal Perkuliahan: **01 September 2022**
 
     Klik **Daftar**, masukkan/ketik: Nama Lengkap, No. Telepon/HP, alamat e-mail, pilih jalur masuk Pascasarjana, pilih Gelombang, Pilih Kelompok Ujian MAGISTER atau DOKTOR, dan ketik ulang Kode Verifikasi.
 
-    **Cetak** Surat Konfirmasi Pendaftaran untuk dibawa ke BNI dan melakukan Pembayaran.
+    > **Cetak** Surat Konfirmasi Pendaftaran untuk dibawa ke BNI dan melakukan Pembayaran.
 
 2.  Melakukan Pembayaran Pendaftaran
 
