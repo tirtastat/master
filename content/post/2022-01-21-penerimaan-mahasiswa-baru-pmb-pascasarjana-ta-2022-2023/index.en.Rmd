@@ -160,18 +160,22 @@ Awal Perkuliahan: **01 September 2022**
 
 1.  Buka laman <https://admisi.untirta.ac.id>
 
-    Klik **Daftar**, masukkan/ketik: Nama Lengkap, No. Telepon/HP, alamat e-mail, pilih jalur masuk Pascasarjana, pilih Gelombang, Pilih Kelompok Ujian MAGISTER atau DOKTOR, dan ketik ulang Kode Verifikasi. **Cetak** Formulir Pendaftaran untuk dibawa ke BNI
+    Klik **Daftar**, masukkan/ketik: Nama Lengkap, No. Telepon/HP, alamat e-mail, pilih jalur masuk Pascasarjana, pilih Gelombang, Pilih Kelompok Ujian MAGISTER atau DOKTOR, dan ketik ulang Kode Verifikasi.
+
+    **Cetak** Surat Konfirmasi Pendaftaran untuk dibawa ke BNI dan melakukan Pembayaran.
 
 2.  Melakukan Pembayaran Pendaftaran
 
     Pembayaran pendaftaran bisa dilakukan melalui:
 
-    a.  Teller BNI dengan menunjukkan hasil cetak Formulir Pendaftaran dari Bagian 1.
+    a.  Teller BNI dengan menunjukkan hasil cetak Surat Konfirmasi Pendaftaran dari Bagian 1.
     b.  M-Banking BNI dengan cara klik Pembayaran dan memasukkan Kode Biling Nomor Pendaftaran
 
 3.  Unggah Dokumen di laman <https://admisi.untirta.ac.id>
 
-    Dokumen pendukung dalam bentuk pdf atau jpg:
+    > **Login** dengan menggunakan Nomor Pendaftaran dan Password yang ada pada Surat Konfirmasi Pendaftaran.
+
+    Dokumen pendukung dalam bentuk file pdf atau jpg **(maximal 275kb)**:
 
     a.  Pas Photo terbaru
 
