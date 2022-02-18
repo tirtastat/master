@@ -19,7 +19,7 @@ title: Download
 | 8   | 2021  | [**SK HASIL D3 ALIH JENJANG**](https://drive.google.com/file/d/1L7o8lbDz0GpGDdEheO9nkTZKBZ03gpPE/view?usp=sharing)                          |
 | 9   | 2021  | [**SK PENETAPAN NIM D3 ALIH JENJANG**](https://drive.google.com/file/d/15n43bbauQcB0DprnMrMvVXQyefY_OuyJ/view?usp=sharing)                  |
 | 10  | 2021  | [**SK PENETAPAN NIM PASCASARJANA**](https://drive.google.com/file/d/15nctmlic6hpZHSLcxNSRY36R1WlKDRWr/view?usp=sharing)                     |
-| 11  | 2021  | [**REKAPITULASI MAHAISWA BARU 2021**](https://drive.google.com/file/d/1rDMOuLISfU730L1ZvAvDn7b7YnqXzSoZ/view?usp=sharing)                   |
+| 11  | 2021  | [**REKAPITULASI MAHASISWA BARU 2021**](https://drive.google.com/file/d/1rDMOuLISfU730L1ZvAvDn7b7YnqXzSoZ/view?usp=sharing)                  |
 
 ## **2020**
 
