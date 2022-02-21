@@ -5,6 +5,12 @@ sidebar: false
 title: Download
 ---
 
+## 2022
+
+| No  | Tahun | Keterangan                                                                                                                     |
+|-----|-------|--------------------------------------------------------------------------------------------------------------------------------|
+| 1   | 2022  | [**SK DAYA TAMPUNG PENERIMAAN MAHASISWA**](https://drive.google.com/file/d/1DWDHZsFYAyM3ElTXUCpeGotVGfGWWTGX/view?usp=sharing) |
+
 ## 2021
 
 | No  | Tahun | Keterangan                                                                                                                                  |
