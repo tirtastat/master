@@ -184,13 +184,51 @@ Awal Perkuliahan: **01 September 2022**
     c.  Unggah (*upload*) data pendukung:
 
         1.  Ijazah S-1, Transkrip Nilai S-1 (Program Magister)
+
         2.  Ijazah S-1, S-2, Transkrip Nilai S-1, S-2 (Program Doktor)
+
         3.  Sertifikat akreditasi program studi pada jenjang S1 dan S2 yang berlaku terakhir
+
         4.  Surat izin/tugas belajar dari instansi tempat bekerja bagi pendaftar yang sedang bekerja
+
         5.  Surat keterangan sehat dari Fasilitas Kesehatan yang memiliki izin dari pemerintah
+
         6.  Unduh, cetak, isi, scan, dan unggah dokumen [**di sini**](https://drive.google.com/file/d/1_uH_GS-4tKLkoZodWsIoB1WCt9ncmbOK/view?usp=sharing){target="_blank"} khusus S2
+
         7.  Unduh, cetak, isi, scan, dan unggah dokumen [**di sini**](https://drive.google.com/file/d/1_ZoV1c57HOlYCIxCgLE-WJSNpwvRX3Zo/view?usp=sharing){target="_blank"} khusus S3
+
         8.  Proposal mini khusus S3
+
+            > Proposal Mini adalah ide atau gagasan penelitian yang dituangkan dalam bentuk tulisan yang ditulis oleh mahasiswa S-3 Pascasarjana Untirta dengan maksud untuk mengetahui
+            > rencana penelitian dan menentukan dosen pembimbing/promotor.
+            >
+            > **Proposal Mini terdiri dari empat bagian**:
+            >
+            > a\) Bagian pertama, membahas mengenai latar belakangan pemilihan topik, alasan pemilihan topik, pertanyaan penelitian, tujuan penelitian, dan kebaruan/inovasi penelitian (*state of theart*)
+            >
+            > b\) Bagian kedua, menjelaskan secara singkat mengenai teori utama dan teori pendukung yang akan digunakan dalam penelitian
+            >
+            > c\) Bagian ketiga, membahas tentang rencana metode yang akan diterapkan dalam penelitian, termasuk waktu, tempat, dan desain/pendekatan penelitian
+            >
+            > d\)  Bagian keempat, mencantumkan daftar pustaka
+            >
+            > **Ketentuan Proposal Mini:**
+            >
+            > a\)  Judul yang terdiri dari maksimum 12 kata
+            >
+            > b\) Tulisan terdiri dari 1500-2000 kata (6 -- 7 lembar)
+            >
+            > c\) Ditulis menggunakan i, dua spasi, font *Times New Roman*, ukuran font 12 poin, dan ukuran kertas A4
+            >
+            > d\) Penulisan sitasi dan daftar pustaka menggunakan *reference manager* (*EndNote, Mendeley,*
+            > atau program lain)
+            >
+            > e\) Memuat minimal 15 buah artikel jurnal sebagai rujukan utama yang terbit dalam tujuh
+            > tahun terakhir.
+            >
+            > f) Secara umum, proposal mini ditulis menggunakan gaya *American Psychology Association* (APA).
+            >
+            > g\) Disimpan dalam filePDF dengan ukuran maksimal 200 KB.
 
 ### Materi Ujian
 
