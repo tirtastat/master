@@ -16,15 +16,11 @@ Calon Mahasiswa Baru yang sudah **dinyatakan** **Lulus lewat** jalur Seleksi Nas
 
 1.  Jadwal registrasi ulang\*
 
-    +--------------+--------------+--------------------------+--------------------+
-    | NO           | SELEKSI      | REGISTRASI ULANG         | PEMBAYARAN UKT     |
-    +:=============+:=============+:=========================+:===================+
-    | 1\.          | SNMPTN       | 29 Maret - 08 April 2022 | 12 - 23 April 2022 |
-    +--------------+--------------+--------------------------+--------------------+
-    | 2\.          | SBMPTN       | 23 - 30 Juni 2022        | 01 - 08 Juli 2022  |
-    +--------------+--------------+--------------------------+--------------------+
-    | 3\.          | SMMPTN       | --belum ada jadwal       | --belum ada jadwal |
-    +--------------+--------------+--------------------------+--------------------+
+    | NO  | SELEKSI | REGISTRASI ULANG         | PEMBAYARAN UKT       |
+    |:----|:--------|:-------------------------|:---------------------|
+    | 1\. | SNMPTN  | 29 Maret - 08 April 2022 | 12 - 23 April 2022   |
+    | 2\. | SBMPTN  | 23 - 30 Juni 2022        | 01 - 08 Juli 2022    |
+    | 3\. | SMMPTN  | 18 - 27 Juli 2022        | 01 - 08 Agustus 2022 |
 
     ***\*) Jika ada perubahan jadwal akan kami informasikan melalui web / email.***
 
@@ -52,7 +48,7 @@ Calon Mahasiswa Baru yang sudah **dinyatakan** **Lulus lewat** jalur Seleksi Nas
 
         7.  Bukti pembayaran listrik bagi pelanggang *pascabayar* **atau** bukti pembelian token listrik bagi pelanggan *prabayar*.
 
-            Bagi pelanggan listrik 450VA yang digratiskan dan tidak memiliki bukti pembayaran bisa membuatnya di halaman [[**https://stimulus.pln.co.id/**](https://stimulus.pln.co.id/)](https://stimulus.pln.co.id/){.uri target="_blank"} seperti pada gambar berikut.
+            Bagi pelanggan listrik 450VA yang digratiskan dan tidak memiliki bukti pembayaran bisa membuatnya di halaman [\[**https://stimulus.pln.co.id/**\](https://stimulus.pln.co.id/)](https://stimulus.pln.co.id/){.uri target="_blank"} seperti pada gambar berikut.
 
             ![](pln.PNG)
 
