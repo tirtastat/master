@@ -91,19 +91,19 @@ TAHUN AKADEMIK 2022/2023
 
 ### **JADUAL PELAKSANAAN**
 
-+----------------------------------------------------------------+-----------------------------+----------------------------+
-| **Keterangan**                                                 | **Gelombang 1**             | **Gelombang 2 (tentatif)** |
-+================================================================+=============================+============================+
-| Pendaftaran                                                    | 24 Januari -- 29 April 2022 | 17 Mei -- 15 Juli 2022     |
-+----------------------------------------------------------------+-----------------------------+----------------------------+
-| Ujian Masuk                                                    | 7 Mei 2022                  | 30 Juli 2022               |
-+----------------------------------------------------------------+-----------------------------+----------------------------+
-| Pengumuman Hasil Ujian                                         | 9 Mei 2022                  | 1 Agustus 2022             |
-+----------------------------------------------------------------+-----------------------------+----------------------------+
-| Mengunggah Hasil Test Kesehatan dan Narkoba (Kelompok Ekonomi) | 10 - 12 Mei 2022            |                            |
-+----------------------------------------------------------------+-----------------------------+----------------------------+
-| Pembayaran UKT dan BPIN                                        | 17 - 20 Mei 2022            | 1-5 Agustus 2022           |
-+----------------------------------------------------------------+-----------------------------+----------------------------+
++----------------------------------------------------------------+-------------------+----------------------------+
+| **Keterangan**                                                 | **Gelombang 1**   | **Gelombang 2 (tentatif)** |
++================================================================+===================+============================+
+| Pendaftaran                                                    | -belum ada jadwal | -belum ada jadwal          |
++----------------------------------------------------------------+-------------------+----------------------------+
+| Ujian Masuk                                                    | -belum ada jadwal | -belum ada jadwal          |
++----------------------------------------------------------------+-------------------+----------------------------+
+| Pengumuman Hasil Ujian                                         | -belum ada jadwal | -belum ada jadwal          |
++----------------------------------------------------------------+-------------------+----------------------------+
+| Mengunggah Hasil Test Kesehatan dan Narkoba (Kelompok Ekonomi) | -belum ada jadwal | -belum ada jadwal          |
++----------------------------------------------------------------+-------------------+----------------------------+
+| Pembayaran UKT dan BPIN                                        | -belum ada jadwal | -belum ada jadwal          |
++----------------------------------------------------------------+-------------------+----------------------------+
 
 ### **MATERI UJIAN**
 
@@ -184,7 +184,7 @@ Biaya konversi setelah diterima : Rp 1.000.000,-
 
     2.  Pakta Integritas Uang Kuliah Tunggal, klik--> [**Jalur UMM D3 dan Alih Jenjang**](https://drive.google.com/file/d/1KVdwLtAwVy13ppo2aW-Qh8Gwhs2JLWt_/view?usp=sharing) (*download*, isi, *scan*, dan *upload*).
 
-    3.  klik---> **[Surat Pernyataan Mentaati Peraturan](https://drive.google.com/file/d/1KicWOfHIsxk0aDctxTJ0eVCwMioxHGLW/view?usp=sharing)** (*download*, isi, *scan*, dan *upload*).
+    3.  klik---> [**Surat Pernyataan Mentaati Peraturan**](https://drive.google.com/file/d/1KicWOfHIsxk0aDctxTJ0eVCwMioxHGLW/view?usp=sharing) (*download*, isi, *scan*, dan *upload*).
 
     4.  Ijazah / Surat Keterangan Lulus bagi lulusan tahun 2022 yang belum memperoleh Ijazah. (scan, upload)
 
@@ -208,7 +208,7 @@ Biaya konversi setelah diterima : Rp 1.000.000,-
             >
             > *Penghasilan Ayah dan Ibu di isi dengan data sebenarnya dan **tidak boleh 0 (nol) semua**.*
 
-    10. klik--> **[Surat Pernyataan Kebenaran / Keabsahan Data](https://drive.google.com/file/d/1MFw80ubHzl9h9FIHJNGzGmkVkNfNkEQ5/view?usp=sharing)** (dowload, isi, scan dan upload)
+    10. klik--> [**Surat Pernyataan Kebenaran / Keabsahan Data**](https://drive.google.com/file/d/1MFw80ubHzl9h9FIHJNGzGmkVkNfNkEQ5/view?usp=sharing) (dowload, isi, scan dan upload)
 
     > **Pertanyaan / Isian yang bertanda bintang (\*) wajib di isi**, sedangkan untuk pertanyaan yang tidak ada tanda bintang bisa di isi jika anda mempunyai datanya atau boleh dikosongkan.
 
