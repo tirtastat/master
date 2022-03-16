@@ -98,11 +98,17 @@ Calon Mahasiswa Baru yang sudah **dinyatakan** **Lulus lewat** jalur Seleksi Nas
 
             -   **Wiraswasta**/**Petani**/**Pedagang**/**Buruh**/**Pekerjaan yang tidak mempunyai Slip Gaji/Tidak Mempunyai Pekerjaan Tetap/** : Surat Keterangan Penghasilan dari Kelurahan dengan mencantumkan NAMA PEKERJAAN dan NOMINAL PENGHASILANNYA
 
-            -   **Pensiunan** : Rekening Koran atau *print out* Buku Rekening Pensiun (max dua bulan terakhir).
+            -   **Pensiunan PNS** : Surat Pensiun dan *print out* Buku Rekening Pensiun (max dua bulan terakhir).
 
-                > **Jika Ayah meninggal isikan penghasilan Nol. Dokumen yang diupload Surat Kematian dari Kelurahan.**
+            -   **Pensiunan Swasta :** Surat Keterangan Pensiun dari Kantor.
+
+                > -   **Jika Ibu hanya Ibu Rumah Tangga lampirkan Surat Keterangan dari Kelurahan.**
                 >
-                > ***Kolom Penghasilan Ayah dan Ibu tidak boleh Nol dua-duanya.***
+                > -   **Jika Ayah meninggal isi kolom penghasilan Nol. Dokumen yang diupload Surat Kematian dari Kelurahan.**
+                >
+                > -   **Jika Ayah dan Ibu tidak punya penghasilan isi kolom penghasilan dengan Surat Keterangan penanggung jawab biaya.**
+                >
+                > -   ***Kolom Penghasilan Ayah dan Ibu tidak boleh Nol dua-duanya.***
 
         13. Foto diri berukuran 4×6 dengan format JPG sesuai dengan ketentuan berikut.
 
