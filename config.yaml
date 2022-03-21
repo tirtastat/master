@@ -67,11 +67,15 @@ menu:
       name: Dashboard
       url: https://tirtareg.netlify.app
       weight: 3
+    - identifier: spm
+      name: SPM
+      url: https://20spm.netlify.app
+      weight: 4
     - identifier: download
       name: Download
       url: /download/
-      weight: 4
+      weight: 5
     - identifier: about
       name: About
       url: /about/
-      weight: 5
+      weight: 6
