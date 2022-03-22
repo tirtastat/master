@@ -7,7 +7,7 @@ title: Home
 
 ![](images/Selamat%20Datang%20Maba.jpg)
 
-Selamat datang calon mahasiswa baru Universitas Sultan Ageng Tirtayasa (Untirta) jenjang D3, S1, S2, dan S3. Terima kasih atas kepercayaannya untuk memilih Untirta sebagai tempat menuntut ilmu. Tahun Akademik 2022/2022 Untirta menerima mahasiswa baru melalui jalur SNMPTN, SBMPTN, dan SMMPTN untuk **jenjang S1**, jalur UMM untuk **jenjang D3 dan S1 Alih Jenjang**, serta SPMB untuk **jenjang S2 dan S3**.
+Selamat datang calon mahasiswa baru Universitas Sultan Ageng Tirtayasa (Untirta) jenjang D3, S1, S2, dan S3. Terima kasih atas kepercayaannya untuk memilih Untirta sebagai tempat menuntut ilmu. Tahun Akademik 2022/2023 Untirta menerima mahasiswa baru melalui jalur SNMPTN, SBMPTN, dan SMMPTN untuk **jenjang S1**, jalur UMM untuk **jenjang D3 dan S1 Alih Jenjang**, serta SPMB untuk **jenjang S2 dan S3**.
 
 > Terdapat 2 (dua) jenis seleksi masuk Untirta di Tahun Akademik 2022/2023. Pertama adalah seleksi masuk secara nasional di mana proses seleksi diselenggarakan secara nasional sehingga para pendaftar Untirta tidak harus melaksanakan ujian seleksi di Untirta (bisa di mana saja). Yang termasuk seleksi masuk secara nasional adalah jalur SNMPTN, SBMPTN, dan SMMPTN. Bagi calon mahasiswa baru yang lolos seleksi jalur **SNMPTN**, **SBMPTN**, dan **SMMPTN** bisa melihat PANDUAN REGISTRASI ULANG (online) [**Klik di sini**](/post/2022-03-10-panduan-registrasi-ulang-snmptn-sbmptn-dan-smmptn/)**.**
 
