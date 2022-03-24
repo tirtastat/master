@@ -10,6 +10,8 @@ title: Download
 | No  | Tahun | Keterangan                                                                                                                     |
 |-----|-------|--------------------------------------------------------------------------------------------------------------------------------|
 | 1   | 2022  | [**SK DAYA TAMPUNG PENERIMAAN MAHASISWA**](https://drive.google.com/file/d/1DWDHZsFYAyM3ElTXUCpeGotVGfGWWTGX/view?usp=sharing) |
+| 2\. | 2022  | SK HASIL SNMPTN                                                                                                                |
+| 3\. | 2022  | SK PENETAPAN NIM SNMPTN                                                                                                        |
 
 ## 2021
 
@@ -52,7 +54,7 @@ title: Download
 | 3   | 2019  | [**SK PENETAPAN NIM SNMPTN**](https://drive.google.com/file/d/0B4KY1MhkjLm8SlNTa3FiRDJUY1VOb1B2Z1VPSmFuckMxeDNv/view?usp=sharing&resourcekey=0-rKXR73bXonAkBj5_pZGx2w "SK PENETAPAN NIM SNMPTN") |
 | 4   | 2019  | SK HASIL SBMPTN                                                                                                                                                                                  |
 | 5   | 2019  | [**SK PENETAPAN NIM SBMPTN**](https://drive.google.com/file/d/1bUlb2rCtC6xJdlqoP8MvGZ8kACsA4MMM/view?usp=sharing "SK PENETAPAN NIM SBMPTN")                                                      |
-| 6   |       | SK HASIL SMMPTN                                                                                                                                                                                  |
+| 6   | 2019  | SK HASIL SMMPTN                                                                                                                                                                                  |
 | 7   | 2019  | [**SK PENETAPAN NIM SMMPTN**](https://drive.google.com/file/d/1Pj4dbs6EF2W3DzU-78g0PdhR6Ti--dgV/view?usp=sharing "SK PENETAPAN NIM SMMPTN")                                                      |
 | 8   | 2019  | [**SK PENETAPAN NIM UMM D3 DAN ALIH JENJANG S1**](https://drive.google.com/file/d/15QHezmTCTIIcC4AQw6zZlIuz9QWSvjra/view?usp=sharing "SK PENETAPAN NIM UMM D3 DAN ALIH JENJANG S1")              |
 | 9   | 2019  | **SK PENETAPAN NIM ADIK**                                                                                                                                                                        |
