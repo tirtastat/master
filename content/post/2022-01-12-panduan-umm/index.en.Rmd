@@ -92,7 +92,7 @@ TAHUN AKADEMIK 2022/2023
 ### **JADUAL PELAKSANAAN**
 
 | **Keterangan**                                                 | **Gelombang 1**          | **Gelombang 2 (tentatif)** |
-|----------------------------------------------------------------|--------------------------|----------------------------|
+|-------------------------------------|-----------------|-----------------|
 | Pendaftaran                                                    | 25 Maret - 29 April 2022 | 17 Mei - 15 Juli 2022      |
 | Ujian Masuk                                                    | 7 Mei 2022               | 30 Juli 2022               |
 | Pengumuman Hasil Ujian                                         | 9 Mei 2022               | 1 Agustus 2022             |
@@ -135,7 +135,7 @@ Biaya konversi setelah diterima : Rp 1.000.000,-
 1.  Biaya Uang Kuliah Tunggal (UKT) sesuai dengan Keputusan Rektor Nomor: 379/UN43/KP.TM.01.03/2020 tentang Penetapan Biaya Pendaftaran, Uang Kuliah Tunggal, dan Iuran Pembangunan Institusi Bagi Mahasiswa Baru Program Sarjana Jalur Seleksi Mandiri Masuk Perguruan Tinggi Negeri Wilayah Barat Universitas Sultan Ageng Tirtayasa Tahun Akademik 2022/2023, yaitu:
 
 | No  | Kode | Program Studi         | K3          | K4          | K5          | K6          |
-|:----|:-----|:----------------------|:------------|:------------|:------------|:------------|
+|:---------|:---------|:----------|:---------|:---------|:---------|:---------|
 | 1\. | 5501 | Akuntansi             | 3.000.000,- | 4.000.000,- | 5.500.000,- | \-          |
 | 2\. | 5502 | Manajemen Pemasaran   | 3.000.000,- | 4.000.000,- | 5.500.000,- | \-          |
 | 3\. | 5503 | Perpajakan            | 3.000.000,- | 4.000.000,- | 5.500.000,- | \-          |
@@ -169,6 +169,12 @@ Biaya konversi setelah diterima : Rp 1.000.000,-
     > *Peserta yang berminat memilih **Diploma Tiga Keperawatan** hanya satu pilihan.*
 
 4.  **Cetak Bukti Pendaftaran** dan tunjukan ke petugas Teler Bank untuk pembayaran, atau bisa melakukan pembayaran dengan salah satu fasilitas Bank cek [**di sini**](https://drive.google.com/file/d/1IIaFh62Irl6cK4EpdaTqcwOk3OMfmH8t/view?usp=sharing)
+
+    contoh :
+
+    ![](images/Surat%20Konf.png){width="300"}
+
+    > Pembayaran pendaftaran dilakukan untuk mengaktifkan Nomor Pendaftaran (token) dan Password. Untuk Selanjutnya bisa digunakan untuk **Login** ke [**https://admisi.untirta.ac.id**](https://admisi.untirta.ac.id/) dan melengkapi data.
 
 5.  Setelah melakukan pembayaran, buka kembali laman [**https://admisi.untirta.ac.id**](https://admisi.untirta.ac.id) kemudian pendaftar melakukan **Login,** dengan menggunakan Nomor Pendaftaran dan Password yang ada pada Bukti Pendaftaran.
 
