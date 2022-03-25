@@ -91,13 +91,17 @@ TAHUN AKADEMIK 2022/2023
 
 ### **JADUAL PELAKSANAAN**
 
-| **Keterangan**                                                 | **Gelombang 1**          | **Gelombang 2 (tentatif)** |
-|-------------------------------------|-----------------|-----------------|
-| Pendaftaran                                                    | 25 Maret - 29 April 2022 | 17 Mei - 15 Juli 2022      |
-| Ujian Masuk                                                    | 7 Mei 2022               | 30 Juli 2022               |
-| Pengumuman Hasil Ujian                                         | 9 Mei 2022               | 1 Agustus 2022             |
-| Mengunggah Hasil Test Kesehatan dan Narkoba (Kelompok Ekonomi) | 10 - 12 Mei 2022         | 2 - 3 Agustus 2022         |
-| Pembayaran UKT dan BPIN                                        | 13 - 20 Mei 2022         | 4 - 11 Agustus 2022        |
++------------------------------------+--------------------------+----------------------------+
+| **Keterangan**                     | **Gelombang 1**          | **Gelombang 2 (tentatif)** |
++====================================+==========================+============================+
+| Pendaftaran                        | 25 Maret - 29 April 2022 | 17 Mei - 15 Juli 2022      |
++------------------------------------+--------------------------+----------------------------+
+| Ujian Masuk                        | 7 Mei 2022               | 30 Juli 2022               |
++------------------------------------+--------------------------+----------------------------+
+| Pengumuman Hasil Ujian             | 9 Mei 2022               | 1 Agustus 2022             |
++------------------------------------+--------------------------+----------------------------+
+| Pembayaran UKT dan BPIN            | 10 - 20 Mei 2022         | 2 - 11 Agustus 2022        |
++------------------------------------+--------------------------+----------------------------+
 
 ### **MATERI UJIAN**
 
@@ -135,7 +139,7 @@ Biaya konversi setelah diterima : Rp 1.000.000,-
 1.  Biaya Uang Kuliah Tunggal (UKT) sesuai dengan Keputusan Rektor Nomor: 379/UN43/KP.TM.01.03/2020 tentang Penetapan Biaya Pendaftaran, Uang Kuliah Tunggal, dan Iuran Pembangunan Institusi Bagi Mahasiswa Baru Program Sarjana Jalur Seleksi Mandiri Masuk Perguruan Tinggi Negeri Wilayah Barat Universitas Sultan Ageng Tirtayasa Tahun Akademik 2022/2023, yaitu:
 
 | No  | Kode | Program Studi         | K3          | K4          | K5          | K6          |
-|:---------|:---------|:----------|:---------|:---------|:---------|:---------|
+|:----|:-----|:----------------------|:------------|:------------|:------------|:------------|
 | 1\. | 5501 | Akuntansi             | 3.000.000,- | 4.000.000,- | 5.500.000,- | \-          |
 | 2\. | 5502 | Manajemen Pemasaran   | 3.000.000,- | 4.000.000,- | 5.500.000,- | \-          |
 | 3\. | 5503 | Perpajakan            | 3.000.000,- | 4.000.000,- | 5.500.000,- | \-          |
@@ -182,9 +186,9 @@ Biaya konversi setelah diterima : Rp 1.000.000,-
 
     1.  File Pasfoto berwarna terbaru (standar untuk ijazah) dengan wajah menghadap ke depan, ukuran 4x6 cm, **berformat \*jpg**, dengan resolusi maksimum 300pxl x 450pxl, dan ukuran file maksimum 200 kb.
 
-    2.  Pakta Integritas Uang Kuliah Tunggal, klik--\> [**Jalur UMM D3 dan Alih Jenjang**](https://drive.google.com/file/d/1KVdwLtAwVy13ppo2aW-Qh8Gwhs2JLWt_/view?usp=sharing) (*download*, isi, *scan*, dan *upload*).
+    2.  Pakta Integritas Uang Kuliah Tunggal, klik--> [**Jalur UMM D3 dan Alih Jenjang**](https://drive.google.com/file/d/1KVdwLtAwVy13ppo2aW-Qh8Gwhs2JLWt_/view?usp=sharing) (*download*, isi, *scan*, dan *upload*).
 
-    3.  klik---\> [**Surat Pernyataan Mentaati Peraturan**](https://drive.google.com/file/d/1KicWOfHIsxk0aDctxTJ0eVCwMioxHGLW/view?usp=sharing) (*download*, isi, *scan*, dan *upload*).
+    3.  klik---> [**Surat Pernyataan Mentaati Peraturan**](https://drive.google.com/file/d/1KicWOfHIsxk0aDctxTJ0eVCwMioxHGLW/view?usp=sharing) (*download*, isi, *scan*, dan *upload*).
 
     4.  Ijazah / Surat Keterangan Lulus bagi lulusan tahun 2022 yang belum memperoleh Ijazah. (scan, upload)
 
@@ -194,9 +198,11 @@ Biaya konversi setelah diterima : Rp 1.000.000,-
 
     7.  Bukti pembayaran listrik bagi pelanggang *pascabayar* **atau** bukti pembelian token listrik bagi pelanggan *prabayar* (*scan* dan *upload*).
 
-    8.  SPPT Pajak Bumi dan Bangunan (PBB) maximal 2 (dua) Tahun terakhir **atau** klik--\> [**Surat Pernyataan tentang Luas Tanah dan Bangunan Rumah yang ditempati bagi yang tidak punya SPPT**](https://drive.google.com/file/d/1KcB8OgHbwCVpOmQ5tBbOWvJAfmTyc6sR/view?usp=sharing) (*download*, isi, *scan*, dan *upload*).
+    8.  SPPT Pajak Bumi dan Bangunan (PBB) maximal 2 (dua) Tahun terakhir **atau** klik--> [**Surat Pernyataan tentang Luas Tanah dan Bangunan Rumah yang ditempati bagi yang tidak punya SPPT**](https://drive.google.com/file/d/1KcB8OgHbwCVpOmQ5tBbOWvJAfmTyc6sR/view?usp=sharing) (*download*, isi, *scan*, dan *upload*).
 
-    9.  Bukti Penghasilan Ayah dan Penghasilan Ibu dengan ketentuan sebagai berikut (*scan* dan *upload*):
+    9.  Surat Keterangan Sehat, Surat Hasil Test Narkoba dari Rumah Sakit Pemerintah / BNN.
+
+    10. Bukti Penghasilan Ayah dan Penghasilan Ibu dengan ketentuan sebagai berikut (*scan* dan *upload*):
 
         -   **PNS**/**TNI**/**BUMN**/**Karyawan Swasta** : Slip Gaji / Bukti Penghasilan maksimal 2 (dua) bulan terakhir **tahun 2022 (terbaru)**,
 
@@ -208,7 +214,7 @@ Biaya konversi setelah diterima : Rp 1.000.000,-
             >
             > *Penghasilan Ayah dan Ibu di isi dengan data sebenarnya dan **tidak boleh 0 (nol) semua**.*
 
-    10. klik--\> [**Surat Pernyataan Kebenaran / Keabsahan Data**](https://drive.google.com/file/d/1MFw80ubHzl9h9FIHJNGzGmkVkNfNkEQ5/view?usp=sharing) (dowload, isi, scan dan upload)
+    11. klik--> [**Surat Pernyataan Kebenaran / Keabsahan Data**](https://drive.google.com/file/d/1MFw80ubHzl9h9FIHJNGzGmkVkNfNkEQ5/view?usp=sharing) (dowload, isi, scan dan upload)
 
     > **Pertanyaan / Isian yang bertanda bintang (\*) wajib di isi**, sedangkan untuk pertanyaan yang tidak ada tanda bintang bisa di isi jika anda mempunyai datanya atau boleh dikosongkan.
 
