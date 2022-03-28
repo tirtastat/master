@@ -32,7 +32,7 @@ Calon Mahasiswa Baru yang sudah **dinyatakan** **Lulus lewat** jalur Seleksi Nas
 
     A.  **Mempersiapkan dokumen** yang harus diunggah (*upload*) dalam bentuk **pdf** atau **jpg** (**ukuran file tidak melebihi 250 KB**).
 
-        > [Dokumen-dokumen yang harus disiapkan]{.underline} :
+        > [Dokumen-dokumen yang harus disiapkan]{.ul} :
 
         1.  [**Pakta Integritas Uang Kuliah Tunggal**](https://drive.google.com/file/d/1eFAlVSPMtTBDPZJXrbRC6ETnY1eU--F7/view?usp=sharing){target="_blank"} (*download*, cetak, isi, *scan Asli*).
 
@@ -71,7 +71,7 @@ Calon Mahasiswa Baru yang sudah **dinyatakan** **Lulus lewat** jalur Seleksi Nas
         13. Surat Pemeriksaan Buta Warna dari Rumah Sakit/Klinik/Puskesmas untuk Program Studi berikut (*scan* dan *upload*) :
 
             | No.  | Program Studi                             | Keterangan                                |
-            |--------------|-----------------------------|-----------------------------|
+            |------|-------------------------------------------|-------------------------------------------|
             | 1\.  | Pendidikan Biologi                        | Tidak Boleh Buta Warna                    |
             | 2\.  | Pendidikan Guru Sekolah Dasar             | Tidak Boleh Buta Warna                    |
             | 3\.  | Pendidikan Guru Pendidikan Anak Usia Dini | Tidak Boleh Buta Warna                    |
@@ -130,7 +130,7 @@ Calon Mahasiswa Baru yang sudah **dinyatakan** **Lulus lewat** jalur Seleksi Nas
         >
         > **Pertanyaan / Isian yang bertanda bintang (\*) wajib di isi**, sedangkan untuk pertanyaan yang tidak ada tanda bintang bisa di isi jika anda mempunyai datanya atau boleh dikosongkan.
 
-        <br><br>
+        <br>![](images/ingat.png)
 
     B.  **Menunggu Username dan Password** untuk login ke laman <https://admisi.untirta.ac.id>. yang akan dikirim oleh Panitia Registrasi ke email calon mahasiswa baru.
 
@@ -138,7 +138,7 @@ Calon Mahasiswa Baru yang sudah **dinyatakan** **Lulus lewat** jalur Seleksi Nas
 
     C.  **Registrasi Ulang online** melakukan pengisian data diri dan mengunggah dokumen-dokumen yang diminta secara online di laman <https://admisi.untirta.ac.id>.
 
-    D.  **Menerima nominal UKT** yang bisa dilihat di [\<https://admisi.untirta.ac.id\>](https://admisi.untirta.ac.id){.uri} menggunakan akun *username* dan *password* masing-masing sesuai jadwal pembayaran.
+    D.  **Menerima nominal UKT** yang bisa dilihat di [\<https://admisi.untirta.ac.id>](https://admisi.untirta.ac.id){.uri} menggunakan akun *username* dan *password* masing-masing sesuai jadwal pembayaran.
 
     E.  **Melakukan Pembayaran** Uang Kuliah Tunggal (UKT) di Bank BNI seluruh Cabang Indonesia melalui *Teller* atau ATM. Tata cara pembayaran UKT bisa diakses [**di sini**](https://drive.google.com/file/d/1IIaFh62Irl6cK4EpdaTqcwOk3OMfmH8t/view?usp=sharing){target="_blank"}.
 
