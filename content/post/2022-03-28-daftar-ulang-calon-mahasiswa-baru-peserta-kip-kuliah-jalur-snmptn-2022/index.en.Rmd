@@ -1,27 +1,28 @@
 ---
-title: Daftar Ulang Mahasiswa Baru Peserta KIP-Kuliah Jalur SBMPTN 2021
-author: ''
-date: '2021-06-14'
+title: Daftar Ulang Calon Mahasiswa Baru Peserta KIP-Kuliah Jalur SNMPTN 2022
+author: kemahasiswaan
+date: '2022-03-28'
 slug: []
-categories: []
-tags: []
+categories:
+  - ''
+tags:
+  - KIP-K
+  - KIP-K 2022
 description: ''
 thumbnail: ''
 ---
 
 #### (Diumumkan oleh Kemahasiswaan -- BAKP)
 
-1.  Wajib melakukan daftar ulang Calon Mahasiswa Baru jalur SBMPTN, **Tgl 15 s.d. 25 Juni\
-    2021** pada Laman : [**http://admisi.untirta.ac.id**](http://admisi.untirta.ac.id){.uri target="_blank"}
+1.  Wajib melakukan daftar ulang Calon Mahasiswa Baru jalur SNMPTN, **Tgl 29 Maret s.d. 08 April 2022** pada Laman : [**https://admisi.untirta.ac.id**](https://admisi.untirta.ac.id){.uri target="_blank"}
 
-2.  Lengkapi data pada laman [**https://kip-kuliah.kemdikbud.go.id/**](https://kip-kuliah.kemdikbud.go.id/){.uri target="_blank"}
+2.  Lengkapi data pada laman [**https://kip-kuliah.kemdikbud.go.id**](https://kip-kuliah.kemdikbud.go.id){.uri target="_blank"}
 
     Lengkapi dan perbaharui semua data yang dicantumkan di laman tersebut. Contoh: alamat, nomor HP, prestasi, upload foto keluarga, foto rumah (tampak ruang keluarga)
 
-3.  Tanggal **15 s.d. 24 Juni 2021** wajib melakukan daftar ulang Calon Mahasiswa Baru KIP Kuliah pada link [**http://bit.ly/KIPK-Untirta-21**](http://bit.ly/KIPK-Untirta-21){.uri} serta mengupload file berukuran **tidak lebih dari 1 MB** dengan format nama file (rename): **No. SBMPTN_Nama Camaba_Jenis Data**.
+3.  Tanggal **29 Maret s.d. 08 April 2022** wajib melakukan daftar ulang Calon Mahasiswa Baru KIP Kuliah pada link [**https://link.untirta.ac.id/KIPK22**](https://link.untirta.ac.id/KIPK22){target="_blank"} serta mengupload file berukuran **tidak lebih dari 1 MB** dengan format nama file (rename): **No.SNMPTN_Nama Camaba_Jenis Data**.
 
-4.  Wawancara akan dilakukan oleh Tim Kemahasiswaan via Zoom/Whatsapp Video Call, pada **30 Maret
-    s.d. 08 April 2022**.
+4.  Wawancara akan dilakukan oleh Tim Kemahasiswaan via Zoom/Whatsapp Video Call, pada **30 Maret** s.d. **08 April 2022**.
 
     ```{=html}
     <style type="text/css">
@@ -81,9 +82,9 @@ thumbnail: ''
       </tr>
       <tr>
         <td class="tg-0pky">g.</td>
-        <td class="tg-0pky">Foto/Scan Kartu Indonesia Pintar (KIP) / Kartu Keluarga Sejahtera (KKS) / <br>Program Keluarga Harapan (PKH) / Surat DTKS / SKTM (boleh lebih dari 1)   </td>
+        <td class="tg-0pky">Foto/Scan Kartu Indonesia Pintar (KIP) / Kartu Keluarga Sejahtera (KKS) / Program Keluarga Harapan (PKH) / Surat DTKS / SKTM (boleh lebih dari 1)   </td>
         <td class="tg-0pky">PDF/JPG   </td>
-        <td class="tg-0pky">1234567890_Budi Pratama_KIP<br>   <br>1234567890_Budi Pratama_KKS<br>   <br>1234567890_Budi Pratama_PKH<br>   <br>1234567890_Budi Pratama_DTKS<br>   <br>1234567890_Budi Pratama_SKTM   </td>
+        <td class="tg-0pky">1234567890_Budi Pratama_KIP<br>1234567890_Budi Pratama_KKS<br>1234567890_Budi Pratama_PKH<br>1234567890_Budi Pratama_DTKS<br>1234567890_Budi Pratama_SKTM   </td>
       </tr>
       <tr>
         <td class="tg-0pky">h.</td>
@@ -112,12 +113,12 @@ thumbnail: ''
       <tr>
         <td class="tg-0pky">l.</td>
         <td class="tg-0pky">Foto Kamar Mandi   </td>
-        <td class="tg-0pky">&nbsp;&nbsp;&nbsp;<br>JPG&nbsp;&nbsp;&nbsp;</td>
+        <td class="tg-0pky">JPG   </td>
         <td class="tg-0pky">1234567890_Budi Pratama_Mandi   </td>
       </tr>
       <tr>
         <td class="tg-0pky">m.</td>
-        <td class="tg-0pky">Rute Perjalanan dari pusat kota/kabupaten ke rumah tinggal, <br>berupa tempat-tempat yang dapat dijadikan patokan   </td>
+        <td class="tg-0pky">Rute Perjalanan dari pusat kota/kabupaten ke rumah tinggal, berupa tempat-tempat yang dapat dijadikan patokan   </td>
         <td class="tg-0pky">PDF/JPG   </td>
         <td class="tg-0pky">1234567890_Budi Pratama_Rute   </td>
       </tr>
@@ -125,29 +126,29 @@ thumbnail: ''
         <td class="tg-0pky">n.<br></td>
         <td class="tg-0pky">Foto/Scan SPPT PBB   </td>
         <td class="tg-0pky">PDF/JPG   </td>
-        <td class="tg-0pky">1234567890_Budi Pratama_PBB   </td>
+        <td class="tg-0pky">1234567890_Budi Pratama_PBB</td>
       </tr>
       <tr>
         <td class="tg-0pky">o.</td>
-        <td class="tg-0pky">Form Surat Pernyataan KIP Kuliah, dapat didownload <br>di link <a href="http://bit.ly/PernyataanKIPK" target="_blank" rel="noopener noreferrer">http://bit.ly/PernyataanKIPK</a>    </td>
+        <td class="tg-0pky">Form Surat Pernyataan KIP Kuliah, dapat didownload di link <a href="http://bit.ly/PernyataanKIPK" target="_blank" rel="noopener noreferrer">http://bit.ly/PernyataanKIPK</a>    </td>
         <td class="tg-0pky">PDF/JPG   </td>
         <td class="tg-0pky">1234567890_Budi Pratama_Surat   </td>
       </tr>
       <tr>
         <td class="tg-0pky">p.</td>
-        <td class="tg-0pky">Sertifikat/Piagam penghargaan atas prestasi akademik/non-akademik <br>yang pernah diraih di SMA/SMK/MA/sederajat   </td>
+        <td class="tg-0pky">Sertifikat/Piagam penghargaan atas prestasi akademik/non-akademik yang pernah diraih di SMA/SMK/MA/sederajat   </td>
         <td class="tg-0pky">PDF/JPG   </td>
-        <td class="tg-0pky">1234567890_Budi Pratama_Prestasi1<br>   <br>1234567890_Budi Pratama_Prestasi2<br>   <br>1234567890_Budi Pratama_Prestasi3<br>   <br>1234567890_Budi Pratama_Prestasi4<br>   <br>1234567890_Budi Pratama_Prestasi5   </td>
+        <td class="tg-0pky">1234567890_Budi Pratama_Prestasi1<br>1234567890_Budi Pratama_Prestasi2<br>1234567890_Budi Pratama_Prestasi3<br>1234567890_Budi Pratama_Prestasi4<br>1234567890_Budi Pratama_Prestasi5   </td>
       </tr>
     </tbody>
     </table>
     ```
 
-5.  Hasil Verifikasi akan diumumkan pada **29 Juni 2021** melalui web [**kemahasiswaan.untirta.ac.id**](https://kemahasiswaan.untirta.ac.id)
+5.  Hasil Verifikasi akan diumumkan pada **29 Juni 2021** melalui web [**kemahasiswaan.untirta.ac.id**](https://kemahasiswaan.untirta.ac.id){target="_blank"}
 
-    -   Jika **tidak diterima**, silahkan membayar UKT sesuai yang tertera di laman [**admisi.untirta.ac.id**](https://admisi.untirta.ac.id)
+    -   Jika **tidak diterima**, silahkan membayar UKT sesuai yang tertera di laman [**admisi.untirta.ac.id**](https://admisi.untirta.ac.id){target="_blank"}
     -   Jika **diterima**, anda tidak membayar UKT.
 
-6.  Bergabung dengan grup Telegram : [**http://bit.ly/KIPKUntirta2021**](http://bit.ly/KIPKUntirta2021){.uri}
+6.  Bergabung dengan grup Telegram : [**https://link.untirta.ac.id/TeleKIPK22**](https://link.untirta.ac.id/TeleKIPK22){target="_blank"}
 
-7.  Hotline Kemahasiswaan BAKP 081210275080
+7.  Hotline Kemahasiswaan BAKP [**081210275080**](https://wa.me/6281210275080){target="_blank"}
