@@ -30,7 +30,7 @@ Registrasi / Pembayaran SPP: **20 -- 29 April 2022**
 
 **Gelombang 2 (*Apabila Kuota Gelombang 1 Belum Terpenuhi*)**
 
-Pendaftaran: **09 Mei 2022 -- 06 Juli 2022**
+Pendaftaran: **09 Maret 2022 -- 06 Juli 2022**
 
 Pelaksanaan Seleksi: **09 Juli 2022**
 
@@ -156,9 +156,9 @@ Awal Perkuliahan: **01 September 2022**
 </tbody>
 </table>
 ```
-![](images/ALUR%20PMB_page-0001.jpg)
-
 ### Prosedur Pendaftaran
+
+![](images/ALUR%20PMB_page-0001.jpg){width="1420"}
 
 1.  Buka laman <https://admisi.untirta.ac.id>
 
@@ -283,8 +283,6 @@ Awal Perkuliahan: **01 September 2022**
 
 1.  Tes Kemampuan Dasar Akademik (TKDA) dan Bahasa Inggris
 2.  Wawancara
-
-### Lain - lain
 
 **Helpdesk** pendaftaran di Gedung H. Kartiwa Suriasaputra (Pascasarjana), Universitas Sultan Ageng Tirtayasa - Kampus Pakupatan. Telpon; [**0817738817**](https://wa.me/62817738817); [**081911106670**](https://wa.me/6281911106670)**; 08118883616; 08128558538**
 
