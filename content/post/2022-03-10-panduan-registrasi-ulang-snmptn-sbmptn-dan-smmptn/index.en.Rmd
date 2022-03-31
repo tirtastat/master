@@ -52,11 +52,13 @@ Calon Mahasiswa Baru yang sudah **dinyatakan** **Lulus lewat** jalur Seleksi Nas
 
         8.  Bukti pembayaran listrik bagi pelanggang *pascabayar* **atau** bukti pembelian token listrik bagi pelanggan *prabayar* (Asli)
 
-            Bagi pelanggan listrik 450VA yang digratiskan dan tidak memiliki bukti pembayaran bisa membuatnya di halaman [$$https://stimulus.pln.co.id/$$(https://stimulus.pln.co.id/)](https://stimulus.pln.co.id/){.uri target="_blank"} seperti pada gambar berikut.
+            Bagi pelanggan listrik 450VA yang digratiskan dan tidak memiliki bukti pembayaran bisa membuatnya di halaman [**https://stimulus.pln.co.id/**](https://stimulus.pln.co.id/){.uri target="_blank"} seperti pada gambar berikut.
 
             ![](pln.PNG)
 
-        9.  Bukti SPT Pajak Penghasilan Tahunan bagi memiliki (Asli)
+        9.  Bukti SPT Pajak Penghasilan Tahunan bagi memiliki (Asli) seperti contoh berikut.
+
+            ![](images/spt%20pribadi_crop.jpg)
 
         10. Pilih salah satu yang paling sesuai.
 
