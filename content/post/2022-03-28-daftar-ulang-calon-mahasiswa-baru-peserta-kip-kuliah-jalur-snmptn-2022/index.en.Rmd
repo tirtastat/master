@@ -144,7 +144,7 @@ thumbnail: ''
     </table>
     ```
 
-5.  Hasil Verifikasi akan diumumkan pada **13 April 2021** melalui web [**kemahasiswaan.untirta.ac.id**](https://kemahasiswaan.untirta.ac.id){target="_blank"}
+5.  Hasil Verifikasi akan diumumkan pada **13 April 2022** melalui web [**kemahasiswaan.untirta.ac.id**](https://kemahasiswaan.untirta.ac.id){target="_blank"}
 
     -   Jika **tidak diterima**, silahkan membayar UKT sesuai yang tertera di laman [**admisi.untirta.ac.id**](https://admisi.untirta.ac.id){target="_blank"}
     -   Jika **diterima**, anda tidak membayar UKT.
