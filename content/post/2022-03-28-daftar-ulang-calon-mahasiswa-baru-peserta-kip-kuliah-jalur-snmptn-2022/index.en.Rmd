@@ -16,6 +16,8 @@ thumbnail: ''
 
 1.  Wajib melakukan daftar ulang Calon Mahasiswa Baru jalur SNMPTN, **Tgl 29 Maret s.d. 08 April 2022** pada Laman : [**https://admisi.untirta.ac.id**](https://admisi.untirta.ac.id){.uri target="_blank"}
 
+    > **Selesaikan dahulu proses registrasi ulang admisi** sebelum daftar ulang di laman ini.
+
 2.  Lengkapi data pada laman [**https://kip-kuliah.kemdikbud.go.id**](https://kip-kuliah.kemdikbud.go.id){.uri target="_blank"}
 
     Lengkapi dan perbaharui semua data yang dicantumkan di laman tersebut. Contoh: alamat, nomor HP, prestasi, upload foto keluarga, foto rumah (tampak ruang keluarga)
