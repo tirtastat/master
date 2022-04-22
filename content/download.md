@@ -7,13 +7,13 @@ title: Download
 
 ## 2022
 
-| No  | Tahun | Keterangan                                                                                                                     |
-|-----|-------|--------------------------------------------------------------------------------------------------------------------------------|
-| 1   | 2022  | [**SK DAYA TAMPUNG PENERIMAAN MAHASISWA**](https://drive.google.com/file/d/1DWDHZsFYAyM3ElTXUCpeGotVGfGWWTGX/view?usp=sharing) |
-| 2\. | 2022  | [**SK HASIL SNMPTN**](https://drive.google.com/file/d/1hpMILcu1EHzqrkLfOiiME89UzAXyLa8U/view?usp=sharing)                      |
-| 3\. | 2022  | SK PENETAPAN NIM SNMPTN                                                                                                        |
-| 4\. | 2022  | [**SK PENETAPAN HASIL PASCASARJANA**](https://drive.google.com/file/d/1-phj7IyABVNJ0gZwImJtsI_-_WFco6nC/view?usp=sharing)      |
-| 5\. | 2022  | SK PENETAPAN NIM PASCASARJANA                                                                                                  |
+| No  | Tahun | Keterangan                                                                                                                      |
+|-----|-------|---------------------------------------------------------------------------------------------------------------------------------|
+| 1   | 2022  | [**SK DAYA TAMPUNG PENERIMAAN MAHASISWA**](https://drive.google.com/file/d/1DWDHZsFYAyM3ElTXUCpeGotVGfGWWTGX/view?usp=sharing)  |
+| 2\. | 2022  | [**SK HASIL SNMPTN**](https://drive.google.com/file/d/1hpMILcu1EHzqrkLfOiiME89UzAXyLa8U/view?usp=sharing)                       |
+| 3\. | 2022  | SK PENETAPAN NIM SNMPTN                                                                                                         |
+| 4\. | 2022  | [**SK PENETAPAN HASIL PASCASARJANA GEL.1**](https://drive.google.com/file/d/1-phj7IyABVNJ0gZwImJtsI_-_WFco6nC/view?usp=sharing) |
+| 5\. | 2022  | SK PENETAPAN NIM PASCASARJANA GEL.1                                                                                             |
 
 ## 2021
 
