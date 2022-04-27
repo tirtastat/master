@@ -94,9 +94,9 @@ TAHUN AKADEMIK 2022/2023
 | **Keterangan**          | **Gelombang 1**          | **Gelombang 2 (tentatif)** |
 |-------------------------|--------------------------|----------------------------|
 | Pendaftaran             | 25 Maret - 29 April 2022 | 17 Mei - 15 Juli 2022      |
-| Ujian Masuk             | 7 Mei 2022               | 30 Juli 2022               |
-| Pengumuman Hasil Ujian  | 9 Mei 2022               | 1 Agustus 2022             |
-| Pembayaran UKT dan BPIN | 10 - 20 Mei 2022         | 2 - 11 Agustus 2022        |
+| Ujian Masuk             | 10 Mei 2022              | 30 Juli 2022               |
+| Pengumuman Hasil Ujian  | 12 Mei 2022              | 1 Agustus 2022             |
+| Pembayaran UKT dan BPIN | 13 - 20 Mei 2022         | 2 - 11 Agustus 2022        |
 
 ### **MATERI UJIAN**
 
@@ -185,9 +185,9 @@ Biaya konversi setelah diterima : Rp 1.000.000,-
 
     2.  Pakta Integritas Uang Kuliah Tunggal, [**Jalur UMM D3 dan Alih Jenjang**](https://drive.google.com/file/d/1KVdwLtAwVy13ppo2aW-Qh8Gwhs2JLWt_/view?usp=sharing) (*download*, isi, *scan*, dan *upload*).
 
-    3.  Surat Pernyataan Mentaati Peraturan (*download*, isi, *scan*, dan *upload*).
+    3.  [**Surat Pernyataan Mentaati Peraturan**](https://drive.google.com/file/d/1KcB8OgHbwCVpOmQ5tBbOWvJAfmTyc6sR/view?usp=sharing) (*download*, isi, *scan*, dan *upload*).
 
-    4.  Ijazah / Surat Keterangan Lulus bagi lulusan tahun 2022 yang belum memperoleh Ijazah. (scan, upload)
+    4.  Ijazah / Surat Keterangan Lulus bagi lulusan tahun 2022 yang belum memperoleh Ijazah. **atau Surat Keterangan Kelas XII atau Kartu Peserta Ujian Sekolah** (scan, upload)
 
     5.  Akta Kelahiran (*scan* dan *upload*).
 
