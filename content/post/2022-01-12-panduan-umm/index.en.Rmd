@@ -213,9 +213,9 @@ Biaya konversi setelah diterima : Rp 1.000.000,-
 
     11. [**Surat Pernyataan Kebenaran / Keabsahan Data**](https://drive.google.com/file/d/1MFw80ubHzl9h9FIHJNGzGmkVkNfNkEQ5/view?usp=sharing) (dowload, isi, scan dan upload)
 
-    > **Pertanyaan / Isian yang bertanda bintang (\*) wajib di isi**, sedangkan untuk pertanyaan yang tidak ada tanda bintang bisa di isi jika anda mempunyai datanya atau boleh dikosongkan.
+    > **Pertanyaan / Isian yang bertanda bintang (\*) wajib di isi**, sedangkan untuk pertanyaan yang tidak ada tanda bintang bisa di isi jika anda mempunyai datanya atau boleh dikosongkan.<br>
 
-## Jadwal Ujian Tulis Berbasis Komputer (UTBK)
+## PERUBAHAN Jadwal Ujian Tulis Berbasis Komputer (UTBK)
 
 ```{=html}
 <style type="text/css">
@@ -240,7 +240,7 @@ Biaya konversi setelah diterima : Rp 1.000.000,-
 </thead>
 <tbody>
   <tr>
-    <td class="tg-0pky" rowspan="6">Gelombang 1<br>Selasa, 10 Mei 2022<br><br><br><br><br><br><span style="font-weight:bold">SESI 1</span><br></td>
+    <td class="tg-0pky" rowspan="6">Gelombang 1<br>Selasa, 10 Mei 2022<br><br><br><br><br><br><span style="font-weight:bold">SESI 1 LOKASI UNTIRTA KEPANDEAN</span><br></td>
     <td class="tg-0pky">Peserta masuk ruang ujian</td>
     <td class="tg-c3ow">07.30 - 08.00</td>
     <td class="tg-0pky" rowspan="6">KEPERAWATAN</td>
@@ -266,7 +266,7 @@ Biaya konversi setelah diterima : Rp 1.000.000,-
     <td class="tg-c3ow">12.15 - 15.00</td>
   </tr>
   <tr>
-    <td class="tg-lboi" rowspan="5"><span style="font-weight:bold">SESI 2</span></td>
+    <td class="tg-lboi" rowspan="5"><span style="font-weight:bold">SESI 2 LOKASI UNTIRTA KEPANDEAN</span></td>
     <td class="tg-0pky">Peserta masuk ruang ujian</td>
     <td class="tg-c3ow">12.30 - 13.00</td>
     <td class="tg-0pky" rowspan="5">EKONOMI</td>
@@ -290,7 +290,7 @@ Biaya konversi setelah diterima : Rp 1.000.000,-
 </tbody>
 </table>
 ```
-> Peserta wajib hadir di lokasi ujian, 90 menit sebelum ujian dilaksanakan.
+> Peserta wajib hadir di lokasi ujian, 60 menit sebelum ujian dilaksanakan.
 
 **Helpdesk** pendaftaran di Gedung Pusdainfo Lantai 1, Universitas Sultan Ageng Tirtayasa. Telpon; [**0817738817**](https://wa.me/62817738817); [**081911106670**](https://wa.me/6281911106670)
 
@@ -301,4 +301,4 @@ Email: [**pmb\@untirta.ac.id**](mailto:pmb@untirta.ac.id) dan [**humas\@untirta.
 ### Ketentuan Khusus
 
 1.  Calon mahasiswa baru yang tidak dapat memenuhi persyaratan registrasi administrasi sebagaimana yang ditetapkan dinyatakan **GUGUR**.
-2.  Biaya UKT dan IPIn yang telah dibayarkan sesuai dengan besaran yang telah ditetapkan, tidak dapat dikembalikan, kecuali jika mahasiswa yang bersangkutan telah diterima di jurusan/prodi yang ada di Universitas Sultan Ageng Tirtayasa, melalui jalur SBMPTN atau SMMPTN Barat.
+2.  Biaya UKT dan IPIn yang telah dibayarkan sesuai dengan besaran yang telah ditetapkan, tidak dapat dikembalikan sesuai dengan Pakta Integritas yang sudah disetujui diatas materai.
