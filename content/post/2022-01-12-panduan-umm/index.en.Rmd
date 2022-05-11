@@ -94,17 +94,17 @@ Mahasiswa baru jalur **alih jenjang** adalah migrasi mahasiswa lulusan D2/D3 dar
 
 ### **JADUAL PELAKSANAAN**
 
-+-------------------------+--------------------------+----------------------------+
-| **Keterangan**          | **Gelombang 1**          | **Gelombang 2 (tentatif)** |
-+=========================+==========================+============================+
-| Pendaftaran             | 25 Maret - 05 Mei 2022   | 17 Mei - 15 Juli 2022      |
-+-------------------------+--------------------------+----------------------------+
-| Ujian Masuk             | 10 Mei 2022              | 30 Juli 2022               |
-+-------------------------+--------------------------+----------------------------+
-| Pengumuman Hasil Ujian  | 12 Mei 2022              | 1 Agustus 2022             |
-+-------------------------+--------------------------+----------------------------+
-| Pembayaran UKT dan BPIN | 13 - 20 Mei 2022         | 2 - 11 Agustus 2022        |
-+-------------------------+--------------------------+----------------------------+
++-------------------------+------------------------+-----------------------+
+| **Keterangan**          | **Gelombang 1**        | **Gelombang 2**       |
++=========================+========================+=======================+
+| Pendaftaran             | 25 Maret - 05 Mei 2022 | 17 Mei - 25 Juli 2022 |
++-------------------------+------------------------+-----------------------+
+| Ujian Masuk             | 10 Mei 2022            | 30 Juli 2022          |
++-------------------------+------------------------+-----------------------+
+| Pengumuman Hasil Ujian  | 12 Mei 2022            | 1 Agustus 2022        |
++-------------------------+------------------------+-----------------------+
+| Pembayaran UKT dan BPIN | 13 - 20 Mei 2022       | 4 - 11 Agustus 2022   |
++-------------------------+------------------------+-----------------------+
 
 ### **MATERI UJIAN**
 
@@ -236,68 +236,47 @@ Biaya konversi setelah diterima : Rp 1.000.000,-
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-lboi{border-color:inherit;text-align:left;vertical-align:middle}
-.tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
-.tg .tg-7btt{border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+.tg .tg-cly1{text-align:left;vertical-align:middle}
+.tg .tg-1wig{font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-baqh{text-align:center;vertical-align:top}
+.tg .tg-0lax{text-align:left;vertical-align:top}
 </style>
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-7btt">Hari dan Tanggal</th>
-    <th class="tg-7btt">Kegiatan</th>
-    <th class="tg-7btt">Waktu (WIB)</th>
-    <th class="tg-7btt">Kelompok Ujian</th>
+    <th class="tg-1wig">Hari dan Tanggal</th>
+    <th class="tg-1wig">Kegiatan</th>
+    <th class="tg-1wig">Waktu (WIB)</th>
+    <th class="tg-1wig">Kelompok Ujian</th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-0pky" rowspan="6">Gelombang 1<br>Selasa, 10 Mei 2022<br><br><br><br><br><br><span style="font-weight:bold">SESI 1 LOKASI UNTIRTA KEPANDEAN</span><br></td>
-    <td class="tg-0pky">Peserta masuk ruang ujian</td>
-    <td class="tg-c3ow">07.30 - 08.00</td>
-    <td class="tg-0pky" rowspan="6">KEPERAWATAN</td>
+    <td class="tg-0lax" rowspan="6"><span style="font-weight:bold">Gelombang 2</span><br><br><br><span style="font-weight:bold">Minggu, 30 Juli 2022</span></td>
+    <td class="tg-0lax">Peserta masuk ruang ujian</td>
+    <td class="tg-baqh">08.25 - 08.30</td>
+    <td class="tg-cly1" rowspan="5">(1) Ekonomi<br>(2) Keperawatan<br>(3) Alih Jenjang (S1)<br></td>
   </tr>
   <tr>
-    <td class="tg-0pky">Pemeriksaan identitas dan dokumen</td>
-    <td class="tg-c3ow">08.00 - 08.10</td>
+    <td class="tg-0lax">Pemeriksaan identitas dan dokumen</td>
+    <td class="tg-baqh">08.30 - 08.40</td>
   </tr>
   <tr>
-    <td class="tg-0pky">Latihan</td>
-    <td class="tg-c3ow">08.10 - 08.30</td>
+    <td class="tg-0lax">Latihan</td>
+    <td class="tg-baqh">08.40 - 08.45</td>
   </tr>
   <tr>
-    <td class="tg-0pky">Tes Potensi Skolastik (TPS)</td>
-    <td class="tg-c3ow">08.30 - 10.45</td>
+    <td class="tg-0lax">Tes Potensi Skolastik (TPS)</td>
+    <td class="tg-baqh">08.45 - 10.30</td>
   </tr>
   <tr>
-    <td class="tg-0pky">Tes Kemampuan Akademik TKA Saintek/Soshum</td>
-    <td class="tg-c3ow">10.45 - 12.15</td>
+    <td class="tg-0lax">Tes Kemampuan Akademik (TKA) Saintek/Soshum</td>
+    <td class="tg-baqh">10.30 - 12.00</td>
   </tr>
   <tr>
-    <td class="tg-0pky">Tes Kesehatan (Kampus Kepandean)</td>
-    <td class="tg-c3ow">12.15 - 15.00</td>
-  </tr>
-  <tr>
-    <td class="tg-lboi" rowspan="5"><span style="font-weight:bold">SESI 2 LOKASI UNTIRTA KEPANDEAN</span></td>
-    <td class="tg-0pky">Peserta masuk ruang ujian</td>
-    <td class="tg-c3ow">12.30 - 13.00</td>
-    <td class="tg-0pky" rowspan="5">EKONOMI</td>
-  </tr>
-  <tr>
-    <td class="tg-0pky">Pemeriksaan identitas dan dokumen</td>
-    <td class="tg-c3ow">13.00 - 13.10</td>
-  </tr>
-  <tr>
-    <td class="tg-0pky">Latihan</td>
-    <td class="tg-c3ow">13.10 - 13.30</td>
-  </tr>
-  <tr>
-    <td class="tg-0pky">Tes Potensi Skolastik (TPS)</td>
-    <td class="tg-c3ow">13.30 - 15.45</td>
-  </tr>
-  <tr>
-    <td class="tg-0pky">Tes Kemampuan Akademik TKA Saintek/Soshum</td>
-    <td class="tg-c3ow">14.45 - 17.15</td>
+    <td class="tg-0lax">Tes Kesehatan (Kampus Kepandean)</td>
+    <td class="tg-baqh">12.30 - selesai</td>
+    <td class="tg-0lax">Khusus Keperawatan</td>
   </tr>
 </tbody>
 </table>
