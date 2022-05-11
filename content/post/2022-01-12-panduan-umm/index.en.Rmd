@@ -207,7 +207,9 @@ Biaya konversi setelah diterima : Rp 1.000.000,-
 
     8.  SPPT Pajak Bumi dan Bangunan (PBB) maximal 2 (dua) Tahun terakhir **atau** [**Surat Pernyataan tentang Luas Tanah dan Bangunan Rumah yang ditempati bagi yang tidak punya SPPT**](https://drive.google.com/file/d/1KcB8OgHbwCVpOmQ5tBbOWvJAfmTyc6sR/view?usp=sharing) (*download*, isi, *scan*, dan *upload*).
 
-    9.  Surat Keterangan Sehat, Surat Hasil Test Narkoba dari Rumah Sakit Pemerintah / BNN.
+    9.  **Untuk Kelompok Ujian Ekonomi dan Alih Jenjang (S1) Wajib Upload** Surat Keterangan Sehat, Surat Hasil Test Narkoba dari Rumah Sakit Pemerintah / BNN.
+
+        > Untuk Kelompok Ujian Keperawatan akan melakukan tes kesehatan di lokasi Tes sesuai jadwal.
 
     10. Bukti Penghasilan Ayah dan Penghasilan Ibu dengan ketentuan sebagai berikut (*scan* dan *upload*):
 
