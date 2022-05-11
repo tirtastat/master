@@ -227,7 +227,7 @@ Biaya konversi setelah diterima : Rp 1.000.000,-
 
     > **Pertanyaan / Isian yang bertanda bintang (\*) wajib di isi**, sedangkan untuk pertanyaan yang tidak ada tanda bintang bisa di isi jika anda mempunyai datanya atau boleh dikosongkan.<br>
 
-## PERUBAHAN Jadwal Ujian Tulis Berbasis Komputer (UTBK)
+## Jadwal Ujian Tulis Berbasis Komputer (UTBK) Gelombang 2
 
 ```{=html}
 <style type="text/css">
