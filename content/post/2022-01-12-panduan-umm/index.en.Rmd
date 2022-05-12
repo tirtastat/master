@@ -287,7 +287,7 @@ Biaya konversi setelah diterima : Rp 1.000.000,-
 
 ### PENGUMUMAN KELULUSAN
 
-1.  Calon mahasiswa baru dapat melihat Pengumuman Kelulusan melalui web <https://admisi.untirta.ac.id> pada tab Pengumuman
+1.  Calon mahasiswa baru dapat melihat Pengumuman Kelulusan melalui web <https://admisi.untirta.ac.id> pada tab Pengumuman, atau bisa cek SK nya di web <https://untirta.ac.id>
 
 ![](images/Tab%20Pengumuman-01.png)
 
