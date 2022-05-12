@@ -103,7 +103,7 @@ Mahasiswa baru jalur **alih jenjang** adalah migrasi mahasiswa lulusan D2/D3 dar
 +-------------------------+------------------------+-----------------------+
 | Pengumuman Hasil Ujian  | 12 Mei 2022            | 1 Agustus 2022        |
 +-------------------------+------------------------+-----------------------+
-| Pembayaran UKT dan BPIN | 13 - 20 Mei 2022       | 4 - 11 Agustus 2022   |
+| Pembayaran UKT dan BPIN | 14 - 23 Mei 2022       | 4 - 12 Agustus 2022   |
 +-------------------------+------------------------+-----------------------+
 
 ### **MATERI UJIAN**
@@ -284,6 +284,16 @@ Biaya konversi setelah diterima : Rp 1.000.000,-
 </table>
 ```
 > Peserta wajib hadir di lokasi ujian, 60 menit sebelum ujian dilaksanakan.
+
+### PENGUMUMAN KELULUSAN
+
+1.  Calon mahasiswa baru dapat melihat Pengumuman Kelulusan melalui web <https://admisi.untirta.ac.id> pada tab Pengumuman
+
+![](images/Tab%20Pengumuman-01.png)
+
+2.  Besaran UKT dapat dilihat dengan cara lgin kembali menggunakan nomor pendaftaran dan password saat pendaftaran, sesuai jadwal pembayaran.
+
+### **LAIN - LAIN**
 
 **Helpdesk** pendaftaran di Gedung Pusdainfo Lantai 1, Universitas Sultan Ageng Tirtayasa. Telpon; [**0817738817**](https://wa.me/62817738817); [**081911106670**](https://wa.me/6281911106670)
 
