@@ -94,17 +94,12 @@ Mahasiswa baru jalur **alih jenjang** adalah migrasi mahasiswa lulusan D2/D3 dar
 
 ### **JADUAL PELAKSANAAN**
 
-+-------------------------+------------------------+-----------------------+
 | **Keterangan**          | **Gelombang 1**        | **Gelombang 2**       |
-+=========================+========================+=======================+
+|-------------------------|------------------------|-----------------------|
 | Pendaftaran             | 25 Maret - 05 Mei 2022 | 17 Mei - 25 Juli 2022 |
-+-------------------------+------------------------+-----------------------+
 | Ujian Masuk             | 10 Mei 2022            | 30 Juli 2022          |
-+-------------------------+------------------------+-----------------------+
 | Pengumuman Hasil Ujian  | 12 Mei 2022            | 1 Agustus 2022        |
-+-------------------------+------------------------+-----------------------+
 | Pembayaran UKT dan BPIN | 14 - 23 Mei 2022       | 4 - 12 Agustus 2022   |
-+-------------------------+------------------------+-----------------------+
 
 ### **MATERI UJIAN**
 
@@ -142,7 +137,7 @@ Biaya konversi setelah diterima : Rp 1.000.000,-
 1.  Biaya Uang Kuliah Tunggal (UKT) sesuai dengan Keputusan Rektor Nomor: 379/UN43/KP.TM.01.03/2020 tentang Penetapan Biaya Pendaftaran, Uang Kuliah Tunggal, dan Iuran Pembangunan Institusi Bagi Mahasiswa Baru Program Sarjana Jalur Seleksi Mandiri Masuk Perguruan Tinggi Negeri Wilayah Barat Universitas Sultan Ageng Tirtayasa Tahun Akademik 2022/2023, yaitu:
 
 | No  | Kode | Program Studi         | K3          | K4          | K5          | K6          |
-|:----|:-----|:----------------------|:------------|:------------|:------------|:------------|
+|:---------|:---------|:-----------|:---------|:---------|:---------|:---------|
 | 1\. | 5501 | Akuntansi             | 3.000.000,- | 4.000.000,- | 5.500.000,- | \-          |
 | 2\. | 5502 | Manajemen Pemasaran   | 3.000.000,- | 4.000.000,- | 5.500.000,- | \-          |
 | 3\. | 5503 | Perpajakan            | 3.000.000,- | 4.000.000,- | 5.500.000,- | \-          |
@@ -292,6 +287,8 @@ Biaya konversi setelah diterima : Rp 1.000.000,-
 ![](images/Tab%20Pengumuman-01.png)
 
 2.  Besaran UKT dapat dilihat dengan cara lgin kembali menggunakan nomor pendaftaran dan password saat pendaftaran, sesuai jadwal pembayaran.
+
+3.  EMPAT (4) CARA MEMBAYAR UKT DI UNTIRTA : **https://link.untirta.ac.id/UKTuntirta**
 
 ### **LAIN - LAIN**
 
