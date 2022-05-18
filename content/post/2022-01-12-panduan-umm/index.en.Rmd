@@ -112,10 +112,6 @@ Mahasiswa baru jalur **alih jenjang** adalah migrasi mahasiswa lulusan D2/D3 dar
 | ALIH JENJANG | : Tes Potensi Skolastik (TPS)            |
 |              | : Tes Kemampuan Akademik Keilmuan (TKAK) |
 
-### **PENGUMUMAN HASIL SELEKSI**
-
-Hasil seleksi diumumkan melalui laman [**https://admisi.untirta.ac.id**](https://admisi.untirta.ac.id)atau bisa dilihat di web <https://untirta.ac.id>, <https://spmb.untirta.ac.id>
-
 **BIAYA PENDAFTARAN**
 
 Diploma Tiga dan Alih Jenjang Ekonomi : Rp 400.000,-
@@ -137,7 +133,7 @@ Biaya konversi setelah diterima : Rp 1.000.000,-
 1.  Biaya Uang Kuliah Tunggal (UKT) sesuai dengan Keputusan Rektor Nomor: 379/UN43/KP.TM.01.03/2020 tentang Penetapan Biaya Pendaftaran, Uang Kuliah Tunggal, dan Iuran Pembangunan Institusi Bagi Mahasiswa Baru Program Sarjana Jalur Seleksi Mandiri Masuk Perguruan Tinggi Negeri Wilayah Barat Universitas Sultan Ageng Tirtayasa Tahun Akademik 2022/2023, yaitu:
 
 | No  | Kode | Program Studi         | K3          | K4          | K5          | K6          |
-|:---------|:---------|:-----------|:---------|:---------|:---------|:---------|
+|:----------|:----------|:----------|:----------|:----------|:----------|:----------|
 | 1\. | 5501 | Akuntansi             | 3.000.000,- | 4.000.000,- | 5.500.000,- | \-          |
 | 2\. | 5502 | Manajemen Pemasaran   | 3.000.000,- | 4.000.000,- | 5.500.000,- | \-          |
 | 3\. | 5503 | Perpajakan            | 3.000.000,- | 4.000.000,- | 5.500.000,- | \-          |
@@ -280,6 +276,10 @@ Biaya konversi setelah diterima : Rp 1.000.000,-
 ```
 > Peserta wajib hadir di lokasi ujian, 60 menit sebelum ujian dilaksanakan.
 
+### TATA TERTIB UTBK
+
+Berikut Tata Tertib pada saat pelaksanaan Ujian Tulis Berbasis Komputer untuk Diploma Tiga dan Alih Jenjang. [**https://link.untirta.ac.id/TATATERTIB**](https://link.untirta.ac.id/TATATERTIB)
+
 ### PENGUMUMAN KELULUSAN
 
 1.  Calon mahasiswa baru dapat melihat Pengumuman Kelulusan melalui web <https://admisi.untirta.ac.id> pada tab Pengumuman, atau bisa cek SK nya di web <https://untirta.ac.id>
@@ -288,7 +288,7 @@ Biaya konversi setelah diterima : Rp 1.000.000,-
 
 2.  Besaran UKT dapat dilihat dengan cara lgin kembali menggunakan nomor pendaftaran dan password saat pendaftaran, sesuai jadwal pembayaran.
 
-3.  EMPAT (4) CARA MEMBAYAR UKT DI UNTIRTA : **https://link.untirta.ac.id/UKTuntirta**
+3.  EMPAT (4) CARA MEMBAYAR UKT DI UNTIRTA : [**https://link.untirta.ac.id/UKTuntirta**](https://link.untirta.ac.id/UKTuntirta){.uri}
 
 ### **LAIN - LAIN**
 
