@@ -19,7 +19,7 @@ Calon Mahasiswa Baru yang sudah **dinyatakan** **Lulus lewat** jalur Seleksi Nas
     | NO  | SELEKSI | REGISTRASI ULANG         | PEMBAYARAN UKT       |
     |:----|:--------|:-------------------------|:---------------------|
     | 1\. | SNMPTN  | 29 Maret - 08 April 2022 | 12 - 23 April 2022   |
-    | 2\. | SBMPTN  | 23 - 30 Juni 2022        | 01 - 08 Juli 2022    |
+    | 2\. | SBMPTN  | 23 - 30 Juni 2022        | 01 - 12 Juli 2022    |
     | 3\. | SMMPTN  | 18 - 27 Juli 2022        | 01 - 08 Agustus 2022 |
 
     ***\*) Jika ada perubahan jadwal akan kami informasikan melalui web / email.***
@@ -32,7 +32,7 @@ Calon Mahasiswa Baru yang sudah **dinyatakan** **Lulus lewat** jalur Seleksi Nas
 
     A.  **Mempersiapkan dokumen** yang harus diunggah (*upload*) dalam bentuk **pdf** atau **jpg** (**ukuran file tidak melebihi 250 KB**).
 
-        > [Dokumen-dokumen yang harus disiapkan]{.ul} :
+        > [Dokumen-dokumen yang harus disiapkan]{.underline} :
 
         1.  [**Pakta Integritas Uang Kuliah Tunggal**](https://drive.google.com/file/d/1eFAlVSPMtTBDPZJXrbRC6ETnY1eU--F7/view?usp=sharing){target="_blank"} (*download*, cetak, isi, *scan Asli*).
 
@@ -75,7 +75,7 @@ Calon Mahasiswa Baru yang sudah **dinyatakan** **Lulus lewat** jalur Seleksi Nas
         13. Surat Pemeriksaan Buta Warna dari Rumah Sakit/Klinik/Puskesmas untuk Program Studi berikut (*scan* dan *upload*) :
 
             | No.  | Program Studi                             | Keterangan                                |
-            |------|-------------------------------------------|-------------------------------------------|
+            |--------------|-----------------------------|-----------------------------|
             | 1\.  | Pendidikan Biologi                        | Tidak Boleh Buta Warna                    |
             | 2\.  | Pendidikan Guru Sekolah Dasar             | Tidak Boleh Buta Warna                    |
             | 3\.  | Pendidikan Guru Pendidikan Anak Usia Dini | Tidak Boleh Buta Warna                    |
@@ -144,7 +144,7 @@ Calon Mahasiswa Baru yang sudah **dinyatakan** **Lulus lewat** jalur Seleksi Nas
 
         > **Cetak Bukti Registrasi Online dan simpan** sebagai bukti jika dibutuhkan (tidak perlu tanda tangan petugas)
 
-    D.  **Menerima nominal UKT** yang bisa dilihat di [\<https://admisi.untirta.ac.id>](https://admisi.untirta.ac.id){.uri} menggunakan akun *username* dan *password* masing-masing sesuai jadwal pembayaran.
+    D.  **Menerima nominal UKT** yang bisa dilihat di [\<https://admisi.untirta.ac.id\>](https://admisi.untirta.ac.id){.uri} menggunakan akun *username* dan *password* masing-masing sesuai jadwal pembayaran.
 
     E.  **Melakukan Pembayaran** Uang Kuliah Tunggal (UKT) di Bank BNI seluruh Cabang Indonesia melalui *Teller* atau ATM. Tata cara pembayaran UKT bisa diakses [**di sini**](https://drive.google.com/file/d/1IIaFh62Irl6cK4EpdaTqcwOk3OMfmH8t/view?usp=sharing){target="_blank"}.
 
