@@ -17,9 +17,9 @@ Selamat datang calon mahasiswa baru Universitas Sultan Ageng Tirtayasa (Untirta)
 
 Tugas Perguruan Tinggi salah satu diantaranya adalah mencerdaskan kehidupan bangsa seperti yang telah diamanatkan oleh UUD 1945. Untuk itu dibukanya akses yang seluas-luasnya kepada masyarakat untuk masuk ke Perguruan Tinggi adalah bagian penting dari tujuan mulia tersebut.
 
-Seiring berjalannya waktu menghadapi tahun Akademik Ajaran Baru Universitas Sultan Ageng Tirtayasa kembali melaksanakan penerimaan mahasiswa baru yang dibagi kedalam 5 (lima) jalur penerimaan :
+Seiring berjalannya waktu menghadapi tahun Akademik Ajaran Baru Universitas Sultan Ageng Tirtayasa kembali melaksanakan penerimaan mahasiswa baru yang dibagi kedalam 5 (lima) jalur penerimaan, berikut link panduan tata cara registrasi ulang dan pendaftaran mahasiswa baru :
 
-> 1.  [SNMPTN](/post/2022-03-10-panduan-registrasi-ulang-snmptn-sbmptn-dan-smmptn/)**.**(Seleksi Nasional Masuk Perguruan Tinggi Negeri)
+> 1.  [SNMPTN](/post/2022-03-10-panduan-registrasi-ulang-snmptn-sbmptn-dan-smmptn/) (Seleksi Nasional Masuk Perguruan Tinggi Negeri)
 >
 > 2.  [UTBK-SBMPTN](/post/2022-03-10-panduan-registrasi-ulang-snmptn-sbmptn-dan-smmptn/) (Ujian Tulis Berbasis Komputer - Seleksi Bersama Masuk Perguruan Tinggi Negeri)
 >
