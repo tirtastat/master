@@ -35,9 +35,7 @@ Seiring berjalannya waktu menghadapi tahun Akademik Ajaran Baru Universitas Sult
 
 ![](images/hotline.jpg)
 
-![](images/Proses%20Pengajuan%20Surat%20Online.jpg)
-
-> #### Cek Layanan Hotline Fakultas / Program Studi : <https://untirta.ac.id/kontak/>
+> #### ![](images/Alur%20dan%20Syarat%20Pengajuan%20Online.png)Cek Layanan Hotline Fakultas / Program Studi : <https://untirta.ac.id/kontak/>
 
 ### Kalender Akademik :
 
