@@ -32,6 +32,7 @@ Seleksi Mandiri Jalur Akademik dan Non Akademik Untirta adalah seleksi penerimaa
 4.  Wawancara terhadap calon mahasiswa yang lolos seleksi berkas (Portofolio) (termasuk Uji keterampilan bagi prestasi cabang olah raga dan seni )  (**15 -16 Julin 2022 pukul 11:00 - 17:00 WIB**)
 5.  Pengumuman hasil seleksi (**18 Juli 2022**)
 
+#### 
 **KETENTUAN, PERSYARATAN DAN INFORMASI KHUSUS**
 
 **A. Ketentuan**
@@ -293,12 +294,12 @@ Seleksi Mandiri Jalur Akademik dan Non Akademik Untirta adalah seleksi penerimaa
 
 **KUOTA MAHASISWA**
 
-Kuota yang akan diterima melalui penenerimaan mahasiswa baru jalur mandiri prestasi khusus paling banyak 50 Orang (sains 20, olahraga seni 20, hafiz 10 )
+Kuota yang akan diterima melalui penenerimaan mahasiswa baru jalur mandiri prestasi khusus paling banyak 50 Orang.<br>
 
-#### 
+### 
 **ALUR PENDAFTARAN DAN REGISTRASI JALUR PRESTASI**
 
-![](images/ALUR%20PMB_page-0001-02.jpg)
+![](images/ALUR%20PMB_page-0001-02.jpg){width="1000"}
 
 #### TATA CARA PENDAFTARAN
 
