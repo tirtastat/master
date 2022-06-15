@@ -1,7 +1,7 @@
 ---
 title: Panduan PMB Seleksi Mandiri Jalur Prestasi Tahun 2022
 author: registrasi
-date: '2022-04-14'
+date: '2022-03-25'
 slug: []
 categories:
   - ''
