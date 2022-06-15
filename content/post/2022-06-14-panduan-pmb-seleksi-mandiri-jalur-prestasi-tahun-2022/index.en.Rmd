@@ -482,7 +482,7 @@ Kuota yang akan diterima melalui penenerimaan mahasiswa baru jalur mandiri prest
         +------+-------------------------------------------+-------------------------------------------+
         | 22\. | Ilmu Keolahragaan                         | Tidak Boleh Buta Warna                    |
         +------+-------------------------------------------+-------------------------------------------+
-        | 23\. | Keperawatan (D3 & S1)                     | Tidak Boleh Buta Warna                    |
+        | 23\. | Keperawatan                               | Tidak Boleh Buta Warna                    |
         +------+-------------------------------------------+-------------------------------------------+
 
     9.  Bukti Penghasilan Ayah dan Penghasilan Ibu dengan ketentuan sebagai berikut (*scan* dan *upload*):
