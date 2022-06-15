@@ -499,7 +499,13 @@ Kuota yang akan diterima melalui penenerimaan mahasiswa baru jalur mandiri prest
             >
             > *Penghasilan Ayah dan Ibu di isi dengan data sebenarnya dan **tidak boleh 0 (nol) semua**.*
 
-    10. [**Surat Pernyataan Kebenaran / Keabsahan Data**](https://drive.google.com/file/d/1MFw80ubHzl9h9FIHJNGzGmkVkNfNkEQ5/view?usp=sharing) (dowload, isi, scan dan upload)
+            <br>
+
+    10. **Upload Sertifikat Kejuaraan** dalam bentuk **format file pdf / zip**. Beri nama file dengan Nomor Peserta **contoh 4221107.pdf**
+
+    11. Upload Sertifikat hasil UTBK jika mempunyai.
+
+    12. [**Surat Pernyataan Kebenaran / Keabsahan Data**](https://drive.google.com/file/d/1MFw80ubHzl9h9FIHJNGzGmkVkNfNkEQ5/view?usp=sharing) (dowload, isi, scan dan upload)
 
     > **Pertanyaan / Isian yang bertanda bintang (\*) wajib di isi**, sedangkan untuk pertanyaan yang tidak ada tanda bintang bisa di isi jika anda mempunyai datanya atau boleh dikosongkan.<br>
 
