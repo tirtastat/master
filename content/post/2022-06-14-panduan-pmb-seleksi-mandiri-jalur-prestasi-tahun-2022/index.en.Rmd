@@ -110,7 +110,7 @@ Kemendikbud yaitu :
     <th class="tg-0lax">No</th>
     <th class="tg-0lax">Nama Kejuaraan/Prestasi</th>
     <th class="tg-0lax">Ketentuan</th>
-    <th class="tg-0lax">Program Studi</th>
+    <th class="tg-0lax">Program Studi (Kecuali Kedokteran dan Keperawatan, untuk Gizi  (harus IPA)</th>
   </tr>
 </thead>
 <tbody>
@@ -188,7 +188,7 @@ Kemendikbud yaitu :
     <th class="tg-0lax">No</th>
     <th class="tg-0lax">Nama Kejuaraan/Prestasi</th>
     <th class="tg-0lax">Ketentuan</th>
-    <th class="tg-0lax">Program Studi (kecuali kedokteran)</th>
+    <th class="tg-0lax">Program Studi (Kecuali kedokteran dan Keperawatan, untuk Gizi (harus IPA)</th>
   </tr>
 </thead>
 <tbody>
@@ -294,18 +294,19 @@ Kemendikbud yaitu :
 **c. Kejuaraan olah raga** yang dilaksanakan pada tingkat minimal
 nasioanal dengan cabang oleh raga :
 
-+---------------------------------+---------------------------------+
-| 1)  Atletik                     | 11) Futsal                      |
-| 2)  Renang                      | 12) Pencak silat                |
-| 3)  Bulutangkis                 | 13) Taekwondo                   |
-| 4)  Tenis lapangan              | 14) Judo                        |
-| 5)  Tenis meja                  | 15) Karate                      |
-| 6)  Sepak takraw                | 16) Hockey                      |
-| 7)  Sepak bola                  | 17) Pentaque                    |
-| 8)  Bola voli                   | 18) Kriket                      |
-| 9)  Bola voli pantai            | 19) Anggar                      |
-| 10) Basket                      | 20) Dan Cabang olahraga lainnya |
-+---------------------------------+---------------------------------+
++--------------------------------+--------------------------------+
+| 1)  Atletik                    | 11) Futsal                     |
+| 2)  Renang                     | 12) Pencak silat               |
+| 3)  Bulutangkis                | 13) Taekwondo                  |
+| 4)  Tenis lapangan             | 14) Judo                       |
+| 5)  Tenis meja                 | 15) Karate                     |
+| 6)  Sepak takraw               | 16) Hockey                     |
+| 7)  Sepak bola                 | 17) Pentaque                   |
+| 8)  Bola voli                  | 18) Kriket                     |
+| 9)  Bola voli pantai           | 19) Anggar                     |
+| 10) Basket                     | 20) Dan Cabang olahraga        |
+|                                |     lainnya                    |
++--------------------------------+--------------------------------+
 
 **Dapat memilih Prodi Ilmu Keolahragaan**
 
