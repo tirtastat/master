@@ -37,6 +37,7 @@ memperkuat Untirta dalam bidang prestasi mahasiswa.
 #### RANGKAIAN SELEKSI
 
 1.  Pendaftaran (**01 -- 08 Juli 2022**)
+    -   **Biaya Pendaftaran Rp. 350.000,-**
 2.  Seleksi Berkas (Portofolio)  (**12 -- 13 Juli 2022**)
 3.  Test UTBK (**15 Juli 2022 pukul 08:00 - 10:00 WIB**)
 4.  Wawancara terhadap calon mahasiswa yang lolos seleksi berkas
@@ -68,11 +69,10 @@ memperkuat Untirta dalam bidang prestasi mahasiswa.
 
 **A. Informasi Khusus**
 
-1.  Pendaftar dapat memilih 2 (dua) program studi (**kecuali S1
-    Kedokteran dan S1 Keperawatan**) sesuai kelompok SAINTEK dan SOSHUM
+1.  Pendaftar dapat memilih 2 (dua) sesuai kelompok SAINTEK dan SOSHUM
     dan memenuhi syarat dari masing-masing program studi.
 
-2.  Untuk Program Studi Gizi harus berasal dari SMA/MA IPA.
+2.  Untuk **Program Studi Gizi** harus berasal dari SMA/MA **IPA**.
 
 3.  Prestasi Akademik dan Non akademik merupakan kejuaraan yang
     dilaksanakan oleh :
@@ -95,304 +95,217 @@ Untirta :
 **a. Kejuaraan yang dilaksanakan** oleh Pusat Prestasi Nasional
 Kemendikbud yaitu :
 
-+-----------+----------------+-----------+----------------------------+
-| **No**    | **Nama         | **Ke      | **Program Studi**          |
-|           | Kejuar         | tentuan** |                            |
-|           | aan/Prestasi** |           |                            |
-+===========+================+===========+============================+
-| 1\.       | Kompetisi      | Peraih    | Semua Program Studi di     |
-|           | Sains Nasional | medali    | Untirta kecuali S1         |
-|           | (KSN) Pusat    | emas,     | Kedokteran dan S1          |
-|           | Prestasi       | perak,    | Keperawatan.               |
-|           | Nasional       | atau      |                            |
-|           | Kemendikbud    | perunggu  | Untuk Program Studi Gizi   |
-|           | bidang :       |           | harus berasal dari SMA/MA  |
-|           |                |           | IPA                        |
-|           | -   Matematika |           |                            |
-|           | -   Fisika     |           |                            |
-|           | -   Biologi    |           |                            |
-|           | -   Kimia      |           |                            |
-|           | -              |           |                            |
-|           |    Informatika |           |                            |
-|           | -   Astronomi  |           |                            |
-|           | -   Kebumian   |           |                            |
-|           | -   Geografi   |           |                            |
-+-----------+----------------+-----------+----------------------------+
-| 2\.       | Penelitian     | Kompetisi | Juara Katagori bidang      |
-|           | Siswa          | ini bisa  | Soshum : semua Prodi       |
-|           | Indonesia      | p         | soshum                     |
-|           | (KoPSI) oleh   | erorangan |                            |
-|           | Pusat Prestasi | atau      | Juara Katagori Bidang      |
-|           | Nasional       | kelompok  | Saintek : semua Prodi      |
-|           | Kemendikbud    | maksimal  | Saintek kecuali S1         |
-|           |                | 2 orang   | Kedokteran dan S1          |
-|           |                |           | Keperawatan.               |
-|           |                | Peraih    |                            |
-|           |                | medali    | Untuk Program Studi Gizi   |
-|           |                | emas,     | harus berasal dari SMA/MA  |
-|           |                | perak,    | IPA                        |
-|           |                | atau      |                            |
-|           |                | perunggu  |                            |
-+-----------+----------------+-----------+----------------------------+
-| 3         | Festival       | Peraih    | Juara kategori : Boga;     |
-|           | Inovasi dan    | medali    | Desain grafis; Fashion;    |
-|           | wirausahaan    | emas,     | Kriya dapat dapat memilih  |
-|           | Siswa          | perak,    | semua Prodi soshum         |
-|           | Indonesia      | atau      |                            |
-|           | (FIKSI) oleh   | perunggu  | Juara kategori Budidaya    |
-|           | Pusat Prestasi |           | dan lintas usaha dapat     |
-|           | Nasional       |           | memilih program studi      |
-|           | Kemendikbud    |           | Soshum dan sains kategori  |
-|           |                |           | Aplikasi dan games dapat   |
-|           |                |           | memilih program semua      |
-|           |                |           | program studi              |
-+-----------+----------------+-----------+----------------------------+
-| 4         | Kompetisi      | medali    | dapat memilih program      |
-|           | Olahraga Siswa | emas,     | studi Olah Raga            |
-|           | Nasional       | perak,    |                            |
-|           | (KOSN) oleh    | atau      |                            |
-|           | Pusat Prestasi | perunggu  |                            |
-|           | Nasional       |           |                            |
-|           | Kemendikbud    |           |                            |
-|           | kategori  :    |           |                            |
-|           | Karate dan     |           |                            |
-|           | Silat;         |           |                            |
-+-----------+----------------+-----------+----------------------------+
-| 5         | Festival dan   | medali    | kategori : Film pendek;    |
-|           | Lomba Seni     | emas,     | Kriya; Komik dapat memilih |
-|           | Siswa Nasional | perak,    | Ilmu Komunikasi, Seni      |
-|           | (FLS2N) oleh   | atau      | pertunjukan dan bahasa     |
-|           | Pusat Prestasi | perunggu  | Indonesia                  |
-|           | Nasional       |           |                            |
-|           | Kemendikbud    |           | kategori : Baca puisi;     |
-|           |                |           | Gitar solo; Monolog; Tari  |
-|           |                |           | kreasi; Vokal solo putra;  |
-|           |                |           | Vokal solo putri; Desain   |
-|           |                |           | poster; dapat memilih      |
-|           |                |           | program studi Seni         |
-|           |                |           | Pertunjukan , Bahasa       |
-|           |                |           | Indonesia.                 |
-+-----------+----------------+-----------+----------------------------+
-| 6         | Lomba Debat    | medali    | Dapat memilih program      |
-|           | Bahasa         | emas,     | studi ilmu sosial dan      |
-|           | Indonesia      | perak,    | humaniora.                 |
-|           | (LDBI) oleh    | atau      |                            |
-|           | Pusat Prestasi | perunggu  |                            |
-|           | Nasional       |           |                            |
-|           | Kemendikbud    |           |                            |
-+-----------+----------------+-----------+----------------------------+
-| 7         | National       | medali    | Dapat memilih program      |
-|           | Schools        | emas,     | studi ilmu sosial dan      |
-|           | Debating       | perak,    | humaniora.                 |
-|           | Championship   | atau      |                            |
-|           | (NSDC) oleh    | perunggu  |                            |
-|           | Pusat Prestasi |           |                            |
-|           | Nasional       |           |                            |
-|           | Kemendikbud    |           |                            |
-+-----------+----------------+-----------+----------------------------+
-| 8         | Lomba          | medali    | Dapat memilih program      |
-|           | Jurnalistik    | emas,     | studi ilmu sosial dan      |
-|           | Siswa          | perak,    | humaniora.                 |
-|           | Indonesia      | atau      |                            |
-|           | (LJSI) oleh    | perunggu  |                            |
-|           | Pusat Prestasi |           |                            |
-|           | Nasional       |           |                            |
-|           | Kemendikbud    |           |                            |
-+-----------+----------------+-----------+----------------------------+
-| 9         | Lomba          | Juara 1,  | kategori :                 |
-|           | Kompetensi     | 2, 3      |                            |
-|           | Siswa (LKS)    |           | -   Pemasaran daring;      |
-|           | oleh Pusat     |           | -   Web technologies;      |
-|           | Prestasi       |           | -   cnc miling;            |
-|           | Nasional       |           | -   industrial control;    |
-|           | Kemendikbud    |           | -   menchanical            |
-|           |                |           |     engineering cad;       |
-|           |                |           | -   Teknik tekstil;        |
-|           |                |           | -   automobile technology; |
-|           |                |           | -   graphic design         |
-|           |                |           |     technology;            |
-|           |                |           | -   wall and floor         |
-|           |                |           |     tilling;               |
-|           |                |           | -   plumbing and heating;  |
-|           |                |           | -   electronics;           |
-|           |                |           | -   nautika;               |
-|           |                |           | -   teknologi kecerdasan   |
-|           |                |           |     buatan;                |
-|           |                |           | -   Teknik pengukuran;     |
-|           |                |           | -   cloud computing;       |
-|           |                |           | -   restaurant service;    |
-|           |                |           | -   Cyber security;        |
-|           |                |           | -   mechatronics;          |
-|           |                |           | -   pengolahan pangan;     |
-|           |                |           | -   Teknik distribusi      |
-|           |                |           |     telekomunikasi;        |
-|           |                |           | -   industry pariwisata;   |
-|           |                |           | -    system keamanan       |
-|           |                |           |     perusahaan;            |
-|           |                |           | -   Teknik perancangan     |
-|           |                |           |     model 3 dimensi;       |
-|           |                |           | -   Teknik perawatan dan   |
-|           |                |           |     perbaikan sepeda       |
-|           |                |           |     motor;                 |
-|           |                |           | -   print media teknologi; |
-|           |                |           | -   electrical             |
-|           |                |           |     installation;          |
-|           |                |           | -   cabinetmaking;         |
-|           |                |           | -   plastic die            |
-|           |                |           |     engineering;           |
-|           |                |           | -   health and social      |
-|           |                |           |     care;                  |
-|           |                |           | -   mobile robotics;       |
-|           |                |           | -   landscape and          |
-|           |                |           |     gardening;             |
-|           |                |           | -   refrigeration and air  |
-|           |                |           |     conditioning;          |
-|           |                |           | -   it network system      |
-|           |                |           |     administration;        |
-|           |                |           | -   fashion technology;    |
-|           |                |           | -   welding; it software   |
-|           |                |           |     solution for business; |
-|           |                |           | -   teknologi peternakan;  |
-|           |                |           | -   farmasi;               |
-|           |                |           | -   cooking;               |
-|           |                |           |                            |
-|           |                |           | **\*dapat bebas memilih    |
-|           |                |           | program studi.**           |
-|           |                |           |                            |
-|           |                |           | kategori : Seni lukis;     |
-|           |                |           | hotel receptions;          |
-|           |                |           | hairdressing; dapat bebas  |
-|           |                |           | memilih program studi ilmu |
-|           |                |           | sosial dan humaniora       |
-+-----------+----------------+-----------+----------------------------+
-
+```{=html}
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-0lax">No</th>
+    <th class="tg-0lax">Nama Kejuaraan/Prestasi</th>
+    <th class="tg-0lax">Ketentuan</th>
+    <th class="tg-0lax">Program Studi</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-0lax">1.</td>
+    <td class="tg-0lax">Kompetisi Sains Nasional (KSN) Pusat Prestasi Nasional Kemendikbud  bidang :<br>Matematika<br>Fisika<br>Biologi<br>Kimia<br>Informatika<br>Astronomi<br>Kebumian<br>Geografi</td>
+    <td class="tg-0lax">Peraih medali emas, perak, atau perunggu</td>
+    <td class="tg-0lax">Semua Program Studi di Untirta kecuali S1 Kedokteran dan S1 Keperawatan.<br>Untuk Program Studi Gizi harus berasal dari SMA/MA IPA</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">2.</td>
+    <td class="tg-0lax">Penelitian Siswa Indonesia (KoPSI) oleh Pusat Prestasi Nasional Kemendikbud</td>
+    <td class="tg-0lax">Kompetisi ini bisa p erorangan atau kelompok maksimal 2 orang<br>Peraih medali emas, perak, atau perunggu</td>
+    <td class="tg-0lax">Juara Katagori bidang Soshum : semua Prodi soshum<br>Juara Katagori Bidang Saintek : semua Prodi Saintek kecuali S1 Kedokteran dan S1 Keperawatan.<br>Untuk Program Studi Gizi harus berasal dari SMA/MA IPA</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">3</td>
+    <td class="tg-0lax">Festival Inovasi dan wirausahaan Siswa Indonesia (FIKSI) oleh Pusat Prestasi Nasional Kemendikbud<br> </td>
+    <td class="tg-0lax">Peraih medali emas, perak, atau perunggu</td>
+    <td class="tg-0lax">Juara kategori : Boga; Desain grafis; Fashion; Kriya dapat dapat memilih semua Prodi soshum<br>Juara kategori Budidaya dan lintas usaha dapat memilih program studi Soshum dan sains kategori Aplikasi dan games dapat memilih program semua program studi</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">4</td>
+    <td class="tg-0lax">Kompetisi Olahraga Siswa Nasional (KOSN) oleh Pusat Prestasi Nasional Kemendikbud kategori  : Karate dan Silat;</td>
+    <td class="tg-0lax">medali emas, perak, atau perunggu</td>
+    <td class="tg-0lax">dapat memilih program studi Olah Raga</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">5</td>
+    <td class="tg-0lax">Festival dan Lomba Seni Siswa Nasional (FLS2N) oleh Pusat Prestasi Nasional Kemendikbud<br> <br> </td>
+    <td class="tg-0lax">medali emas, perak, atau perunggu</td>
+    <td class="tg-0lax">kategori : Film pendek; Kriya; Komik dapat memilih Ilmu Komunikasi, Seni pertunjukan dan bahasa Indonesia<br>kategori : Baca puisi; Gitar solo; Monolog; Tari kreasi; Vokal solo putra; Vokal solo putri; Desain poster; dapat memilih program studi Seni Pertunjukan , Bahasa Indonesia.</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">6</td>
+    <td class="tg-0lax">Lomba Debat Bahasa Indonesia (LDBI) oleh Pusat Prestasi Nasional Kemendikbud</td>
+    <td class="tg-0lax">medali emas, perak, atau perunggu</td>
+    <td class="tg-0lax">Dapat memilih program studi ilmu sosial dan humaniora.</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">7</td>
+    <td class="tg-0lax">National Schools Debating Championship (NSDC) oleh Pusat Prestasi Nasional Kemendikbud</td>
+    <td class="tg-0lax">medali emas, perak, atau perunggu</td>
+    <td class="tg-0lax">Dapat memilih program studi ilmu sosial dan humaniora.</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">8</td>
+    <td class="tg-0lax">Lomba Jurnalistik Siswa Indonesia (LJSI) oleh Pusat Prestasi Nasional Kemendikbud</td>
+    <td class="tg-0lax">medali emas, perak, atau perunggu</td>
+    <td class="tg-0lax">Dapat memilih program studi ilmu sosial dan humaniora.</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">9</td>
+    <td class="tg-0lax">Lomba Kompetensi Siswa (LKS) oleh Pusat Prestasi Nasional Kemendikbud<br> </td>
+    <td class="tg-0lax">Juara 1, 2, 3</td>
+    <td class="tg-0lax">kategori :<br>Pemasaran daring;<br>Web technologies;<br>cnc miling;<br>industrial control;<br>menchanical engineering cad;<br>Teknik tekstil;<br>automobile technology;<br>graphic design technology;<br>wall and floor tilling;<br>plumbing and heating;<br>electronics;<br>nautika;<br>teknologi kecerdasan buatan;<br>Teknik pengukuran;<br>cloud computing;<br>restaurant service;<br>Cyber security;<br>mechatronics;<br>pengolahan pangan;<br>Teknik distribusi telekomunikasi;<br>industry pariwisata;<br> system keamanan perusahaan;<br>Teknik perancangan model 3 dimensi;<br>Teknik perawatan dan perbaikan sepeda motor;<br>print media teknologi;<br>electrical installation;<br>cabinetmaking;<br>plastic die engineering;<br>health and social care;<br>mobile robotics;<br>landscape and gardening;<br>refrigeration and air conditioning;<br>it network system administration;<br>fashion technology;<br>welding; it software solution for business;<br>teknologi peternakan;<br>farmasi;<br>cooking;<br>*dapat bebas memilih program studi.<br>kategori : Seni lukis; hotel receptions; hairdressing; dapat bebas memilih program studi ilmu sosial dan humaniora</td>
+  </tr>
+</tbody>
+</table>
+```
 **b. Kejuaraan Internasional**
 
-+-------------+---------------------+--------------+------------------+
-| **No**      | **Nama              | *            | **Program Studi  |
-|             | K                   | *Ketentuan** |  (kecuali        |
-|             | ejuaraan/Prestasi** |              | kedokteran)**    |
-+-------------+---------------------+--------------+------------------+
-| 1           | Worldskills         | memiliki     | Kategori :       |
-|             | Competition         | medali emas, |                  |
-|             |                     | perak, atau  | -   Web Design,  |
-|             |                     | perunggu     | -   Electrical   |
-|             |                     |              |                  |
-|             |                     |              |    Installation, |
-|             |                     |              | -   IT Network   |
-|             |                     |              |     System       |
-|             |                     |              |                  |
-|             |                     |              |  Administration, |
-|             |                     |              | -   IT Software  |
-|             |                     |              |     Solution for |
-|             |                     |              |     Business,    |
-|             |                     |              | -   Fashion      |
-|             |                     |              |     Technology,  |
-|             |                     |              | -                |
-|             |                     |              |    Refrigeration |
-|             |                     |              |     and Air      |
-|             |                     |              |                  |
-|             |                     |              |    Conditioning, |
-|             |                     |              | -   Welding,     |
-|             |                     |              | -   Automobile   |
-|             |                     |              |     Technology   |
-|             |                     |              | -   Electronics  |
-|             |                     |              |                  |
-|             |                     |              | **\*dapat        |
-|             |                     |              | memilih semua    |
-|             |                     |              | Program studi**  |
-+-------------+---------------------+--------------+------------------+
-| 2           | International       | memiliki     | dapat memilih    |
-|             | Science Olympiads   | medali emas, | semua program    |
-|             |                     | perak, atau  | studi            |
-|             |                     | perunggu     |                  |
-+-------------+---------------------+--------------+------------------+
-| 3           | International       | memiliki     | dapat memilih    |
-|             | Mathematical        | medali emas, | semua program    |
-|             | Olympiad            | perak, atau  | studi            |
-|             |                     | perunggu     |                  |
-+-------------+---------------------+--------------+------------------+
-| 4           | International       | memiliki     | dapat memilih    |
-|             | Physics Olympiad    | medali emas, | semua program    |
-|             | (IPhO)              | perak, atau  | studi            |
-|             |                     | perunggu     |                  |
-+-------------+---------------------+--------------+------------------+
-| 5           | International       | memiliki     | dapat memilih    |
-|             | Chemistry Olympiad  | medali emas, | semua program    |
-|             | (IChO)              | perak, atau  | studi            |
-|             |                     | perunggu     |                  |
-+-------------+---------------------+--------------+------------------+
-| 6           | International       | memiliki     | dapat memilih    |
-|             | Olympiad in         | medali emas, | semua program    |
-|             | Informatics (IOI)   | perak, atau  | studi            |
-|             |                     | perunggu     |                  |
-+-------------+---------------------+--------------+------------------+
-| 7           | International       | memiliki     | dapat memilih    |
-|             | Biology Olympiad    | medali emas, | semua program    |
-|             | (IBO)               | perak, atau  | studi            |
-|             |                     | perunggu     |                  |
-+-------------+---------------------+--------------+------------------+
-| 8           | International       | memiliki     | dapat memilih    |
-|             | Astronomy Olympiad  | medali emas, | semua program    |
-|             | (IAO)               | perak, atau  | studi            |
-|             |                     | perunggu     |                  |
-+-------------+---------------------+--------------+------------------+
-| 9           | International       | memiliki     | dapat memilih    |
-|             | Junior Science      | medali emas, | semua program    |
-|             | Olympiad            | perak, atau  | studi            |
-|             |                     | perunggu     |                  |
-+-------------+---------------------+--------------+------------------+
-| 10          | International Earth | memiliki     | dapat memilih    |
-|             | Science Olympiad    | medali emas, | semua program    |
-|             |                     | perak, atau  | studi            |
-|             |                     | perunggu     |                  |
-+-------------+---------------------+--------------+------------------+
-| 11          | International       | memiliki     | dapat memilih    |
-|             | Geography Olympiad  | medali emas, | program studi    |
-|             | (iGeo)              | perak, atau  | ilmu sosial dan  |
-|             |                     | perunggu     | humaniora        |
-+-------------+---------------------+--------------+------------------+
-| 13          | International       | memiliki     | dapat memilih    |
-|             | Linguistics         | medali emas, | program studi    |
-|             | Olympiad (IOL)      | perak, atau  | ilmu sosial dan  |
-|             |                     | perunggu     | humaniora        |
-+-------------+---------------------+--------------+------------------+
-| 14          | International       | memiliki     | dapat memilih    |
-|             | Philosophy Olympiad | medali emas, | program studi    |
-|             | (IPO)               | perak, atau  | ilmu sosial dan  |
-|             |                     | perunggu     | humaniora        |
-+-------------+---------------------+--------------+------------------+
-| 15          | International       | memiliki     | dapat memilih    |
-|             | Olympiad on         | medali emas, | program studi    |
-|             | Astronomy and       | perak, atau  | ilmu sosial dan  |
-|             | Astrophysics (IOAA) | perunggu     | humaniora        |
-+-------------+---------------------+--------------+------------------+
-| 16          | International       | memiliki     | dapat memilih    |
-|             | Economics Olympiad  | medali emas, | program studi    |
-|             |                     | perak, atau  | ilmu sosial dan  |
-|             |                     | perunggu     | humaniora        |
-+-------------+---------------------+--------------+------------------+
-| 17          | Kejuaraan           | memiliki     | Dapat memilih    |
-|             | Internasional       | medali emas, | sesuai bidang    |
-|             | Lainnya             | perak, atau  | ilmunya          |
-|             |                     | perunggu     |                  |
-+-------------+---------------------+--------------+------------------+
-
+```{=html}
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-0lax">No</th>
+    <th class="tg-0lax">Nama Kejuaraan/Prestasi</th>
+    <th class="tg-0lax">Ketentuan</th>
+    <th class="tg-0lax">Program Studi (kecuali kedokteran)</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-0lax">1</td>
+    <td class="tg-0lax">Worldskills Competition<br> </td>
+    <td class="tg-0lax">memiliki medali emas, perak, atau perunggu</td>
+    <td class="tg-0lax">Kategori :<br>Web Design,<br>Electrical<br>Installation, - IT Network System<br>Administration, - IT Software Solution for Business, - Fashion Technology, - Refrigeration and Air<br>Conditioning, - Welding, - Automobile Technology - Electronics<br>*dapat memilih semua Program studi</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">2</td>
+    <td class="tg-0lax">International Science Olympiads</td>
+    <td class="tg-0lax">memiliki medali emas, perak, atau perunggu</td>
+    <td class="tg-0lax">dapat memilih semua program studi</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">3</td>
+    <td class="tg-0lax">International Mathematical Olympiad</td>
+    <td class="tg-0lax">memiliki medali emas, perak, atau perunggu</td>
+    <td class="tg-0lax">dapat memilih semua program studi</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">4</td>
+    <td class="tg-0lax">International Physics Olympiad (IPhO)</td>
+    <td class="tg-0lax">memiliki medali emas, perak, atau perunggu</td>
+    <td class="tg-0lax">dapat memilih semua program studi</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">5</td>
+    <td class="tg-0lax">International Chemistry Olympiad (IChO)</td>
+    <td class="tg-0lax">memiliki medali emas, perak, atau perunggu</td>
+    <td class="tg-0lax">dapat memilih semua program studi</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">6</td>
+    <td class="tg-0lax">International Olympiad in Informatics (IOI)</td>
+    <td class="tg-0lax">memiliki medali emas, perak, atau perunggu</td>
+    <td class="tg-0lax">dapat memilih semua program studi</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">7</td>
+    <td class="tg-0lax">International Biology Olympiad (IBO)</td>
+    <td class="tg-0lax">memiliki medali emas, perak, atau perunggu</td>
+    <td class="tg-0lax">dapat memilih semua program studi</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">8</td>
+    <td class="tg-0lax">International Astronomy Olympiad (IAO)</td>
+    <td class="tg-0lax">memiliki medali emas, perak, atau perunggu</td>
+    <td class="tg-0lax">dapat memilih semua program studi</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">9</td>
+    <td class="tg-0lax">International Junior Science Olympiad</td>
+    <td class="tg-0lax">memiliki medali emas, perak, atau perunggu</td>
+    <td class="tg-0lax">dapat memilih semua program studi</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">10</td>
+    <td class="tg-0lax">International Earth Science Olympiad</td>
+    <td class="tg-0lax">memiliki medali emas, perak, atau perunggu</td>
+    <td class="tg-0lax">dapat memilih semua program studi</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">11</td>
+    <td class="tg-0lax">International Geography Olympiad (iGeo)</td>
+    <td class="tg-0lax">memiliki medali emas, perak, atau perunggu</td>
+    <td class="tg-0lax">dapat memilih program studi ilmu sosial dan humaniora</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">13</td>
+    <td class="tg-0lax">International Linguistics Olympiad (IOL)</td>
+    <td class="tg-0lax">memiliki medali emas, perak, atau perunggu</td>
+    <td class="tg-0lax">dapat memilih program studi ilmu sosial dan humaniora</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">14</td>
+    <td class="tg-0lax">International Philosophy Olympiad (IPO)</td>
+    <td class="tg-0lax">memiliki medali emas, perak, atau perunggu</td>
+    <td class="tg-0lax">dapat memilih program studi ilmu sosial dan humaniora</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">15</td>
+    <td class="tg-0lax">International Olympiad on Astronomy and Astrophysics (IOAA)</td>
+    <td class="tg-0lax">memiliki medali emas, perak, atau perunggu</td>
+    <td class="tg-0lax">dapat memilih program studi ilmu sosial dan humaniora</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">16</td>
+    <td class="tg-0lax">International Economics Olympiad</td>
+    <td class="tg-0lax">memiliki medali emas, perak, atau perunggu</td>
+    <td class="tg-0lax">dapat memilih program studi ilmu sosial dan humaniora</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">17</td>
+    <td class="tg-0lax">Kejuaraan Internasional Lainnya</td>
+    <td class="tg-0lax">memiliki medali emas, perak, atau perunggu</td>
+    <td class="tg-0lax">Dapat memilih sesuai bidang ilmunya</td>
+  </tr>
+</tbody>
+</table>
+```
 **c. Kejuaraan olah raga** yang dilaksanakan pada tingkat minimal
 nasioanal dengan cabang oleh raga :
 
-+----------------------------------+----------------------------------+
-| 1)  Atletik                      | 11) Futsal                       |
-| 2)  Renang                       | 12) Pencak silat                 |
-| 3)  Bulutangkis                  | 13) Taekwondo                    |
-| 4)  Tenis lapangan               | 14) Judo                         |
-| 5)  Tenis meja                   | 15) Karate                       |
-| 6)  Sepak takraw                 | 16) Hockey                       |
-| 7)  Sepak bola                   | 17) Pentaque                     |
-| 8)  Bola voli                    | 18) Kriket                       |
-| 9)  Bola voli pantai             | 19) Anggar                       |
-| 10) Basket                       | 20) Dan Cabang olahraga lainnya  |
-+----------------------------------+----------------------------------+
++---------------------------------+---------------------------------+
+| 1)  Atletik                     | 11) Futsal                      |
+| 2)  Renang                      | 12) Pencak silat                |
+| 3)  Bulutangkis                 | 13) Taekwondo                   |
+| 4)  Tenis lapangan              | 14) Judo                        |
+| 5)  Tenis meja                  | 15) Karate                      |
+| 6)  Sepak takraw                | 16) Hockey                      |
+| 7)  Sepak bola                  | 17) Pentaque                    |
+| 8)  Bola voli                   | 18) Kriket                      |
+| 9)  Bola voli pantai            | 19) Anggar                      |
+| 10) Basket                      | 20) Dan Cabang olahraga lainnya |
++---------------------------------+---------------------------------+
 
 **Dapat memilih Prodi Ilmu Keolahragaan**
 
@@ -469,96 +382,268 @@ mandiri prestasi khusus paling banyak 50 Orang.<br><br>
             Prestasi**](https://drive.google.com/file/d/1aEAVe-tMrYD8RfLY425-eeBXLLTe493Z/view?usp=sharing)
             (*download*, isi, *scan*, dan *upload*).
 
-            +--------------+-------------------------+----------------------------+
-            | NO.          | PROGRAM STUDI           | IPIN (Iuran Pengembangan   |
-            |              |                         | Institusi)                 |
-            +==============+=========================+============================+
-            | 1\.          | Hukum                   | 15 juta                    |
-            +--------------+-------------------------+----------------------------+
-            | 2\.          | Bimbingan dan Konseling | 15 Juta                    |
-            +--------------+-------------------------+----------------------------+
-            | 3\.          | Pendidikan Bahasa       | 15 Juta                    |
-            |              | Inggris                 |                            |
-            +--------------+-------------------------+----------------------------+
-            | 4\.          | Pendidikan Bahasa       | 15 Juta                    |
-            |              | Indonesia               |                            |
-            +--------------+-------------------------+----------------------------+
-            | 5\.          | Pendidikan Biologi      | 20 Juta                    |
-            +--------------+-------------------------+----------------------------+
-            | 6\.          | Pendidikan Fisika       | 20 Juta                    |
-            +--------------+-------------------------+----------------------------+
-            | 7\.          | Pendidikan Guru PAUD    | 15 Juta                    |
-            +--------------+-------------------------+----------------------------+
-            | 8\.          | Pendididikan Guru SD    | 15 Juta                    |
-            +--------------+-------------------------+----------------------------+
-            | 9\.          | Pendidikan IPA          | 20 Juta                    |
-            +--------------+-------------------------+----------------------------+
-            | 10\.         | Pendidikan Kimia        | 20 Juta                    |
-            +--------------+-------------------------+----------------------------+
-            | 11\.         | Pendidikan Khusus       | 15 Juta                    |
-            +--------------+-------------------------+----------------------------+
-            | 12\.         | Pendidikan Non Formal   | 15 Juta                    |
-            +--------------+-------------------------+----------------------------+
-            | 13\.         | Pendidikan Matematika   | 20 Juta                    |
-            +--------------+-------------------------+----------------------------+
-            | 14\.         | Pendidikan PPKN         | 15 Juta                    |
-            +--------------+-------------------------+----------------------------+
-            | 15\.         | Pendidikan Sejarah      | 15 Juta                    |
-            +--------------+-------------------------+----------------------------+
-            | 16\.         | Pendidikan Seni         | 15 Juta                    |
-            |              | Pertunjukan             |                            |
-            +--------------+-------------------------+----------------------------+
-            | 17\.         | Pendidikan Sosiologi    | 15 Juta                    |
-            +--------------+-------------------------+----------------------------+
-            | 18\.         | Pendidikan Vokasi       | 20 Juta                    |
-            |              | Teknik Elektro          |                            |
-            +--------------+-------------------------+----------------------------+
-            | 19\.         | Pendidikan Vokasi       | 20 Juta                    |
-            |              | Teknik Mesin            |                            |
-            +--------------+-------------------------+----------------------------+
-            | 20\.         | Teknik Elektro          | 20 Juta                    |
-            +--------------+-------------------------+----------------------------+
-            | 21\.         | Teknik Mesin            | 20 Juta                    |
-            +--------------+-------------------------+----------------------------+
-            | 22\.         | Teknik Industri         | 20 Juta                    |
-            +--------------+-------------------------+----------------------------+
-            | 23\.         | Teknik Metalurgi        | 20 Juta                    |
-            +--------------+-------------------------+----------------------------+
-            | 24\.         | Teknik Kimia            | 20 Juta                    |
-            +--------------+-------------------------+----------------------------+
-            | 25\.         | Teknik Sipil            | 20 Juta                    |
-            +--------------+-------------------------+----------------------------+
-            | 26\.         | Informatika             | 20 Juta                    |
-            +--------------+-------------------------+----------------------------+
-            | 27\.         | Agribisnis              | 17 Juta                    |
-            +--------------+-------------------------+----------------------------+
-            | 28\.         | Agroekoteknologi        | 17 Juta                    |
-            +--------------+-------------------------+----------------------------+
-            | 29\.         | Ilmu Perikanan          | 17 Juta                    |
-            +--------------+-------------------------+----------------------------+
-            | 30\.         | Teknologi Pangan        | 17 Juta                    |
-            +--------------+-------------------------+----------------------------+
-            | 31\.         | Ilmu Kelautan           | 17 Juta                    |
-            +--------------+-------------------------+----------------------------+
-            | 32\.         | Manajemen               | 20 Juta                    |
-            +--------------+-------------------------+----------------------------+
-            | 33\.         | Akuntansi               | 20 Juta                    |
-            +--------------+-------------------------+----------------------------+
-            | 34\.         | Ilmu Ekonomi            | 20 Juta                    |
-            |              | Pembangunan             |                            |
-            +--------------+-------------------------+----------------------------+
-            | 35\.         | Ekonomi Syariah         | 20 Juta                    |
-            +--------------+-------------------------+----------------------------+
-            | 36\.         | Administrasi Publik     | 15 Juta                    |
-            +--------------+-------------------------+----------------------------+
-            | 37\.         | Ilmu Komunikasi         | 20 Juta                    |
-            +--------------+-------------------------+----------------------------+
-            | 38\.         | Ilmu Pemerintahan       | 15 Juta                    |
-            +--------------+-------------------------+----------------------------+
-            | 39\.         | Gizi                    | 25 Juta                    |
-            +--------------+-------------------------+----------------------------+
-            | 40\.         | Ilmu Keolahragaan       | 15 Juta                    |
-            +--------------+-------------------------+----------------------------+
+            ```{=html}
+            <style type="text/css">
+            .tg  {border-collapse:collapse;border-spacing:0;}
+            .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+              overflow:hidden;padding:10px 5px;word-break:normal;}
+            .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+              font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+            .tg .tg-0lax{text-align:left;vertical-align:top}
+            </style>
+            <table class="tg">
+            <thead>
+              <tr>
+                <th class="tg-0lax">NO.</th>
+                <th class="tg-0lax">PROGRAM STUDI</th>
+                <th class="tg-0lax">Kelompok</th>
+                <th class="tg-0lax">IPIN (Iuran Pengembangan Institusi)</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td class="tg-0lax">1.</td>
+                <td class="tg-0lax">Hukum</td>
+                <td class="tg-0lax">SOSHUM</td>
+                <td class="tg-0lax">15 juta</td>
+              </tr>
+              <tr>
+                <td class="tg-0lax">2.</td>
+                <td class="tg-0lax">Bimbingan dan Konseling</td>
+                <td class="tg-0lax">SOSHUM</td>
+                <td class="tg-0lax">15 Juta</td>
+              </tr>
+              <tr>
+                <td class="tg-0lax">3.</td>
+                <td class="tg-0lax">Pendidikan Bahasa Inggris</td>
+                <td class="tg-0lax">SOSHUM</td>
+                <td class="tg-0lax">15 Juta</td>
+              </tr>
+              <tr>
+                <td class="tg-0lax">4.</td>
+                <td class="tg-0lax">Pendidikan Bahasa Indonesia</td>
+                <td class="tg-0lax">SOSHUM</td>
+                <td class="tg-0lax">15 Juta</td>
+              </tr>
+              <tr>
+                <td class="tg-0lax">5.</td>
+                <td class="tg-0lax">Pendidikan Biologi</td>
+                <td class="tg-0lax">SAINTEK</td>
+                <td class="tg-0lax">20 Juta</td>
+              </tr>
+              <tr>
+                <td class="tg-0lax">6.</td>
+                <td class="tg-0lax">Pendidikan Fisika</td>
+                <td class="tg-0lax">SAINTEK</td>
+                <td class="tg-0lax">20 Juta</td>
+              </tr>
+              <tr>
+                <td class="tg-0lax">7.</td>
+                <td class="tg-0lax">Pendidikan Guru PAUD</td>
+                <td class="tg-0lax">SOSHUM</td>
+                <td class="tg-0lax">15 Juta</td>
+              </tr>
+              <tr>
+                <td class="tg-0lax">8.</td>
+                <td class="tg-0lax">Pendididikan Guru SD</td>
+                <td class="tg-0lax">SOSHUM</td>
+                <td class="tg-0lax">15 Juta</td>
+              </tr>
+              <tr>
+                <td class="tg-0lax">9.</td>
+                <td class="tg-0lax">Pendidikan IPA</td>
+                <td class="tg-0lax">SAINTEK</td>
+                <td class="tg-0lax">20 Juta</td>
+              </tr>
+              <tr>
+                <td class="tg-0lax">10.</td>
+                <td class="tg-0lax">Pendidikan Kimia</td>
+                <td class="tg-0lax">SAINTEK</td>
+                <td class="tg-0lax">20 Juta</td>
+              </tr>
+              <tr>
+                <td class="tg-0lax">11.</td>
+                <td class="tg-0lax">Pendidikan Khusus</td>
+                <td class="tg-0lax">SOSHUM</td>
+                <td class="tg-0lax">15 Juta</td>
+              </tr>
+              <tr>
+                <td class="tg-0lax">12.</td>
+                <td class="tg-0lax">Pendidikan Non Formal</td>
+                <td class="tg-0lax">SOSHUM</td>
+                <td class="tg-0lax">15 Juta</td>
+              </tr>
+              <tr>
+                <td class="tg-0lax">13.</td>
+                <td class="tg-0lax">Pendidikan Matematika</td>
+                <td class="tg-0lax">SAINTEK</td>
+                <td class="tg-0lax">20 Juta</td>
+              </tr>
+              <tr>
+                <td class="tg-0lax">14.</td>
+                <td class="tg-0lax">Pendidikan PPKN</td>
+                <td class="tg-0lax">SOSHUM</td>
+                <td class="tg-0lax">15 Juta</td>
+              </tr>
+              <tr>
+                <td class="tg-0lax">15.</td>
+                <td class="tg-0lax">Pendidikan Sejarah</td>
+                <td class="tg-0lax">SOSHUM</td>
+                <td class="tg-0lax">15 Juta</td>
+              </tr>
+              <tr>
+                <td class="tg-0lax">16.</td>
+                <td class="tg-0lax">Pendidikan Seni Pertunjukan</td>
+                <td class="tg-0lax">SOSHUM</td>
+                <td class="tg-0lax">15 Juta</td>
+              </tr>
+              <tr>
+                <td class="tg-0lax">17.</td>
+                <td class="tg-0lax">Pendidikan Sosiologi</td>
+                <td class="tg-0lax">SOSHUM</td>
+                <td class="tg-0lax">15 Juta</td>
+              </tr>
+              <tr>
+                <td class="tg-0lax">18.</td>
+                <td class="tg-0lax">Pendidikan Vokasi Teknik Elektro</td>
+                <td class="tg-0lax">SAINTEK</td>
+                <td class="tg-0lax">20 Juta</td>
+              </tr>
+              <tr>
+                <td class="tg-0lax">19.</td>
+                <td class="tg-0lax">Pendidikan Vokasi Teknik Mesin</td>
+                <td class="tg-0lax">SIANTEK</td>
+                <td class="tg-0lax">20 Juta</td>
+              </tr>
+              <tr>
+                <td class="tg-0lax">20.</td>
+                <td class="tg-0lax">Teknik Elektro</td>
+                <td class="tg-0lax">SAINTEK</td>
+                <td class="tg-0lax">20 Juta</td>
+              </tr>
+              <tr>
+                <td class="tg-0lax">21.</td>
+                <td class="tg-0lax">Teknik Mesin</td>
+                <td class="tg-0lax">SAINTEK</td>
+                <td class="tg-0lax">20 Juta</td>
+              </tr>
+              <tr>
+                <td class="tg-0lax">22.</td>
+                <td class="tg-0lax">Teknik Industri</td>
+                <td class="tg-0lax">SAINTEK</td>
+                <td class="tg-0lax">20 Juta</td>
+              </tr>
+              <tr>
+                <td class="tg-0lax">23.</td>
+                <td class="tg-0lax">Teknik Metalurgi</td>
+                <td class="tg-0lax">SAINTEK</td>
+                <td class="tg-0lax">20 Juta</td>
+              </tr>
+              <tr>
+                <td class="tg-0lax">24.</td>
+                <td class="tg-0lax">Teknik Kimia</td>
+                <td class="tg-0lax">SAINTEK</td>
+                <td class="tg-0lax">20 Juta</td>
+              </tr>
+              <tr>
+                <td class="tg-0lax">25.</td>
+                <td class="tg-0lax">Teknik Sipil</td>
+                <td class="tg-0lax">SAINTEK</td>
+                <td class="tg-0lax">20 Juta</td>
+              </tr>
+              <tr>
+                <td class="tg-0lax">26.</td>
+                <td class="tg-0lax">Informatika</td>
+                <td class="tg-0lax">SAINTEK</td>
+                <td class="tg-0lax">20 Juta</td>
+              </tr>
+              <tr>
+                <td class="tg-0lax">27.</td>
+                <td class="tg-0lax">Agribisnis</td>
+                <td class="tg-0lax">SAINTEK</td>
+                <td class="tg-0lax">17 Juta</td>
+              </tr>
+              <tr>
+                <td class="tg-0lax">28.</td>
+                <td class="tg-0lax">Agroekoteknologi</td>
+                <td class="tg-0lax">SAINTEK</td>
+                <td class="tg-0lax">17 Juta</td>
+              </tr>
+              <tr>
+                <td class="tg-0lax">29.</td>
+                <td class="tg-0lax">Ilmu Perikanan</td>
+                <td class="tg-0lax">SAINTEK</td>
+                <td class="tg-0lax">17 Juta</td>
+              </tr>
+              <tr>
+                <td class="tg-0lax">30.</td>
+                <td class="tg-0lax">Teknologi Pangan</td>
+                <td class="tg-0lax">SAINTEK</td>
+                <td class="tg-0lax">17 Juta</td>
+              </tr>
+              <tr>
+                <td class="tg-0lax">31.</td>
+                <td class="tg-0lax">Ilmu Kelautan</td>
+                <td class="tg-0lax">SAINTEK</td>
+                <td class="tg-0lax">17 Juta</td>
+              </tr>
+              <tr>
+                <td class="tg-0lax">32.</td>
+                <td class="tg-0lax">Manajemen</td>
+                <td class="tg-0lax">SOSHUM</td>
+                <td class="tg-0lax">20 Juta</td>
+              </tr>
+              <tr>
+                <td class="tg-0lax">33.</td>
+                <td class="tg-0lax">Akuntansi</td>
+                <td class="tg-0lax">SOSHUM</td>
+                <td class="tg-0lax">20 Juta</td>
+              </tr>
+              <tr>
+                <td class="tg-0lax">34.</td>
+                <td class="tg-0lax">Ilmu Ekonomi Pembangunan</td>
+                <td class="tg-0lax">SOSHUM</td>
+                <td class="tg-0lax">20 Juta</td>
+              </tr>
+              <tr>
+                <td class="tg-0lax">35.</td>
+                <td class="tg-0lax">Ekonomi Syariah</td>
+                <td class="tg-0lax">SOSHUM</td>
+                <td class="tg-0lax">20 Juta</td>
+              </tr>
+              <tr>
+                <td class="tg-0lax">36.</td>
+                <td class="tg-0lax">Administrasi Publik</td>
+                <td class="tg-0lax">SOSHUM</td>
+                <td class="tg-0lax">15 Juta</td>
+              </tr>
+              <tr>
+                <td class="tg-0lax">37.</td>
+                <td class="tg-0lax">Ilmu Komunikasi</td>
+                <td class="tg-0lax">SOSHUM</td>
+                <td class="tg-0lax">20 Juta</td>
+              </tr>
+              <tr>
+                <td class="tg-0lax">38.</td>
+                <td class="tg-0lax">Ilmu Pemerintahan</td>
+                <td class="tg-0lax">SOSHUM</td>
+                <td class="tg-0lax">15 Juta</td>
+              </tr>
+              <tr>
+                <td class="tg-0lax">39.</td>
+                <td class="tg-0lax">Gizi</td>
+                <td class="tg-0lax">SAINTEK</td>
+                <td class="tg-0lax">25 Juta</td>
+              </tr>
+              <tr>
+                <td class="tg-0lax">40.</td>
+                <td class="tg-0lax">Ilmu Keolahragaan</td>
+                <td class="tg-0lax">SAINTEK</td>
+                <td class="tg-0lax">15 Juta</td>
+              </tr>
+            </tbody>
+            </table>
+            ```
 
     2.  [**Surat Pernyataan Mentaati
         Peraturan**](https://drive.google.com/file/d/1KicWOfHIsxk0aDctxTJ0eVCwMioxHGLW/view?usp=sharing)
@@ -587,62 +672,132 @@ mandiri prestasi khusus paling banyak 50 Orang.<br><br>
 
         **Program Studi yang mensyaratkan tidak Buta Warna :**
 
-        +------------+---------------------------+---------------------------+
-        | No.        | Program Studi             | Keterangan                |
-        +============+===========================+===========================+
-        | 1\.        | Pendidikan Biologi        | Tidak Boleh Buta Warna    |
-        +------------+---------------------------+---------------------------+
-        | 2\.        | Pendidikan Guru Sekolah   | Tidak Boleh Buta Warna    |
-        |            | Dasar                     |                           |
-        +------------+---------------------------+---------------------------+
-        | 3\.        | Pendidikan Guru           | Tidak Boleh Buta Warna    |
-        |            | Pendidikan Anak Usia Dini |                           |
-        +------------+---------------------------+---------------------------+
-        | 4\.        | Pendidikan Fisika         | Tidak Boleh Buta Warna    |
-        +------------+---------------------------+---------------------------+
-        | 5\.        | Pendidikan IPA            | Tidak Boleh Buta Warna    |
-        +------------+---------------------------+---------------------------+
-        | 6\.        | Pendidikan Kimia          | Tidak Boleh Buta Warna    |
-        +------------+---------------------------+---------------------------+
-        | 7\.        | Pendidikan Vokasional     | Tidak Boleh Buta Warna    |
-        |            | Teknik Mesin              |                           |
-        +------------+---------------------------+---------------------------+
-        | 8\.        | Pendidikan Vokasional     | Tidak Boleh Buta Warna    |
-        |            | Teknik Elektro            |                           |
-        +------------+---------------------------+---------------------------+
-        | 9\.        | Bimbingan dan Konseling   | Tidak Boleh Buta Warna    |
-        +------------+---------------------------+---------------------------+
-        | 10\.       | Pendidikan Pancasila dan  | Tidak Boleh Buta Warna    |
-        |            | Kewarganegaraan           |                           |
-        +------------+---------------------------+---------------------------+
-        | 11\.       | Pendidikan Sejarah        | Tidak Boleh Buta Warna    |
-        +------------+---------------------------+---------------------------+
-        | 12\.       | Pendidikan Seni           | Tidak Boleh Buta Warna    |
-        |            | Pertunjukan               |                           |
-        +------------+---------------------------+---------------------------+
-        | 13\.       | Teknik Mesin              | Tidak Boleh Buta Warna    |
-        +------------+---------------------------+---------------------------+
-        | 14\.       | Teknik Elektro            | Tidak Boleh Buta Warna    |
-        +------------+---------------------------+---------------------------+
-        | 15\.       | Teknik Industri           | Buta Warna Sebagian /     |
-        |            |                           | Partial masih boleh       |
-        +------------+---------------------------+---------------------------+
-        | 16\.       | Teknik Metalurgi          | Tidak Boleh Buta Warna    |
-        +------------+---------------------------+---------------------------+
-        | 17\.       | Teknik Kimia              | Tidak Boleh Buta Warna    |
-        +------------+---------------------------+---------------------------+
-        | 18\.       | Teknik Sipil              | Tidak Boleh Buta Warna    |
-        +------------+---------------------------+---------------------------+
-        | 19\.       | Informatika               | Tidak Boleh Buta Warna    |
-        +------------+---------------------------+---------------------------+
-        | 20\.       | Kedokteran                | Tidak Boleh Buta Warna    |
-        +------------+---------------------------+---------------------------+
-        | 21\.       | Gizi                      | Tidak Boleh Buta Warna    |
-        +------------+---------------------------+---------------------------+
-        | 22\.       | Ilmu Keolahragaan         | Tidak Boleh Buta Warna    |
-        +------------+---------------------------+---------------------------+
-        | 23\.       | Keperawatan               | Tidak Boleh Buta Warna    |
-        +------------+---------------------------+---------------------------+
+        ```{=html}
+        <style type="text/css">
+        .tg  {border-collapse:collapse;border-spacing:0;}
+        .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+          overflow:hidden;padding:10px 5px;word-break:normal;}
+        .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+          font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+        .tg .tg-0lax{text-align:left;vertical-align:top}
+        </style>
+        <table class="tg">
+        <thead>
+          <tr>
+            <th class="tg-0lax">No.</th>
+            <th class="tg-0lax">Program Studi</th>
+            <th class="tg-0lax">Keterangan</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td class="tg-0lax">1.</td>
+            <td class="tg-0lax">Pendidikan Biologi</td>
+            <td class="tg-0lax">Tidak Boleh Buta Warna</td>
+          </tr>
+          <tr>
+            <td class="tg-0lax">2.</td>
+            <td class="tg-0lax">Pendidikan Guru Sekolah Dasar</td>
+            <td class="tg-0lax">Tidak Boleh Buta Warna</td>
+          </tr>
+          <tr>
+            <td class="tg-0lax">3.</td>
+            <td class="tg-0lax">Pendidikan Guru Pendidikan Anak Usia Dini</td>
+            <td class="tg-0lax">Tidak Boleh Buta Warna</td>
+          </tr>
+          <tr>
+            <td class="tg-0lax">4.</td>
+            <td class="tg-0lax">Pendidikan Fisika</td>
+            <td class="tg-0lax">Tidak Boleh Buta Warna</td>
+          </tr>
+          <tr>
+            <td class="tg-0lax">5.</td>
+            <td class="tg-0lax">Pendidikan IPA</td>
+            <td class="tg-0lax">Tidak Boleh Buta Warna</td>
+          </tr>
+          <tr>
+            <td class="tg-0lax">6.</td>
+            <td class="tg-0lax">Pendidikan Kimia</td>
+            <td class="tg-0lax">Tidak Boleh Buta Warna</td>
+          </tr>
+          <tr>
+            <td class="tg-0lax">7.</td>
+            <td class="tg-0lax">Pendidikan Vokasional Teknik Mesin</td>
+            <td class="tg-0lax">Tidak Boleh Buta Warna</td>
+          </tr>
+          <tr>
+            <td class="tg-0lax">8.</td>
+            <td class="tg-0lax">Pendidikan Vokasional Teknik Elektro</td>
+            <td class="tg-0lax">Tidak Boleh Buta Warna</td>
+          </tr>
+          <tr>
+            <td class="tg-0lax">9.</td>
+            <td class="tg-0lax">Bimbingan dan Konseling</td>
+            <td class="tg-0lax">Tidak Boleh Buta Warna</td>
+          </tr>
+          <tr>
+            <td class="tg-0lax">10.</td>
+            <td class="tg-0lax">Pendidikan Pancasila dan Kewarganegaraan</td>
+            <td class="tg-0lax">Tidak Boleh Buta Warna</td>
+          </tr>
+          <tr>
+            <td class="tg-0lax">11.</td>
+            <td class="tg-0lax">Pendidikan Sejarah</td>
+            <td class="tg-0lax">Tidak Boleh Buta Warna</td>
+          </tr>
+          <tr>
+            <td class="tg-0lax">12.</td>
+            <td class="tg-0lax">Pendidikan Seni Pertunjukan</td>
+            <td class="tg-0lax">Tidak Boleh Buta Warna</td>
+          </tr>
+          <tr>
+            <td class="tg-0lax">13.</td>
+            <td class="tg-0lax">Teknik Mesin</td>
+            <td class="tg-0lax">Tidak Boleh Buta Warna</td>
+          </tr>
+          <tr>
+            <td class="tg-0lax">14.</td>
+            <td class="tg-0lax">Teknik Elektro</td>
+            <td class="tg-0lax">Tidak Boleh Buta Warna</td>
+          </tr>
+          <tr>
+            <td class="tg-0lax">15.</td>
+            <td class="tg-0lax">Teknik Industri</td>
+            <td class="tg-0lax">Buta Warna Sebagian / Partial masih boleh</td>
+          </tr>
+          <tr>
+            <td class="tg-0lax">16.</td>
+            <td class="tg-0lax">Teknik Metalurgi</td>
+            <td class="tg-0lax">Tidak Boleh Buta Warna</td>
+          </tr>
+          <tr>
+            <td class="tg-0lax">17.</td>
+            <td class="tg-0lax">Teknik Kimia</td>
+            <td class="tg-0lax">Tidak Boleh Buta Warna</td>
+          </tr>
+          <tr>
+            <td class="tg-0lax">18.</td>
+            <td class="tg-0lax">Teknik Sipil</td>
+            <td class="tg-0lax">Tidak Boleh Buta Warna</td>
+          </tr>
+          <tr>
+            <td class="tg-0lax">19.</td>
+            <td class="tg-0lax">Informatika</td>
+            <td class="tg-0lax">Tidak Boleh Buta Warna</td>
+          </tr>
+          <tr>
+            <td class="tg-0lax">20.</td>
+            <td class="tg-0lax">Gizi</td>
+            <td class="tg-0lax">Tidak Boleh Buta Warna</td>
+          </tr>
+          <tr>
+            <td class="tg-0lax">21.</td>
+            <td class="tg-0lax">Ilmu Keolahragaan</td>
+            <td class="tg-0lax">Tidak Boleh Buta Warna</td>
+          </tr>
+        </tbody>
+        </table>
+        ```
 
     9.  Bukti Penghasilan Ayah dan Penghasilan Ibu dengan ketentuan
         sebagai berikut (*scan* dan *upload*):
