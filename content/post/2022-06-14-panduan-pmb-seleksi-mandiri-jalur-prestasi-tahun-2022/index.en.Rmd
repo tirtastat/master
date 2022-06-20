@@ -295,32 +295,21 @@ Kemendikbud yaitu :
 </table>
 ```
 **c. Kejuaraan olah raga** yang dilaksanakan pada tingkat minimal
-nasioanal dengan cabang oleh raga :
+nasioanal dengan cabang oleh raga **dapat memilih Prodi Ilmu
+Keolahragaan** :
 
 +-------------------------------+-------------------------------+
-| 1)  Atletik                   | 11) Futsal                    |
-| 2)  Renang                    |                               |
-| 3)  Bulutangkis               | 12) Pencak silat              |
-| 4)  Tenis lapangan            |                               |
-| 5)  Tenis meja                | 13) Taekwondo                 |
-| 6)  Sepak takraw              |                               |
-| 7)  Sepak bola                | 14) Judo                      |
-| 8)  Bola voli                 |                               |
-| 9)  Bola voli pantai          | 15) Karate                    |
-| 10) Basket                    |                               |
-|                               | 16) Hockey                    |
-|                               |                               |
-|                               | 17) Pentaque                  |
-|                               |                               |
-|                               | 18) Kriket                    |
-|                               |                               |
-|                               | 19) Anggar                    |
-|                               |                               |
-|                               | 20) Dan Cabang olahraga       |
-|                               |     lainnya                   |
-|                               |                               |
-|                               |     \*\***Dapat memilih Prodi |
-|                               |     Ilmu Keolahragaan**       |
+| Atletik                       | 11) Futsal                    |
+|                               | 12) Pencak silat              |
+| 1)  Renang                    | 13) Taekwondo                 |
+| 2)  Bulutangkis               | 14) Judo                      |
+| 3)  Tenis lapangan            | 15) Karate                    |
+| 4)  Tenis meja                | 16) Hockey                    |
+| 5)  Sepak takraw              | 17) Pentaque                  |
+| 6)  Sepak bola                | 18) Kriket                    |
+| 7)  Bola voli                 | 19) Anggar                    |
+| 8)  Bola voli pantai          | 20) Dan Cabang olahraga       |
+| 9)  Basket                    |     lainnya                   |
 +-------------------------------+-------------------------------+
 
 **d.** **Prestasi bidang Keagamaan** yang dilaksanakan pada tingkat
