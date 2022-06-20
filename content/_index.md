@@ -32,6 +32,8 @@ Seiring berjalannya waktu menghadapi tahun Akademik Ajaran Baru Universitas Sult
 >     a\. [UMM D3 & ALIH JENJANG](/post/2022-01-12-panduan-umm/)
 >
 >     b\. [UMM S2 & S3](/post/2022-01-21-penerimaan-mahasiswa-baru-pmb-pascasarjana-ta-2022-2023/)
+>
+>     c\. [UMM JALUR PRESTASI](/post/2022-06-14-panduan-pmb-seleksi-mandiri-jalur-prestasi-tahun-2022/)
 
 ![](images/hotline.jpg)
 
