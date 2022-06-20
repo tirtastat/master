@@ -72,9 +72,12 @@ memperkuat Untirta dalam bidang prestasi mahasiswa.
 1.  Pendaftar dapat memilih 2 (dua) sesuai kelompok SAINTEK dan SOSHUM
     dan memenuhi syarat dari masing-masing program studi.
 
-2.  Untuk **Program Studi Gizi** harus berasal dari SMA/MA **IPA**.
+2.  Program **Studi Kedokteran** dan **Program Studi Keperawatan** tidak
+    menerima jalur Prestasi tahun ini.
 
-3.  Prestasi Akademik dan Non akademik merupakan kejuaraan yang
+3.  Untuk **Program Studi Gizi** harus berasal dari SMA/MA **IPA**.
+
+4.  Prestasi Akademik dan Non akademik merupakan kejuaraan yang
     dilaksanakan oleh :
 
     a\. Pusat Prestasi Nasional
@@ -110,7 +113,7 @@ Kemendikbud yaitu :
     <th class="tg-0lax">No</th>
     <th class="tg-0lax">Nama Kejuaraan/Prestasi</th>
     <th class="tg-0lax">Ketentuan</th>
-    <th class="tg-0lax">Program Studi (Kecuali Kedokteran dan Keperawatan, untuk Gizi  (harus IPA)</th>
+    <th class="tg-0lax">Program Studi</th>
   </tr>
 </thead>
 <tbody>
@@ -188,7 +191,7 @@ Kemendikbud yaitu :
     <th class="tg-0lax">No</th>
     <th class="tg-0lax">Nama Kejuaraan/Prestasi</th>
     <th class="tg-0lax">Ketentuan</th>
-    <th class="tg-0lax">Program Studi (Kecuali kedokteran dan Keperawatan, untuk Gizi (harus IPA)</th>
+    <th class="tg-0lax">Program Studi</th>
   </tr>
 </thead>
 <tbody>
@@ -294,19 +297,19 @@ Kemendikbud yaitu :
 **c. Kejuaraan olah raga** yang dilaksanakan pada tingkat minimal
 nasioanal dengan cabang oleh raga :
 
-+--------------------------------+--------------------------------+
-| 1)  Atletik                    | 11) Futsal                     |
-| 2)  Renang                     | 12) Pencak silat               |
-| 3)  Bulutangkis                | 13) Taekwondo                  |
-| 4)  Tenis lapangan             | 14) Judo                       |
-| 5)  Tenis meja                 | 15) Karate                     |
-| 6)  Sepak takraw               | 16) Hockey                     |
-| 7)  Sepak bola                 | 17) Pentaque                   |
-| 8)  Bola voli                  | 18) Kriket                     |
-| 9)  Bola voli pantai           | 19) Anggar                     |
-| 10) Basket                     | 20) Dan Cabang olahraga        |
-|                                |     lainnya                    |
-+--------------------------------+--------------------------------+
++-------------------------------+-------------------------------+
+| 1)  Atletik                   | 11) Futsal                    |
+| 2)  Renang                    | 12) Pencak silat              |
+| 3)  Bulutangkis               | 13) Taekwondo                 |
+| 4)  Tenis lapangan            | 14) Judo                      |
+| 5)  Tenis meja                | 15) Karate                    |
+| 6)  Sepak takraw              | 16) Hockey                    |
+| 7)  Sepak bola                | 17) Pentaque                  |
+| 8)  Bola voli                 | 18) Kriket                    |
+| 9)  Bola voli pantai          | 19) Anggar                    |
+| 10) Basket                    | 20) Dan Cabang olahraga       |
+|                               |     lainnya                   |
++-------------------------------+-------------------------------+
 
 **Dapat memilih Prodi Ilmu Keolahragaan**
 
