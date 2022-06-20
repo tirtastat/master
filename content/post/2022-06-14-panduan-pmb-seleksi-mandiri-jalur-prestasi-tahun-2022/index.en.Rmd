@@ -299,19 +299,29 @@ nasioanal dengan cabang oleh raga :
 
 +-------------------------------+-------------------------------+
 | 1)  Atletik                   | 11) Futsal                    |
-| 2)  Renang                    | 12) Pencak silat              |
-| 3)  Bulutangkis               | 13) Taekwondo                 |
-| 4)  Tenis lapangan            | 14) Judo                      |
-| 5)  Tenis meja                | 15) Karate                    |
-| 6)  Sepak takraw              | 16) Hockey                    |
-| 7)  Sepak bola                | 17) Pentaque                  |
-| 8)  Bola voli                 | 18) Kriket                    |
-| 9)  Bola voli pantai          | 19) Anggar                    |
-| 10) Basket                    | 20) Dan Cabang olahraga       |
+| 2)  Renang                    |                               |
+| 3)  Bulutangkis               | 12) Pencak silat              |
+| 4)  Tenis lapangan            |                               |
+| 5)  Tenis meja                | 13) Taekwondo                 |
+| 6)  Sepak takraw              |                               |
+| 7)  Sepak bola                | 14) Judo                      |
+| 8)  Bola voli                 |                               |
+| 9)  Bola voli pantai          | 15) Karate                    |
+| 10) Basket                    |                               |
+|                               | 16) Hockey                    |
+|                               |                               |
+|                               | 17) Pentaque                  |
+|                               |                               |
+|                               | 18) Kriket                    |
+|                               |                               |
+|                               | 19) Anggar                    |
+|                               |                               |
+|                               | 20) Dan Cabang olahraga       |
 |                               |     lainnya                   |
+|                               |                               |
+|                               |     \*\***Dapat memilih Prodi |
+|                               |     Ilmu Keolahragaan**       |
 +-------------------------------+-------------------------------+
-
-**Dapat memilih Prodi Ilmu Keolahragaan**
 
 **d.** **Prestasi bidang Keagamaan** yang dilaksanakan pada tingkat
 minimal nasional dengan hafidz quran minimal 5 juz, dapat memilih
