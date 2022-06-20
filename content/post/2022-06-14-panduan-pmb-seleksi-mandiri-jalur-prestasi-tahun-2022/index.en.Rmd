@@ -299,17 +299,17 @@ nasioanal dengan cabang oleh raga **dapat memilih Prodi Ilmu
 Keolahragaan** :
 
 +-------------------------------+-------------------------------+
-| Atletik                       | 11) Futsal                    |
-|                               | 12) Pencak silat              |
-| 1)  Renang                    | 13) Taekwondo                 |
-| 2)  Bulutangkis               | 14) Judo                      |
-| 3)  Tenis lapangan            | 15) Karate                    |
-| 4)  Tenis meja                | 16) Hockey                    |
-| 5)  Sepak takraw              | 17) Pentaque                  |
-| 6)  Sepak bola                | 18) Kriket                    |
-| 7)  Bola voli                 | 19) Anggar                    |
-| 8)  Bola voli pantai          | 20) Dan Cabang olahraga       |
-| 9)  Basket                    |     lainnya                   |
+| 1.  Atletik                   | 11) Futsal                    |
+| 2.  Renang                    | 12) Pencak silat              |
+| 3.  Bulutangkis               | 13) Taekwondo                 |
+| 4.  Tenis lapangan            | 14) Judo                      |
+| 5.  Tenis meja                | 15) Karate                    |
+| 6.  Sepak takraw              | 16) Hockey                    |
+| 7.  Sepak bola                | 17) Pentaque                  |
+| 8.  Bola voli                 | 18) Kriket                    |
+| 9.  Bola voli pantai          | 19) Anggar                    |
+| 10. Basket                    | 20) Dan Cabang olahraga       |
+|                               |     lainnya                   |
 +-------------------------------+-------------------------------+
 
 **d.** **Prestasi bidang Keagamaan** yang dilaksanakan pada tingkat
