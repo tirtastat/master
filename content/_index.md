@@ -23,6 +23,8 @@ Seiring berjalannya waktu menghadapi tahun Akademik Ajaran Baru Universitas Sult
 >
 > 2.  [UTBK-SBMPTN](/post/2022-03-10-panduan-registrasi-ulang-snmptn-sbmptn-dan-smmptn/) (Ujian Tulis Berbasis Komputer - Seleksi Bersama Masuk Perguruan Tinggi Negeri)
 >
+>     ![](images/Pengumuman%20SBMPTN_page-0001.jpg)
+>
 > 3.  [SMMPTN BARAT](/post/2022-03-10-panduan-registrasi-ulang-snmptn-sbmptn-dan-smmptn/) (Seleksi Mandiri Masuk Perguruan Tinggi Negeri Wilayah Barat)
 >
 > 4.  [ADIK (Afirmasi Dikti)](/post/2022-03-10-panduan-registrasi-ulang-snmptn-sbmptn-dan-smmptn/)
