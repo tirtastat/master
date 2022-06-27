@@ -59,7 +59,7 @@ Calon Mahasiswa Baru yang sudah **dinyatakan** **Lulus lewat** jalur Seleksi Nas
 
             ![](pln.PNG)
 
-        9.  Bukti SPT Pajak Penghasilan Tahunan bagi memiliki (Asli) seperti contoh berikut.
+        9.  Bukti SPT Pajak Penghasilan Tahunan **bagi yang memiliki**, seperti contoh berikut. (Asli)
 
             ![](images/spt%20pribadi_crop.jpg)
 
@@ -78,7 +78,7 @@ Calon Mahasiswa Baru yang sudah **dinyatakan** **Lulus lewat** jalur Seleksi Nas
         13. Surat Pemeriksaan Buta Warna dari Rumah Sakit/Klinik/Puskesmas untuk Program Studi berikut (*scan* dan *upload*) :
 
             | No.  | Program Studi                             | Keterangan                                |
-            |-----------------|----------------------------|----------------------------|
+            |------------------|---------------------------|---------------------------|
             | 1\.  | Pendidikan Biologi                        | Tidak Boleh Buta Warna                    |
             | 2\.  | Pendidikan Guru Sekolah Dasar             | Tidak Boleh Buta Warna                    |
             | 3\.  | Pendidikan Guru Pendidikan Anak Usia Dini | Tidak Boleh Buta Warna                    |
