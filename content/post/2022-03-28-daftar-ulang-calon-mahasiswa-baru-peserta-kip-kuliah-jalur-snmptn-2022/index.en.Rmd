@@ -14,7 +14,7 @@ thumbnail: ''
 
 #### (Diumumkan oleh Kemahasiswaan -- BAKP)
 
-1.  Wajib melakukan daftar ulang Calon Mahasiswa Baru jalur SNMPTN, **Tgl 29 Maret s.d. 08 April 2022** pada Laman : [**https://admisi.untirta.ac.id**](https://admisi.untirta.ac.id){.uri target="_blank"}
+1.  Wajib melakukan daftar ulang Calon Mahasiswa Baru jalur **UTBK-SBMPTN**, **Tgl 23 s.d. 30 Juni 2022** pada Laman : [**https://admisi.untirta.ac.id**](https://admisi.untirta.ac.id){.uri target="_blank"}
 
     > **Selesaikan dahulu proses registrasi ulang admisi** sebelum daftar ulang di laman ini.
 
@@ -22,9 +22,7 @@ thumbnail: ''
 
     Lengkapi dan perbaharui semua data yang dicantumkan di laman tersebut. Contoh: alamat, nomor HP, prestasi, upload foto keluarga, foto rumah (tampak ruang keluarga)
 
-3.  Tanggal **29 Maret s.d. 08 April 2022** wajib melakukan daftar ulang Calon Mahasiswa Baru KIP Kuliah pada link [**https://link.untirta.ac.id/KIPK22**](https://link.untirta.ac.id/KIPK22){target="_blank"} serta mengupload file berukuran **tidak lebih dari 1 MB** dengan format nama file (rename): **No.SNMPTN_Nama Camaba_Jenis Data**.
-
-4.  Wawancara akan dilakukan oleh Tim Kemahasiswaan via Zoom/Whatsapp Video Call, pada **30 Maret** s.d. **08 April 2022**.
+3.  Tanggal **23 s.d. 30 Juni 2022** wajib melakukan daftar ulang Calon Mahasiswa Baru KIP Kuliah pada link [**https://link.untirta.ac.id/KIPK22**](https://link.untirta.ac.id/KIPK22){target="_blank"} serta mengupload file berukuran **tidak lebih dari 1 MB** dengan format nama file (rename): **No.SBMPTN_Nama Camaba_Jenis Data**.
 
     ```{=html}
     <style type="text/css">
@@ -146,11 +144,11 @@ thumbnail: ''
     </table>
     ```
 
-5.  Hasil Verifikasi akan diumumkan pada **13 April 2022** melalui web [**kemahasiswaan.untirta.ac.id**](https://kemahasiswaan.untirta.ac.id){target="_blank"}
+4.  Hasil Verifikasi akan diumumkan pada **06 Juli 2022** **(pukul 16:00 Wib)** melalui web [**kemahasiswaan.untirta.ac.id**](https://kemahasiswaan.untirta.ac.id){target="_blank"}
 
     -   Jika **tidak diterima**, silahkan membayar UKT sesuai yang tertera di laman [**admisi.untirta.ac.id**](https://admisi.untirta.ac.id){target="_blank"}
     -   Jika **diterima**, anda tidak membayar UKT.
 
-6.  Bergabung dengan grup Telegram : [**https://link.untirta.ac.id/TeleKIPK22**](https://link.untirta.ac.id/TeleKIPK22){target="_blank"}
+5.  Bergabung dengan grup Telegram : [**https://link.untirta.ac.id/TeleKIPK22**](https://link.untirta.ac.id/TeleKIPK22){target="_blank"}
 
-7.  Hotline Kemahasiswaan BAKP [**081210275080**](https://wa.me/6281210275080){target="_blank"}
+6.  Hotline Kemahasiswaan BAKP [**081210275080**](https://wa.me/6281210275080){target="_blank"}
