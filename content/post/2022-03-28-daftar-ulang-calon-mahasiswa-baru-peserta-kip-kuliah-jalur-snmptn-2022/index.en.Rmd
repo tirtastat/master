@@ -1,5 +1,5 @@
 ---
-title: Daftar Ulang Calon Mahasiswa Baru Peserta KIP-Kuliah Jalur SNMPTN 2022
+title: Daftar Ulang Calon Mahasiswa Baru Peserta KIP-Kuliah Jalur SBMPTN 2022
 author: kemahasiswaan
 date: '2022-03-28'
 slug: []
