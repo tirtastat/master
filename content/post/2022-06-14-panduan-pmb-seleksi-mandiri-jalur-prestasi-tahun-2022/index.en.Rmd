@@ -39,11 +39,24 @@ memperkuat Untirta dalam bidang prestasi mahasiswa.
 1.  Pendaftaran (**01 -- 08 Juli 2022**)
     -   **Biaya Pendaftaran Rp. 350.000,-**
 2.  Seleksi Berkas (Portofolio)  (**12 -- 13 Juli 2022**)
-3.  Test UTBK (**15 Juli 2022 pukul 08:00 - 10:00 WIB**)
-4.  Wawancara terhadap calon mahasiswa yang lolos seleksi berkas
-    (Portofolio) (termasuk Uji keterampilan bagi prestasi cabang olah
-    raga dan seni )  (**15 -16 Julin 2022 pukul 11:00 - 17:00 WIB**)
-5.  Pengumuman hasil seleksi (**18 Juli 2022**)
+    1.  Test UTBK (**15 Juli 2022 pukul 08:00 - 10:00 WIB**)
+
+        +--------------------------+-----------------+----------------------------------+
+        | Tanggal / Lokasi         | Waktu           | Keterangan                       |
+        +==========================+=================+==================================+
+        | 15 - 16 Juli 2022        | 08:00 - 10:00   | UTBK                             |
+        |                          |                 |                                  |
+        | Kampus Untirta Pakupatan |                 |                                  |
+        +--------------------------+-----------------+----------------------------------+
+        |                          | 11:00 - selesai | Wawancara dan Uji Keterampilan : |
+        |                          |                 |                                  |
+        |                          |                 | Bawa Dokumen Asli                |
+        |                          |                 |                                  |
+        |                          |                 | Portofolio                       |
+        |                          |                 |                                  |
+        |                          |                 | Sertifikat Prestasi              |
+        +--------------------------+-----------------+----------------------------------+
+3.  Pengumuman hasil seleksi (**18 Juli 2022**)<br><br>
 
 **KETENTUAN, PERSYARATAN DAN INFORMASI KHUSUS**
 
@@ -298,19 +311,19 @@ Kemendikbud yaitu :
 nasioanal dengan cabang oleh raga **dapat memilih Prodi Ilmu
 Keolahragaan** :
 
-+-------------------------------+-------------------------------+
-| 1.  Atletik                   | 11) Futsal                    |
-| 2.  Renang                    | 12) Pencak silat              |
-| 3.  Bulutangkis               | 13) Taekwondo                 |
-| 4.  Tenis lapangan            | 14) Judo                      |
-| 5.  Tenis meja                | 15) Karate                    |
-| 6.  Sepak takraw              | 16) Hockey                    |
-| 7.  Sepak bola                | 17) Pentaque                  |
-| 8.  Bola voli                 | 18) Kriket                    |
-| 9.  Bola voli pantai          | 19) Anggar                    |
-| 10. Basket                    | 20) Dan Cabang olahraga       |
-|                               |     lainnya                   |
-+-------------------------------+-------------------------------+
++------------------------------+------------------------------+
+| 1.  Atletik                  | 11) Futsal                   |
+| 2.  Renang                   | 12) Pencak silat             |
+| 3.  Bulutangkis              | 13) Taekwondo                |
+| 4.  Tenis lapangan           | 14) Judo                     |
+| 5.  Tenis meja               | 15) Karate                   |
+| 6.  Sepak takraw             | 16) Hockey                   |
+| 7.  Sepak bola               | 17) Pentaque                 |
+| 8.  Bola voli                | 18) Kriket                   |
+| 9.  Bola voli pantai         | 19) Anggar                   |
+| 10. Basket                   | 20) Dan Cabang olahraga      |
+|                              |     lainnya                  |
++------------------------------+------------------------------+
 
 **d.** **Prestasi bidang Keagamaan** yang dilaksanakan pada tingkat
 minimal nasional dengan hafidz quran minimal 5 juz, dapat memilih
