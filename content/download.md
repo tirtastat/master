@@ -7,19 +7,20 @@ title: Download
 
 ## 2022
 
-| No   | Tahun | Keterangan                                                                                                                          ||---------------|---------------|------------------------------------------|
+| No   | Tahun | Keterangan                                                                                                                          |
+|---------------|---------------|------------------------------------------|
 | 1    | 2022  | [**SK DAYA TAMPUNG PENERIMAAN MAHASISWA**](https://drive.google.com/file/d/1DWDHZsFYAyM3ElTXUCpeGotVGfGWWTGX/view?usp=sharing)      |
 | 2\.  | 2022  | [**SK PENETAPAN HASIL SNMPTN**](https://drive.google.com/file/d/1hpMILcu1EHzqrkLfOiiME89UzAXyLa8U/view?usp=sharing)                 |
 | 3\.  | 2022  | [**SK PENETAPAN NIM SNMPTN**](https://drive.google.com/file/d/1EAJV7j8Pchf3W5ba-4_mEmns4VHK4d7X/view?usp=sharing)                   |
 | 4\.  | 2022  | [**SK PENETAPAN HASIL SBMPTN**](https://drive.google.com/file/d/184qsQsJctTqBs18O4smTCzN5xIX95fyp/view?usp=sharing)                 |
 | 5\.  | 2022  | [**SK PENETAPAN HASIL UMM PASCASARJANA GEL.1**](https://drive.google.com/file/d/1-phj7IyABVNJ0gZwImJtsI_-_WFco6nC/view?usp=sharing) |
-|      | 2022  | SK PENETAPAN HASIL UMM PASCASARJANA GEL.2                                                                                           |
-| 6\.  | 2022  | SK PENETAPAN NIM PASCASARJANA (1&2)                                                                                                 |
-| 7\.  | 2022  | [**SK PENETAPAN HASIL UMM D3 GELOMBANG 1**](https://drive.google.com/file/d/1CvXsC6sdY-XQ859cR5jPkjWxq8X7W6QT/view?usp=sharing)     |
-| 8\.  | 2022  | SK PENETAPAN NIM UMM D3 (1&2) dan ALIH JENJANG                                                                                      |
-| 9\.  | 2022  | SK PENETAPAN PENERIMA BEASISWA ADIK                                                                                                 |
-| 10\. | 2022  | [**SK PENETAPAN HASIL SMMPTN**](https://drive.google.com/file/d/1VVXv3hKdeqeps_FMWfxUsocscPZnAL_9/view?usp=sharing)                 |
-| 11\. | 2022  | [**SK PENETAPAN HASIL JALUR PRESTASI**](https://drive.google.com/file/d/1V_QEZsKrhwFZL2trXHWFJIWt7nE8LGwS/view?usp=sharing)         |
+| 6\.  | 2022  | SK PENETAPAN HASIL UMM PASCASARJANA GEL.2                                                                                           |
+| 7\.  | 2022  | SK PENETAPAN NIM PASCASARJANA (1&2)                                                                                                 |
+| 8\.  | 2022  | [**SK PENETAPAN HASIL UMM D3 GELOMBANG 1**](https://drive.google.com/file/d/1CvXsC6sdY-XQ859cR5jPkjWxq8X7W6QT/view?usp=sharing)     |
+| 9\.  | 2022  | SK PENETAPAN NIM UMM D3 (1&2) dan ALIH JENJANG                                                                                      |
+| 10\. | 2022  | SK PENETAPAN PENERIMA BEASISWA ADIK                                                                                                 |
+| 11\. | 2022  | [**SK PENETAPAN HASIL SMMPTN**](https://drive.google.com/file/d/1VVXv3hKdeqeps_FMWfxUsocscPZnAL_9/view?usp=sharing)                 |
+| 12\. | 2022  | [**SK PENETAPAN HASIL JALUR PRESTASI**](https://drive.google.com/file/d/1V_QEZsKrhwFZL2trXHWFJIWt7nE8LGwS/view?usp=sharing)         |
 
 ## 2021
 
