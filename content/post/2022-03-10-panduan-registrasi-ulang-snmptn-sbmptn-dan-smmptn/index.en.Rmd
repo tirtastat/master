@@ -19,7 +19,7 @@ Calon Mahasiswa Baru yang sudah **dinyatakan** **Lulus lewat** jalur Seleksi Nas
 1.  Jadwal registrasi ulang\*
 
     | NO  | SELEKSI               | REGISTRASI ULANG         | PEMBAYARAN UKT           |
-    |:----------------|:----------------|:----------------------|:----------------|
+    |:----------------|:----------------|:--------------------|:----------------|
     | 1\. | SNMPTN                | 29 Maret - 08 April 2022 | 12 - 23 April 2022       |
     | 2\. | ADIK (Afirmasi Dikti) | 13 -23 Juni 2022         | \-                       |
     | 3\. | SBMPTN                | 23 - 30 Juni 2022        | 03 - 14 Juli 2022        |
@@ -142,7 +142,7 @@ Calon Mahasiswa Baru yang sudah **dinyatakan** **Lulus lewat** jalur Seleksi Nas
 
     B.  **Menunggu Username dan Password** untuk login ke laman <https://admisi.untirta.ac.id>. yang akan dikirim oleh Panitia Registrasi ke email calon mahasiswa baru.
 
-        > **Cek juga folder SPAM di email anda**, karena mungkin email dari kami masuk ke folder SPAM anda. Atau **search** email dengan judul **"Konfirmasi Pendaftaran"**.
+        > **Cek juga folder SPAM atau folder PROMOSI di email anda**, karena mungkin email dari kami masuk ke folder SPAM anda. Atau **search** email dengan judul **"Konfirmasi Pendaftaran"**.
 
     C.  **Registrasi Ulang online** melakukan pengisian data diri dan mengunggah dokumen-dokumen yang diminta secara online di laman <https://admisi.untirta.ac.id>.
 
