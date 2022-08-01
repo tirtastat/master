@@ -25,13 +25,21 @@ Seiring berjalannya waktu menghadapi tahun Akademik Ajaran Baru Universitas Sult
 >
 > 3.  [SMMPTN BARAT](/post/2022-03-10-panduan-registrasi-ulang-snmptn-sbmptn-dan-smmptn/) (Seleksi Mandiri Masuk Perguruan Tinggi Negeri Wilayah Barat)
 >
->     ![](images/WhatsApp%20Image%202022-07-18%20at%2008.29.59.jpeg)
->
 > 4.  [ADIK (Afirmasi Dikti)](/post/2022-03-10-panduan-registrasi-ulang-snmptn-sbmptn-dan-smmptn/)
 >
 > 5.  UMM (Ujian Masuk Mandiri)
 >
 >     a\. [UMM D3 & ALIH JENJANG](/post/2022-01-12-panduan-umm/)
+>
+>     ![](images/1.jpg)
+>
+>     ![](images/2.jpg)
+>
+>     ![](images/3.jpg)
+>
+>     ![](images/4.jpg)
+>
+>     ![](images/5.jpg)
 >
 >     b\. [UMM S2 & S3](/post/2022-01-21-penerimaan-mahasiswa-baru-pmb-pascasarjana-ta-2022-2023/)
 >
