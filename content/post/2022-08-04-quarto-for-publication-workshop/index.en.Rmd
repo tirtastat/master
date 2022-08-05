@@ -4,67 +4,21 @@ author: registrasi
 date: '2022-08-04'
 slug: []
 categories:
-  - ''
+  - 'software'
 tags:
   - ''
 description: ''
 thumbnail: ''
 ---
 
-## Penggunaan Software
+## Penggunaan Software Statistika
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer
-fringilla nunc a orci hendrerit porttitor. Aenean fringilla felis sem,
-et hendrerit augue sodales sit amet. Vivamus turpis arcu, porttitor a
-ante sed, eleifend lobortis ipsum. Aliquam erat volutpat. Fusce eget
-facilisis arcu, in blandit orci. Suspendisse volutpat felis ante, vel
-viverra lorem vehicula a. Pellentesque urna magna, auctor et sagittis
-in, lobortis lobortis arcu. Suspendisse rutrum dapibus diam.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer fringilla nunc a orci hendrerit porttitor. Aenean fringilla felis sem, et hendrerit augue sodales sit amet. Vivamus turpis arcu, porttitor a ante sed, eleifend lobortis ipsum. Aliquam erat volutpat. Fusce eget facilisis arcu, in blandit orci. Suspendisse volutpat felis ante, vel viverra lorem vehicula a. Pellentesque urna magna, auctor et sagittis in, lobortis lobortis arcu. Suspendisse rutrum dapibus diam.
 
-Maecenas vitae turpis accumsan, sollicitudin justo et, dictum lacus.
-Proin varius maximus metus, ac pulvinar nulla finibus vitae. Vivamus
-sagittis, erat id luctus pulvinar, enim purus aliquam orci, sit amet
-consectetur ipsum metus quis lectus. In dolor augue, ornare a cursus a,
-elementum a arcu. Quisque hendrerit lacinia velit, at interdum eros
-viverra eget. Vestibulum porta porttitor arcu a iaculis. Pellentesque
-mollis, arcu euismod pellentesque molestie, mauris nisi dictum mi, et
-sollicitudin turpis tellus nec diam. Nunc et lorem a mi facilisis
-pulvinar. Sed nec quam ut risus dignissim dictum. Donec nulla ipsum,
-ullamcorper ut blandit id, porta in tortor. Nunc metus est, lobortis eu
-risus non, volutpat faucibus nibh. Aenean turpis libero, condimentum
-feugiat mi eget, dictum posuere ex. Quisque facilisis sollicitudin
-neque, sed dignissim leo finibus non. Aenean varius erat vel sapien
-aliquet facilisis. Donec egestas risus tortor, sed convallis risus
-bibendum ut.
+Maecenas vitae turpis accumsan, sollicitudin justo et, dictum lacus. Proin varius maximus metus, ac pulvinar nulla finibus vitae. Vivamus sagittis, erat id luctus pulvinar, enim purus aliquam orci, sit amet consectetur ipsum metus quis lectus. In dolor augue, ornare a cursus a, elementum a arcu. Quisque hendrerit lacinia velit, at interdum eros viverra eget. Vestibulum porta porttitor arcu a iaculis. Pellentesque mollis, arcu euismod pellentesque molestie, mauris nisi dictum mi, et sollicitudin turpis tellus nec diam. Nunc et lorem a mi facilisis pulvinar. Sed nec quam ut risus dignissim dictum. Donec nulla ipsum, ullamcorper ut blandit id, porta in tortor. Nunc metus est, lobortis eu risus non, volutpat faucibus nibh. Aenean turpis libero, condimentum feugiat mi eget, dictum posuere ex. Quisque facilisis sollicitudin neque, sed dignissim leo finibus non. Aenean varius erat vel sapien aliquet facilisis. Donec egestas risus tortor, sed convallis risus bibendum ut.
 
-Sed in orci justo. Sed et nibh consectetur, mollis nulla ut, efficitur
-turpis. Sed facilisis mauris tortor, nec euismod dolor tempor eget.
-Phasellus efficitur porttitor tellus, fringilla fringilla nulla dictum
-vel. Phasellus non sapien nibh. Fusce eget magna ut lorem vehicula
-sagittis sit amet et neque. Aliquam sodales diam vel turpis tincidunt,
-id lobortis dolor accumsan. Suspendisse maximus ornare mi. Donec
-porttitor vestibulum velit, et mollis metus vehicula et. Nullam quis
-egestas nunc. Praesent justo elit, aliquam eu justo sit amet, suscipit
-condimentum justo. Nunc pulvinar vehicula est, eget tempor ex maximus
-vitae. Nulla pretium lacus ante, sed convallis eros varius vel. Fusce ac
-bibendum nibh.
+Sed in orci justo. Sed et nibh consectetur, mollis nulla ut, efficitur turpis. Sed facilisis mauris tortor, nec euismod dolor tempor eget. Phasellus efficitur porttitor tellus, fringilla fringilla nulla dictum vel. Phasellus non sapien nibh. Fusce eget magna ut lorem vehicula sagittis sit amet et neque. Aliquam sodales diam vel turpis tincidunt, id lobortis dolor accumsan. Suspendisse maximus ornare mi. Donec porttitor vestibulum velit, et mollis metus vehicula et. Nullam quis egestas nunc. Praesent justo elit, aliquam eu justo sit amet, suscipit condimentum justo. Nunc pulvinar vehicula est, eget tempor ex maximus vitae. Nulla pretium lacus ante, sed convallis eros varius vel. Fusce ac bibendum nibh.
 
-Cras eleifend massa id sem eleifend egestas. Etiam enim massa, tincidunt
-sed diam eget, imperdiet cursus neque. Aliquam luctus tincidunt ornare.
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean in
-efficitur enim, sed congue felis. Sed eu massa a est vehicula bibendum
-vitae sed orci. Nunc hendrerit a odio a tincidunt. Suspendisse pulvinar
-id sem quis consequat. Curabitur venenatis risus neque, in laoreet risus
-rhoncus ullamcorper. Curabitur placerat malesuada blandit. Pellentesque
-eu dolor diam.
+Cras eleifend massa id sem eleifend egestas. Etiam enim massa, tincidunt sed diam eget, imperdiet cursus neque. Aliquam luctus tincidunt ornare. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean in efficitur enim, sed congue felis. Sed eu massa a est vehicula bibendum vitae sed orci. Nunc hendrerit a odio a tincidunt. Suspendisse pulvinar id sem quis consequat. Curabitur venenatis risus neque, in laoreet risus rhoncus ullamcorper. Curabitur placerat malesuada blandit. Pellentesque eu dolor diam.
 
-Morbi vestibulum laoreet dui. Morbi blandit ut nisl semper volutpat.
-Donec odio diam, iaculis ut arcu quis, iaculis mollis lorem. Praesent
-faucibus erat maximus tempor tincidunt. Vestibulum scelerisque arcu
-vitae sapien semper accumsan. Nullam porta felis sed turpis sodales, vel
-tempor dolor ultrices. Nunc vestibulum malesuada ipsum, id pulvinar
-arcu accumsan id. Ut scelerisque elit id sapien scelerisque, eleifend
-imperdiet mi finibus. Duis vitae lacus placerat, accumsan felis a,
-eleifend quam. Donec suscipit, elit a consequat dapibus, nisl neque
-pharetra nulla, a eleifend est urna vel nisi. Aliquam egestas vel felis a
-laoreet.
+Morbi vestibulum laoreet dui. Morbi blandit ut nisl semper volutpat. Donec odio diam, iaculis ut arcu quis, iaculis mollis lorem. Praesent faucibus erat maximus tempor tincidunt. Vestibulum scelerisque arcu vitae sapien semper accumsan. Nullam porta felis sed turpis sodales, vel tempor dolor ultrices. Nunc vestibulum malesuada ipsum, id pulvinar arcu accumsan id. Ut scelerisque elit id sapien scelerisque, eleifend imperdiet mi finibus. Duis vitae lacus placerat, accumsan felis a, eleifend quam. Donec suscipit, elit a consequat dapibus, nisl neque pharetra nulla, a eleifend est urna vel nisi. Aliquam egestas vel felis a laoreet.
