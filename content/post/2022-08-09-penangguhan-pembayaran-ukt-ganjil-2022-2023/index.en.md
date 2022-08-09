@@ -22,7 +22,7 @@ Sebelum melakukan pendaftaran penangguhan UKT, mahasiswa diharapkan mencermati d
 -   Pendaftaran melalui Googleform dengan menggunakan email domain UNTIRTA **(nim\@untirta.ac.id)**. Pastikan Laptop anda atau Handphone anda tidak sedang *login* email orang lain.
 -   **Semua file yang harus diunduh terkait penangguhan UKT hanya bisa diakses menggunakan email domain \@untirta.ac.id**
 -   Pendaftaran hanya bisa dilakukan sekali dan tidak bisa diubah/edit.
--   Surat Permohonan / Pernyataan Kesanggupan Membayar harus ditandatangani oleh Orang Tua dan dilengkapi dengan Foto KTP orang tua/wali.
+-   Surat Permohonan / Pernyataan Kesanggupan Membayar harus ditandatangani oleh Orang Tua dan dilengkapi dengan Foto KTP orang tua/wali. Format Surat bisa diunduh [**di sini**](https://drive.google.com/file/d/13i8FKLXW1UClIGTlwwIc-bNzoj4f6Zi1/view?usp=sharing).
 -   Bagi Anda yang tidak mendaftar sesuai jadwal dan ketentuan otomatis akan **DICUTIKAN**.
 -   Berikut adalah alur penangguhan pembayaran UKT.
     1.  Pendaftaran: **09 - 10 Agustus 2022**
