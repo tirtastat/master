@@ -69,7 +69,7 @@ menu:
       weight: 3
     - identifier: spm
       name: SPM
-      url: https://20spm.netlify.app
+      url: https://tirtareg.github.io/20spm/
       weight: 4
     - identifier: download
       name: Download
