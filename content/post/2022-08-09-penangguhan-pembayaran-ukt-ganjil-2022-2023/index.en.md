@@ -25,7 +25,7 @@ Sebelum melakukan pendaftaran penangguhan UKT, mahasiswa diharapkan mencermati d
 -   Surat Permohonan / Pernyataan Kesanggupan Membayar harus ditandatangani oleh Orang Tua dan dilengkapi dengan Foto KTP orang tua/wali. Format Surat bisa diunduh [**di sini**](https://drive.google.com/file/d/13i8FKLXW1UClIGTlwwIc-bNzoj4f6Zi1/view?usp=sharing).
 -   Bagi Anda yang tidak mendaftar sesuai jadwal dan ketentuan otomatis akan **DICUTIKAN**.
 -   Berikut adalah alur penangguhan pembayaran UKT.
-    1.  Pendaftaran: **09 - 10 Agustus 2022**
+    1.  Pendaftaran: **09 - 12 Agustus 2022**
     2.  KRS manual: **15 - 16 Agustus 2022**
     3.  Pembayaran UKT: **01 - 05 Oktober 2022**
     4.  KRS *online*: **01 - 06 Oktober 2022**
