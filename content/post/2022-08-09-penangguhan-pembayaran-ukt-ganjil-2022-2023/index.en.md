@@ -27,9 +27,10 @@ Sebelum melakukan pendaftaran penangguhan UKT, mahasiswa diharapkan mencermati d
 -   Berikut adalah alur penangguhan pembayaran UKT.
     1.  Pendaftaran: **09 - 12 Agustus 2022**
     2.  KRS manual: **15 - 16 Agustus 2022**
-    3.  Pembayaran UKT: **01 - 05 Oktober 2022**
-    4.  KRS *online*: **01 - 06 Oktober 2022**
-    5.  Persetujuan Dosen: terakhir **07 Oktober 2022**
+    3.  KRS di rekap oleh Fakultas/Prodi dikirim ke Pusdainfo : **18 - 19 Agustus 2022**
+    4.  Pembayaran UKT: **01 - 05 Oktober 2022**
+    5.  KRS *online*: **01 - 06 Oktober 2022**
+    6.  Persetujuan Dosen: terakhir **07 Oktober 2022**
 
 Demikian informasi yang harus di patuhi dan dilaksanakan oleh mahasiswa yang ingin mengajukan penangguhan UKT semester ganjil 2022/2023. **Pendaftaran akan dibuka tanggal 09 Agustus 2022 hingga 10 Agustus 2022 Pukul 23:59 WIB.**
 
