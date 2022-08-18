@@ -19,9 +19,10 @@ Laporan ini rutin dibuat setiap semester oleh Subbagian Registrasi dan Statistik
 
 Berikut adalah laporan semester Subbagian Registrasi dan Statisik. Silahkan klik :
 
--   2021-2022 [**Ganjil**](https://212201.netlify.app) - [**Genap**](https://212202.netlify.app)
--   2020-2021 [**Ganjil**](https://202101.netlify.app)- [**Genap**](https://202102.netlify.app)
--   2019-2020 Ganjil - [**Genap**](https://192002.netlify.app)
+-   2022-2023 **Ganjil** - **Genap**
+-   2021-2022 [**Ganjil**](https://tirtareg.github.io/212201) - [**Genap**](https://tirtareg.github.io/212202)
+-   2020-2021 [**Ganjil**](https://tirtareg.github.io/202101)- [**Genap**](https://tirtareg.github.io/202102)
+-   2019-2020 Ganjil - [**Genap**](https://tirtareg.github.io/192002)
 
 ## **Penerimaan Mahasiswa Baru**
 
