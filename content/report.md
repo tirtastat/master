@@ -30,7 +30,7 @@ Tidak semua calon mahasiswa baru Universitas Sultan Ageng Tirtayasa yang lolos s
 
 Berikut adalah laporan penerimaan mahasiswa baru di setiap jalur penerimaan.
 
--   **2022 [SNMPTN](https://tirtareg.github.io/22snm)** - [**SBMPTN**](https://tirtareg.github.io/22sbm) - [**SMMPTN**](https://tirtareg.github.io/22smm) - [**MANDIRI**](https://tirtareg.github.io/22umm) - **Semua Jalur**
+-   **2022 [SNMPTN](https://tirtareg.github.io/22snm)** - [**SBMPTN**](https://tirtareg.github.io/22sbm) - [**SMMPTN**](https://tirtareg.github.io/22smm) - [**MANDIRI**](https://tirtareg.github.io/22umm) - [**Semua Jalur**](https://tirtareg.github.io/22pmb)
 -   **2021 [SNMPTN](https://tirtareg.github.io/21snm)**- [**SBMPTN**](https://tirtareg.github.io/21sbm)- [**SMMPTN**](https://tirtareg.github.io/21smm) - [**MANDIRI**](https://tirtareg.github.io/21umm) - [**Semua Jalur**](https://tirtareg.github.io/21pmb)
 -   **2020 [SNMPTN](https://tirtareg.github.io/20snm)**- [**SBMPTN**](https://tirtareg.github.io/20sbm)- [**SMMPTN**](https://tirtareg.github.io/20smm) - [**Semua Jalur**](https://tirtareg.github.io/20pmb)
 -   **2019** SNMPTN - SBMPTN - SMMPTN - Semua Jalur
