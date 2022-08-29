@@ -8,7 +8,7 @@ title: Download
 ## 2022
 
 | No   | Tahun | Keterangan                                                                                                                                         |
-|------|-------|----------------------------------------------------------------------------------------------------------------------------------------------------|
+|---------|---------|------------------------------------------------------|
 | 1    | 2022  | [**SK DAYA TAMPUNG PENERIMAAN MAHASISWA**](https://drive.google.com/file/d/1DWDHZsFYAyM3ElTXUCpeGotVGfGWWTGX/view?usp=sharing)                     |
 | 2\.  | 2022  | [**SK PENETAPAN HASIL SNMPTN**](https://drive.google.com/file/d/1hpMILcu1EHzqrkLfOiiME89UzAXyLa8U/view?usp=sharing)                                |
 | 3\.  | 2022  | [**SK PENETAPAN NIM SNMPTN**](https://drive.google.com/file/d/1EAJV7j8Pchf3W5ba-4_mEmns4VHK4d7X/view?usp=sharing)                                  |
@@ -18,18 +18,19 @@ title: Download
 | 7\.  | 2022  | [**SK PENETAPAN HASIL UMM PASCASARJANA GEL.2**](https://drive.google.com/file/d/1_Kr12K-4uU6hkQ85vWVM0F3J_s_cC09n/view?usp=sharing)                |
 | 8\.  | 2022  | [**SK PENETAPAN NIM PASCASARJANA (GELOMBANG 1&2)**](https://drive.google.com/file/d/1V0BW27J7JLsqLJb8f-CtbQKaF9r1UNN5/view?usp=sharing)            |
 | 9\.  | 2022  | [**SK PENETAPAN HASIL UMM D3 GELOMBANG 1**](https://drive.google.com/file/d/1CvXsC6sdY-XQ859cR5jPkjWxq8X7W6QT/view?usp=sharing)                    |
-| 10\. | 2022  | [**SK PENETAPAN NIM UMM D3 (GELOMBANG 1&2) dan ALIH JENJANG**](https://drive.google.com/file/d/1UvhdmJ34PHopF-NWI5fUDppdZH9_5viE/view?usp=sharing) |
-| 11\. | 2022  | [**SK PENETAPAN PENERIMA BEASISWA ADIK**](https://drive.google.com/file/d/1XdNkNZ3VCq41TRZyZkaPhjdF8UaDWr6N/view?usp=sharing)                      |
-| 12\. | 2022  | [**SK PENETAPAN NIM ADIK**](https://drive.google.com/file/d/1V4XP6RWj4DzjFv3OzcY03ff25KC267YH/view?usp=sharing)                                    |
-| 13\. | 2022  | [**SK PENETAPAN HASIL SMMPTN**](https://drive.google.com/file/d/1VVXv3hKdeqeps_FMWfxUsocscPZnAL_9/view?usp=sharing)                                |
-| 14\. | 2022  | [**SK PENETAPAN HASIL JALUR PRESTASI**](https://drive.google.com/file/d/1V_QEZsKrhwFZL2trXHWFJIWt7nE8LGwS/view?usp=sharing)                        |
-| 15\. | 2022  | [**SK PENETAPAN NIM SMMPTN & JALUR PRESTASI**](https://drive.google.com/file/d/1UsdMZ2Dx5feimt7j_QozKjAUoWz5Q-fC/view?usp=sharing)                 |
-| 16\. | 2022  | [**REKAPITULASI MABA 2022**](https://drive.google.com/file/d/1Fee4ePFIZsKlRibLhc3CWsrHn5X5n0l6/view?usp=sharing)                                   |
+| 10\. | 2022  | [**SK PENETAPAN HASIL UMM D3 GELOMBANG 2**](https://drive.google.com/file/d/1bAQxC7xqFTGFdnB4w7cVeaCGj8TBdpDN/view?usp=sharing)                    |
+| 11\. | 2022  | [**SK PENETAPAN NIM UMM D3 (GELOMBANG 1&2) dan ALIH JENJANG**](https://drive.google.com/file/d/1UvhdmJ34PHopF-NWI5fUDppdZH9_5viE/view?usp=sharing) |
+| 12\. | 2022  | [**SK PENETAPAN PENERIMA BEASISWA ADIK**](https://drive.google.com/file/d/1XdNkNZ3VCq41TRZyZkaPhjdF8UaDWr6N/view?usp=sharing)                      |
+| 13\. | 2022  | [**SK PENETAPAN NIM ADIK**](https://drive.google.com/file/d/1V4XP6RWj4DzjFv3OzcY03ff25KC267YH/view?usp=sharing)                                    |
+| 14\. | 2022  | [**SK PENETAPAN HASIL SMMPTN**](https://drive.google.com/file/d/1VVXv3hKdeqeps_FMWfxUsocscPZnAL_9/view?usp=sharing)                                |
+| 15\. | 2022  | [**SK PENETAPAN HASIL JALUR PRESTASI**](https://drive.google.com/file/d/1V_QEZsKrhwFZL2trXHWFJIWt7nE8LGwS/view?usp=sharing)                        |
+| 16\. | 2022  | [**SK PENETAPAN NIM SMMPTN & JALUR PRESTASI**](https://drive.google.com/file/d/1UsdMZ2Dx5feimt7j_QozKjAUoWz5Q-fC/view?usp=sharing)                 |
+| 17\. | 2022  | [**REKAPITULASI MABA 2022**](https://drive.google.com/file/d/1Fee4ePFIZsKlRibLhc3CWsrHn5X5n0l6/view?usp=sharing)                                   |
 
 ## 2021
 
 | No  | Tahun | Keterangan                                                                                                                                  |
-|-----|-------|---------------------------------------------------------------------------------------------------------------------------------------------|
+|---------|---------|-------------------------------------------------------|
 | 1   | 2021  | [**SK DAYA TAMPUNG PENERIMAAN MAHASISWA BARU**](https://drive.google.com/file/d/1JUA7SXk_Jh-J7yyc6tbLJs_-Cp_MzYVH/view?usp=sharing)         |
 | 2   | 2021  | [**SK HASIL SNMPTN**](https://drive.google.com/file/d/1gZ78dCnISrTGLe7aS93yaCLOviFCoI_B/view?usp=sharing "SK HASIL SNMPTN")                 |
 | 3   | 2021  | [**SK PENETAPAN NIM SNMPTN**](https://drive.google.com/file/d/1Iwmi1fL6KpHUQWtEw5K3M9oC6YDcwnR0/view?usp=sharing "SK PENETAPAN NIM SNMPTN") |
@@ -45,7 +46,7 @@ title: Download
 ## **2020**
 
 | No  | Tahun | Keterangan                                                                                                                                                                          |
-|-----|-------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|---------|---------|-------------------------------------------------------|
 | 1   | 2020  | [**SK DAYA TAMPUNG PENERIMAAN MAHASISWA BARU**](https://drive.google.com/file/d/1ivkzQcCqRRR5eCyfnpQeHmUt6zCR8MfW/view?usp=sharing "SK DAYA TAMPUNG PENERIMAAN MAHASISWA BARU")     |
 | 2   | 2020  | [**SK HASIL SNMPTN**](https://drive.google.com/file/d/1_rwzyvZeD8KKkmn4WKRJcDnv3wYp7RHY/view?usp=sharing)                                                                           |
 | 3   | 2020  | [**SK PENETAPAN NIM SNMPTN**](https://drive.google.com/file/d/1zXgfvr6WzToKRT8Ftbe2AjhbWe4VpmSr/view?usp=sharing "SK PENETAPAN NIM SNMPTN")                                         |
@@ -61,7 +62,7 @@ title: Download
 ## **2019**
 
 | No  | Tahun | Keterangan                                                                                                                                                                                       |
-|-----|-------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|--------|--------|--------------------------------------------------------|
 | 1   | 2019  | [**SK DAYA TAMPUNG PENERIMAAN MAHASISWA BARU**](https://drive.google.com/file/d/1B4_L2xE-d8Y98eyY-RmIPZrgAufaDsH1/view?usp=sharing "SK DAYA TAMPUNG PENERIMAAN MAHASISWA BARU")                  |
 | 2   | 2019  | [**SK HASIL PENGUMUMAN SNMPTN**](https://drive.google.com/file/d/1O28j64PqLOJUi8ISRiTf2JJ1qAibskEB/view?usp=sharing)                                                                             |
 | 3   | 2019  | [**SK PENETAPAN NIM SNMPTN**](https://drive.google.com/file/d/0B4KY1MhkjLm8SlNTa3FiRDJUY1VOb1B2Z1VPSmFuckMxeDNv/view?usp=sharing&resourcekey=0-rKXR73bXonAkBj5_pZGx2w "SK PENETAPAN NIM SNMPTN") |
@@ -76,7 +77,7 @@ title: Download
 ## 2018
 
 | No  | Tahun | Keterangan                                                                                                                            |
-|-----|-------|---------------------------------------------------------------------------------------------------------------------------------------|
+|---------|---------|------------------------------------------------------|
 | 1   | 2018  | [**SK DAYA TAMPUNG PENERIMAAN MAHASISWA BARU**](https://drive.google.com/file/d/1NeZl55Opti_E_fQJBpV599XyDywt17DD/view?usp=sharing)   |
 | 2   | 2018  | [**SK PENETAPAN NIM SNMPTN**](https://drive.google.com/file/d/1rFrGOJrHBspw0dnJNxE4jyPgl4XPF1LA/view?usp=sharing)                     |
 | 3   | 2019  | [**SK PENETAPAN NIM SBMPTN**](https://drive.google.com/file/d/1E212Pz6HgJ_58nWJ_fGYFYQibXhh4dqt/view?usp=sharing)                     |
@@ -88,6 +89,6 @@ title: Download
 ## 2017
 
 | No  | Tahun | Keterangan                                                                                                                          |
-|-----|-------|-------------------------------------------------------------------------------------------------------------------------------------|
+|---------|---------|------------------------------------------------------|
 | 1   | 2017  | [**SK DAYA TAMPUNG PENERIMAAN MAHASISWA BARU**](https://drive.google.com/file/d/10Za2awbPbGrQ08HElhFGTOh5D9RMcss4/view?usp=sharing) |
 | 2   | 2017  | [**REKAPITULASI MAHASISWA BARU 2017**](https://drive.google.com/file/d/1s5bXXtqWlgAhOY6ZJjU37FaqLsyE345V/view?usp=sharing)          |
