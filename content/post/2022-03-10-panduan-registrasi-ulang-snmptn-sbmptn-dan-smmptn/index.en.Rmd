@@ -17,7 +17,7 @@ Calon Mahasiswa Baru yang sudah **dinyatakan** **Lulus lewat** jalur Seleksi Nas
 1.  Jadwal registrasi ulang\*
 
     | NO  | SELEKSI               | REGISTRASI ULANG         | PEMBAYARAN UKT           |
-    |:----------------|:----------------|:------------------|:------------------|
+    |:----|:----------------------|:-------------------------|:-------------------------|
     | 1\. | SNMPTN                | 29 Maret - 08 April 2022 | 12 - 23 April 2022       |
     | 2\. | ADIK (Afirmasi Dikti) | 13 -23 Juni 2022         | \-                       |
     | 3\. | SBMPTN                | 23 - 30 Juni 2022        | 03 - 14 Juli 2022        |
@@ -77,7 +77,7 @@ Calon Mahasiswa Baru yang sudah **dinyatakan** **Lulus lewat** jalur Seleksi Nas
         13. Surat Pemeriksaan Buta Warna dari Rumah Sakit/Klinik/Puskesmas untuk Program Studi berikut (*scan* dan *upload*) :
 
             | No.  | Program Studi                             | Keterangan                                |
-            |-----------------|----------------------------|----------------------------|
+            |------|-------------------------------------------|-------------------------------------------|
             | 1\.  | Pendidikan Biologi                        | Tidak Boleh Buta Warna                    |
             | 2\.  | Pendidikan Guru Sekolah Dasar             | Tidak Boleh Buta Warna                    |
             | 3\.  | Pendidikan Guru Pendidikan Anak Usia Dini | Tidak Boleh Buta Warna                    |

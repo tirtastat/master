@@ -65,7 +65,7 @@ menu:
       weight: 2
     - identifier: dashboard
       name: Dashboard
-      url: https://tirtareg.netlify.app
+      url: https://tirtareg.github.io/webmaster/
       weight: 3
     - identifier: spm
       name: SPM
