@@ -25,7 +25,7 @@ title: Download
 | 14\. | 2022  | [**SK PENETAPAN HASIL SMMPTN**](https://drive.google.com/file/d/1VVXv3hKdeqeps_FMWfxUsocscPZnAL_9/view?usp=sharing)                                |
 | 15\. | 2022  | [**SK PENETAPAN HASIL JALUR PRESTASI**](https://drive.google.com/file/d/1V_QEZsKrhwFZL2trXHWFJIWt7nE8LGwS/view?usp=sharing)                        |
 | 16\. | 2022  | [**SK PENETAPAN NIM SMMPTN & JALUR PRESTASI**](https://drive.google.com/file/d/1UsdMZ2Dx5feimt7j_QozKjAUoWz5Q-fC/view?usp=sharing)                 |
-| 17\. | 2022  | [**REKAPITULASI MABA 2022**](https://drive.google.com/file/d/1Fee4ePFIZsKlRibLhc3CWsrHn5X5n0l6/view?usp=sharing)                                   |
+| 17\. | 2022  | [**SK REKAPITULASI MABA 2022**](https://drive.google.com/file/d/1W6HIybRdw4xa7l5nUrZk_VSZ7xPvbmEH/view?usp=sharing)                                |
 
 ## 2021
 
@@ -62,7 +62,7 @@ title: Download
 ## **2019**
 
 | No  | Tahun | Keterangan                                                                                                                                                                                       |
-|--------|--------|--------------------------------------------------------|
+|--------|--------|-------------------------------------------------------|
 | 1   | 2019  | [**SK DAYA TAMPUNG PENERIMAAN MAHASISWA BARU**](https://drive.google.com/file/d/1B4_L2xE-d8Y98eyY-RmIPZrgAufaDsH1/view?usp=sharing "SK DAYA TAMPUNG PENERIMAAN MAHASISWA BARU")                  |
 | 2   | 2019  | [**SK HASIL PENGUMUMAN SNMPTN**](https://drive.google.com/file/d/1O28j64PqLOJUi8ISRiTf2JJ1qAibskEB/view?usp=sharing)                                                                             |
 | 3   | 2019  | [**SK PENETAPAN NIM SNMPTN**](https://drive.google.com/file/d/0B4KY1MhkjLm8SlNTa3FiRDJUY1VOb1B2Z1VPSmFuckMxeDNv/view?usp=sharing&resourcekey=0-rKXR73bXonAkBj5_pZGx2w "SK PENETAPAN NIM SNMPTN") |
