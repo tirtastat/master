@@ -31,16 +31,6 @@ Seiring berjalannya waktu menghadapi tahun Akademik Ajaran Baru Universitas Sult
 >
 >     a\. [UMM D3 & ALIH JENJANG](/post/2022-01-12-panduan-umm/)
 >
->     ![](images/1.jpg)
->
->     ![](images/2.jpg)
->
->     ![](images/3.jpg)
->
->     ![](images/4.jpg)
->
->     ![](images/5.jpg)
->
 >     b\. [UMM S2 & S3](/post/2022-01-21-penerimaan-mahasiswa-baru-pmb-pascasarjana-ta-2022-2023/)
 >
 >     c\. [UMM JALUR PRESTASI](/post/2022-06-14-panduan-pmb-seleksi-mandiri-jalur-prestasi-tahun-2022/)
@@ -54,3 +44,5 @@ Seiring berjalannya waktu menghadapi tahun Akademik Ajaran Baru Universitas Sult
 1.  [Tahun Akademik 2020/2021](https://drive.google.com/file/d/1vvD9VlOBzONSaxPwMba8nN4Yn9xgQKbV/view?usp=sharing)
 2.  [Tahun Akademik 2021/2022](https://drive.google.com/file/d/1vyXeqhLnz7JPNPcIErNuFabIRxFdrxON/view?usp=sharing)
 3.  [Tahun Akademik 2022/2023](https://drive.google.com/file/d/1tEUuxYIRG-KP2izMFVBx2JybquhkyFNj/view?usp=sharing)
+
+![](images/ukt2.png)
