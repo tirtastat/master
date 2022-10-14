@@ -45,4 +45,8 @@ Seiring berjalannya waktu menghadapi tahun Akademik Ajaran Baru Universitas Sult
 2.  [Tahun Akademik 2021/2022](https://drive.google.com/file/d/1vyXeqhLnz7JPNPcIErNuFabIRxFdrxON/view?usp=sharing)
 3.  [Tahun Akademik 2022/2023](https://drive.google.com/file/d/1tEUuxYIRG-KP2izMFVBx2JybquhkyFNj/view?usp=sharing)
 
+![](images/paste-64791ECA.png)
+
+[Download Panduan e-KTM UNTIRTA](https://drive.google.com/file/d/1c1eCCzoSwOsRZtUxFCYEtWNxcwl2NFKR/view?usp=sharing)
+
 ![](images/ukt2.png)
