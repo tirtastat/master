@@ -37,6 +37,8 @@ Seiring berjalannya waktu menghadapi tahun Akademik Ajaran Baru Universitas Sult
 
 ![](images/hotline.jpg)
 
+> **\*\*) [PERMEN NO.194 TAHUN 2019 TENTANG BKT DAN UKT DI UNTIRTA](https://drive.google.com/file/d/1eqmhH4cpcsD9de3W_tepZTlALO71pM7a/view?usp=share_link)**
+>
 > #### ![](images/Alur%20dan%20Syarat%20Pengajuan%20Online.png)Cek Layanan Hotline Fakultas / Program Studi : <https://untirta.ac.id/kontak/>
 
 ### Kalender Akademik :
@@ -48,5 +50,3 @@ Seiring berjalannya waktu menghadapi tahun Akademik Ajaran Baru Universitas Sult
 ![](images/paste-64791ECA.png)
 
 [Download Panduan e-KTM UNTIRTA](https://drive.google.com/file/d/1c1eCCzoSwOsRZtUxFCYEtWNxcwl2NFKR/view?usp=sharing)
-
-![](images/ukt2.png)
