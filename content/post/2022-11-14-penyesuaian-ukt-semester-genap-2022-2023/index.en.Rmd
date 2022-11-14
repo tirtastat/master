@@ -16,9 +16,9 @@ Universitas Sultan Ageng Tirtayasa kembali mengeluarkan kebijakan penyesuaian UK
 
 1.  Penyesuaian UKT hanya berlaku bagi mahasiswa Angkatan 2021 dan sebelumnya
 2.  Mahasiswa yang sudah mendapatkan penyesuaian UKT **kategori Orang Tua/Wali Pensiun** dan **kategori Orang Tua / Wali menderita sakit permanen yang menyebabkan tidak bisa melaksanakan aktifitas bekerja** serta **penyesuaian UKT 50%** di semester-semester sebelumnya tidak perlu mendaftar lagi.
-3.  Untuk yang sudah mendapatkan penyesuaian UKT Kategori **Yatim dan Yatim Piatu, serta PHK** harus mengajukan ulang kembali.
+3.  Untuk yang sudah mendapatkan penyesuaian UKT Kategori **Yatim dan Yatim Piatu, Orang Tua PHK,** dan **Penurunan Pendapatan** harus mengajukan ulang kembali.
 4.  Penyesuaian UKT Kelompok Yatim dan Yatim Piatu tidak berlaku bagi yang UKT kategori I (Rp. 500.000) dan II (Rp. 1.000.000)
-5.  Mahasiswa jalur SMMPTN dengan UKT kategori 3 **tidak bisa** mendaftar penyesuaian UKT (karena UKT minimal adalah K3).
+5.  **Mahasiswa jalur SMMPTN dengan UKT kategori 3 tidak bisa mendaftar penyesuaian UKT (karena UKT minimal adalah K3)**.
 6.  **Mahasiswa penerima Beasiswa tidak bisa mendaftar penyesuaian UKT**
 7.  Semua berkas surat keterangan atau dokumen pendukung harus **dokumen terbaru (ditandatangani bulan November 2022)**<br><br>
 
@@ -50,7 +50,7 @@ Berikut adalah berkas-berkas yang harus disiapkan:
 
 Pendaftaran penyesuaian UKT 50% dilakukan dengan mengisi formulir berikut **menggunakan akun email Untirta pendaftar** dari tanggal **14 -- 20 November 2022**. Pendaftaran ditutup **Pukul : 16:30 WIB**
 
-![](images/daftar.jpg){target="_blank" width="90"}
+[![](images/daftar.jpg){target="_blank" width="90"}](https://docs.google.com/forms/d/e/1FAIpQLSfTJ1uFjbY7WF5RzRsxJd-1GM9K8HAjyoOXPWrT-nZLZogUsQ/viewform)
 
 ### **2. Penyesuaian UKT Kelompok Yatim dan Yatim Piatu**
 
@@ -68,7 +68,7 @@ Berikut adalah berkas-berkas yang harus disiapkan:
 
 Pendaftaran penyesuaian UKT Kelompok Yatim dan Yatim Piatu dilakukan dengan mengisi formulir berikut **menggunakan akun email Untirta pendaftar** dari tanggal **14 - 20 November 2022 (pukul 16.30 WIB)**.
 
-![](images/daftar.jpg){target="_blank" width="90"}
+[![](images/daftar.jpg){target="_blank" width="90"}](https://docs.google.com/forms/d/e/1FAIpQLSfTJ1uFjbY7WF5RzRsxJd-1GM9K8HAjyoOXPWrT-nZLZogUsQ/viewform)
 
 ### **3. Penyesuaian UKT (PHK/Pensiun/Sakit Permanen/Penurunan Pendapatan)**
 
@@ -87,11 +87,11 @@ c.  Persyaratan khusus dalam format PDF (**pilih salah satu**):
 
     4.  Surat Keterangan dari instansi/perusahaan atau Surat Kepala Desa sesuai dengan KTP Orang Tua / Wali yang menyatakan bahwa Orang Tua mengalami penurunan pendapatan (**CANTUMKAN NOMINAL PENDAPATAN**) bagi pendaftar **kategori Orang Tua/Wali mengalami penurunan pendapatan**. Lengkapi dengan Slip Sebelum mengalami Penurunan
 
-        **\*\* Semua Surat Keterangan harus yang terbaru ditandatangani bulan Juni 2022**
+        **\*\* Semua Surat Keterangan harus yang terbaru ditandatangani bulan November 2022**
 
 Pendaftaran dapat dilakukan dengan mengisi formulir berikut **menggunakan akun email Untirta pendaftar** dari tanggal **14 - 20 November 2022 (pukul 16.30 WIB)**.
 
-![](images/daftar.jpg){target="_blank" width="90"}
+[![](images/daftar.jpg){target="_blank" width="90"}](https://docs.google.com/forms/d/e/1FAIpQLSfTJ1uFjbY7WF5RzRsxJd-1GM9K8HAjyoOXPWrT-nZLZogUsQ/viewform)
 
 <br><br>
 
