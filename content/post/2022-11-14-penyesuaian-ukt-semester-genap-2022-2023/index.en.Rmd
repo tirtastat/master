@@ -19,7 +19,7 @@ Universitas Sultan Ageng Tirtayasa kembali mengeluarkan kebijakan penyesuaian UK
 3.  Untuk yang sudah mendapatkan penyesuaian UKT Kategori **Yatim dan Yatim Piatu, Orang Tua PHK,** dan **Penurunan Pendapatan** harus mengajukan ulang kembali.
 4.  Penyesuaian UKT Kelompok Yatim dan Yatim Piatu tidak berlaku bagi yang UKT kategori I (Rp. 500.000) dan II (Rp. 1.000.000)
 5.  **Mahasiswa jalur SMMPTN dengan UKT kategori 3 tidak bisa mendaftar penyesuaian UKT (karena UKT minimal adalah K3)**.
-6.  **Mahasiswa penerima Beasiswa tidak bisa mendaftar penyesuaian UKT**
+6.  **Mahasiswa penerima Beasiswa tidak bisa mendaftar penyesuaian UKT.**
 7.  Semua berkas surat keterangan atau dokumen pendukung harus **dokumen terbaru (ditandatangani bulan November 2022)**<br><br>
 
 ------------------------------------------------------------------------
@@ -99,11 +99,7 @@ Pendaftaran dapat dilakukan dengan mengisi formulir berikut **menggunakan akun e
 Sys.setlocale("LC_TIME", "IND") 
 ```
 
-Informasi Hasil Verifikasi Penyesuaian UKT oleh Sub. PNBP akan disampaikan melalui email mahasiswa.
-
-Hotline Registrasi : +6281311734542
-
-Hotline PNBP : +6281387220826
+Informasi Hasil Verifikasi Penyesuaian UKT oleh Sub. PNBP akan disampaikan melalui email mahasiswa. Hotline Registrasi : +6281311734542 Hotline PNBP : +6281387220826
 
 ```{r eval=FALSE, message=FALSE, warning=FALSE, include=FALSE}
 # sampai dengan r format(Sys.time(), "%d %B %Y") pukul r format(Sys.time(), "%X") 
