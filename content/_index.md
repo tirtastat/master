@@ -50,3 +50,5 @@ Seiring berjalannya waktu menghadapi tahun Akademik Ajaran Baru Universitas Sult
 ![](images/paste-64791ECA.png)
 
 [Download Panduan e-KTM UNTIRTA](https://drive.google.com/file/d/1c1eCCzoSwOsRZtUxFCYEtWNxcwl2NFKR/view?usp=sharing)
+
+![](images/WhatsApp%20Image%202022-12-06%20at%2015.13.09.jpeg)
