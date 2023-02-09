@@ -76,59 +76,168 @@ Program Doktor (S3) dan Program Magister (S2) Pascasarjana Universitas Sultan Ag
 ```
 \*) *Apabila Kuota Gelombang 1 Belum Terpenuhi*
 
-### Program Studi
+### Program Studi Yang Ditawarkan
 
-**Program Doktor (S3)**
-
-1.  Program Studi Doktor Pendidikan
-2.  Program Studi Doktor Ilmu Akuntansi
-3.  Program Studi Doktor Ilmu Pertanian
-
-**Program Magister (S2)**
-
-1.  Pendidikan Bahasa Indonesia
-
-2.  Teknologi Pendidikan
-
-    -   *Konsentrasi Manajemen Pendidikan*
-    -   *Konsentrasi PAUD*
-
-3.  Hukum
-
-    -   *Konsentrasi Hukum Pidana*
-    -   *Konsentrasi Hukum Perdata*
-    -   *Konsentrasi Hukum Tata Negara*
-    -   *Konsentrasi Hukum Kesehatan*
-
-4.  Administrasi Publik
-
-5.  Akuntansi
-
-6.  Manajemen
-
-    -   *Konsentrasi Manajemen Pemasaran*
-    -   *Konsentrasi Manajemen SDM*
-    -   *Konsentrasi Manajemen Keuangan*
-
-7.  Pendidikan Bahasa Inggris
-
-8.  Pendidikan Matematika
-
-9.  Ilmu Pertanian
-
-10. Ilmu Komunikasi
-
-11. Teknik Kimia
-
-12. Pendidikan Dasar
-
-13. Ekonomi
-
-14. Teknik Industri dan Manajemen (S2)
-
-15. Studi Lingkungan (S2)
-
-16. Pendidikan Vokasi Keteknikan (S2)
+```{=html}
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-baqh{text-align:center;vertical-align:top}
+.tg .tg-ap9s{color:#06C;text-align:left;vertical-align:top}
+.tg .tg-amwm{font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+.tg .tg-byb7{background-color:#C0C0C0;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-amwm">No</th>
+    <th class="tg-amwm">Fakultas</th>
+    <th class="tg-amwm">Jenjang</th>
+    <th class="tg-amwm">Program Studi</th>
+    <th class="tg-amwm">Konsentrasi</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-0lax">1.</td>
+    <td class="tg-0lax">Pascasarjana</td>
+    <td class="tg-baqh">S3</td>
+    <td class="tg-ap9s"><a href="https://registrasi.untirta.ac.id/" target="_blank" rel="noopener noreferrer">Doktor Pendidikan</a></td>
+    <td class="tg-byb7"></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">2.</td>
+    <td class="tg-0lax">Pascasarjana</td>
+    <td class="tg-baqh">S3</td>
+    <td class="tg-0lax">Doktor Ilmu Akuntansi</td>
+    <td class="tg-byb7"></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">3.</td>
+    <td class="tg-0lax">Pascasarjana</td>
+    <td class="tg-baqh">S3</td>
+    <td class="tg-0lax">Doktor Ilmu Pertanian</td>
+    <td class="tg-byb7"></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">4.</td>
+    <td class="tg-0lax">Pascasarjana</td>
+    <td class="tg-baqh">S2</td>
+    <td class="tg-0lax">Studi Lingkungan</td>
+    <td class="tg-byb7"></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">5.</td>
+    <td class="tg-0lax">Pascasarjana</td>
+    <td class="tg-baqh">S2</td>
+    <td class="tg-0lax">Pendidikan Vokasi Keteknikan</td>
+    <td class="tg-byb7"></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">6.</td>
+    <td class="tg-0lax">Pascasarjana</td>
+    <td class="tg-baqh">S2</td>
+    <td class="tg-0lax">Teknologi Pendidikan</td>
+    <td class="tg-0lax">1. Manajemen Pendidikan<br>2. PAUD</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">7.</td>
+    <td class="tg-0lax">Hukum</td>
+    <td class="tg-baqh">S2</td>
+    <td class="tg-0lax">Hukum</td>
+    <td class="tg-0lax">1. Hukum Pidana<br>2. Hukum Perdata<br>3. Hukum Tata Negara<br>4. Hukum Kesehatan</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">8.</td>
+    <td class="tg-0lax">FKIP</td>
+    <td class="tg-baqh">S2</td>
+    <td class="tg-0lax">Pendidikan Bahasa Indonesia</td>
+    <td class="tg-byb7"></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">9.</td>
+    <td class="tg-0lax">FKIP</td>
+    <td class="tg-baqh">S2</td>
+    <td class="tg-0lax">Pendidikan Bahasa Inggris</td>
+    <td class="tg-byb7"></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">10.</td>
+    <td class="tg-0lax">FKIP</td>
+    <td class="tg-baqh">S2</td>
+    <td class="tg-0lax">Pendidikan Matematika</td>
+    <td class="tg-byb7"></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">11.</td>
+    <td class="tg-0lax">FKIP</td>
+    <td class="tg-baqh">S2</td>
+    <td class="tg-0lax">Pendidikan Dasar</td>
+    <td class="tg-byb7"></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">12.</td>
+    <td class="tg-0lax">Teknik</td>
+    <td class="tg-baqh">S2</td>
+    <td class="tg-0lax">Teknik Kimia</td>
+    <td class="tg-byb7"></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">13.</td>
+    <td class="tg-0lax">Teknik</td>
+    <td class="tg-baqh">S2</td>
+    <td class="tg-0lax">Teknik Industri dan Manajemen</td>
+    <td class="tg-byb7"></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">14.</td>
+    <td class="tg-0lax">Pertanian</td>
+    <td class="tg-baqh">S2</td>
+    <td class="tg-0lax">Ilmu Pertanian</td>
+    <td class="tg-byb7"></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">15.</td>
+    <td class="tg-0lax">FEB</td>
+    <td class="tg-baqh">S2</td>
+    <td class="tg-0lax">Akuntansi</td>
+    <td class="tg-byb7"></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">16.</td>
+    <td class="tg-0lax">FEB</td>
+    <td class="tg-baqh">S2</td>
+    <td class="tg-0lax">Manajemen</td>
+    <td class="tg-0lax">1. Manajemen Pemasaran<br>2. Manajemen SDM<br>3. Manajemen Keuangan</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">17.</td>
+    <td class="tg-0lax">FEB</td>
+    <td class="tg-baqh">S2</td>
+    <td class="tg-0lax">Ekonomi</td>
+    <td class="tg-byb7"></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">18.</td>
+    <td class="tg-0lax">FISIP</td>
+    <td class="tg-baqh">S2</td>
+    <td class="tg-0lax">Administrasi Publik</td>
+    <td class="tg-byb7"></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">19.</td>
+    <td class="tg-0lax">FISIP</td>
+    <td class="tg-baqh">S2</td>
+    <td class="tg-0lax">Ilmu Komunikasi</td>
+    <td class="tg-byb7"></td>
+  </tr>
+</tbody>
+</table>
+```
 
 ### **Jadwal Pelaksanaan**
 
