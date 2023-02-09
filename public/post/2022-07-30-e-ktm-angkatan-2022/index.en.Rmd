@@ -1,0 +1,34 @@
+---
+title: e-KTM Angkatan 2022
+author: registrasi
+date: '2022-07-30'
+slug: []
+categories: []
+tags:
+  - ktm
+  - ktm 2022
+description: ''
+thumbnail: ''
+---
+
+Kami mengucapkan selamat datang kepada mahasiswa baru Universitas Sultan Ageng Tirtayasa tahun 2022. Untuk melengkapi identitas saudara sebagai mahasiswa, kami membuka pendaftaran Kartu Tanda Mahasiswa elektronik (e-KTM). Pendaftaran e-KTM dapat dilakukan dengan mengisi formulir yang telah disediakan.
+
+Sebelum melakukan pengisian formulir, pastikan saudara telah mempersiapkan foto dengan ketentuan sebagai berikut.
+
+1.  Laki-laki (jas hitam, baju putih, dasi hitam, background merah, ukuran 4×6)
+
+2.  Perempuan (jas hitam/blazer, baju putih, dasi hitam, background merah, ukuran 4×6)
+
+3.  Perempuan berjilbab (jilbab warna putih, background merah, jas hitam/blazer tanpa dasi, ukuran (4×6))
+
+4.  File disimpan dalam format jpg dengan ukuran file : **100 KB -- 500 KB**
+
+5.  Jika NIM anda adalah **3331201234** maka nama file foto yang harus diunggah adalah **3331201234.jpg** seperti gambar berikut
+
+    ![](images/tes.jpg)
+
+Berikut adalah formulir pendaftaran e-KTM
+
+[![](images/daftar.jpg){width="84"}](https://docs.google.com/forms/d/e/1FAIpQLSeMNU_6UEAWb_61MYeFE7D1x884N7zyhE4ccVMibJsdb7DFPQ/viewform)
+
+Jika ada yang ingin ditanyakan, silakan hubungi Subbagian Registrasi dan Statistik melalui email registrasi\@untirta.ac.id atau hotline registrasi [**https://wa.me/6281311734542**](https://wa.me/6281311734542) di hari dan jam kerja, Senin s/d Jumat pukul 08.00 - 16.00.
