@@ -106,14 +106,14 @@ Program Doktor (S3) dan Program Magister (S2) Pascasarjana Universitas Sultan Ag
     <td class="tg-0lax">1.</td>
     <td class="tg-0lax">Pascasarjana</td>
     <td class="tg-baqh">S3</td>
-    <td class="tg-ap9s"><a href="https://registrasi.untirta.ac.id/" target="_blank" rel="noopener noreferrer">Doktor Pendidikan</a></td>
+    <td class="tg-ap9s"><a href="" target="_blank" rel="noopener noreferrer">Doktor Pendidikan</a></td>
     <td class="tg-byb7"></td>
   </tr>
   <tr>
     <td class="tg-0lax">2.</td>
     <td class="tg-0lax">Pascasarjana</td>
     <td class="tg-baqh">S3</td>
-    <td class="tg-0lax">Doktor Ilmu Akuntansi</td>
+    <td class="tg-0lax"><a href=" " rel="noopener noreferrer">Doktor Ilmu Akuntansi</a></td>
     <td class="tg-byb7"></td>
   </tr>
   <tr>
@@ -183,14 +183,14 @@ Program Doktor (S3) dan Program Magister (S2) Pascasarjana Universitas Sultan Ag
     <td class="tg-0lax">12.</td>
     <td class="tg-0lax">Teknik</td>
     <td class="tg-baqh">S2</td>
-    <td class="tg-0lax">Teknik Kimia</td>
+    <td class="tg-0lax"><a href="https://drive.google.com/file/d/1IHPkOqyvshxWk73EusE0ug4mM3ysLD49/view?usp=share_link" target="_blank" rel="noopener noreferrer">Teknik Kimia</a></td>
     <td class="tg-byb7"></td>
   </tr>
   <tr>
     <td class="tg-0lax">13.</td>
     <td class="tg-0lax">Teknik</td>
     <td class="tg-baqh">S2</td>
-    <td class="tg-0lax">Teknik Industri dan Manajemen</td>
+    <td class="tg-0lax"><a href="https://drive.google.com/file/d/1IGsxi5sNkCQjlu3k892q4Fpeoa8BvD4t/view?usp=share_link" target="_blank" rel="noopener noreferrer">Teknik Industri dan Manajemen</a></td>
     <td class="tg-byb7"></td>
   </tr>
   <tr>
@@ -238,7 +238,6 @@ Program Doktor (S3) dan Program Magister (S2) Pascasarjana Universitas Sultan Ag
 </tbody>
 </table>
 ```
-
 ### **Jadwal Pelaksanaan**
 
 | Item              | Waktu                     |
