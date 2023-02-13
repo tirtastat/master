@@ -294,11 +294,6 @@ Program Doktor (S3) dan Program Magister (S2) Pascasarjana Universitas Sultan Ag
     <td class="tg-0pky">Jaket Almamater, KTM,<br>Kartu Perpustakaan</td>
     <td class="tg-c3ow" colspan="2">Rp550.000,00</td>
   </tr>
-  <tr>
-    <td class="tg-0pky">Intensive English Program</td>
-    <td class="tg-dvpl">Rp500.000,00</td>
-    <td class="tg-2z6x">-</td>
-  </tr>
 </tbody>
 </table>
 ```
