@@ -133,7 +133,7 @@ Program Doktor (S3) dan Program Magister (S2) Pascasarjana Universitas Sultan Ag
     <td class="tg-baqh">S2</td>
     <td class="tg-0lax">Studi Lingkungan</td>
     <td class="tg-byb7"></td>
-    <td class="tg-0lax"></td>
+    <td class="tg-0lax"><a href="https://wa.me/6281118883616" target="_blank" rel="noopener noreferrer">0811-8883-616</a></td>
   </tr>
   <tr>
     <td class="tg-0lax">5.</td>
@@ -141,7 +141,7 @@ Program Doktor (S3) dan Program Magister (S2) Pascasarjana Universitas Sultan Ag
     <td class="tg-baqh">S2</td>
     <td class="tg-0lax">Pendidikan Vokasi Keteknikan</td>
     <td class="tg-byb7"></td>
-    <td class="tg-0lax"></td>
+    <td class="tg-0lax"><a href="https://wa.me/6281118883616" target="_blank" rel="noopener noreferrer">0811-8883-616</a></td>
   </tr>
   <tr>
     <td class="tg-0lax">6.</td>
@@ -149,7 +149,7 @@ Program Doktor (S3) dan Program Magister (S2) Pascasarjana Universitas Sultan Ag
     <td class="tg-baqh">S2</td>
     <td class="tg-0lax">Teknologi Pendidikan</td>
     <td class="tg-0lax">1. Manajemen Pendidikan<br>2. PAUD</td>
-    <td class="tg-0lax"></td>
+    <td class="tg-0lax"><a href="https://wa.me/6281118883616" target="_blank" rel="noopener noreferrer">0811-8883-616</a></td>
   </tr>
   <tr>
     <td class="tg-0lax">7.</td>
@@ -157,7 +157,7 @@ Program Doktor (S3) dan Program Magister (S2) Pascasarjana Universitas Sultan Ag
     <td class="tg-baqh">S2</td>
     <td class="tg-0lax">Hukum</td>
     <td class="tg-0lax">1. Hukum Pidana<br>2. Hukum Perdata<br>3. Hukum Tata Negara<br>4. Hukum Kesehatan</td>
-    <td class="tg-0lax"></td>
+    <td class="tg-0lax"><a href="https://wa.me/628170102040" target="_blank" rel="noopener noreferrer">0817-0102-040</a><br><a href="https://wa.me/6281905697776" target="_blank" rel="noopener noreferrer">0819-0569-7776</a></td>
   </tr>
   <tr>
     <td class="tg-0lax">8.</td>
@@ -245,7 +245,7 @@ Program Doktor (S3) dan Program Magister (S2) Pascasarjana Universitas Sultan Ag
     <td class="tg-baqh">S2</td>
     <td class="tg-0lax">Administrasi Publik</td>
     <td class="tg-byb7"></td>
-    <td class="tg-0lax"></td>
+    <td class="tg-0lax"><a href="https://wa.me/6281513980007" target="_blank" rel="noopener noreferrer">0815-1398-0007</a></td>
   </tr>
   <tr>
     <td class="tg-0lax">19.</td>
@@ -253,7 +253,7 @@ Program Doktor (S3) dan Program Magister (S2) Pascasarjana Universitas Sultan Ag
     <td class="tg-baqh">S2</td>
     <td class="tg-0lax">Ilmu Komunikasi</td>
     <td class="tg-byb7"></td>
-    <td class="tg-0lax"></td>
+    <td class="tg-0lax"><a href="https://wa.me/6281398195180" target="_blank" rel="noopener noreferrer">0813-9819-5181</a></td>
   </tr>
 </tbody>
 </table>
