@@ -99,6 +99,7 @@ Program Doktor (S3) dan Program Magister (S2) Pascasarjana Universitas Sultan Ag
     <th class="tg-amwm">Jenjang</th>
     <th class="tg-amwm">Program Studi-(klik untuk lihat brosur)</th>
     <th class="tg-amwm">Konsentrasi</th>
+    <th class="tg-amwm">Helpdesk</th>
   </tr>
 </thead>
 <tbody>
@@ -108,6 +109,7 @@ Program Doktor (S3) dan Program Magister (S2) Pascasarjana Universitas Sultan Ag
     <td class="tg-baqh">S3</td>
     <td class="tg-ap9s"><a href="" target="_blank" rel="noopener noreferrer">Doktor Pendidikan</a></td>
     <td class="tg-byb7"></td>
+    <td class="tg-0lax"><a href="https://wa.me/628118883616" target="_blank" rel="noopener noreferrer">0811-8883-616</a></td>
   </tr>
   <tr>
     <td class="tg-0lax">2.</td>
@@ -115,6 +117,7 @@ Program Doktor (S3) dan Program Magister (S2) Pascasarjana Universitas Sultan Ag
     <td class="tg-baqh">S3</td>
     <td class="tg-0lax"><a href="https://drive.google.com/file/d/1IF2Ii04IAI3kkxplCR2lFdHAYHpwIG1a/view?usp=share_link" target="_blank" rel="noopener noreferrer">Doktor Ilmu Akuntansi</a></td>
     <td class="tg-byb7"></td>
+    <td class="tg-0lax"><a href="https://wa.me/6287771011961" target="_blank" rel="noopener noreferrer">0877-7101-1961</a></td>
   </tr>
   <tr>
     <td class="tg-0lax">3.</td>
@@ -122,6 +125,7 @@ Program Doktor (S3) dan Program Magister (S2) Pascasarjana Universitas Sultan Ag
     <td class="tg-baqh">S3</td>
     <td class="tg-0lax"><a href="https://drive.google.com/file/d/1LDoFtGgng7YrlfFuPIJTUzrxsigfXuyq/view?usp=share_link" target="_blank" rel="noopener noreferrer">Doktor Ilmu Pertanian</a></td>
     <td class="tg-byb7"></td>
+    <td class="tg-0lax"><a href="https://wa.me/6287789285509" target="_blank" rel="noopener noreferrer">0877-8928-5509</a></td>
   </tr>
   <tr>
     <td class="tg-0lax">4.</td>
@@ -129,6 +133,7 @@ Program Doktor (S3) dan Program Magister (S2) Pascasarjana Universitas Sultan Ag
     <td class="tg-baqh">S2</td>
     <td class="tg-0lax">Studi Lingkungan</td>
     <td class="tg-byb7"></td>
+    <td class="tg-0lax"></td>
   </tr>
   <tr>
     <td class="tg-0lax">5.</td>
@@ -136,6 +141,7 @@ Program Doktor (S3) dan Program Magister (S2) Pascasarjana Universitas Sultan Ag
     <td class="tg-baqh">S2</td>
     <td class="tg-0lax">Pendidikan Vokasi Keteknikan</td>
     <td class="tg-byb7"></td>
+    <td class="tg-0lax"></td>
   </tr>
   <tr>
     <td class="tg-0lax">6.</td>
@@ -143,6 +149,7 @@ Program Doktor (S3) dan Program Magister (S2) Pascasarjana Universitas Sultan Ag
     <td class="tg-baqh">S2</td>
     <td class="tg-0lax">Teknologi Pendidikan</td>
     <td class="tg-0lax">1. Manajemen Pendidikan<br>2. PAUD</td>
+    <td class="tg-0lax"></td>
   </tr>
   <tr>
     <td class="tg-0lax">7.</td>
@@ -150,6 +157,7 @@ Program Doktor (S3) dan Program Magister (S2) Pascasarjana Universitas Sultan Ag
     <td class="tg-baqh">S2</td>
     <td class="tg-0lax">Hukum</td>
     <td class="tg-0lax">1. Hukum Pidana<br>2. Hukum Perdata<br>3. Hukum Tata Negara<br>4. Hukum Kesehatan</td>
+    <td class="tg-0lax"></td>
   </tr>
   <tr>
     <td class="tg-0lax">8.</td>
@@ -157,6 +165,7 @@ Program Doktor (S3) dan Program Magister (S2) Pascasarjana Universitas Sultan Ag
     <td class="tg-baqh">S2</td>
     <td class="tg-0lax">Pendidikan Bahasa Indonesia</td>
     <td class="tg-byb7"></td>
+    <td class="tg-0lax"><a href="https://wa.me/6285210401002" target="_blank" rel="noopener noreferrer">0852-1040-1002</a></td>
   </tr>
   <tr>
     <td class="tg-0lax">9.</td>
@@ -164,6 +173,7 @@ Program Doktor (S3) dan Program Magister (S2) Pascasarjana Universitas Sultan Ag
     <td class="tg-baqh">S2</td>
     <td class="tg-0lax">Pendidikan Bahasa Inggris</td>
     <td class="tg-byb7"></td>
+    <td class="tg-0lax"><a href="https://wa.me/628988513308" target="_blank" rel="noopener noreferrer">0898-8513-308</a></td>
   </tr>
   <tr>
     <td class="tg-0lax">10.</td>
@@ -171,6 +181,7 @@ Program Doktor (S3) dan Program Magister (S2) Pascasarjana Universitas Sultan Ag
     <td class="tg-baqh">S2</td>
     <td class="tg-0lax">Pendidikan Matematika</td>
     <td class="tg-byb7"></td>
+    <td class="tg-0lax"><a href="https://wa.me/628170054084" target="_blank" rel="noopener noreferrer">0817-0054-084</a></td>
   </tr>
   <tr>
     <td class="tg-0lax">11.</td>
@@ -178,6 +189,7 @@ Program Doktor (S3) dan Program Magister (S2) Pascasarjana Universitas Sultan Ag
     <td class="tg-baqh">S2</td>
     <td class="tg-0lax">Pendidikan Dasar</td>
     <td class="tg-byb7"></td>
+    <td class="tg-0lax"><a href="https://wa.me/6287771651980" target="_blank" rel="noopener noreferrer">0877-7165-1980</a></td>
   </tr>
   <tr>
     <td class="tg-0lax">12.</td>
@@ -185,6 +197,7 @@ Program Doktor (S3) dan Program Magister (S2) Pascasarjana Universitas Sultan Ag
     <td class="tg-baqh">S2</td>
     <td class="tg-0lax"><a href="https://drive.google.com/file/d/1IHPkOqyvshxWk73EusE0ug4mM3ysLD49/view?usp=share_link" target="_blank" rel="noopener noreferrer">Teknik Kimia</a></td>
     <td class="tg-byb7"></td>
+    <td class="tg-0lax"><a href="https://wa.me/6281319942114" target="_blank" rel="noopener noreferrer">0813-1994-2114</a></td>
   </tr>
   <tr>
     <td class="tg-0lax">13.</td>
@@ -192,6 +205,7 @@ Program Doktor (S3) dan Program Magister (S2) Pascasarjana Universitas Sultan Ag
     <td class="tg-baqh">S2</td>
     <td class="tg-0lax"><a href="https://drive.google.com/file/d/1IGsxi5sNkCQjlu3k892q4Fpeoa8BvD4t/view?usp=share_link" target="_blank" rel="noopener noreferrer">Teknik Industri dan Manajemen</a></td>
     <td class="tg-byb7"></td>
+    <td class="tg-0lax"><a href="https://wa.me/62811910897" target="_blank" rel="noopener noreferrer">0811-910-897</a></td>
   </tr>
   <tr>
     <td class="tg-0lax">14.</td>
@@ -199,6 +213,7 @@ Program Doktor (S3) dan Program Magister (S2) Pascasarjana Universitas Sultan Ag
     <td class="tg-baqh">S2</td>
     <td class="tg-0lax">Ilmu Pertanian</td>
     <td class="tg-byb7"></td>
+    <td class="tg-0lax"><a href="https://wa.me/6281320455597" target="_blank" rel="noopener noreferrer">0813-2045-5597</a></td>
   </tr>
   <tr>
     <td class="tg-0lax">15.</td>
@@ -206,6 +221,7 @@ Program Doktor (S3) dan Program Magister (S2) Pascasarjana Universitas Sultan Ag
     <td class="tg-baqh">S2</td>
     <td class="tg-0lax">Akuntansi</td>
     <td class="tg-byb7"></td>
+    <td class="tg-0lax"><a href="https://wa.me/628176769230" target="_blank" rel="noopener noreferrer">0817-6769-230</a></td>
   </tr>
   <tr>
     <td class="tg-0lax">16.</td>
@@ -213,6 +229,7 @@ Program Doktor (S3) dan Program Magister (S2) Pascasarjana Universitas Sultan Ag
     <td class="tg-baqh">S2</td>
     <td class="tg-0lax">Manajemen</td>
     <td class="tg-0lax">1. Manajemen Pemasaran<br>2. Manajemen SDM<br>3. Manajemen Keuangan</td>
+    <td class="tg-0lax"><a href="https://wa.me/628176094095" target="_blank" rel="noopener noreferrer">0817-6094-095</a></td>
   </tr>
   <tr>
     <td class="tg-0lax">17.</td>
@@ -220,6 +237,7 @@ Program Doktor (S3) dan Program Magister (S2) Pascasarjana Universitas Sultan Ag
     <td class="tg-baqh">S2</td>
     <td class="tg-0lax"><a href="https://drive.google.com/file/d/1ISDZCk4KAZk1MZUg7N525mTG0PdHbbLZ/view?usp=share_link" target="_blank" rel="noopener noreferrer">Ekonomi</a></td>
     <td class="tg-byb7"></td>
+    <td class="tg-0lax"><a href="https://wa.me/6283812848080" target="_blank" rel="noopener noreferrer">0838-1284-8080</a></td>
   </tr>
   <tr>
     <td class="tg-0lax">18.</td>
@@ -227,6 +245,7 @@ Program Doktor (S3) dan Program Magister (S2) Pascasarjana Universitas Sultan Ag
     <td class="tg-baqh">S2</td>
     <td class="tg-0lax">Administrasi Publik</td>
     <td class="tg-byb7"></td>
+    <td class="tg-0lax"></td>
   </tr>
   <tr>
     <td class="tg-0lax">19.</td>
@@ -234,6 +253,7 @@ Program Doktor (S3) dan Program Magister (S2) Pascasarjana Universitas Sultan Ag
     <td class="tg-baqh">S2</td>
     <td class="tg-0lax">Ilmu Komunikasi</td>
     <td class="tg-byb7"></td>
+    <td class="tg-0lax"></td>
   </tr>
 </tbody>
 </table>
@@ -441,10 +461,13 @@ Program Doktor (S3) dan Program Magister (S2) Pascasarjana Universitas Sultan Ag
     Jalan Raya Palka KM.03 Sindangsari, Kecamatan Pabuaran, Kabupaten Serang - Provinsi Banten
 
     Telpon :
-     1. [+62 81324369054](http://wa.me/081324369054)
+
+    1.  [+62 81324369054](http://wa.me/081324369054)
 
     2.  [+62 81311734542](http://wa.me/081311734542)
+
     3.  [+62 81911106670](http://wa.me/081911106670)
+
     4.  [+62 817738817](http://wa.me/0817738817)
 
     Email: [**pmb\@untirta.ac.id**](mailto:pmb@untirta.ac.id) dan [**humas\@untirta.ac.id**](mailto:humas@untirta.ac.id)
