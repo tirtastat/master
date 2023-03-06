@@ -75,8 +75,8 @@ Calon Mahasiswa Baru yang sudah **dinyatakan** **Lulus lewat** jalur Seleksi Nas
         9.  Pilih salah satu yang paling sesuai.
 
             a.  SPPT Pajak Bumi dan Bangunan (PBB) tiga tahun terakhir (pilih salah satu)
-            b.  [**Surat Pernyataan tentang Luas Tanah dan Bangunan Rumah yang ditempati**](https://drive.google.com/file/d/1WrHzSj8ulBG2VrpmJ-ssthPfUbBl0QqL/view?usp=share_link){target="_blank"} bagi yang tidak punya SPPT (*download*, cetak, isi, *scan Asli*)
-            c.  Jika Rumah Mengontrak dan tidak ada Bukti PBB lampirkan Bukti pembayaran sewa rumah bagi yang mengontrak/sewa ditambah [**Surat Pernyataan tentang Luas Tanah dan Bangunan Rumah yang ditempati**](https://drive.google.com/file/d/1WqMwvIShVGleoOzbJl6XGKKAxJDGYaRy/view?usp=share_link) (*download*, cetak, isi, *scan Asli*)
+            b.  **Surat Pernyataan tentang Luas Tanah dan Bangunan Rumah yang ditempati** bagi yang tidak punya SPPT
+            c.  Jika Rumah Mengontrak dan tidak ada Bukti PBB lampirkan Bukti pembayaran sewa rumah bagi yang mengontrak/sewa ditambah **Surat Pernyataan tentang Luas Tanah dan Bangunan Rumah yang ditempati**
 
         10. Surat Tes Bebas Narkoba terbaru dari Rumah Sakit Pemerintah/BNN (*scan Asli* dan *upload*)
 
