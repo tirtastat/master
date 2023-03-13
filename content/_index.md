@@ -7,10 +7,6 @@ title: Home
 
 ![](images/Selamat%20Datang%20Maba.jpg)
 
-
-
-
-
 ![](images/hotline.jpg)
 
 > **\*\*) [PERMEN NO.194 TAHUN 2019 TENTANG BKT DAN UKT DI UNTIRTA](https://drive.google.com/file/d/1eqmhH4cpcsD9de3W_tepZTlALO71pM7a/view?usp=share_link)**
@@ -28,3 +24,5 @@ title: Home
 [Download Panduan e-KTM UNTIRTA](https://drive.google.com/file/d/1c1eCCzoSwOsRZtUxFCYEtWNxcwl2NFKR/view?usp=sharing)
 
 ![](images/WhatsApp%20Image%202023-01-31%20at%2012.05.41-01.jpeg)
+
+![](images/Timeline%20Registrasi%20SNBP_2023_page-0001-03.jpg)
