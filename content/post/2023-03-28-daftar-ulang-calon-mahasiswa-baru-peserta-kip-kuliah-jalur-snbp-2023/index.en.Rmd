@@ -10,6 +10,7 @@ tags:
   - KIP-K 2022
 description: ''
 thumbnail: ''
+draft: true
 ---
 
 #### (Diumumkan oleh Kemahasiswaan -- BAKP)
@@ -42,7 +43,7 @@ thumbnail: ''
         <th class="tg-9wq8">No</th>
         <th class="tg-9wq8">File yang harus diunggah</th>
         <th class="tg-9wq8">Jenis File</th>
-        <th class="tg-9wq8">Contoh Nama File<br>(No.SNMPTN_Nama Camaba_Jenis data)<br></th>
+        <th class="tg-9wq8">Contoh Nama File<br>(No.SNBP_Nama Camaba_Jenis data)<br></th>
       </tr>
     </thead>
     <tbody>
@@ -151,6 +152,6 @@ thumbnail: ''
     -   Jika **tidak diterima**, silahkan membayar UKT sesuai yang tertera di laman [**admisi.untirta.ac.id**](https://admisi.untirta.ac.id){target="_blank"}
     -   Jika **diterima**, anda tidak membayar UKT.
 
-6.  Bergabung dengan grup Telegram : [**https://link.untirta.ac.id/Grup%20Camaba%20KIPK%202023**](https://link.untirta.ac.id/Grup%20Camaba%20KIPK%202023){target="_blank"}
+6.  Bergabung dengan grup Telegram : **linkblmdiunggah**
 
 7.  Hotline Kemahasiswaan BAKP [**081210275080**](https://wa.me/6281210275080){target="_blank"}
