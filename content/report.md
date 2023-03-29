@@ -19,6 +19,7 @@ Laporan ini rutin dibuat setiap semester oleh Subbagian Registrasi dan Statistik
 
 Berikut adalah laporan semester Subbagian Registrasi dan Statisik. Silahkan klik :
 
+-   2023-2024 Ganjil - Genap
 -   2022-2023 [**Ganjil**](https://tirtareg.github.io/222301) - [**Genap**](https://tirtareg.github.io/222302/)
 -   2021-2022 [**Ganjil**](https://tirtareg.github.io/212201) - [**Genap**](https://tirtareg.github.io/212202)
 -   2020-2021 [**Ganjil**](https://tirtareg.github.io/202101)- [**Genap**](https://tirtareg.github.io/202102)
@@ -30,6 +31,7 @@ Tidak semua calon mahasiswa baru Universitas Sultan Ageng Tirtayasa yang lolos s
 
 Berikut adalah laporan penerimaan mahasiswa baru di setiap jalur penerimaan.
 
+-   **2023** **SNBP** - **SNBT** - Semua Jalur
 -   **2022 [SNMPTN](https://tirtareg.github.io/22snm)** - [**SBMPTN**](https://tirtareg.github.io/22sbm) - [**SMMPTN**](https://tirtareg.github.io/22smm) - [**MANDIRI**](https://tirtareg.github.io/22umm) - [**Semua Jalur**](https://tirtareg.github.io/22pmb)
 -   **2021 [SNMPTN](https://tirtareg.github.io/21snm)**- [**SBMPTN**](https://tirtareg.github.io/21sbm)- [**SMMPTN**](https://tirtareg.github.io/21smm) - [**MANDIRI**](https://tirtareg.github.io/21umm) - [**Semua Jalur**](https://tirtareg.github.io/21pmb)
 -   **2020 [SNMPTN](https://tirtareg.github.io/20snm)**- [**SBMPTN**](https://tirtareg.github.io/20sbm)- [**SMMPTN**](https://tirtareg.github.io/20smm) - [**Semua Jalur**](https://tirtareg.github.io/20pmb)
