@@ -17,7 +17,7 @@ Calon Mahasiswa Baru yang sudah **dinyatakan** **Lulus lewat** jalur Seleksi Nas
 1.  Jadwal registrasi ulang\*
 
     | NO  | SELEKSI                                  | REGISTRASI ONLINE    | PEMBAYARAN UKT                                                           |
-    |:----|:-----------------------------------------|:---------------------|:-------------------------------------------------------------------------|
+    |:------------|:---------------|:------------|:------------------------------|
     | 1\. | **SNBP**                                 | 01 - 10 April 2023   | 14 - 28 April 2023                                                       |
     |     | *Pengiriman Akun Admisi ke email Camaba* | *29 - 31 Maret 2023* | *Penetapan UKT bisa dicek di admisi/login kembali* (13 April 2023; Sore) |
     | 2\. | **ADIK (Afirmasi Dikti)**                | \-                   | \-                                                                       |
@@ -78,7 +78,7 @@ Calon Mahasiswa Baru yang sudah **dinyatakan** **Lulus lewat** jalur Seleksi Nas
         12. Surat Pemeriksaan Buta Warna dari Rumah Sakit/Klinik/Puskesmas untuk Program Studi berikut (*scan* dan *upload*) :
 
             | No.  | Program Studi                             | Keterangan                                |
-            |------|-------------------------------------------|-------------------------------------------|
+            |--------------|-----------------------------|-----------------------------|
             | 1\.  | Pendidikan Biologi                        | Tidak Boleh Buta Warna                    |
             | 2\.  | Pendidikan Guru Sekolah Dasar             | Tidak Boleh Buta Warna                    |
             | 3\.  | Pendidikan Guru Pendidikan Anak Usia Dini | Tidak Boleh Buta Warna                    |
@@ -133,7 +133,7 @@ Calon Mahasiswa Baru yang sudah **dinyatakan** **Lulus lewat** jalur Seleksi Nas
             -   Perempuan: jas hitam/blazer, baju putih, dasi hitam, *background* merah,
             -   Perempuan berjilbab: jilbab warna putih, *background* merah, jas hitam/blazer tanpa dasi.
 
-        14. Bagi siswa yang pada saat pendaftaran di Portal SNPMB mendaftarkan diri sebagai peserta KIP wajib mengisi registrasi tambahan yang akan diinfokan melalaui email masing-masing. **(akan dikirim ke email Jika sudah menyelesaikan registrasi online admisi)**
+        14. Bagi siswa yang pada saat pendaftaran di Portal SNPMB mendaftarkan diri sebagai peserta KIP-K wajib mengisi registrasi tambahan yang akan diinfokan melalaui email masing-masing. **(akan dikirim ke email Jika sudah menyelesaikan registrasi online admisi). Jika ada pertanyaan KIP-K hubungi +62812-1027-5080**
 
         > Isilah dengan **BENAR**, **AKURAT**, dan **JUJUR** semua data diri anda. Kesalahan dalam mengisi data dan memahami panduan registrasi menjadi tanggung jawab calon mahasiswa baru.
         >
