@@ -17,7 +17,7 @@ Calon Mahasiswa Baru yang sudah **dinyatakan** **Lulus lewat** jalur Seleksi Nas
 1.  Jadwal registrasi ulang\*
 
     | NO  | SELEKSI                                  | REGISTRASI ONLINE    | PEMBAYARAN UKT                                                           |
-    |:----|:-----------------------------------------|:---------------------|:-------------------------------------------------------------------------|
+    |:------------|:---------------|:------------|:------------------------------|
     | 1\. | **SNBP**                                 | 01 - 10 April 2023   | 14 - 28 April 2023                                                       |
     |     | *Pengiriman Akun Admisi ke email Camaba* | *29 - 31 Maret 2023* | *Penetapan UKT bisa dicek di admisi/login kembali* (13 April 2023; Sore) |
     | 2\. | **ADIK (Afirmasi Dikti)**                | \-                   | \-                                                                       |
@@ -53,7 +53,7 @@ Calon Mahasiswa Baru yang sudah **dinyatakan** **Lulus lewat** jalur Seleksi Nas
 
         6.  Pdf Kartu Keluarga (Asli atau Copy yang Dilegalisir)
 
-        7.  Bukti pembayaran listrik bagi pelanggang *pascabayar* **atau** bukti pembelian token listrik bagi pelanggan *prabayar* (Asli)
+        7.  Bukti pembayaran listrik bagi pelanggang *pascabayar* **atau** bukti pembelian token listrik bagi pelanggan *prabayar* (Asli-Pdf) diharapkan maximal Pembayaran 3 bulan terakhir
 
             Bagi pelanggan listrik 450VA yang digratiskan dan tidak memiliki bukti pembayaran bisa membuatnya di halaman [**https://stimulus.pln.co.id/**](https://stimulus.pln.co.id/){.uri target="_blank"} seperti pada gambar berikut.
 
@@ -78,7 +78,7 @@ Calon Mahasiswa Baru yang sudah **dinyatakan** **Lulus lewat** jalur Seleksi Nas
         12. Surat Pemeriksaan Buta Warna dari Rumah Sakit/Klinik/Puskesmas untuk Program Studi berikut (*scan* dan *upload*) :
 
             | No.  | Program Studi                             | Keterangan                                |
-            |------|-------------------------------------------|-------------------------------------------|
+            |--------------|-----------------------------|-----------------------------|
             | 1\.  | Pendidikan Biologi                        | Tidak Boleh Buta Warna                    |
             | 2\.  | Pendidikan Guru Sekolah Dasar             | Tidak Boleh Buta Warna                    |
             | 3\.  | Pendidikan Guru Pendidikan Anak Usia Dini | Tidak Boleh Buta Warna                    |
