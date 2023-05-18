@@ -67,7 +67,7 @@ TAHUN AKADEMIK 2023/2024
 **DIPLOMA TIGA KEPERAWATAN:**
 
 1.  Lulusan SMA/MA/ Jurusan IPA, SMK Kesehatan/SMK Farmasi/SMK Analis/SMK Kimia, berijazah, 5 (lima) tahun terakhir 2019, 2020, 2021, 2022, dan 2023
-2.  Bagi lulusan tahun 2022, telah memiliki Surat Keterangan Lulus yang memuat sekurang-kurangnya informasi jati diri, pas foto yang bersangkutan, serta dibubuhi cap yang sah.
+2.  Bagi lulusan tahun 2023, telah memiliki Surat Keterangan Lulus yang memuat sekurang-kurangnya informasi jati diri, pas foto yang bersangkutan, serta dibubuhi cap yang sah.
 3.  Peserta seleksi dalam kondisi sehat jasmani dan rohani.
 4.  Tinggi badan minimum; Perempuan : 150 cm Laki-laki : 155 cm
 5.  Tidak buta warna, parsial maupun total.
@@ -75,7 +75,7 @@ TAHUN AKADEMIK 2023/2024
 
 **DIPLOMA TIGA EKONOMI:**
 
-1.  Lulusan SMA/MA/SMK/atau sederajat dan Paket C, berijazah, 5 (lima) tahun terakhir 2018, 2019, 2020, 2021 dan 2022
+1.  Lulusan SMA/MA/SMK/atau sederajat dan Paket C, berijazah, 5 (lima) tahun terakhir 2019, 2020, 2021, 2022, dan 2023
 2.  Bagi lulusan Paket C, usia maksimum saat pendaftaran adalah 22 tahun
 3.  Bagi lulusan tahun 2022, telah memiliki Surat Keterangan Lulus yang memuat sekurang-kurangnya informasi jati diri, pas foto yang bersangkutan, serta dibubuhi cap yang sah.
 4.  Peserta seleksi dalam kondisi sehat jasmani dan rohani.
@@ -95,12 +95,12 @@ Mahasiswa baru jalur **alih jenjang** adalah migrasi mahasiswa lulusan D2/D3 dar
 
 ### **JADUAL PELAKSANAAN**
 
-| **Keterangan**          | **Gelombang 1**        | **Gelombang 2**       |
-|-------------------------|------------------------|-----------------------|
-| Pendaftaran             | 25 Maret - 05 Mei 2022 | 17 Mei - 25 Juli 2022 |
-| Ujian Masuk             | 10 Mei 2022            | 30 Juli 2022          |
-| Pengumuman Hasil Ujian  | 12 Mei 2022            | 1 Agustus 2022        |
-| Pembayaran UKT dan BPIN | 14 - 23 Mei 2022       | 4 - 12 Agustus 2022   |
+| **Keterangan**          | **Gelombang 1**        | **Gelombang 2** |
+|-------------------------|------------------------|-----------------|
+| Pendaftaran             | 25 Maret - 05 Mei 2022 | \-              |
+| Ujian Masuk             | 10 Mei 2022            | \-              |
+| Pengumuman Hasil Ujian  | 12 Mei 2022            | \-              |
+| Pembayaran UKT dan BPIN | 14 - 23 Mei 2022       | \-              |
 
 ### **MATERI UJIAN**
 
@@ -154,7 +154,7 @@ Biaya konversi setelah diterima : Rp 1.000.000,-
 ```{=html}
 <p>Pendaftaran <em>online</em> dilakukan mulai: <br>
 <strong>Gelombang 1</strong> : 25 Maret – 29 April 2022, pukul 23.59 WIB <br>
-<strong>Gelombang 2</strong> : 17 Mei – 25 Juli 2022, pukul 23.59 WIB
+<strong>Gelombang 2</strong> : -
 </p>
 ```
 1.  Buka laman [**https://admisi.untirta.ac.id**](https://admisi.untirta.ac.id)**, Klik Daftar** pada tanda yang ditunjuk panah merah.
@@ -191,7 +191,7 @@ Biaya konversi setelah diterima : Rp 1.000.000,-
 
     3.  [**Surat Pernyataan Mentaati Peraturan**](https://drive.google.com/file/d/1KicWOfHIsxk0aDctxTJ0eVCwMioxHGLW/view?usp=sharing) (*download*, isi, *scan*, dan *upload*).
 
-    4.  Ijazah / Surat Keterangan Lulus bagi lulusan tahun 2022 yang belum memperoleh Ijazah. **atau Surat Keterangan Kelas XII atau Kartu Peserta Ujian Sekolah** (scan, upload)
+    4.  Ijazah / Surat Keterangan Lulus bagi lulusan tahun 2023 yang belum memperoleh Ijazah. **atau Surat Keterangan Kelas XII atau Kartu Peserta Ujian Sekolah** (scan, upload)
 
     5.  Akta Kelahiran (*scan* dan *upload*).
 
@@ -207,11 +207,11 @@ Biaya konversi setelah diterima : Rp 1.000.000,-
 
     10. Bukti Penghasilan Ayah dan Penghasilan Ibu dengan ketentuan sebagai berikut (*scan* dan *upload*):
 
-        -   **PNS**/**TNI**/**BUMN**/**Karyawan Swasta** : Slip Gaji / Bukti Penghasilan maksimal 2 (dua) bulan terakhir **tahun 2022 (terbaru)**,
+        -   **PNS**/**TNI**/**BUMN**/**Karyawan Swasta** : Slip Gaji / Bukti Penghasilan maksimal 2 (dua) bulan terakhir **tahun 2023 (terbaru)**,
 
         -   **Wiraswasta**/**Petani**/**Pedagang**/**Buruh**/**Tidak Mempunyai Pekerjaan Tetap** : Surat Keterangan Penghasilan dari Kelurahan dengan wajib mencantumkan **(1) NAMA PEKERJAAN (2) NOMINAL PENGHASILAN/bulan** (*scan* dan *upload*),
 
-        -   **Pensiunan** : Rekening Koran atau *print out* Buku Rekening Pensiun maksimal 2 (dua) bulan terakhir **tahun 2022 (terbaru)**.
+        -   **Pensiunan** : Rekening Koran atau *print out* Buku Rekening Pensiun maksimal 2 (dua) bulan terakhir **tahun 2023 (terbaru)**.
 
             > ***Jika Ayah sudah meninggal** kolom penghasilan di isi nol. Dokumen yang di upload Surat Kematian.*
             >
