@@ -9,7 +9,7 @@ tags:
   - ''
 description: ''
 thumbnail: ''
-draft: true
+draft: false
 ---
 
 ```{=html}
@@ -77,7 +77,7 @@ TAHUN AKADEMIK 2023/2024
 
 1.  Lulusan SMA/MA/SMK/atau sederajat dan Paket C, berijazah, 5 (lima) tahun terakhir 2019, 2020, 2021, 2022, dan 2023
 2.  Bagi lulusan Paket C, usia maksimum saat pendaftaran adalah 22 tahun
-3.  Bagi lulusan tahun 2022, telah memiliki Surat Keterangan Lulus yang memuat sekurang-kurangnya informasi jati diri, pas foto yang bersangkutan, serta dibubuhi cap yang sah.
+3.  Bagi lulusan tahun 2023, telah memiliki Surat Keterangan Lulus yang memuat sekurang-kurangnya informasi jati diri, pas foto yang bersangkutan, serta dibubuhi cap yang sah.
 4.  Peserta seleksi dalam kondisi sehat jasmani dan rohani.
 5.  Bebas Narkoba dari Rumah Sakit Pemerintah / BNN
 
@@ -95,12 +95,12 @@ Mahasiswa baru jalur **alih jenjang** adalah migrasi mahasiswa lulusan D2/D3 dar
 
 ### **JADUAL PELAKSANAAN**
 
-| **Keterangan**          | **Gelombang 1**        | **Gelombang 2** |
-|-------------------------|------------------------|-----------------|
-| Pendaftaran             | 25 Maret - 05 Mei 2022 | \-              |
-| Ujian Masuk             | 10 Mei 2022            | \-              |
-| Pengumuman Hasil Ujian  | 12 Mei 2022            | \-              |
-| Pembayaran UKT dan BPIN | 14 - 23 Mei 2022       | \-              |
+| **Keterangan**          | **Gelombang 1**      | **Gelombang 2** |
+|-------------------------|----------------------|-----------------|
+| Pendaftaran             | 22 Mei -14 Julo 2023 | \-              |
+| Ujian Masuk             | 30 Juli 2023         | \-              |
+| Pengumuman Hasil Ujian  | \-                   | \-              |
+| Pembayaran UKT dan BPIN | \-                   | \-              |
 
 ### **MATERI UJIAN**
 
@@ -136,7 +136,7 @@ Biaya konversi setelah diterima : Rp 1.000.000,-
 1.  Biaya Uang Kuliah Tunggal (UKT) sesuai dengan Keputusan Rektor Nomor: 379/UN43/KP.TM.01.03/2020 tentang Penetapan Biaya Pendaftaran, Uang Kuliah Tunggal, dan Iuran Pembangunan Institusi Bagi Mahasiswa Baru Program Sarjana Jalur Seleksi Mandiri Masuk Perguruan Tinggi Negeri Wilayah Barat Universitas Sultan Ageng Tirtayasa Tahun Akademik 2022/2023, yaitu:
 
 | No  | Kode | Program Studi         | K3          | K4          | K5          | K6          |
-|:----|:-----|:----------------------|:------------|:------------|:------------|:------------|
+|:---------|:---------|:-----------|:---------|:---------|:---------|:---------|
 | 1\. | 5501 | Akuntansi             | 3.000.000,- | 4.000.000,- | 5.500.000,- | \-          |
 | 2\. | 5502 | Manajemen Pemasaran   | 3.000.000,- | 4.000.000,- | 5.500.000,- | \-          |
 | 3\. | 5503 | Perpajakan            | 3.000.000,- | 4.000.000,- | 5.500.000,- | \-          |
@@ -153,7 +153,7 @@ Biaya konversi setelah diterima : Rp 1.000.000,-
 
 ```{=html}
 <p>Pendaftaran <em>online</em> dilakukan mulai: <br>
-<strong>Gelombang 1</strong> : 25 Maret – 29 April 2022, pukul 23.59 WIB <br>
+<strong>Gelombang 1</strong> : 22 Mei – 14 Juli 2023, pukul 23.59 WIB <br>
 <strong>Gelombang 2</strong> : -
 </p>
 ```
