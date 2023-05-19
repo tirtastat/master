@@ -77,7 +77,7 @@ TAHUN AKADEMIK 2022/2023
 
 5.  Peserta seleksi dalam kondisi sehat jasmani dan rohani.
 
-6.  Bebas Narkoba \<br>
+6.  Bebas Narkoba \<br\>
 
 **JADUAL PELAKSANAAN**
 
@@ -100,12 +100,12 @@ TAHUN AKADEMIK 2022/2023
 | ALIH JENJANG | :   | Tes Potensi Skolastik (TPS)           |
 |              |     | Tes Kemampuan Akademik Keilmuan (TKK) |
 
-**\<br>PENGUMUMAN HASIL SELEKSI**
+**\<br\>PENGUMUMAN HASIL SELEKSI**
 
 Hasil seleksi diumumkan melalui laman
 [**https://admisi.untirta.ac.id**](https://admisi.untirta.ac.id)
 
-**\<br>BIAYA PENDAFTARAN**
+**\<br\>BIAYA PENDAFTARAN**
 
 Diploma Tiga dan Alih Jenjang Ekonomi : Rp 400.000,-
 
@@ -122,7 +122,7 @@ Lulus;
 
 Biaya konversi setelah diterima : Rp?500.000,-
 
-**\<br>BIAYA PENDIDIKAN**
+**\<br\>BIAYA PENDIDIKAN**
 
 1.  Biaya Uang Kuliah Tunggal (UKT) sesuai dengan Keputusan Rektor
     Nomor: 379/UN43/KP.TM.01.03/2020 tentang Penetapan Biaya
@@ -144,12 +144,12 @@ Biaya konversi setelah diterima : Rp?500.000,-
 2\. **Biaya yang harus dibayar di awal semester I = Biaya IPIN + UKT.**
 Untuk semester selanjutnya yang dibayar hanya UKT.
 
-\<br>\<br>
+\<br\>\<br\>
 
 **TATA CARA PENDAFTARAN**
 
-Pendaftaran *online* dilakukan mulai: \<br> Gelombang 1 : 24 Januari --
-29 April 2022, pukul 23.59 WIB \<br> Gelombang 2 : 17 Mei -- 15 Juli
+Pendaftaran *online* dilakukan mulai: \<br\> Gelombang 1 : 24 Januari --
+29 April 2022, pukul 23.59 WIB \<br\> Gelombang 2 : 17 Mei -- 15 Juli
 2022, pukul 23.59 WIB (tentative)
 
 1.  Buka laman
@@ -192,7 +192,7 @@ Pendaftaran *online* dilakukan mulai: \<br> Gelombang 1 : 24 Januari --
     > sedangkan untuk pertanyaan yang tidak ada tanda bintang bisa di
     > isi jika anda mempunyai datanya atau boleh dikosongkan.
 
-\<br>\<br>
+\<br\>\<br\>
 
 ## Jadwal Ujian Tulis Berbasis Komputer (UTBK)
 
@@ -205,19 +205,19 @@ Pendaftaran *online* dilakukan mulai: \<br> Gelombang 1 : 24 Januari --
 |                               | Tes Kemampuan Akademik (TKA) Saintek/Soshum | 10.30 -- 12.00 |                           |
 |                               | Test Kesehatan (Kampus Pakupatan)           | 12.00 - 17.00  | **Keperawatan**           |
 
-| Hari dan Tanggal               | Kegiatan                                                                                           | Waktu (WIB)    | Kelompok Ujian                           |
-|:-------------------------------|:---------------------------------------------------------------------------------------------------|:---------------|:-----------------------------------------|
-| Gelombang 2 Sabtu 30 Juli 2022 | Peserta masuk ruang ujian                                                                          | 08.25 -- 08.30 | **Ekonomi , Keperawatan & Alih Jenjang** |
-|                                | Pemeriksaan identitas dan dokumen                                                                  | 08.30 -- 08.40 |                                          |
-|                                | Latihan                                                                                            | 08.40 -- 08.45 |                                          |
-|                                | Tes Potensi Skolastik (TPS)                                                                        | 08.45 -- 10.30 |                                          |
-|                                | Tes Kemampuan Akademik (TKA) Saintek/Soshum, ,\<br>Tes Kemampuan Keilmuan (TKK) untuk Alih Jenjang | 10.30 -- 12.00 |                                          |
-|                                | Test Kesehatan (Kampus Pakupatan)                                                                  |                | **Keperawatan**                          |
+| Hari dan Tanggal               | Kegiatan                                                                                            | Waktu (WIB)    | Kelompok Ujian                           |
+|:-------------------------------|:----------------------------------------------------------------------------------------------------|:---------------|:-----------------------------------------|
+| Gelombang 2 Sabtu 30 Juli 2022 | Peserta masuk ruang ujian                                                                           | 08.25 -- 08.30 | **Ekonomi , Keperawatan & Alih Jenjang** |
+|                                | Pemeriksaan identitas dan dokumen                                                                   | 08.30 -- 08.40 |                                          |
+|                                | Latihan                                                                                             | 08.40 -- 08.45 |                                          |
+|                                | Tes Potensi Skolastik (TPS)                                                                         | 08.45 -- 10.30 |                                          |
+|                                | Tes Kemampuan Akademik (TKA) Saintek/Soshum, ,\<br\>Tes Kemampuan Keilmuan (TKK) untuk Alih Jenjang | 10.30 -- 12.00 |                                          |
+|                                | Test Kesehatan (Kampus Pakupatan)                                                                   |                | **Keperawatan**                          |
 
 > Peserta wajib hadir di lokasi ujian, 90 menit sebelum ujian
 > dilaksanakan.
 
-\<br>\<br>
+\<br\>\<br\>
 
 **REGISTRASI ULANG DAN DOKUMEN YANG HARUS DISIAPKAN SETELAH DINYATAKAN
 LULUS TES**
