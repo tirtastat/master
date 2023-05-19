@@ -97,7 +97,7 @@ Mahasiswa baru jalur **alih jenjang** adalah migrasi mahasiswa lulusan D2/D3 dar
 
 | **Keterangan**          | **Gelombang 1**      | **Gelombang 2** |
 |-------------------------|----------------------|-----------------|
-| Pendaftaran             | 22 Mei -14 Julo 2023 | \-              |
+| Pendaftaran             | 22 Mei -14 Juli 2023 | \-              |
 | Ujian Masuk             | 30 Juli 2023         | \-              |
 | Pengumuman Hasil Ujian  | \-                   | \-              |
 | Pembayaran UKT dan BPIN | \-                   | \-              |
@@ -136,7 +136,7 @@ Biaya konversi setelah diterima : Rp 1.000.000,-
 1.  Biaya Uang Kuliah Tunggal (UKT) sesuai dengan Keputusan Rektor Nomor: 379/UN43/KP.TM.01.03/2020 tentang Penetapan Biaya Pendaftaran, Uang Kuliah Tunggal, dan Iuran Pembangunan Institusi Bagi Mahasiswa Baru Program Sarjana Jalur Seleksi Mandiri Masuk Perguruan Tinggi Negeri Wilayah Barat Universitas Sultan Ageng Tirtayasa Tahun Akademik 2022/2023, yaitu:
 
 | No  | Kode | Program Studi         | K3          | K4          | K5          | K6          |
-|:---------|:---------|:-----------|:---------|:---------|:---------|:---------|
+|:----------|:----------|:----------|:----------|:----------|:----------|:----------|
 | 1\. | 5501 | Akuntansi             | 3.000.000,- | 4.000.000,- | 5.500.000,- | \-          |
 | 2\. | 5502 | Manajemen Pemasaran   | 3.000.000,- | 4.000.000,- | 5.500.000,- | \-          |
 | 3\. | 5503 | Perpajakan            | 3.000.000,- | 4.000.000,- | 5.500.000,- | \-          |
@@ -223,7 +223,7 @@ Biaya konversi setelah diterima : Rp 1.000.000,-
 
     > **Pertanyaan / Isian yang bertanda bintang (\*) wajib di isi**, sedangkan untuk pertanyaan yang tidak ada tanda bintang bisa di isi jika anda mempunyai datanya atau boleh dikosongkan.<br>
 
-## Jadwal Ujian Tulis Berbasis Komputer (UTBK) Gelombang 2
+## Jadwal Ujian Tulis Berbasis Komputer (UTBK)
 
 ```{=html}
 <style type="text/css">
@@ -248,7 +248,7 @@ Biaya konversi setelah diterima : Rp 1.000.000,-
 </thead>
 <tbody>
   <tr>
-    <td class="tg-0lax" rowspan="6"><span style="font-weight:bold">Gelombang 2</span><br><br><br><span style="font-weight:bold">SABTU, 30 Juli 2022</span></td>
+    <td class="tg-0lax" rowspan="6"><span style="font-weight:bold"> </span><br><br><br><span style="font-weight:bold">MINGGU, 30 Juli 2023</span></td>
     <td class="tg-0lax">Peserta masuk ruang ujian</td>
     <td class="tg-baqh">08.25 - 08.30</td>
     <td class="tg-cly1" rowspan="5">(1) Ekonomi<br>(2) Keperawatan<br>(3) Alih Jenjang (S1)<br></td>
