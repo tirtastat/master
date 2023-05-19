@@ -136,7 +136,7 @@ Biaya konversi setelah diterima : Rp 1.000.000,-
 1.  Biaya Uang Kuliah Tunggal (UKT) sesuai dengan Keputusan Rektor Nomor: 379/UN43/KP.TM.01.03/2020 tentang Penetapan Biaya Pendaftaran, Uang Kuliah Tunggal, dan Iuran Pembangunan Institusi Bagi Mahasiswa Baru Program Sarjana Jalur Seleksi Mandiri Masuk Perguruan Tinggi Negeri Wilayah Barat Universitas Sultan Ageng Tirtayasa Tahun Akademik 2022/2023, yaitu:
 
 | No  | Kode | Program Studi         | K3          | K4          | K5          | K6          |
-|:----------|:----------|:----------|:----------|:----------|:----------|:----------|
+|:----|:-----|:----------------------|:------------|:------------|:------------|:------------|
 | 1\. | 5501 | Akuntansi             | 3.000.000,- | 4.000.000,- | 5.500.000,- | \-          |
 | 2\. | 5502 | Manajemen Pemasaran   | 3.000.000,- | 4.000.000,- | 5.500.000,- | \-          |
 | 3\. | 5503 | Perpajakan            | 3.000.000,- | 4.000.000,- | 5.500.000,- | \-          |
@@ -187,9 +187,9 @@ Biaya konversi setelah diterima : Rp 1.000.000,-
 
     1.  File Pasfoto berwarna terbaru (standar untuk ijazah) dengan wajah menghadap ke depan, ukuran 4x6 cm, **berformat \*jpg**, dengan resolusi maksimum 300pxl x 450pxl, dan ukuran file maksimum 200 kb.
 
-    2.  Pakta Integritas Uang Kuliah Tunggal, [**Jalur UMM D3 dan Alih Jenjang**](https://drive.google.com/file/d/1KVdwLtAwVy13ppo2aW-Qh8Gwhs2JLWt_/view?usp=sharing) (*download*, isi, *scan*, dan *upload*).
+    2.  [**Pakta Integritas Mahasiswa**](https://drive.google.com/file/d/1WaDDgIUe78UIx3qvsbHVWLGfgHUWplyt/view?usp=share_link) (*download*, cetak, isi, *scan*, dan *upload*).
 
-    3.  [**Surat Pernyataan Mentaati Peraturan**](https://drive.google.com/file/d/1KicWOfHIsxk0aDctxTJ0eVCwMioxHGLW/view?usp=sharing) (*download*, isi, *scan*, dan *upload*).
+    3.  [**Surat Pernyataan Mematuhi Peraturan dan Kesanggupan Membayar Biaya Pendidikan**](https://drive.google.com/file/d/1W_K_8IGQ_xwtaJ3eqGnno7K0ro5Vexdo/view?usp=share_link)(*download*, cetak, isi, *scan*, dan *upload*).
 
     4.  Ijazah / Surat Keterangan Lulus bagi lulusan tahun 2023 yang belum memperoleh Ijazah. **atau Surat Keterangan Kelas XII atau Kartu Peserta Ujian Sekolah** (scan, upload)
 
@@ -199,7 +199,11 @@ Biaya konversi setelah diterima : Rp 1.000.000,-
 
     7.  Bukti pembayaran listrik bagi pelanggang *pascabayar* **atau** bukti pembelian token listrik bagi pelanggan *prabayar* (*scan* dan *upload*).
 
-    8.  SPPT Pajak Bumi dan Bangunan (PBB) maximal 2 (dua) Tahun terakhir **atau** [**Surat Pernyataan tentang Luas Tanah dan Bangunan Rumah yang ditempati bagi yang tidak punya SPPT**](https://drive.google.com/file/d/1KcB8OgHbwCVpOmQ5tBbOWvJAfmTyc6sR/view?usp=sharing) (*download*, isi, *scan*, dan *upload*).
+    8.  Pilih **salah satu** yang paling sesuai.
+
+        -   SPPT Pajak Bumi dan Bangunan (PBB) tiga tahun terakhir (pilih salah satu)
+        -   [**Surat Pernyataan tentang Luas Tanah dan Bangunan Rumah yang ditempati**](https://drive.google.com/file/d/1WrHzSj8ulBG2VrpmJ-ssthPfUbBl0QqL/view?usp=share_link) bagi yang tidak punya SPPT
+        -   Jika Rumah Mengontrak dan tidak ada Bukti PBB lampirkan Bukti pembayaran sewa rumah bagi yang mengontrak/sewa ditambah [**Surat Pernyataan tentang Luas Tanah dan Bangunan Rumah yang ditempati**](https://drive.google.com/file/d/1WqMwvIShVGleoOzbJl6XGKKAxJDGYaRy/view?usp=share_link)
 
     9.  **Untuk Kelompok Ujian Ekonomi dan Alih Jenjang (S1) Wajib Upload** Surat Keterangan Sehat, Surat Hasil Test Narkoba dari Rumah Sakit Pemerintah / BNN.
 
@@ -218,8 +222,6 @@ Biaya konversi setelah diterima : Rp 1.000.000,-
             > **Jika Ibu ibu Rumah Tangga** minta surat keterangan dari RW/Kelurahan
             >
             > *Penghasilan Ayah dan Ibu di isi dengan data sebenarnya dan **tidak boleh 0 (nol) semua**.*
-
-    11. [**Surat Pernyataan Kebenaran / Keabsahan Data**](https://drive.google.com/file/d/1MFw80ubHzl9h9FIHJNGzGmkVkNfNkEQ5/view?usp=sharing) (dowload, isi, scan dan upload)
 
     > **Pertanyaan / Isian yang bertanda bintang (\*) wajib di isi**, sedangkan untuk pertanyaan yang tidak ada tanda bintang bisa di isi jika anda mempunyai datanya atau boleh dikosongkan.<br>
 
