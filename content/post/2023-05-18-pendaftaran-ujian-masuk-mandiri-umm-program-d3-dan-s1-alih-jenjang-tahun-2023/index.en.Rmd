@@ -95,12 +95,12 @@ Mahasiswa baru jalur **alih jenjang** adalah migrasi mahasiswa lulusan D2/D3 dar
 
 ### **JADUAL PELAKSANAAN**
 
-| **Keterangan**          | **Gelombang 1**      | **Gelombang 2** |
-|-------------------------|----------------------|-----------------|
-| Pendaftaran             | 22 Mei -14 Juli 2023 | \-              |
-| Ujian Masuk             | 30 Juli 2023         | \-              |
-| Pengumuman Hasil Ujian  | \-                   | \-              |
-| Pembayaran UKT dan BPIN | \-                   | \-              |
+| **Keterangan**          | Waktu Pelaksanaan    |
+|-------------------------|----------------------|
+| Pendaftaran             | 22 Mei -14 Juli 2023 |
+| Ujian Masuk             | 30 Juli 2023         |
+| Pengumuman Hasil Ujian  | 01 Agustus 2023      |
+| Pembayaran UKT dan BPIN | 03 - 12 Agustus 2023 |
 
 ### **MATERI UJIAN**
 
@@ -127,7 +127,7 @@ Membayar Iuran Pengembangan Institusi Negara (IPIN), jika dinyatakan Lulus;
 
 -   Diploma Tiga Keperawatan : Rp 10.000.000
 
--   Alih Jenjang Ekonomi Fakultas Ekonomi dan Bisnis : Rp 20.000.000
+-   Alih Jenjang Ekonomi Fakultas Ekonomi dan Bisnis : Rp 10.000.000
 
 Biaya konversi setelah diterima : Rp 1.000.000,-
 
@@ -153,8 +153,8 @@ Biaya konversi setelah diterima : Rp 1.000.000,-
 
 ```{=html}
 <p>Pendaftaran <em>online</em> dilakukan mulai: <br>
-<strong>Gelombang 1</strong> : 22 Mei – 14 Juli 2023, pukul 23.59 WIB <br>
-<strong>Gelombang 2</strong> : -
+<strong>22 Mei – 14 Juli 2023, pukul 23.59 WIB </strong><br>
+<strong></strong>
 </p>
 ```
 1.  Buka laman [**https://admisi.untirta.ac.id**](https://admisi.untirta.ac.id)**, Klik Daftar** pada tanda yang ditunjuk panah merah.
@@ -243,7 +243,6 @@ Biaya konversi setelah diterima : Rp 1.000.000,-
     <th class="tg-1wig">Hari dan Tanggal</th>
     <th class="tg-1wig">Kegiatan</th>
     <th class="tg-1wig">Waktu (WIB)</th>
-    <th class="tg-1wig">Kelompok Ujian</th>
   </tr>
 </thead>
 <tbody>
@@ -251,7 +250,6 @@ Biaya konversi setelah diterima : Rp 1.000.000,-
     <td class="tg-0lax" rowspan="6"><span style="font-weight:bold"> </span><br><br><br><span style="font-weight:bold">MINGGU, 30 Juli 2023</span></td>
     <td class="tg-0lax">Peserta masuk ruang ujian</td>
     <td class="tg-baqh">08.25 - 08.30</td>
-    <td class="tg-cly1" rowspan="5">(1) Ekonomi<br>(2) Keperawatan<br>(3) Alih Jenjang (S1)<br></td>
   </tr>
   <tr>
     <td class="tg-0lax">Pemeriksaan identitas dan dokumen</td>
@@ -270,9 +268,8 @@ Biaya konversi setelah diterima : Rp 1.000.000,-
     <td class="tg-baqh">10.30 - 12.00</td>
   </tr>
   <tr>
-    <td class="tg-0lax">Tes Kesehatan (Kampus Kepandean)</td>
+    <td class="tg-0lax">Tes Kesehatan Khusus Keperawatan (Kampus Kepandean)</td>
     <td class="tg-baqh">12.30 - selesai</td>
-    <td class="tg-0lax">Khusus Keperawatan</td>
   </tr>
 </tbody>
 </table>
