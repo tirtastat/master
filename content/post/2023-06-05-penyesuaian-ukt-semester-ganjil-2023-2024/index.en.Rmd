@@ -100,7 +100,11 @@ Pendaftaran dapat dilakukan dengan mengisi formulir berikut **menggunakan akun e
 Sys.setlocale("LC_TIME", "IND") 
 ```
 
-Informasi Hasil Verifikasi Penyesuaian UKT oleh Sub. PNBP akan disampaikan melalui email mahasiswa. Hotline Registrasi : +6281311734542 Hotline PNBP : +6281387220826
+**Helpdesk :**
+
+**Hotline Registrasi** : +6281311734542 **Hotline PNBP** : +6281387220826
+
+Informasi Hasil Verifikasi Penyesuaian UKT oleh Sub. PNBP akan disampaikan melalui email mahasiswa.
 
 ```{r eval=FALSE, message=FALSE, warning=FALSE, include=FALSE}
 # sampai dengan r format(Sys.time(), "%d %B %Y") pukul r format(Sys.time(), "%X") 
