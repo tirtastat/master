@@ -20,6 +20,8 @@ Bagi calon mahasiswa baru yang sudah dinyatakan ***lulus tes seleksi*** / ujian 
 
 Selanjutnya calon mahasiswa melengkapi persyaratan administrasi akademik dan administrasi keuangan atau sudah membayar Uang Kuliah Tunggal (UKT) dan sudah membayar Sumbangan Pengembangan Instansi (SPI) bagi mahasiswa baru jalur Mandiri. Nomor Induk Mahasiswa (NIM) akan diberikan jika camaba telah menyelesaikan rangkaian proses registrasi ulang.
 
+![](images/SNBT-02.png)
+
 ![](images/Timeline%20Registrasi%20SNBP_2023_page-0001-03.jpg)
 
 ![](images/hotline.jpg)
