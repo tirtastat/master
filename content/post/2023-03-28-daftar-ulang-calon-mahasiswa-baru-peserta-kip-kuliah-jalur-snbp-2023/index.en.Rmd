@@ -15,7 +15,7 @@ draft: true
 
 #### (Diumumkan oleh Kemahasiswaan -- BAKP)
 
-1.  Wajib melakukan daftar ulang Calon Mahasiswa Baru jalur **SNBP**, **Tanggal 01 - 10 April 2023** pada Laman : [**https://admisi.untirta.ac.id**](https://admisi.untirta.ac.id){.uri target="_blank"}
+1.  Wajib melakukan daftar ulang Calon Mahasiswa Baru jalur **SNBT**, **Tanggal 20 - 30 Juni 2023** pada Laman : [**https://admisi.untirta.ac.id**](https://admisi.untirta.ac.id){.uri target="_blank"}
 
     > **Selesaikan dahulu proses registrasi ulang admisi** sebelum daftar ulang di laman ini.
 
@@ -23,9 +23,9 @@ draft: true
 
     Lengkapi dan perbaharui semua data yang dicantumkan di laman tersebut. Contoh: alamat, nomor HP, prestasi, upload foto keluarga, foto rumah (tampak ruang keluarga)
 
-3.  Tanggal **01 - 10 April 2023** wajib melakukan daftar ulang Calon Mahasiswa Baru KIP Kuliah pada link [**https://link.untirta.ac.id/KIPK23**](https://link.untirta.ac.id/KIPK23){target="_blank"} serta mengupload file berukuran **tidak lebih dari 1 MB** dengan format nama file (rename): **No.SNBP_Nama Camaba_Jenis Data**.
+3.  Jika sudah selesai registrasi di laman Admisi, Tanggal **20 - 30 Juni 2023** wajib melakukan daftar ulang Calon Mahasiswa Baru KIP Kuliah pada link [**https://link.untirta.ac.id/KIPK23**](https://link.untirta.ac.id/KIPK23){target="_blank"} serta mengupload file berukuran **tidak lebih dari 1 MB** dengan format nama file (rename): **No.SNBT_Nama Camaba_Jenis Data**.
 
-4.  Wawancara akan dilakukan oleh Tim Kemahasiswaan via Zoom/Whatsapp Video Call pada tanggal **03 - 11 April 2023**.
+4.  Wawancara akan dilakukan oleh Tim Kemahasiswaan via Zoom/Whatsapp Video Call pada tanggal **21 Juni - 01 Juli 2023**.
 
     ```{=html}
     <style type="text/css">
@@ -43,7 +43,7 @@ draft: true
         <th class="tg-9wq8">No</th>
         <th class="tg-9wq8">File yang harus diunggah</th>
         <th class="tg-9wq8">Jenis File</th>
-        <th class="tg-9wq8">Contoh Nama File<br>(No.SNBP_Nama Camaba_Jenis data)<br></th>
+        <th class="tg-9wq8">Contoh Nama File<br>(No.SNBT_Nama Camaba_Jenis data)<br></th>
       </tr>
     </thead>
     <tbody>
@@ -147,7 +147,7 @@ draft: true
     </table>
     ```
 
-5.  Hasil Verifikasi akan diumumkan pada **18 April 2023** melalui web [**https://untirta.ac.id**](https://untirta.ac.id){target="_blank"}
+5.  Hasil Verifikasi akan diumumkan pada **02 Juli 2023** melalui web [**https://untirta.ac.id**](https://untirta.ac.id){target="_blank"}
 
     -   Jika **tidak diterima**, silahkan membayar UKT sesuai yang tertera di laman [**admisi.untirta.ac.id**](https://admisi.untirta.ac.id){target="_blank"}
     -   Jika **diterima**, anda tidak membayar UKT.
