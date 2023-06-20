@@ -17,7 +17,7 @@ Calon Mahasiswa Baru yang sudah **dinyatakan** **Lulus lewat** jalur Seleksi Nas
 1.  Jadwal registrasi ulang\*
 
     | NO  | SELEKSI                                          | REGISTRASI ONLINE    | PEMBAYARAN UKT                                                           |
-    |:----|:-------------------------------------------------|:---------------------|:-------------------------------------------------------------------------|
+    |:------------|:-----------------|:------------|:----------------------------|
     | 1\. | **SNBP**                                         | 01 - 10 April 2023   | 14 - 28 April 2023                                                       |
     |     | *Pengiriman Akun Admisi ke email Camaba*         | *29 - 31 Maret 2023* | *Penetapan UKT bisa dicek di admisi/login kembali* (13 April 2023; Sore) |
     | 2\. | **ADIK (Afirmasi Dikti)**                        | \-                   | \-                                                                       |
@@ -74,12 +74,12 @@ Calon Mahasiswa Baru yang sudah **dinyatakan** **Lulus lewat** jalur Seleksi Nas
 
         11. Surat Keterangan Kesehatan dari Rumah Sakit/Klinik/Puskesmas (*scan Asli* dan *upload*)
 
-            > **Surat Sehat, Buta Warna dan Narkoba harus yang terbaru atau pemeriksaan mulai tanggal 29 Maret - 10 April 2023**
+            > **Surat Sehat, Buta Warna dan Narkoba harus yang terbaru atau pemeriksaan mulai tanggal 20 Juni 2023**
 
         12. Surat Pemeriksaan Buta Warna dari Rumah Sakit/Klinik/Puskesmas untuk Program Studi berikut (*scan* dan *upload*) :
 
             | No.  | Program Studi                             | Keterangan                                |
-            |------|-------------------------------------------|-------------------------------------------|
+            |--------------|-----------------------------|-----------------------------|
             | 1\.  | Pendidikan Biologi                        | Tidak Boleh Buta Warna                    |
             | 2\.  | Pendidikan Guru Sekolah Dasar             | Tidak Boleh Buta Warna                    |
             | 3\.  | Pendidikan Guru Pendidikan Anak Usia Dini | Tidak Boleh Buta Warna                    |
