@@ -17,7 +17,7 @@ Calon Mahasiswa Baru yang sudah **dinyatakan** **Lulus lewat** jalur Seleksi Nas
 1.  Jadwal registrasi ulang\*
 
     | NO  | SELEKSI                                          | REGISTRASI ONLINE    | PEMBAYARAN UKT                                                           |
-    |:------------|:-----------------|:------------|:----------------------------|
+    |:---------------|:---------------|:---------------|:-------------------------|
     | 1\. | **SNBP**                                         | 01 - 10 April 2023   | 14 - 28 April 2023                                                       |
     |     | *Pengiriman Akun Admisi ke email Camaba*         | *29 - 31 Maret 2023* | *Penetapan UKT bisa dicek di admisi/login kembali* (13 April 2023; Sore) |
     | 2\. | **ADIK (Afirmasi Dikti)**                        | \-                   | \-                                                                       |
@@ -70,7 +70,7 @@ Calon Mahasiswa Baru yang sudah **dinyatakan** **Lulus lewat** jalur Seleksi Nas
             b.  [**Surat Pernyataan tentang Luas Tanah dan Bangunan Rumah yang ditempati**](https://drive.google.com/file/d/1WrHzSj8ulBG2VrpmJ-ssthPfUbBl0QqL/view?usp=share_link) bagi yang tidak punya SPPT
             c.  **Jika Rumah Mengontrak** dan tidak ada Bukti PBB lampirkan Bukti pembayaran sewa rumah bagi yang mengontrak/sewa ditambah [**Surat Pernyataan tentang Luas Tanah dan Bangunan Rumah yang ditempati**](https://drive.google.com/file/d/1WqMwvIShVGleoOzbJl6XGKKAxJDGYaRy/view?usp=share_link)
 
-        10. Surat Tes Bebas Narkoba terbaru dari Rumah Sakit Pemerintah/BNN (*scan Asli* dan *upload*)
+        10. Surat Tes Bebas Narkoba terbaru dari Rumah Sakit Pemerintah/LAB/BNN (*scan Asli* dan *upload*)
 
         11. Surat Keterangan Kesehatan dari Rumah Sakit/Klinik/Puskesmas (*scan Asli* dan *upload*)
 
@@ -79,7 +79,7 @@ Calon Mahasiswa Baru yang sudah **dinyatakan** **Lulus lewat** jalur Seleksi Nas
         12. Surat Pemeriksaan Buta Warna dari Rumah Sakit/Klinik/Puskesmas untuk Program Studi berikut (*scan* dan *upload*) :
 
             | No.  | Program Studi                             | Keterangan                                |
-            |--------------|-----------------------------|-----------------------------|
+            |-----------------|----------------------------|----------------------------|
             | 1\.  | Pendidikan Biologi                        | Tidak Boleh Buta Warna                    |
             | 2\.  | Pendidikan Guru Sekolah Dasar             | Tidak Boleh Buta Warna                    |
             | 3\.  | Pendidikan Guru Pendidikan Anak Usia Dini | Tidak Boleh Buta Warna                    |
