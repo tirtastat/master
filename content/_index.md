@@ -7,6 +7,8 @@ title: Home
 
 ![](images/Selamat%20Datang%20Maba.jpg)
 
+![](images/timeline_page-0001.jpg)
+
 A.) PENERIMAAN MAHASISWA BARU JALUR MANDIRI :
 
 1.  [**PENDAFTARAN PASCASARJANA**](https://registrasi.untirta.ac.id/post/2023-02-09-penerimaan-mahasiswa-baru-pmb-pascasarjana-ta-2023-2024/)
