@@ -32,11 +32,12 @@ Selanjutnya calon mahasiswa melengkapi persyaratan administrasi akademik dan adm
 >
 > #### ![](images/Alur%20dan%20Syarat%20Pengajuan%20Online.png)Cek Layanan Hotline Fakultas / Program Studi : <https://untirta.ac.id/kontak/>
 
-### Kalender Akademik :
+### KALENDER AKADEMIK :
 
 1.  [Tahun Akademik 2020/2021](https://drive.google.com/file/d/1vvD9VlOBzONSaxPwMba8nN4Yn9xgQKbV/view?usp=sharing)
 2.  [Tahun Akademik 2021/2022](https://drive.google.com/file/d/1vyXeqhLnz7JPNPcIErNuFabIRxFdrxON/view?usp=sharing)
 3.  [Tahun Akademik 2022/2023](https://drive.google.com/file/d/1tEUuxYIRG-KP2izMFVBx2JybquhkyFNj/view?usp=sharing)
+4.  [Tahun Akademik 2023/2024](https://drive.google.com/file/d/11xm-H5oAdp_Zg1IPgIy5Y2TlY49u8S8B/view?usp=sharing)
 
 ![](images/paste-64791ECA.png)
 
