@@ -38,7 +38,7 @@ TAHUN AKADEMIK 2023/2024
     <th class="tg-zv4m">: D3 Akuntansi</th>
   </tr>
   <tr>
-    <th class="tg-zv4m">: D3 Perpajakan</th>
+    <th class="tg-zv4m">: D3 Administrasi Pajak</th>
   </tr>
   <tr>
     <th class="tg-zv4m">: D3 Perbankan dan Keuangan</th>
