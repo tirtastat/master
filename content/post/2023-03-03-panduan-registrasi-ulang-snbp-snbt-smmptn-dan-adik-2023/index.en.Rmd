@@ -1,5 +1,5 @@
 ---
-title: Panduan Registrasi Ulang SNBP, SNBT, SMMPTN, dan ADIK 2023
+title: Panduan Registrasi Ulang SNBP, SNBT, SMMPTN-BARAT, SMBNU, dan ADIK 2023
 author: registrasi
 date: '2023-03-03'
 slug: []
