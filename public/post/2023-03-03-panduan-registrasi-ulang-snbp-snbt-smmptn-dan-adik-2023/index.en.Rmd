@@ -1,0 +1,196 @@
+---
+title: Panduan Registrasi Ulang SNBP, SNBT, SMMPTN-BARAT, SMBNU, dan ADIK 2023
+author: registrasi
+date: '2023-03-03'
+slug: []
+categories:
+  - ''
+tags:
+  - snbp
+  - adik
+description: ''
+thumbnail: ''
+---
+
+Calon Mahasiswa Baru yang sudah **dinyatakan** **Lulus lewat** jalur Seleksi Nasional Berdasarkan Prestasi **(SNBP),** UTBK-Seleksi Nasional Berdasarkan Tes (**UTBK-SNBT**), Seleksi Mandiri Masuk Perguruan Tinggi Negeri Barat (**SMMPTN-Barat**), yang ditetapkan dengan SK Rektor Universitas Sultan Ageng Tirtayasa agar **mempersiapkan dan wajib melakukan kegiatan sebagai berikut**:
+
+1.  Jadwal registrasi ulang\*
+
+    | NO  | SELEKSI                                          | REGISTRASI ONLINE    | PEMBAYARAN UKT                                                           |
+    |:----|:-------------------------------------------------|:---------------------|:-------------------------------------------------------------------------|
+    | 1\. | **SNBP**                                         | 01 - 10 April 2023   | 14 - 28 April 2023                                                       |
+    |     | *Pengiriman Akun Admisi ke email Camaba*         | *29 - 31 Maret 2023* | *Penetapan UKT bisa dicek di admisi/login kembali* (13 April 2023; Sore) |
+    | 2\. | **ADIK (Afirmasi Dikti)**                        | 19 - 24 Juli 2023    | Pemberian NIM 25 Juli 2023                                               |
+    | 3\. | **SNBT**                                         | 20 - 30 Juni 2023    | 03 - 12 Juli 2023                                                        |
+    |     | *Pengiriman Akun Admisi ke email Camaba*         | 20 - 21 Juni 2023    | *Penetapan UKT bisa dicek di admisi/login kembali* (02 Juli 2023; Sore)  |
+    | 4\. | **SMMPTN BARAT**                                 | 20 - 28 Juli 2023    | 01 - 11 Agustus 2023                                                     |
+    |     | Pengiriman Akun Admisi ke email Camaba           | 18 - 19 Juli 2023    | Penetapan UKT bisa di cek admisi (31 Juli 2023; Sore)                    |
+    | 5\. | **SMBNU** (Seleksi Masuk Berdasarkan Nilai UTBK) | 22 - 28 Juli 2023    | 01 - 11 Agustus 2023                                                     |
+    |     | Pengiriman Akun Admisi ke email Camaba           | 22 Juli 2023         | Penetapan UKT bisa di cek admisi (31 Juli 2023; Sore)                    |
+
+    ***\*) Jika ada perubahan jadwal akan kami informasikan melalui web / email.***
+
+2.  Diagram alur proses registrasi ulang secara *online.*
+
+    ![](images/Alur%20Registrasi_new.jpg)
+
+3.  Penjelasan registrasi ulang secara *online* sesuai dengan jadwal dan diagram alur di atas adalah sebagai berikut.
+
+    A.  **Mempersiapkan dokumen** yang harus diunggah (*upload*) dalam bentuk **pdf** atau **jpg** (**ukuran file tidak melebihi 250 KB**).
+
+        > [Dokumen-dokumen yang harus disiapkan]{.underline} :
+
+        1.  [**Pakta Integritas Mahasiswa**](https://drive.google.com/file/d/1WaDDgIUe78UIx3qvsbHVWLGfgHUWplyt/view?usp=share_link) (*download*, cetak, isi, *scan Asli*).
+
+        2.  [**Surat Pernyataan Mematuhi Peraturan dan Kesanggupan Membayar BIaya Pendidikan**](https://drive.google.com/file/d/1W_K_8IGQ_xwtaJ3eqGnno7K0ro5Vexdo/view?usp=share_link)
+
+            (*download*, cetak, isi, *scan Asli*).
+
+        3.  **Ijazah** bagi lulusan 3 tahun terakhir : 2021, 2022, dan 2023 / Surat Keterangan Lulus (SKL) bagi lulusan tahun 2023 yang belum memperoleh Ijazah / Surat Keterangan Belum Ujian dari Sekolah bagi yang belum ujian. (Asli/Dilegalisir)
+
+            > Bisa juga dengan meminta **Surat Keterangan Kelas XII** dari Sekolah.
+
+        4.  Pdf Kartu Peserta Tes (Asli) -- SNBP/UTBK/SMM
+
+        5.  Pdf Akta Kelahiran (Asli atau Copy yang Dilegalisir)
+
+        6.  Pdf Kartu Keluarga (Asli atau Copy yang Dilegalisir)
+
+        7.  Bukti pembayaran listrik bagi pelanggang *pascabayar* **atau** bukti pembelian token listrik bagi pelanggan *prabayar* (Asli-Pdf) diharapkan maximal Pembayaran 3 bulan terakhir
+
+            Bagi pelanggan listrik 450VA yang digratiskan dan tidak memiliki bukti pembayaran bisa membuatnya di halaman [**https://stimulus.pln.co.id/**](https://stimulus.pln.co.id/){.uri target="_blank"} seperti pada gambar berikut.
+
+            ![](pln.PNG)
+
+        8.  Bukti SPT Pajak Penghasilan Tahunan **bagi yang memiliki**, seperti contoh berikut. (Asli Pdf)
+
+            ![](images/spt%20pribadi_crop.jpg)
+
+        9.  Pilih salah satu yang paling sesuai.
+
+            a.  SPPT Pajak Bumi dan Bangunan (PBB) tiga tahun terakhir (pilih salah satu)
+            b.  [**Surat Pernyataan tentang Luas Tanah dan Bangunan Rumah yang ditempati**](https://drive.google.com/file/d/1WrHzSj8ulBG2VrpmJ-ssthPfUbBl0QqL/view?usp=share_link) bagi yang tidak punya SPPT
+            c.  **Jika Rumah Mengontrak** dan tidak ada Bukti PBB lampirkan Bukti pembayaran sewa rumah bagi yang mengontrak/sewa ditambah [**Surat Pernyataan tentang Luas Tanah dan Bangunan Rumah yang ditempati**](https://drive.google.com/file/d/1WqMwvIShVGleoOzbJl6XGKKAxJDGYaRy/view?usp=share_link)
+
+        10. Surat Tes Bebas Narkoba terbaru dari Rumah Sakit Pemerintah/LAB/BNN (*scan Asli* dan *upload*)
+
+        11. Surat Keterangan Kesehatan dari Rumah Sakit/Klinik/Puskesmas (*scan Asli* dan *upload*)
+
+            > **Surat Sehat, Buta Warna dan Narkoba harus yang terbaru atau pemeriksaan mulai tanggal 20 Juni 2023**
+
+        12. Surat Pemeriksaan Buta Warna dari Rumah Sakit/Klinik/Puskesmas untuk Program Studi berikut (*scan* dan *upload*) :
+
+            | No.  | Program Studi                             | Keterangan                                |
+            |------|-------------------------------------------|-------------------------------------------|
+            | 1\.  | Pendidikan Biologi                        | Tidak Boleh Buta Warna                    |
+            | 2\.  | Pendidikan Guru Sekolah Dasar             | Tidak Boleh Buta Warna                    |
+            | 3\.  | Pendidikan Guru Pendidikan Anak Usia Dini | Tidak Boleh Buta Warna                    |
+            | 4\.  | Pendidikan Fisika                         | Tidak Boleh Buta Warna                    |
+            | 5\.  | Pendidikan IPA                            | Tidak Boleh Buta Warna                    |
+            | 6\.  | Pendidikan Kimia                          | Tidak Boleh Buta Warna                    |
+            | 7\.  | Pendidikan Vokasional Teknik Mesin        | Tidak Boleh Buta Warna                    |
+            | 8\.  | Pendidikan Vokasional Teknik Elektro      | Tidak Boleh Buta Warna                    |
+            | 9\.  | Bimbingan dan Konseling                   | Tidak Boleh Buta Warna                    |
+            | 10\. | Pendidikan Pancasila dan Kewarganegaraan  | Tidak Boleh Buta Warna                    |
+            | 11\. | Pendidikan Sejarah                        | Tidak Boleh Buta Warna                    |
+            | 12\. | Pendidikan Seni Pertunjukan               | Tidak Boleh Buta Warna                    |
+            | 13\. | Teknik Mesin                              | Tidak Boleh Buta Warna                    |
+            | 14\. | Teknik Elektro                            | Tidak Boleh Buta Warna                    |
+            | 15\. | Teknik Industri                           | Buta Warna Sebagian / Partial masih boleh |
+            | 16\. | Teknik Metalurgi                          | Tidak Boleh Buta Warna                    |
+            | 17\. | Teknik Kimia                              | Tidak Boleh Buta Warna                    |
+            | 18\. | Teknik Sipil                              | Tidak Boleh Buta Warna                    |
+            | 19\. | Informatika                               | Tidak Boleh Buta Warna                    |
+            | 20\. | Kedokteran                                | Tidak Boleh Buta Warna                    |
+            | 21\. | Gizi                                      | Tidak Boleh Buta Warna                    |
+            | 22\. | Ilmu Keolahragaan                         | Tidak Boleh Buta Warna                    |
+            | 23\. | Keperawatan (D3 & S1)                     | Tidak Boleh Buta Warna                    |
+
+        <!-- -->
+
+        12. Bukti Penghasilan Ayah atau diisi dengan penghasilan Wali yang membiayai Kuliah dengan ketentuan sebagai berikut.
+
+            -   **Bagi Pekerjaan yang memiliki Bukti / Slip Gaji dari Petrusahaan/Kantor** **wajib melampirkan** Slip Gaji dari Perusahaan/Kantor tidak boleh menggunakan Surat Keterangan dari Kelurahan atau Desa. Jika dikemudian hari ditemukan pemalsuan dokumen maka kami akan mengambil kebijakan yang diperlukan.
+
+            -   Dokumen yang diunggah (Slip Gaji/Surat Keterangan Penghasilan, dll.) adalah dokumen terbaru, **Tanggal pembuatan tahun 2023**
+
+            -   **PNS**/**TNI**/**BUMN**/**Karyawan Swasta**: Slip Gaji / Bukti Penghasilan (maksimal dua bulan terakhir), Asli dan Dicap dan Ditandatangani.
+
+            -   **Wiraswasta**/**Petani**/**Pedagang**/**Buruh**/**Pekerjaan yang tidak mempunyai Slip Gaji/Tidak Mempunyai Pekerjaan Tetap** : Surat Keterangan Penghasilan dari Kelurahan dengan mencantumkan NAMA PEKERJAAN dan NOMINAL PENGHASILANNYA. Asli dan Dicap dan Ditandatangani.
+
+            -   **Pensiunan PNS** : Surat Pensiun / *print out* Buku Rekening Pensiun (max dua bulan terakhir). (*scan Asli* dan *upload*)
+
+            -   **Pensiunan Swasta :** Surat Keterangan Pensiun dari Kantor. (*scan Asli* dan *upload*)
+
+                > -   **Jika Ibu hanya Ibu Rumah Tangga lampirkan Surat Keterangan dari Kelurahan.**
+                >
+                > -   **Jika Ayah meninggal isi kolom penghasilan Nol. Dokumen yang diupload Surat Kematian dari Kelurahan.**
+                >
+                > -   **Jika Ayah dan Ibu tidak punya penghasilan isi kolom penghasilan dengan Surat Keterangan penanggung jawab biaya.**
+                >
+                > -   ***Kolom Penghasilan Ayah dan Ibu tidak boleh Nol dua-duanya.***
+
+        13. Foto diri berukuran 4×6 dengan format JPG sesuai dengan ketentuan berikut.
+
+            -   Laki-laki: jas hitam, baju putih, dasi hitam, *background* merah,
+            -   Perempuan: jas hitam/blazer, baju putih, dasi hitam, *background* merah,
+            -   Perempuan berjilbab: jilbab warna putih, *background* merah, jas hitam/blazer tanpa dasi.
+
+        14. Bagi siswa yang pada saat pendaftaran di Portal SNPMB mendaftarkan diri sebagai peserta KIP-K wajib mengisi registrasi tambahan yang akan diinfokan melalaui email masing-masing. **(Selesaikan dahulu Registrasi Admisi sebelum mengisi Googleform KIP-K). Jika ada pertanyaan KIP-K hubungi +62812-1027-5080**
+
+        > Isilah dengan **BENAR**, **AKURAT**, dan **JUJUR** semua data diri anda. Kesalahan dalam mengisi data dan memahami panduan registrasi menjadi tanggung jawab calon mahasiswa baru.
+        >
+        > **Menunggu Username dan Password** untuk login ke laman <https://admisi.untirta.ac.id>. yang akan dikirim oleh Panitia Registrasi ke email calon mahasiswa baru.
+
+        > **Cek juga folder SPAM atau folder PROMOSI di email anda**, karena mungkin email dari kami masuk ke folder SPAM anda. Atau **search** email dengan judul **"Konfirmasi Pendaftaran"**.
+
+    B.  **Registrasi Ulang online** melakukan pengisian data diri dan mengunggah dokumen-dokumen yang diminta secara online di laman <https://admisi.untirta.ac.id>.
+
+        <br>![](images/INGAT.png)
+
+        > **Pertanyaan / Isian yang bertanda bintang (\*) wajib di isi**, sedangkan untuk pertanyaan yang tidak ada tanda bintang bisa di isi jika anda mempunyai datanya atau boleh dikosongkan.
+        >
+        > **Cetak Bukti Registrasi Online dan simpan** sebagai bukti jika dibutuhkan (tidak perlu tanda tangan petugas)
+
+    C.  **PENETAPAN UKT,** CamabaMenerima nominal UKT yang bisa dilihat di [\<https://admisi.untirta.ac.id\>](https://admisi.untirta.ac.id){.uri} menggunakan akun *username* dan *password* masing-masing sesuai jadwal pembayaran.
+
+    D.  **PEMBAYARAN,** CamabaMelakukan Pembayaran Uang Kuliah Tunggal (UKT) di Bank BNI seluruh Cabang Indonesia melalui *Teller* atau ATM. Tata cara pembayaran UKT bisa diakses [**di sini**](https://drive.google.com/file/d/1IIaFh62Irl6cK4EpdaTqcwOk3OMfmH8t/view?usp=sharing){target="_blank"}.
+
+        dengan ketentuan sebagai berikut.
+
+        -   Melakukan pembayaran Uang Kuliah Tunggal (UKT) dengan menyebut No Peserta Test.
+        -   Menerima bukti pembayaran dari Bank BNI (Teller atau ATM).
+        -   Khusus untuk Program Studi Kedokteran, UKT sebesar Rp15.000.000,00 s.d. Rp22.000.000,00 (UKT Kelompok III s.d. VIII)
+
+    E.  **NIM,** Mahasiswa Menerima Nomor Induk Mahasiswa (NIM) dan *Password* SIAKAD akan dikirim melalui email masing-masing setelah Pembayaran terkonfirmasi Lunas.
+
+        > NIM dan Password digunakan untuk melakukan proses kontrak matakuliah di laman <https://siakad.untirta.ac.id/portal>
+
+        -   **Pendaftar Non KIP-K**: setelah melakukan pembayaran UKT
+        -   **Pendaftar KIP-K**: setelah dinyatakan sebagai penerima KIP-K
+
+    F.  **KBM,** Proses Registrasi Ulang Selesai, Mahasiswa Baru selanjutnya menghubungi Fakultas dan Program Studi masing masing untuk **Kegiatan Belajar Mengajar (KBM)**
+
+4.  **Lain-lain**:
+
+    A.  Setiap calon mahasiswa yang **tidak dapat memenuhi ketentuan pengumuman ini dinyatakan mengundurkan diri** sebagai calon mahasiswa Universitas Sultan Ageng Tirtayasa.
+
+    B.  Semua biaya yang telah dibayarkan tidak bisa ditarik kembali.
+
+    C.  Jika ada pengumuman atau perubahan jadwal akan diberitahukan kemudian melalui
+
+        1.  <https://admisi.untirta.ac.id>,
+
+        2.  <https://untirta.ac.id>,
+
+        3.  <https://registrasi.untirta.ac.id>
+
+        4.  email anda masing-masing (**pastikan email anda aktif**).
+
+    D.  Hal yang belum jelas bisa ditanyakan melalui email [**registrasi\@untirta.ac.id**](mailto:registrasi@untirta.ac.id) atau [**Hotline Registrasi : 0813-1173-4542**](http://wa.me/6281311734542)
+
+> Jam Kantor Senin s.d. Jum'at (**kecuali tanggal merah**);
+>
+> Pelayanan Jam 08:00 - 15:00 Wib
+>
+> Istirahat Jam 12:00 - 13:00 Wib.

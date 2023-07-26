@@ -14,6 +14,10 @@ description: ''
 thumbnail: ''
 ---
 
+![](images/NEW%20BROSUR%20PASCASARJANA%20UNTIRTA%202023(1)-1_page-0001.jpg)
+
+![](images/NEW%20BROSUR%20PASCASARJANA%20UNTIRTA%202023(1)-2_page-0001.jpg)
+
 Program Doktor (S3) dan Program Magister (S2) Pascasarjana Universitas Sultan Ageng Tirtayasa (Untirta) berkontribusi dalam pengembangan keilmuan untuk menghasilkan karya-karya ilmiah unggulan dan menghasilkan lulusan Doktor (S3) dan Program Magister (S2) yang kompeten. Pascasarjana Untirta membuka pendaftaran mahasiswa baru Magister (S2) dan Doktor (S3) Tahun Akademik 2023/2024.
 
 ### Jadwal Penerimaan Mahasiswa Baru (PMB)
@@ -72,54 +76,188 @@ Program Doktor (S3) dan Program Magister (S2) Pascasarjana Universitas Sultan Ag
 ```
 \*) *Apabila Kuota Gelombang 1 Belum Terpenuhi*
 
-### Program Studi
+### Program Studi Yang Ditawarkan
 
-**Program Doktor (S3)**
-
-1.  Program Studi Doktor Pendidikan
-2.  Program Studi Doktor Ilmu Akuntansi
-3.  Program Studi Doktor Ilmu Pertanian
-
-**Program Magister (S2)**
-
-1.  Pendidikan Bahasa Indonesia
-
-2.  Teknologi Pendidikan
-
-    -   *Konsentrasi Manajemen Pendidikan*
-    -   *Konsentrasi PAUD*
-
-3.  Hukum
-
-    -   *Konsentrasi Hukum Pidana*
-    -   *Konsentrasi Hukum Perdata*
-    -   *Konsentrasi Hukum Tata Negara*
-    -   *Konsentrasi Hukum Kesehatan*
-
-4.  Administrasi Publik
-
-5.  Akuntansi
-
-6.  Manajemen
-
-    -   *Konsentrasi Manajemen Pemasaran*
-    -   *Konsentrasi Manajemen SDM*
-    -   *Konsentrasi Manajemen Keuangan*
-
-7.  Pendidikan Bahasa Inggris
-
-8.  Pendidikan Matematika
-
-9.  Ilmu Pertanian
-
-10. Ilmu Komunikasi
-
-11. Teknik Kimia
-
-12. Pendidikan Dasar
-
-13. Ekonomi
-
+```{=html}
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-baqh{text-align:center;vertical-align:top}
+.tg .tg-ap9s{color:#06C;text-align:left;vertical-align:top}
+.tg .tg-amwm{font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+.tg .tg-byb7{background-color:#C0C0C0;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-amwm">No</th>
+    <th class="tg-amwm">Fakultas</th>
+    <th class="tg-amwm">Jenjang</th>
+    <th class="tg-amwm">Program Studi-(klik untuk lihat brosur)</th>
+    <th class="tg-amwm">Konsentrasi</th>
+    <th class="tg-amwm">Helpdesk</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-0lax">1.</td>
+    <td class="tg-0lax">Pascasarjana</td>
+    <td class="tg-baqh">S3</td>
+    <td class="tg-ap9s"><a href="" target="_blank" rel="noopener noreferrer">Doktor Pendidikan</a></td>
+    <td class="tg-byb7"></td>
+    <td class="tg-0lax"><a href="https://wa.me/628118883616" target="_blank" rel="noopener noreferrer">0811-8883-616</a></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">2.</td>
+    <td class="tg-0lax">Pascasarjana</td>
+    <td class="tg-baqh">S3</td>
+    <td class="tg-0lax"><a href="https://drive.google.com/file/d/1IF2Ii04IAI3kkxplCR2lFdHAYHpwIG1a/view?usp=share_link" target="_blank" rel="noopener noreferrer">Doktor Ilmu Akuntansi</a></td>
+    <td class="tg-byb7"></td>
+    <td class="tg-0lax"><a href="https://wa.me/6287771011961" target="_blank" rel="noopener noreferrer">0877-7101-1961</a></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">3.</td>
+    <td class="tg-0lax">Pascasarjana</td>
+    <td class="tg-baqh">S3</td>
+    <td class="tg-0lax"><a href="https://drive.google.com/file/d/1LDoFtGgng7YrlfFuPIJTUzrxsigfXuyq/view?usp=share_link" target="_blank" rel="noopener noreferrer">Doktor Ilmu Pertanian</a></td>
+    <td class="tg-byb7"></td>
+    <td class="tg-0lax"><a href="https://wa.me/6287789285509" target="_blank" rel="noopener noreferrer">0877-8928-5509</a></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">4.</td>
+    <td class="tg-0lax">Pascasarjana</td>
+    <td class="tg-baqh">S2</td>
+    <td class="tg-0lax">Studi Lingkungan</td>
+    <td class="tg-byb7"></td>
+    <td class="tg-0lax"><a href="https://wa.me/6281118883616" target="_blank" rel="noopener noreferrer">0811-8883-616</a></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">5.</td>
+    <td class="tg-0lax">Pascasarjana</td>
+    <td class="tg-baqh">S2</td>
+    <td class="tg-0lax">Pendidikan Vokasi Keteknikan</td>
+    <td class="tg-byb7"></td>
+    <td class="tg-0lax"><a href="https://wa.me/6281118883616" target="_blank" rel="noopener noreferrer">0811-8883-616</a></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">6.</td>
+    <td class="tg-0lax">Pascasarjana</td>
+    <td class="tg-baqh">S2</td>
+    <td class="tg-0lax">Teknologi Pendidikan</td>
+    <td class="tg-0lax">1. Manajemen Pendidikan<br>2. PAUD</td>
+    <td class="tg-0lax"><a href="https://wa.me/6281118883616" target="_blank" rel="noopener noreferrer">0811-8883-616</a></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">7.</td>
+    <td class="tg-0lax">Hukum</td>
+    <td class="tg-baqh">S2</td>
+    <td class="tg-0lax">Hukum</td>
+    <td class="tg-0lax">1. Hukum Pidana<br>2. Hukum Perdata<br>3. Hukum Tata Negara<br>4. Hukum Kesehatan</td>
+    <td class="tg-0lax"><a href="https://wa.me/628170102040" target="_blank" rel="noopener noreferrer">0817-0102-040</a><br><a href="https://wa.me/6281905697776" target="_blank" rel="noopener noreferrer">0819-0569-7776</a></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">8.</td>
+    <td class="tg-0lax">FKIP</td>
+    <td class="tg-baqh">S2</td>
+    <td class="tg-0lax">Pendidikan Bahasa Indonesia</td>
+    <td class="tg-byb7"></td>
+    <td class="tg-0lax"><a href="https://wa.me/6285210401002" target="_blank" rel="noopener noreferrer">0852-1040-1002</a></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">9.</td>
+    <td class="tg-0lax">FKIP</td>
+    <td class="tg-baqh">S2</td>
+    <td class="tg-0lax">Pendidikan Bahasa Inggris</td>
+    <td class="tg-byb7"></td>
+    <td class="tg-0lax"><a href="https://wa.me/628988513308" target="_blank" rel="noopener noreferrer">0898-8513-308</a></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">10.</td>
+    <td class="tg-0lax">FKIP</td>
+    <td class="tg-baqh">S2</td>
+    <td class="tg-0lax">Pendidikan Matematika</td>
+    <td class="tg-byb7"></td>
+    <td class="tg-0lax"><a href="https://wa.me/628170054084" target="_blank" rel="noopener noreferrer">0817-0054-084</a></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">11.</td>
+    <td class="tg-0lax">FKIP</td>
+    <td class="tg-baqh">S2</td>
+    <td class="tg-0lax">Pendidikan Dasar</td>
+    <td class="tg-byb7"></td>
+    <td class="tg-0lax"><a href="https://wa.me/6287771651980" target="_blank" rel="noopener noreferrer">0877-7165-1980</a></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">12.</td>
+    <td class="tg-0lax">Teknik</td>
+    <td class="tg-baqh">S2</td>
+    <td class="tg-0lax"><a href="https://drive.google.com/file/d/1IHPkOqyvshxWk73EusE0ug4mM3ysLD49/view?usp=share_link" target="_blank" rel="noopener noreferrer">Teknik Kimia</a></td>
+    <td class="tg-byb7"></td>
+    <td class="tg-0lax"><a href="https://wa.me/6281319942114" target="_blank" rel="noopener noreferrer">0813-1994-2114</a></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">13.</td>
+    <td class="tg-0lax">Teknik</td>
+    <td class="tg-baqh">S2</td>
+    <td class="tg-0lax"><a href="https://drive.google.com/file/d/1IGsxi5sNkCQjlu3k892q4Fpeoa8BvD4t/view?usp=share_link" target="_blank" rel="noopener noreferrer">Teknik Industri dan Manajemen</a></td>
+    <td class="tg-byb7"></td>
+    <td class="tg-0lax"><a href="https://wa.me/62811910897" target="_blank" rel="noopener noreferrer">0811-910-897</a></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">14.</td>
+    <td class="tg-0lax">Pertanian</td>
+    <td class="tg-baqh">S2</td>
+    <td class="tg-0lax">Ilmu Pertanian</td>
+    <td class="tg-byb7"></td>
+    <td class="tg-0lax"><a href="https://wa.me/6281320455597" target="_blank" rel="noopener noreferrer">0813-2045-5597</a></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">15.</td>
+    <td class="tg-0lax">FEB</td>
+    <td class="tg-baqh">S2</td>
+    <td class="tg-0lax">Akuntansi</td>
+    <td class="tg-byb7"></td>
+    <td class="tg-0lax"><a href="https://wa.me/628176769230" target="_blank" rel="noopener noreferrer">0817-6769-230</a></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">16.</td>
+    <td class="tg-0lax">FEB</td>
+    <td class="tg-baqh">S2</td>
+    <td class="tg-0lax">Manajemen</td>
+    <td class="tg-0lax">1. Manajemen Pemasaran<br>2. Manajemen SDM<br>3. Manajemen Keuangan</td>
+    <td class="tg-0lax"><a href="https://wa.me/628176094095" target="_blank" rel="noopener noreferrer">0817-6094-095</a></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">17.</td>
+    <td class="tg-0lax">FEB</td>
+    <td class="tg-baqh">S2</td>
+    <td class="tg-0lax"><a href="https://drive.google.com/file/d/1ISDZCk4KAZk1MZUg7N525mTG0PdHbbLZ/view?usp=share_link" target="_blank" rel="noopener noreferrer">Ekonomi</a></td>
+    <td class="tg-byb7"></td>
+    <td class="tg-0lax"><a href="https://wa.me/6283812848080" target="_blank" rel="noopener noreferrer">0838-1284-8080</a></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">18.</td>
+    <td class="tg-0lax">FISIP</td>
+    <td class="tg-baqh">S2</td>
+    <td class="tg-0lax">Administrasi Publik</td>
+    <td class="tg-byb7"></td>
+    <td class="tg-0lax"><a href="https://wa.me/6281513980007" target="_blank" rel="noopener noreferrer">0815-1398-0007</a></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">19.</td>
+    <td class="tg-0lax">FISIP</td>
+    <td class="tg-baqh">S2</td>
+    <td class="tg-0lax">Ilmu Komunikasi</td>
+    <td class="tg-byb7"></td>
+    <td class="tg-0lax"><a href="https://wa.me/6281398195180" target="_blank" rel="noopener noreferrer">0813-9819-5181</a></td>
+  </tr>
+</tbody>
+</table>
+```
 ### **Jadwal Pelaksanaan**
 
 | Item              | Waktu                     |
@@ -175,11 +313,6 @@ Program Doktor (S3) dan Program Magister (S2) Pascasarjana Universitas Sultan Ag
   <tr>
     <td class="tg-0pky">Jaket Almamater, KTM,<br>Kartu Perpustakaan</td>
     <td class="tg-c3ow" colspan="2">Rp550.000,00</td>
-  </tr>
-  <tr>
-    <td class="tg-0pky">Intensive English Program</td>
-    <td class="tg-dvpl">Rp500.000,00</td>
-    <td class="tg-2z6x">-</td>
   </tr>
 </tbody>
 </table>
@@ -309,9 +442,9 @@ Program Doktor (S3) dan Program Magister (S2) Pascasarjana Universitas Sultan Ag
 
 ### Materi Ujian
 
-1.  Tes Kemampuan Dasar Akademik (TKDA) dan Bahasa Inggris
+-   Tes Kemampuan Dasar Akademik (TKDA) dan Bahasa Inggris
 
-2.  Wawancara
+-   Wawancara
 
     ### PENGUMUMAN KELULUSAN
 
@@ -323,8 +456,18 @@ Program Doktor (S3) dan Program Magister (S2) Pascasarjana Universitas Sultan Ag
 
     ### LAIN - LAIN
 
-    **Helpdesk** pendaftaran di Gedung H. Kartiwa Suriasaputra (Pascasarjana), Universitas Sultan Ageng Tirtayasa - Kampus Pakupatan. Telpon; [**0817738817**](https://wa.me/62817738817); [**081911106670**](https://wa.me/6281911106670)**; 08118883616; 08128558538**
+    **Helpdesk** : Gedung PMB Kampus Sindangsari
 
-Email: [**pmb\@untirta.ac.id**](mailto:pmb@untirta.ac.id) dan [**humas\@untirta.ac.id**](mailto:humas@untirta.ac.id)
+    Jalan Raya Palka KM.03 Sindangsari, Kecamatan Pabuaran, Kabupaten Serang - Provinsi Banten
 
-Download brosur : [**Brosur Pascasarjana**](https://drive.google.com/file/d/1yuiWmM5BFwm4XSiPlenG2A0TtpBt900I/view?usp=sharing) **- [S3 Akuntansi](https://drive.google.com/file/d/1mgUrcsv7Q9TqKtaXnlHblbEaXXnc41O9/view?usp=sharing) - [S3 Ilmu Pertanian](https://drive.google.com/file/d/1mdnsLflhvdmMcBtWd1xvb_pdUfwJ_SCC/view?usp=sharing) - [S2 Magister Ekonomi](https://drive.google.com/file/d/1pV6OZKa8b2_ah-P0UNgDe9jbk-EiTHWc/view?usp=sharing)**
+    Telpon :
+
+    1.  [+62 87713617770](http://wa.me/6287713617770)
+
+    2.  [+62 81311734542](http://wa.me/081311734542)
+
+    3.  [+62 81911106670](http://wa.me/081911106670)
+
+    4.  [+62 817738817](http://wa.me/0817738817)
+
+    Email: [**pmb\@untirta.ac.id**](mailto:pmb@untirta.ac.id) dan [**humas\@untirta.ac.id**](mailto:humas@untirta.ac.id)
