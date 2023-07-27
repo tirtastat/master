@@ -28,7 +28,7 @@ thumbnail: ''
 
 6.  Bebas Narkoba.
 
-7.  Bagi anda yang sudah mendaftar silahkan bergabung di Grup Whatsapp klik [**group whatsapp D3 Keperawatan**](https://chat.whatsapp.com/HU5lqKMEOywJNhRxR5v6Cz)Untuk mendapatkan informasi seputar kegiatan PMB.
+7.  Bagi anda yang sudah mendaftar silahkan bergabung di Grup Whatsapp klik **group whatsapp D3 Keperawatan** Untuk mendapatkan informasi seputar kegiatan PMB.
 
 **DIPLOMA EKONOMI**
 
@@ -71,7 +71,7 @@ thumbnail: ''
 1.  Biaya Uang Kuliah Tunggal (UKT) sesuai dengan Keputusan Rektor Nomor: 379/UN43/KP.TM.01.03/2020 tentang Penetapan Biaya Pendaftaran, Uang Kuliah Tunggal, dan Iuran Pembangunan Institusi Bagi Mahasiswa Baru Program Sarjana Jalur Seleksi Mandiri Masuk Perguruan Tinggi Negeri Wilayah Barat Universitas Sultan Ageng Tirtayasa Tahun Akademik 2020/2021, yaitu:
 
     | No  | Kode | Program Studi              | K3          | K4          | K5          | K6          |
-    |:----|:-----|:---------------------------|:------------|:------------|:------------|:------------|
+    |:---------|:---------|:-------------|:---------|:---------|:---------|:---------|
     | 1\. | 5501 | Akuntansi                  | 3.000.000,- | 4.000.000,- | 5.500.000,- | \-          |
     | 2\. | 5502 | Manajemen Pemasaran (D3)   | 3.000.000,- | 4.000.000,- | 5.500.000,- | \-          |
     | 3\. | 5503 | Perpajakan (D3)            | 3.000.000,- | 4.000.000,- | 5.500.000,- | \-          |
@@ -147,7 +147,7 @@ thumbnail: ''
 11. Daftar Kode dan Nama Program Studi
 
     | No  | Kode | Program Studi             | Fakultas   | Kelompok Ujian              |
-    |:----|:-----|:--------------------------|:-----------|:----------------------------|
+    |:-----------|:-----------|:-----------------|:-----------|:-------------------|
     | 1\. | 5501 | D3 Akuntansi              | FEB        | Diploma Ekonomi             |
     | 2\. | 5502 | D3 Manajemen Pemasaran    | FEB        | Diploma Ekonomi             |
     | 3\. | 5503 | D3 Perpajakan             | FEB        | Diploma Ekomomi             |
@@ -159,14 +159,14 @@ thumbnail: ''
 ## Materi Ujian
 
 | EKONOMI                                                                  | KEPERAWATAN                                                                    | ALIH JENJANG                                                                |
-|--------------------------------------------------------------------------|--------------------------------------------------------------------------------|-----------------------------------------------------------------------------|
+|-----------------------|-------------------------|------------------------|
 | Tes Potensi Skolastik (TPS)                                              | Tes Potensi Skolastik (TPS)                                                    | Tes Potensi Skolastik (TPS)                                                 |
 | Tes Kemampuan Akademik Soshum (TKAS) (ekonomi dan sosial humaniora umum) | Tes Kemampuan Akademik Saintek (TKAS) (matematika, fisika, kimia, dan biologi) | Tes Kemampuan Akademik Keilmuan (TKAK) (Manajemen, Akuntansi, Ilmu Ekonomi) |
 
 ## Jadwal Ujian Tulis Berbasis Komputer (UTBK)
 
 | Hari dan Tanggal    | Kegiatan                                    | Waktu (WIB)    | Kelompok Ujian |
-|:--------------------|:--------------------------------------------|:---------------|:---------------|
+|:--------------|:----------------------------|:--------------|:--------------|
 | **08 Agustus 2021** | Peserta masuk ruang ujian                   | 07.25 -- 07.30 | **Sesi 1**     |
 |                     | Pemeriksaan identitas dan dokumen           | 07.30 -- 07.40 |                |
 |                     | Latihan                                     | 07.40 -- 07.45 |                |
