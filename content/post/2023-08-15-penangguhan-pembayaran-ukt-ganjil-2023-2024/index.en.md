@@ -45,6 +45,6 @@ Sebelum melakukan pendaftaran penangguhan UKT, mahasiswa diharapkan mencermati d
     4.  Pembayaran UKT: **02 - 11 Oktober 2023**
     5.  KRS *online*: **16 - 27 Oktober 2023 (wajib diapprove dosen)**
 
-Demikian informasi yang harus di patuhi dan dilaksanakan oleh mahasiswa yang ingin mengajukan penangguhan UKT semester genap 2022/2023. **Pendaftaran akan dibuka tanggal 16 Agustus 2023 hingga 23 Agustus 2023 Pukul 23:59 WIB.**
+Demikian informasi yang harus di patuhi dan dilaksanakan oleh mahasiswa yang ingin mengajukan penangguhan UKT semester genap 2022/2023. **Pendaftaran akan dibuka tanggal 16 Agustus 2023 hingga 23 Agustus 2023 Pukul 16:30 WIB.**
 
 Pendaftaran bisa dilakukan [**di sini**](https://docs.google.com/forms/d/e/1FAIpQLSflTIUSKdyAK6B75Efp6h4qVaIRheHqxgaY-OaSa95cYE6vog/viewform).
