@@ -32,7 +32,7 @@ Selanjutnya calon mahasiswa melengkapi persyaratan administrasi akademik dan adm
 >
 > Hotline Fakultas / Program Studi : <https://untirta.ac.id/kontak/>
 
-## [SLIDE LAYANAN REGISTRASI](https://www.canva.com/design/DAFrHbv2zk8/4dI9nnEa4O8jmddj6ZVziQ/edit)
+## [SLIDE LAYANAN REGISTRASI 👈](https://www.canva.com/design/DAFrHbv2zk8/4dI9nnEa4O8jmddj6ZVziQ/edit)
 
 ### KALENDER AKADEMIK :
 
