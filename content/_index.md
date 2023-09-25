@@ -30,7 +30,9 @@ Selanjutnya calon mahasiswa melengkapi persyaratan administrasi akademik dan adm
 
 > **\*\*) [PERMEN NO.194 TAHUN 2019 TENTANG BKT DAN UKT DI UNTIRTA](https://drive.google.com/file/d/1eqmhH4cpcsD9de3W_tepZTlALO71pM7a/view?usp=share_link)**
 >
-> #### ![](images/Alur%20dan%20Syarat%20Pengajuan%20Online.png)Cek Layanan Hotline Fakultas / Program Studi : <https://untirta.ac.id/kontak/>
+> Hotline Fakultas / Program Studi : <https://untirta.ac.id/kontak/>
+
+## [SLIDE LAYANAN REGISTRASI](https://www.canva.com/design/DAFrHbv2zk8/4dI9nnEa4O8jmddj6ZVziQ/edit)
 
 ### KALENDER AKADEMIK :
 
