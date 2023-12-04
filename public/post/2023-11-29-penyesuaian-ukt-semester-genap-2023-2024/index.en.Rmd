@@ -124,10 +124,16 @@ Sys.setlocale("LC_TIME", "IND")
 
 Informasi Hasil Verifikasi Penyesuaian UKT oleh Sub. PNBP akan disampaikan melalui email mahasiswa.
 
-```{r eval=FALSE, message=FALSE, warning=FALSE, include=FALSE}
-# sampai dengan r format(Sys.time(), "%d %B %Y") pukul r format(Sys.time(), "%X") 
+<br><br><br>
 
+```{r echo=FALSE, message=FALSE, warning=FALSE}
+# sampai dengan r format(Sys.time(), "%d %B %Y") pukul r format(Sys.time(), "%X") 
+library(janitor)
+library(dplyr)
 library(googlesheets4)
+library(DT)
+library(kableExtra)
+
 gs4_deauth()
 
 data <- NULL
@@ -135,8 +141,62 @@ data <- NULL
 form <- "https://docs.google.com/spreadsheets/d/1OZedOhqO9muhdNlsq6eEe4TVp_Foc-OQVlEgd5pifq0/edit?resourcekey#gid=2142187464"
 
 data <- data.frame(read_sheet(form))
-data <- data[,c(1, 4, 7, 19)]
-data <- data[1:3437,]
-names(data) <- c("Waktu Pendaftaran", "Email", "Jalur Masuk", "Jenis Penyesuaian")
-DT::datatable(data, rownames = F)
+data1 <- data[, c(1, 3, 4, 7, 8, 14)]
+names(data1) <- c("tgl_daftar","nim", "nama", "fakultas", "prodi", "ajuan")
+data1$nama <- toupper(data1$nama)
+
+rekap_ajuan <- data1 %>%
+  group_by(ajuan) %>%
+  summarise(jml = n())
+rekap_ajuan <- adorn_totals(rekap_ajuan, where = c("row"), name = "Total")
+names(rekap_ajuan) <- c("JENIS AJUAN", "JUMLAH PENDAFTAR")
+
+rekap_fakultas <- data1 %>%
+  group_by(fakultas) %>%
+  summarise(jml = n())
+rekap_fakultas <- adorn_totals(rekap_fakultas, where = c("row"), name = "Total")
+names(rekap_fakultas) <- c("FAKULTAS", "JUMLAH PENDAFTAR")
+
+rekap_prodi <- data1 %>%
+  group_by(fakultas, prodi) %>%
+  summarise(jml = n())
+rekap_prodi <- adorn_totals(rekap_prodi, where = c("row"), name = "Total")
+names(rekap_prodi) <- c("FAKULTAS", "PROGRAM STUDI", "JUMLAH PENDAFTAR")
+
+pendaftar <- data1
+names(pendaftar) <- c("TANGGAL DAFTAR","NIM", "NAMA", "FAKULTAS", "PROGRAM STUDI", "AJUAN")
+
+```
+
+**Berikut adalah Rekapitulasi Pendaftar Penyesuaian UKT Berdasarkan Jenis Ajuan sampai dengan** `r format(Sys.time(), "%d %B %Y")` **pukul** `r format(Sys.time(), "%X")`
+
+```{r echo=FALSE}
+
+kable(rekap_ajuan) %>%
+  kable_styling(bootstrap_options = "striped",
+                latex_options = "scale_down")
+```
+
+**Rekapitulasi Pendaftar Penyesuaian UKT Berdasarkan Fakultas**
+
+```{r echo=FALSE}
+
+kable(rekap_fakultas) %>%
+  kable_styling(bootstrap_options = "striped",
+                latex_options = "scale_down")
+```
+
+**Rekapitulasi Pendaftar Penyesuaian UKT Berdasarkan Program Studi**
+
+```{r echo=FALSE}
+
+kable(rekap_prodi) %>%
+  kable_styling(bootstrap_options = "striped",
+                latex_options = "scale_down")
+```
+
+**Berikut adalah nama-nama pendaftar penyesuaian UKT sampai dengan** `r format(Sys.time(), "%d %B %Y")` **pukul** `r format(Sys.time(), "%X")`
+
+```{r echo=FALSE}
+DT::datatable(pendaftar, rownames = F)
 ```
