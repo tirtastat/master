@@ -13,7 +13,7 @@ thumbnail: ''
 draft: false
 ---
 
-Universitas Sultan Ageng Tirtayasa kembali mengeluarkan kebijakan penyesuaian UKT untuk periode Semester Gemap Tahun Akademik 2023/2024. Sebelum melakukan pendaftaran penyesuaian UKT, mahasiswa diharapkan mencermati dan memahami ketentuan-ketentuan berikut.
+Universitas Sultan Ageng Tirtayasa kembali mengeluarkan kebijakan penyesuaian UKT untuk periode Semester Genap Tahun Akademik 2023/2024. Sebelum melakukan pendaftaran penyesuaian UKT, mahasiswa diharapkan mencermati dan memahami ketentuan-ketentuan berikut.
 
 1.  Penyesuaian UKT hanya diberikan kepada mahasiswa program sarjana dan diploma **yang aktif** Angkatan 2022 dan sebelumnya hanya yang mengajukan permohonan.
 
@@ -39,7 +39,7 @@ Universitas Sultan Ageng Tirtayasa kembali mengeluarkan kebijakan penyesuaian UK
 
 5.  **Mahasiswa penerima Beasiswa tidak bisa mendaftar penyesuaian UKT.**
 
-6.  Semua berkas surat keterangan atau dokumen pendukung harus **dokumen terbaru (ditandatangani bulan Desember 2023)**<br><br>
+6.  SEMUA DOKUMEN PENDUKUNG / SURAT KETERANGAN HARUS DOKUMEN TERBARU **(DITANDATANGANI BULAN DESEMBER 2023)**<br><br>
 
 ------------------------------------------------------------------------
 
@@ -132,7 +132,7 @@ gs4_deauth()
 
 data <- NULL
 
-form <- "https://docs.google.com/spreadsheets/d/1rDhS9cn0Mbjk11awIutcKjrZdbrtQx2uBlbl8Fiv-yQ/edit?usp=sharing"
+form <- "https://docs.google.com/spreadsheets/d/1OZedOhqO9muhdNlsq6eEe4TVp_Foc-OQVlEgd5pifq0/edit?resourcekey#gid=2142187464"
 
 data <- data.frame(read_sheet(form))
 data <- data[,c(1, 4, 7, 19)]
