@@ -133,6 +133,7 @@ library(dplyr)
 library(googlesheets4)
 library(DT)
 library(kableExtra)
+Sys.setlocale("LC_TIME", "IND")
 
 gs4_deauth()
 
