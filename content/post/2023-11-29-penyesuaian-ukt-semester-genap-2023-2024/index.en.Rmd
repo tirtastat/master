@@ -126,7 +126,7 @@ Informasi Hasil Verifikasi Penyesuaian UKT oleh Sub. PNBP akan disampaikan melal
 
 <br><br><br>
 
-```{r echo=FALSE, message=FALSE, warning=FALSE}
+```{r message=FALSE, warning=FALSE, include=FALSE}
 # sampai dengan r format(Sys.time(), "%d %B %Y") pukul r format(Sys.time(), "%X") 
 library(janitor)
 library(dplyr)
