@@ -7,11 +7,13 @@ title: Home
 
 ![](images/Selamat%20Datang%20Maba.jpg)
 
+[![download](images/Leaflet_SNBP-1.png)](https://drive.google.com/file/d/1jMRnE-_pIMXOET9cvdMbM3meWkSetxlX/view?usp=drive_link)
+
 ![](images/Leaflet_SNBP-1.png)
 
 ![](images/Leaflet_SNBP-2.png)
 
-![](images/Leaflet_SNBT_page-0001.jpg)
+[![download](images/Leaflet_SNBT_page-0001.jpg)](https://drive.google.com/file/d/1jLtr0vSYx2rKgv8YyByWn30LJDsazZ-H/view?usp=drive_link)
 
 ![](images/Leaflet_SNBT_page-0002.jpg)
 
