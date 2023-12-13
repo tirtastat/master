@@ -7,9 +7,15 @@ title: Home
 
 ![](images/Selamat%20Datang%20Maba.jpg)
 
-![](images/timeline_page-0001.jpg)
+![](images/Leaflet_SNBP-1.png)
 
-A.) PENERIMAAN MAHASISWA BARU JALUR MANDIRI :
+![](images/Leaflet_SNBP-2.png)
+
+![](images/Leaflet_SNBT_page-0001.jpg)
+
+![](images/Leaflet_SNBT_page-0002.jpg)
+
+![]()A.) PENERIMAAN MAHASISWA BARU JALUR MANDIRI :
 
 1.  [**PENDAFTARAN PASCASARJANA**](https://registrasi.untirta.ac.id/post/2023-02-09-penerimaan-mahasiswa-baru-pmb-pascasarjana-ta-2023-2024/)
 2.  [**PENDAFTARAN DIPLOMA (D3) DAN ALIH JENJANG (S1)**](https://registrasi.untirta.ac.id/post/2023-05-18-pendaftaran-ujian-masuk-mandiri-umm-program-d3-dan-s1-alih-jenjang-tahun-2023/)
@@ -21,10 +27,6 @@ B.) PEDOMAN REGISTRASI ULANG SNBP, SNBT, DAN SMMPTN
 Bagi calon mahasiswa baru yang sudah dinyatakan ***lulus tes seleksi*** / ujian masuk perguruan tinggi di Universitas Sultan Ageng Tirtayasa melalui beberapa jalur masuk : Seleksi Nasional Berdasarkan Prestasi (SNBP), Ujian Tulis Berbasis Komputer - Seleksi Nasional Berdasarkan Test (UTBK-SNBT), dan Seleksi Masuk Mandiri Perguruan Tinggi Negeri (SMMPTN) untuk Program Sarjana (S1) dan Diploma (D3). Setelah lulus seleksi bukti lulusnya dituangkan dalam dokumen Surat Keputusan Rektor Universitas Sultan Ageng Tirtayasa tentang hasil seleksi penerimaan mahasiswa baru dari beberapa jalur masuk yang diterbitkan pada tahun akademik berjalan oleh Universitas Sultan Ageng Tirtayasa.
 
 Selanjutnya calon mahasiswa melengkapi persyaratan administrasi akademik dan administrasi keuangan atau sudah membayar Uang Kuliah Tunggal (UKT) dan sudah membayar Sumbangan Pengembangan Instansi (SPI) bagi mahasiswa baru jalur Mandiri. Nomor Induk Mahasiswa (NIM) akan diberikan jika camaba telah menyelesaikan rangkaian proses registrasi ulang.
-
-![](images/SNBT-02.png)
-
-![](images/Timeline%20Registrasi%20SNBP_2023_page-0001-03.jpg)
 
 ![](images/hotline.jpg)
 
