@@ -169,7 +169,7 @@ names(pendaftar) <- c("TANGGAL DAFTAR","NIM", "NAMA", "FAKULTAS", "PROGRAM STUDI
 
 ```
 
-**Berikut adalah Rekapitulasi Pendaftar Penyesuaian UKT Berdasarkan Jenis Ajuan**
+**Berikut adalah Rekapitulasi Pendaftar Penyesuaian UKT Berdasarkan Jenis Ajuan sampai dengan r format(Sys.time(), "%d %B %Y") pukul r format(Sys.time(), "%X")**
 
 ```{r echo=FALSE}
 # sampai dengan r format(Sys.time(), "%d %B %Y") pukul r format(Sys.time(), "%X")
