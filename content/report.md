@@ -19,7 +19,7 @@ Laporan ini rutin dibuat setiap semester oleh Subbagian Registrasi dan Statistik
 
 Berikut adalah laporan semester Subbagian Registrasi dan Statisik. Silahkan klik :
 
--   2023-2024 [**Ganjil**](https://tirtareg.github.io/232401/) - Genap
+-   2023-2024 [**Ganjil**](https://tirtareg.github.io/232401/) - [**Genap**](https://tirtareg.github.io/232402/)
 -   2022-2023 [**Ganjil**](https://tirtareg.github.io/222301) - [**Genap**](https://tirtareg.github.io/222302/)
 -   2021-2022 [**Ganjil**](https://tirtareg.github.io/212201) - [**Genap**](https://tirtareg.github.io/212202)
 -   2020-2021 [**Ganjil**](https://tirtareg.github.io/202101)- [**Genap**](https://tirtareg.github.io/202102)
