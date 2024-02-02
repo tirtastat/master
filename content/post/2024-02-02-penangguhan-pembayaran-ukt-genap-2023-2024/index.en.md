@@ -35,7 +35,7 @@ Sebelum melakukan pendaftaran penangguhan UKT, mahasiswa diharapkan mencermati d
 
 -   Surat Permohonan / Pernyataan Kesanggupan Membayar harus ditandatangani oleh Orang Tua dan dilengkapi dengan Foto KTP orang tua/wali. Format Surat bisa diunduh [**di sini**](https://drive.google.com/file/d/1QuevpDwUb7fj10BxE_XyfAO9cslItVBb/view?usp=sharing).
 
--   Bagi Anda yang tidak mendaftar sesuai jadwal dan ketentuan otomatis akan **DICUTIKAN**.
+-   Bagi Anda yang tidak membayar UKT Penangguhan sesuai jadwal dan ketentuan otomatis akan **DICUTIKAN**.
 
 -   Berikut adalah alur penangguhan pembayaran UKT.
 
