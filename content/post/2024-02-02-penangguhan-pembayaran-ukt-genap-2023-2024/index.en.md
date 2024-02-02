@@ -41,9 +41,8 @@ Sebelum melakukan pendaftaran penangguhan UKT, mahasiswa diharapkan mencermati d
 
     1.  Pendaftaran: **07 Februari 2024 (ditutup pukul 16.30)**
     2.  KRS *online*: **08 - 12 Februari 2024**
-    3.  Pembayaran UKT Penangguhan: **01 - 04 April 2024**
+    3.  Pembayaran UKT Penangguhan: **26 Maret - 02 April 2024**
     4.  Pembatalan KRS dan status registrasi bagi yang tidak membayar UKT Penangguhan: **05 April 2024**
-    5.  UTS: **08 - 19 April 2023**
 
 Demikian informasi yang harus di patuhi dan dilaksanakan oleh mahasiswa yang ingin mengajukan penangguhan UKT semester genap 2023/2024. **Pendaftaran akan dibuka tanggal 07 April 2024 hingga Pukul 16:30 WIB.**
 
