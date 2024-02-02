@@ -35,7 +35,7 @@ Sebelum melakukan pendaftaran penangguhan UKT, mahasiswa diharapkan mencermati d
 
 -   Surat Permohonan / Pernyataan Kesanggupan Membayar harus ditandatangani oleh Orang Tua dan dilengkapi dengan Foto KTP orang tua/wali. Format Surat bisa diunduh [**di sini**](https://drive.google.com/file/d/1QuevpDwUb7fj10BxE_XyfAO9cslItVBb/view?usp=sharing).
 
--   Bagi Anda yang tidak membayar UKT Penangguhan sesuai jadwal dan ketentuan otomatis akan **DICUTIKAN**.
+-   Bagi Anda yang tidak membayar UKT Penangguhan sesuai jadwal dan ketentuan otomatis akan **DINONAKTIFKAN**.
 
 -   Berikut adalah alur penangguhan pembayaran UKT.
 
@@ -44,6 +44,6 @@ Sebelum melakukan pendaftaran penangguhan UKT, mahasiswa diharapkan mencermati d
     3.  Pembayaran UKT Penangguhan: **26 Maret - 02 April 2024**
     4.  Pembatalan KRS dan status registrasi bagi yang tidak membayar UKT Penangguhan: **05 April 2024**
 
-Demikian informasi yang harus di patuhi dan dilaksanakan oleh mahasiswa yang ingin mengajukan penangguhan UKT semester genap 2023/2024. **Pendaftaran akan dibuka tanggal 07 April 2024 hingga Pukul 16:30 WIB.**
+Demikian informasi yang harus di patuhi dan dilaksanakan oleh mahasiswa yang ingin mengajukan penangguhan UKT semester genap 2023/2024. **Pendaftaran akan dibuka tanggal 07 Februari 2024 hingga Pukul 16:30 WIB.**
 
 Pendaftaran bisa dilakukan [**di sini**](https://docs.google.com/forms/d/e/1FAIpQLSeEjsbBKJSHgBC1JSb2PFGZqlYpcx3TqlL1hFsFQeW6XXtCtw/viewform).
