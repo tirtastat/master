@@ -319,126 +319,99 @@ Program Doktor (S3) dan Program Magister (S2) Pascasarjana Universitas Sultan Ag
 ```
 ### Prosedur Pendaftaran
 
-![](images/ALUR%20PMB_page-0001.jpg){width="1420"}
+Silakan kunjungi halaman [**https://penerimaan.untirta.ac.id/**](https://penerimaan.untirta.ac.id/){.uri}
 
-1.  Buka laman <https://admisi.untirta.ac.id>
+Dokumen/syarat pendukung dalam bentuk file pdf atau jpg **(maximal 275kb) yang harus disiapkan** :
 
-    Klik **Daftar**, masukkan/ketik: Nama Lengkap, No. Telepon/HP, alamat e-mail, pilih jalur masuk Pascasarjana, pilih Gelombang, Pilih Kelompok Ujian MAGISTER atau DOKTOR, dan ketik ulang Kode Verifikasi.
+**PROGRAM MAGISTER (S2)**
 
-    ![](images/Picture1.png)
+a.  Pas Photo terbaru
 
-    ![](images/Picture3.png){width="500"}
+b.  Isi Biodata
 
-    > **Klik Daftar untu Mencetak** Surat Konfirmasi Pendaftaran untuk dibawa ke BNI dan melakukan Pembayaran.
+c.  Unggah (*upload*) data pendukung:
 
-    contoh :
+    1.  Ijazah S-1, Transkrip Nilai S-1 (Program Magister)
 
-    ![](images/Surat%20Konf.png){width="400"}
+    2.  Sertifikat akreditasi program studi pada jenjang S1 yang berlaku terakhir
 
-2.  Melakukan Pembayaran Pendaftaran
+    3.  Sertifikat TOEFL dengan skor minimal 400.
 
-    Pembayaran pendaftaran dilakukan untuk mengaktifkan Nomor Pendaftaran (token) dan Password. Untuk Selanjutnya bisa digunakan untuk **Login** ke <https://admisi.untirta.ac.id> dan melengkapi data.
+    4.  Surat izin/tugas belajar dari instansi tempat bekerja bagi pendaftar yang sedang bekerja
 
-    Pembayaran melalui Bank BNI :
+    5.  Surat keterangan sehat dari Fasilitas Kesehatan yang memiliki izin dari pemerintah
 
-    a.  Teller BNI dengan menunjukkan hasil cetak Surat Konfirmasi Pendaftaran.
-    b.  M-Banking BNI dengan cara klik Pembayaran dan memasukkan Kode Biling Nomor Pendaftaran
+    6.  Surat rekomendasi kelayakan akademik dari dua dosen bergelar Doktor atau pimpinan bergelar Doktor.
 
-3.  Unggah Dokumen di laman [**https://admisi.untirta.ac.id**](https://admisi.untirta.ac.id){.uri}
+    7.  Surat Pernyataan Keaslian Dokumen pendaftaran [**(download)**](https://drive.google.com/file/d/1LnpmXVBU5NaSgOFDCaOSGQr2XEhA_UQA/view?usp=sharing).
 
-    > **Login** dengan menggunakan Nomor Pendaftaran dan Password yang ada pada Surat Konfirmasi Pendaftaran.
+    8.  Surat Pernyataan kesanggupan pembiayaan pendidikan.
 
-    Dokumen/syarat pendukung dalam bentuk file pdf atau jpg **(maximal 275kb) yang harus disiapkan** :
+        > **Kumpulan Dokumen** :
+        >
+        > Unduh, cetak, isi, scan, dan unggah dokumen [**di sini**](https://drive.google.com/file/d/1_uH_GS-4tKLkoZodWsIoB1WCt9ncmbOK/view?usp=sharing){target="_blank"} bagi S2
 
-    A. **PROGRAM MAGISTER (S2)**
+        <br><br>
 
-    a.  Pas Photo terbaru
+**PROGRAM DOKTOR (S3)**
 
-    b.  Isi Biodata
+a.  Pas Photo terbaru
 
-    c.  Unggah (*upload*) data pendukung:
+b.  Isi Biodata
 
-        1.  Ijazah S-1, Transkrip Nilai S-1 (Program Magister)
+c.  Unggah (*upload*) data pendukung:
 
-        2.  Sertifikat akreditasi program studi pada jenjang S1 yang berlaku terakhir
+    1.  Ijazah S-1, S-2, Transkrip Nilai S-1, S-2 (Program Doktor)
 
-        3.  Sertifikat TOEFL dengan skor minimal 400.
+        > Khusus Program Studi Doktor Ilmu Akuntansi wajib melampirkan Ijazah S1 Akuntansi
 
-        4.  Surat izin/tugas belajar dari instansi tempat bekerja bagi pendaftar yang sedang bekerja
+    2.  Sertifikat akreditasi program studi pada jenjang S2 yang berlaku terakhir
 
-        5.  Surat keterangan sehat dari Fasilitas Kesehatan yang memiliki izin dari pemerintah
+    3.  Sertifikat TOEFL dengan skor minimal 450.
 
-        6.  Surat rekomendasi kelayakan akademik dari dua dosen bergelar Doktor atau pimpinan bergelar Doktor.
+    4.  Surat izin/tugas belajar dari instansi tempat bekerja bagi pendaftar yang sedang bekerja
 
-        7.  Surat Pernyataan Keaslian Dokumen pendaftaran [**(download)**](https://drive.google.com/file/d/1LnpmXVBU5NaSgOFDCaOSGQr2XEhA_UQA/view?usp=sharing).
+    5.  Surat keterangan sehat dari Fasilitas Kesehatan yang memiliki izin dari pemerintah
 
-        8.  Surat Pernyataan kesanggupan pembiayaan pendidikan.
+    6.  Surat rekomendasi kelayakan akademik dari dua Profesor atau Doktor.
 
-            > **Kumpulan Dokumen** :
-            >
-            > Unduh, cetak, isi, scan, dan unggah dokumen [**di sini**](https://drive.google.com/file/d/1_uH_GS-4tKLkoZodWsIoB1WCt9ncmbOK/view?usp=sharing){target="_blank"} bagi S2
+    7.  Surat Pernyataan Keaslian Dokumen pendaftaran [**(download)**](https://drive.google.com/file/d/1LnpmXVBU5NaSgOFDCaOSGQr2XEhA_UQA/view?usp=sharing).
 
-            <br><br>
+    8.  Surat Pernyataan kesanggupan pembiayaan pendidikan.
 
-    B. **PROGRAM DOKTOR (S3)**
+        > **Kumpulan Dokumen** :
+        >
+        > Unduh, cetak, isi, scan, dan unggah dokumen [**di sini**](https://drive.google.com/file/d/1_ZoV1c57HOlYCIxCgLE-WJSNpwvRX3Zo/view?usp=sharing){target="_blank"} bagi S3
 
-    a.  Pas Photo terbaru
+    9.  Mengunggah Proposal mini Disertasi khusus S3
 
-    b.  Isi Biodata
-
-    c.  Unggah (*upload*) data pendukung:
-
-        1.  Ijazah S-1, S-2, Transkrip Nilai S-1, S-2 (Program Doktor)
-
-            > Khusus Program Studi Doktor Ilmu Akuntansi wajib melampirkan Ijazah S1 Akuntansi
-
-        2.  Sertifikat akreditasi program studi pada jenjang S2 yang berlaku terakhir
-
-        3.  Sertifikat TOEFL dengan skor minimal 450.
-
-        4.  Surat izin/tugas belajar dari instansi tempat bekerja bagi pendaftar yang sedang bekerja
-
-        5.  Surat keterangan sehat dari Fasilitas Kesehatan yang memiliki izin dari pemerintah
-
-        6.  Surat rekomendasi kelayakan akademik dari dua Profesor atau Doktor.
-
-        7.  Surat Pernyataan Keaslian Dokumen pendaftaran [**(download)**](https://drive.google.com/file/d/1LnpmXVBU5NaSgOFDCaOSGQr2XEhA_UQA/view?usp=sharing).
-
-        8.  Surat Pernyataan kesanggupan pembiayaan pendidikan.
-
-            > **Kumpulan Dokumen** :
-            >
-            > Unduh, cetak, isi, scan, dan unggah dokumen [**di sini**](https://drive.google.com/file/d/1_ZoV1c57HOlYCIxCgLE-WJSNpwvRX3Zo/view?usp=sharing){target="_blank"} bagi S3
-
-        9.  Mengunggah Proposal mini Disertasi khusus S3
-
-            > Proposal Mini adalah ide atau gagasan penelitian yang dituangkan dalam bentuk tulisan yang ditulis oleh mahasiswa S-3 Pascasarjana Untirta dengan maksud untuk mengetahui rencana penelitian dan menentukan dosen pembimbing/promotor.
-            >
-            > **Proposal Mini terdiri dari empat bagian**:
-            >
-            > a)  Bagian pertama, membahas mengenai latar belakangan pemilihan topik, alasan pemilihan topik, pertanyaan penelitian, tujuan penelitian, dan kebaruan/inovasi penelitian (*state of theart*)
-            >
-            > b)  Bagian kedua, menjelaskan secara singkat mengenai teori utama dan teori pendukung yang akan digunakan dalam penelitian
-            >
-            > c)  Bagian ketiga, membahas tentang rencana metode yang akan diterapkan dalam penelitian, termasuk waktu, tempat, dan desain/pendekatan penelitian
-            >
-            > d)   Bagian keempat, mencantumkan daftar pustaka
-            >
-            > **Ketentuan Proposal Mini:**
-            >
-            > a)   Judul yang terdiri dari maksimum 12 kata
-            >
-            > b)  Tulisan terdiri dari 1500-2000 kata (6 -- 7 lembar)
-            >
-            > c)  Ditulis menggunakan i, dua spasi, font *Times New Roman*, ukuran font 12 poin, dan ukuran kertas A4
-            >
-            > d)  Penulisan sitasi dan daftar pustaka menggunakan *reference manager* (*EndNote, Mendeley,* atau program lain)
-            >
-            > e)  Memuat minimal 15 buah artikel jurnal sebagai rujukan utama yang terbit dalam tujuh tahun terakhir.
-            >
-            > f)  Secara umum, proposal mini ditulis menggunakan gaya *American Psychology Association* (APA).
-            >
-            > g)  Disimpan dalam filePDF dengan ukuran maksimal 200 KB.
+        > Proposal Mini adalah ide atau gagasan penelitian yang dituangkan dalam bentuk tulisan yang ditulis oleh mahasiswa S-3 Pascasarjana Untirta dengan maksud untuk mengetahui rencana penelitian dan menentukan dosen pembimbing/promotor.
+        >
+        > **Proposal Mini terdiri dari empat bagian**:
+        >
+        > a)  Bagian pertama, membahas mengenai latar belakangan pemilihan topik, alasan pemilihan topik, pertanyaan penelitian, tujuan penelitian, dan kebaruan/inovasi penelitian (*state of theart*)
+        >
+        > b)  Bagian kedua, menjelaskan secara singkat mengenai teori utama dan teori pendukung yang akan digunakan dalam penelitian
+        >
+        > c)  Bagian ketiga, membahas tentang rencana metode yang akan diterapkan dalam penelitian, termasuk waktu, tempat, dan desain/pendekatan penelitian
+        >
+        > d)   Bagian keempat, mencantumkan daftar pustaka
+        >
+        > **Ketentuan Proposal Mini:**
+        >
+        > a)   Judul yang terdiri dari maksimum 12 kata
+        >
+        > b)  Tulisan terdiri dari 1500-2000 kata (6 -- 7 lembar)
+        >
+        > c)  Ditulis menggunakan i, dua spasi, font *Times New Roman*, ukuran font 12 poin, dan ukuran kertas A4
+        >
+        > d)  Penulisan sitasi dan daftar pustaka menggunakan *reference manager* (*EndNote, Mendeley,* atau program lain)
+        >
+        > e)  Memuat minimal 15 buah artikel jurnal sebagai rujukan utama yang terbit dalam tujuh tahun terakhir.
+        >
+        > f)  Secara umum, proposal mini ditulis menggunakan gaya *American Psychology Association* (APA).
+        >
+        > g)  Disimpan dalam filePDF dengan ukuran maksimal 200 KB.
 
 ### Materi Ujian
 
@@ -446,28 +419,20 @@ Program Doktor (S3) dan Program Magister (S2) Pascasarjana Universitas Sultan Ag
 
 -   Wawancara
 
-    ### PENGUMUMAN KELULUSAN
+### **LAIN - LAIN**
 
-    1.  Calon mahasiswa baru dapat melihat Pengumuman Kelulusan melalui web <https://admisi.untirta.ac.id> pada tab Pengumuman, atau bisa cek SK nya di web <https://untirta.ac.id>
+**Helpdesk** : Gedung PMB Kampus Sindangsari
 
-        ![](images/Tab%20Pengumuman-01.png)
+Jalan Raya Palka KM.03 Sindangsari, Kecamatan Pabuaran, Kabupaten Serang - Provinsi Banten
 
-    2.  EMPAT (4) CARA MEMBAYAR UKT DI UNTIRTA : [**https://link.untirta.ac.id/UKTuntirta**](https://link.untirta.ac.id/UKTuntirta){.uri}
+Telpon :
 
-    ### LAIN - LAIN
+1.  [+62 87713617770](http://wa.me/6287713617770)
 
-    **Helpdesk** : Gedung PMB Kampus Sindangsari
+2.  [+62 81311734542](http://wa.me/081311734542)
 
-    Jalan Raya Palka KM.03 Sindangsari, Kecamatan Pabuaran, Kabupaten Serang - Provinsi Banten
+3.  [+62 81911106670](http://wa.me/081911106670)
 
-    Telpon :
+4.  [+62 817738817](http://wa.me/0817738817)
 
-    1.  [+62 87713617770](http://wa.me/6287713617770)
-
-    2.  [+62 81311734542](http://wa.me/081311734542)
-
-    3.  [+62 81911106670](http://wa.me/081911106670)
-
-    4.  [+62 817738817](http://wa.me/0817738817)
-
-    Email: [**pmb\@untirta.ac.id**](mailto:pmb@untirta.ac.id) dan [**humas\@untirta.ac.id**](mailto:humas@untirta.ac.id)
+Email: [**pmb\@untirta.ac.id**](mailto:pmb@untirta.ac.id) dan [**humas\@untirta.ac.id**](mailto:humas@untirta.ac.id)
