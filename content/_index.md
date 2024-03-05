@@ -7,17 +7,9 @@ title: Home
 
 ![](images/Selamat%20Datang%20Maba.jpg)
 
-[![download](images/Leaflet_SNBP-1.png)](https://drive.google.com/file/d/1jMRnE-_pIMXOET9cvdMbM3meWkSetxlX/view?usp=drive_link)
-
-![](images/Leaflet_SNBP-2.png)
-
-[![download](images/Leaflet_SNBT_page-0001.jpg)](https://drive.google.com/file/d/1jLtr0vSYx2rKgv8YyByWn30LJDsazZ-H/view?usp=drive_link)
-
-![](images/Leaflet_SNBT_page-0002.jpg)
-
 ![]()A.) PENERIMAAN MAHASISWA BARU JALUR MANDIRI :
 
-1.  [**PENDAFTARAN PASCASARJANA**](https://registrasi.untirta.ac.id/post/2023-02-09-penerimaan-mahasiswa-baru-pmb-pascasarjana-ta-2023-2024/)
+1.  [**PENDAFTARAN PASCASARJANA**](https://pmb.untirta.ac.id/en/)
 2.  [**PENDAFTARAN DIPLOMA (D3) DAN ALIH JENJANG (S1)**](https://registrasi.untirta.ac.id/post/2023-05-18-pendaftaran-ujian-masuk-mandiri-umm-program-d3-dan-s1-alih-jenjang-tahun-2023/)
 
 B.) PEDOMAN REGISTRASI ULANG SNBP, SNBT, DAN SMMPTN
