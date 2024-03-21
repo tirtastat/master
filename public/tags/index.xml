@@ -6,31 +6,22 @@
     <description>Recent content in Tags on Registrasi dan Statistik</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 02 Feb 2024 00:00:00 +0000</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>penangguhan</title>
-      <link>/tags/penangguhan/</link>
-      <pubDate>Fri, 02 Feb 2024 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/penangguhan/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>ukt</title>
-      <link>/tags/ukt/</link>
-      <pubDate>Fri, 02 Feb 2024 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/ukt/</guid>
-      <description></description>
-    </item>
-    
+    <lastBuildDate>Wed, 29 Nov 2023 00:00:00 +0000</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>penyesuaian ukt</title>
       <link>/tags/penyesuaian-ukt/</link>
       <pubDate>Wed, 29 Nov 2023 00:00:00 +0000</pubDate>
       
       <guid>/tags/penyesuaian-ukt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ukt</title>
+      <link>/tags/ukt/</link>
+      <pubDate>Wed, 29 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/ukt/</guid>
       <description></description>
     </item>
     
@@ -91,7 +82,7 @@
     <item>
       <title>penangguhan ukt</title>
       <link>/tags/penangguhan-ukt/</link>
-      <pubDate>Tue, 31 Jan 2023 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 09 Aug 2022 00:00:00 +0000</pubDate>
       
       <guid>/tags/penangguhan-ukt/</guid>
       <description></description>
@@ -166,6 +157,15 @@
       <pubDate>Fri, 11 Feb 2022 00:00:00 +0000</pubDate>
       
       <guid>/tags/pmb-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>penangguhan</title>
+      <link>/tags/penangguhan/</link>
+      <pubDate>Wed, 02 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/penangguhan/</guid>
       <description></description>
     </item>
     
