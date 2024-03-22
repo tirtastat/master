@@ -18,7 +18,7 @@ Calon Mahasiswa Baru yang sudah **dinyatakan** **Lulus lewat** jalur Seleksi Nas
 1.  Jadwal registrasi ulang\*
 
     | NO  | SELEKSI                                          | REGISTRASI ONLINE           | PEMBAYARAN UKT                                                                |
-    |:-----------------|:-----------------|:-----------------|:------------------|
+    |:----|:-------------------------------------------------|:----------------------------|:------------------------------------------------------------------------------|
     | 1\. | **SNBP**                                         | 29 Maret s.d. 04 April 2024 | 16 s.d. 25 April 2024                                                         |
     |     | *Pengiriman Akun Admisi ke email Camaba*         | 27 s.d 28 Maret 2024        | *Penetapan UKT bisa dicek di admisi/login kembali* (**08 s.d 15 April 2024**) |
     | 2\. | **ADIK (Afirmasi Dikti)**                        | \-                          | Pemberian NIM -                                                               |
@@ -33,7 +33,7 @@ Calon Mahasiswa Baru yang sudah **dinyatakan** **Lulus lewat** jalur Seleksi Nas
 
 2.  Diagram alur proses registrasi ulang secara *online.*
 
-    ![](images/Alur%20Registrasi_new.jpg)
+    ![](images/Alur%20Registrasi.png)
 
 3.  Penjelasan registrasi ulang secara *online* sesuai dengan jadwal dan diagram alur di atas adalah sebagai berikut.
 
@@ -72,7 +72,7 @@ Calon Mahasiswa Baru yang sudah **dinyatakan** **Lulus lewat** jalur Seleksi Nas
         10. Surat Pemeriksaan Buta Warna dari Rumah Sakit/Klinik/Puskesmas untuk Program Studi berikut (*scan* dan *upload*) :
 
             | No.  | Program Studi                             | Keterangan                                |
-            |------------------|---------------------------|---------------------------|
+            |------|-------------------------------------------|-------------------------------------------|
             | 1\.  | Pendidikan Biologi                        | Tidak Boleh Buta Warna                    |
             | 2\.  | Pendidikan Guru Sekolah Dasar             | Tidak Boleh Buta Warna                    |
             | 3\.  | Pendidikan Guru Pendidikan Anak Usia Dini | Tidak Boleh Buta Warna                    |
@@ -133,8 +133,6 @@ Calon Mahasiswa Baru yang sudah **dinyatakan** **Lulus lewat** jalur Seleksi Nas
 
     B.  **Registrasi Ulang online** melakukan pengisian data diri dan mengunggah dokumen-dokumen yang diminta secara online di laman <https://admisi.untirta.ac.id>.
 
-        <br>![](images/INGAT.png)
-
         > **Pertanyaan / Isian yang bertanda bintang (\*) wajib di isi**, sedangkan untuk pertanyaan yang tidak ada tanda bintang bisa di isi jika anda mempunyai datanya atau boleh dikosongkan.
         >
         > **Cetak Bukti Registrasi Online dan simpan** sebagai bukti jika dibutuhkan (tidak perlu tanda tangan petugas)
@@ -154,7 +152,7 @@ Calon Mahasiswa Baru yang sudah **dinyatakan** **Lulus lewat** jalur Seleksi Nas
 
         > NIM dan Password digunakan untuk melakukan proses kontrak matakuliah di laman <https://siakad.untirta.ac.id/portal>
 
-    F.  **KBM,** Proses Registrasi Ulang Selesai, Mahasiswa Baru selanjutnya menghubungi Fakultas dan Program Studi masing masing untuk **Kegiatan Belajar Mengajar (KBM)**
+    F.  **KBM,** Proses Registrasi Ulang Selesai, Mahasiswa Baru selanjutnya menghubungi Fakultas dan Program Studi masing masing untuk **Kegiatan Belajar Mengajar (KBM)**. Layanan hotline Fakultas dan Universitas bisa dilihat di [**https://untirta.ac.id/kontak/**](https://untirta.ac.id/kontak/){.uri}
 
 4.  **Lain-lain**:
 
