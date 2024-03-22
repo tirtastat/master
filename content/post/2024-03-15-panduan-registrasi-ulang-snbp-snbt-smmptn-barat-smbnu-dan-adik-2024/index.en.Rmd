@@ -17,17 +17,17 @@ Calon Mahasiswa Baru yang sudah **dinyatakan** **Lulus lewat** jalur Seleksi Nas
 
 1.  Jadwal registrasi ulang\*
 
-    | NO  | SELEKSI                                          | REGISTRASI ONLINE           | PEMBAYARAN UKT                                                            |
+    | NO  | SELEKSI                                          | REGISTRASI ONLINE           | PEMBAYARAN UKT                                                                |
     |:-----------------|:-----------------|:-----------------|:------------------|
-    | 1\. | **SNBP**                                         | 29 Maret s.d. 04 April 2024 | 16 s.d. 25 April 2024                                                     |
-    |     | *Pengiriman Akun Admisi ke email Camaba*         | 27 s.d 28 Maret 2024        | *Penetapan UKT bisa dicek di admisi/login kembali* (08 s.d 15 April 2024) |
-    | 2\. | **ADIK (Afirmasi Dikti)**                        | \-                          | Pemberian NIM -                                                           |
-    | 3\. | **SNBT**                                         | \-                          | \-                                                                        |
-    |     | *Pengiriman Akun Admisi ke email Camaba*         | \-                          | *Penetapan UKT bisa dicek di admisi/login kembali* (TBA; Sore)            |
-    | 4\. | **SMMPTN BARAT**                                 | \-                          | \-                                                                        |
-    |     | Pengiriman Akun Admisi ke email Camaba           | \-                          | Penetapan UKT bisa di cek admisi (-)                                      |
-    | 5\. | **SMBNU** (Seleksi Masuk Berdasarkan Nilai UTBK) | \-                          | \-                                                                        |
-    |     | Pengiriman Akun Admisi ke email Camaba           | \-                          | Penetapan UKT bisa di cek admisi (-)                                      |
+    | 1\. | **SNBP**                                         | 29 Maret s.d. 04 April 2024 | 16 s.d. 25 April 2024                                                         |
+    |     | *Pengiriman Akun Admisi ke email Camaba*         | 27 s.d 28 Maret 2024        | *Penetapan UKT bisa dicek di admisi/login kembali* (**08 s.d 15 April 2024**) |
+    | 2\. | **ADIK (Afirmasi Dikti)**                        | \-                          | Pemberian NIM -                                                               |
+    | 3\. | **SNBT**                                         | \-                          | \-                                                                            |
+    |     | *Pengiriman Akun Admisi ke email Camaba*         | \-                          | *Penetapan UKT bisa dicek di admisi/login kembali* (TBA; Sore)                |
+    | 4\. | **SMMPTN BARAT**                                 | \-                          | \-                                                                            |
+    |     | Pengiriman Akun Admisi ke email Camaba           | \-                          | Penetapan UKT bisa di cek admisi (-)                                          |
+    | 5\. | **SMBNU** (Seleksi Masuk Berdasarkan Nilai UTBK) | \-                          | \-                                                                            |
+    |     | Pengiriman Akun Admisi ke email Camaba           | \-                          | Penetapan UKT bisa di cek admisi (-)                                          |
 
     ***\*) Jika ada perubahan jadwal akan kami informasikan melalui web / email.***
 
@@ -67,7 +67,7 @@ Calon Mahasiswa Baru yang sudah **dinyatakan** **Lulus lewat** jalur Seleksi Nas
 
         9.  Surat Keterangan Kesehatan dari Rumah Sakit/Klinik/Puskesmas (*scan Asli* dan *upload*)
 
-            > **Surat Sehat, Buta Warna dan Narkoba harus yang terbaru atau pemeriksaan mulai tanggal 20 Juni 2023**
+            > **Surat Sehat, Buta Warna dan Narkoba harus yang terbaru atau pemeriksaan mulai tanggal 20 Maret 2024**
 
         10. Surat Pemeriksaan Buta Warna dari Rumah Sakit/Klinik/Puskesmas untuk Program Studi berikut (*scan* dan *upload*) :
 
@@ -95,12 +95,12 @@ Calon Mahasiswa Baru yang sudah **dinyatakan** **Lulus lewat** jalur Seleksi Nas
             | 20\. | Kedokteran                                | Tidak Boleh Buta Warna                    |
             | 21\. | Gizi                                      | Tidak Boleh Buta Warna                    |
             | 22\. | Ilmu Keolahragaan                         | Tidak Boleh Buta Warna                    |
-            | 23\. | Keperawatan (D3 & S1)                     | Tidak Boleh Buta Warna                    |
+            | 23\. | Keperawatan                               | Tidak Boleh Buta Warna                    |
 
         <!-- -->
 
-        12. Bukti Penghasilan Ayah atau diisi dengan penghasilan Wali yang membiayai Kuliah dengan ketentuan sebagai berikut.
-            -   **Bagi Pekerjaan yang memiliki Bukti / Slip Gaji dari Petrusahaan/Kantor** **wajib melampirkan** Slip Gaji dari Perusahaan/Kantor tidak boleh menggunakan Surat Keterangan dari Kelurahan atau Desa. Jika dikemudian hari ditemukan pemalsuan dokumen maka kami akan mengambil kebijakan yang diperlukan.
+        12. Bukti Penghasilan Ayah atau Ibu diisi dengan penghasilan Wali yang membiayai Kuliah dengan ketentuan sebagai berikut.
+            -   **Bagi Pekerjaan yang memiliki Bukti / Slip Gaji dari Perusahaan/Kantor** **wajib melampirkan** Slip Gaji dari Perusahaan/Kantor tidak boleh menggunakan Surat Keterangan dari Kelurahan atau Desa. Jika dikemudian hari ditemukan pemalsuan dokumen maka kami akan mengambil kebijakan yang diperlukan.
 
             -   Dokumen yang diunggah (Slip Gaji/Surat Keterangan Penghasilan, dll.) adalah dokumen terbaru, **Tanggal pembuatan tahun 2024**
 
@@ -145,16 +145,14 @@ Calon Mahasiswa Baru yang sudah **dinyatakan** **Lulus lewat** jalur Seleksi Nas
 
         dengan ketentuan sebagai berikut.
 
-        -   Melakukan pembayaran Uang Kuliah Tunggal (UKT) dengan menyebut No Peserta Test.
+        -   Melakukan pembayaran Uang Kuliah Tunggal (UKT) dengan menyebutkan No Peserta Test (SNBP, SNBT, SMMPTN).
         -   Menerima bukti pembayaran dari Bank BNI (Teller atau ATM).
         -   Khusus untuk Program Studi Kedokteran, UKT sebesar Rp15.000.000,00 s.d. Rp22.000.000,00 (UKT Kelompok III s.d. VIII)
+        -   Pendaftar KIP-Kuliah wajib membayar UKT terlebih dahulu. Jika nanti dinyatakan diterima sebagai penerima KIP-Kuliah, maka **UKT yang sudah dibayarkan akan dikembalikan**.
 
     E.  **NIM,** Mahasiswa Menerima Nomor Induk Mahasiswa (NIM) dan *Password* SIAKAD akan dikirim melalui email masing-masing setelah Pembayaran terkonfirmasi Lunas.
 
         > NIM dan Password digunakan untuk melakukan proses kontrak matakuliah di laman <https://siakad.untirta.ac.id/portal>
-
-        -   **Pendaftar Non KIP-K**: setelah melakukan pembayaran UKT
-        -   **Pendaftar KIP-K**: setelah dinyatakan sebagai penerima KIP-K
 
     F.  **KBM,** Proses Registrasi Ulang Selesai, Mahasiswa Baru selanjutnya menghubungi Fakultas dan Program Studi masing masing untuk **Kegiatan Belajar Mengajar (KBM)**
 
