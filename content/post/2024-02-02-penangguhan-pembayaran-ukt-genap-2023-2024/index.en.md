@@ -10,7 +10,7 @@ tags:
   - ukt
 description: ''
 thumbnail: ''
-draft: false
+draft: true
 ---
 
 Universitas Sultan Ageng Tirtayasa kembali mengeluarkan kebijakan mengenai UKT untuk periode Semester Genap Tahun Akademik 2023/2024. Bagi Mahasiswa yang belum bisa membayar UKT sesuai jadwal yang telah ditentukan, Untirta memberikan kebijakan untuk Penangguhan Pembayaran UKT.

@@ -26,33 +26,6 @@
     </item>
     
     <item>
-      <title>penangguhan</title>
-      <link>/tags/penangguhan/</link>
-      <pubDate>Fri, 02 Feb 2024 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/penangguhan/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>ukt</title>
-      <link>/tags/ukt/</link>
-      <pubDate>Fri, 02 Feb 2024 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/ukt/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>penyesuaian ukt</title>
-      <link>/tags/penyesuaian-ukt/</link>
-      <pubDate>Wed, 29 Nov 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/penyesuaian-ukt/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>pascasarjana</title>
       <link>/tags/pascasarjana/</link>
       <pubDate>Thu, 09 Feb 2023 00:00:00 +0000</pubDate>
@@ -85,6 +58,24 @@
       <pubDate>Thu, 09 Feb 2023 00:00:00 +0000</pubDate>
       
       <guid>/tags/s3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>penyesuaian ukt</title>
+      <link>/tags/penyesuaian-ukt/</link>
+      <pubDate>Mon, 14 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/penyesuaian-ukt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ukt</title>
+      <link>/tags/ukt/</link>
+      <pubDate>Mon, 14 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/ukt/</guid>
       <description></description>
     </item>
     
@@ -166,6 +157,15 @@
       <pubDate>Fri, 11 Feb 2022 00:00:00 +0000</pubDate>
       
       <guid>/tags/pmb-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>penangguhan</title>
+      <link>/tags/penangguhan/</link>
+      <pubDate>Wed, 02 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/penangguhan/</guid>
       <description></description>
     </item>
     

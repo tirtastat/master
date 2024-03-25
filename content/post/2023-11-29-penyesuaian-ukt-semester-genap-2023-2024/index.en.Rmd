@@ -10,7 +10,7 @@ tags:
   - penyesuaian ukt
 description: ''
 thumbnail: ''
-draft: false
+draft: true
 ---
 
 Universitas Sultan Ageng Tirtayasa kembali mengeluarkan kebijakan penyesuaian UKT untuk periode Semester Genap Tahun Akademik 2023/2024. Sebelum melakukan pendaftaran penyesuaian UKT, mahasiswa diharapkan mencermati dan memahami ketentuan-ketentuan berikut.
