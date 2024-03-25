@@ -9,6 +9,7 @@ tags:
   - penangguhan
 description: ''
 thumbnail: ''
+draft: true
 ---
 
 Universitas Sultan Ageng Tirtayasa kembali mengeluarkan kebijakan mengenai UKT untuk periode Semester Ganjil Tahun Akademik 2021/2022. Bagi Mahasiswa yang belum bisa membayar UKT sesuai jadwal yang telah ditentukan, Untirta meberikan kebijakan untuk Penangguhan Pembayaran UKT.

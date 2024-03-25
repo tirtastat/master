@@ -9,6 +9,7 @@ tags:
   - penangguhan
 description: ''
 thumbnail: ''
+draft: true
 ---
 
 Diinformasikan kepada semua mahasiswa Universitas Sultan Ageng Tirtayasa yang melalukan penangguhan pembayaran UKT agar melakukan pembayaran UKT pada tanggal 01-18 April 2021. Setelah melakukan pembayaran diharap segera melakukan pengisian KRS *online*.

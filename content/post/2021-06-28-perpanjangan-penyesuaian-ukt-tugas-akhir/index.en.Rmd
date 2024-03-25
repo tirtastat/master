@@ -8,6 +8,7 @@ categories:
 tags: []
 description: ''
 thumbnail: ''
+draft: true
 ---
 
 Karena batas akhir input nilai adalah 02 Juli 2021, maka pendaftaran penyesuaian UKT bagi mahasiswa yang hanya mengambil Skripsi/Tugas Akhir di semester Ganjil 2021/2022 diperpanjang sampai dengan **03 Juli 2021**. Adapun kriteria dan persyaratannya masih sama seperti pada peride pendaftaran sebelumnya.

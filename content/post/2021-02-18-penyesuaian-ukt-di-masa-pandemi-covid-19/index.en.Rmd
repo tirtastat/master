@@ -9,6 +9,7 @@ tags:
   - covid-19
 description: ''
 thumbnail: ''
+draft: true
 ---
 
 > Sebelum melakukan pendaftaran penyesuaian UKT, perhatikan hal-hal berikut:
@@ -107,7 +108,7 @@ thumbnail: ''
 
 **Hasil verifikasi penyesuaian UKT sedang Tahun Akademik 2020/2021 semester genap**
 
-```{r,warning=FALSE,message=FALSE,echo=FALSE}
+```{r eval=FALSE, include=FALSE}
 library(readxl)
 hasil <- read_excel("G:/My Drive/# REGISTRASI DAN STATISTIK/UKT/2021/Hasil Verifikasi Final.xlsx", sheet = "Hasil Akhir")
 hasil <- hasil[, c(2, 6, 5)]
