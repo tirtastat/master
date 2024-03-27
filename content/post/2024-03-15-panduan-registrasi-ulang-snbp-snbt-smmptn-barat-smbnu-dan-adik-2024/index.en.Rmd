@@ -18,7 +18,7 @@ Calon Mahasiswa Baru yang sudah **dinyatakan** **Lulus lewat** jalur Seleksi Nas
 1.  Jadwal registrasi ulang\*
 
     | NO  | SELEKSI                                          | REGISTRASI ONLINE           | PEMBAYARAN UKT                                                                |
-    |:----|:-------------------------------------------------|:----------------------------|:------------------------------------------------------------------------------|
+    |:------------|:----------------|:------------|:----------------------------|
     | 1\. | **SNBP**                                         | 29 Maret s.d. 05 April 2024 | 16 s.d. 25 April 2024                                                         |
     |     | *Pengiriman Akun Admisi ke email Camaba*         | 27 s.d 28 Maret 2024        | *Penetapan UKT bisa dicek di admisi/login kembali* (**08 s.d 15 April 2024**) |
     | 2\. | **ADIK (Afirmasi Dikti)**                        | \-                          | Pemberian NIM -                                                               |
@@ -63,16 +63,18 @@ Calon Mahasiswa Baru yang sudah **dinyatakan** **Lulus lewat** jalur Seleksi Nas
             b.  [**Surat Pernyataan tentang Luas Tanah dan Bangunan Rumah yang ditempati**](https://untirtaacid-my.sharepoint.com/:b:/g/personal/registrasi_untirta_ac_id/EZyG5_KDiOhFpKZFUR6jOAYBmfKq87NnYAd1O6-i2Sergw?e=pa0kRU) bagi yang tidak punya SPPT
             c.  **Jika Rumah Mengontrak** dan tidak ada Bukti PBB lampirkan Bukti pembayaran sewa rumah bagi yang mengontrak/sewa ditambah [**Surat Pernyataan tentang Luas Tanah dan Bangunan Rumah yang ditempati**](https://untirtaacid-my.sharepoint.com/:b:/g/personal/registrasi_untirta_ac_id/EbDJ4llfGkBLq0CfjdPgBGEBHewtk4Qu2B507h4yPDIDBw?e=FKzuNj)
 
-        8.  Surat Tes Bebas Narkoba terbaru dari Rumah Sakit Pemerintah/LAB/BNN (*scan Asli* dan *upload*)
+        8.  Surat Keterangan Kesehatan dari Rumah Sakit/Klinik/Puskesmas (*scan Asli* dan *upload*)
 
-        9.  Surat Keterangan Kesehatan dari Rumah Sakit/Klinik/Puskesmas (*scan Asli* dan *upload*)
+            > **Surat Sehat dan Buta Warna harus yang terbaru atau pemeriksaan mulai tanggal 20 Maret 2024**
+            >
+            > **Registrasi ulang tidak memerlukan hasil Tes Narkoba**
+            >
+            > **Tes Narkoba akan dilaksanakan khusus bagi yang sudah selesai proses registrasi ulang (sudah membayar UKT dan mendapatkan NIM). Jadwal pelaksanaan akan diumumkan kemudian**.
 
-            > **Surat Sehat, Buta Warna dan Narkoba harus yang terbaru atau pemeriksaan mulai tanggal 20 Maret 2024**
-
-        10. Surat Pemeriksaan Buta Warna dari Rumah Sakit/Klinik/Puskesmas untuk Program Studi berikut (*scan* dan *upload*) :
+        9.  Surat Pemeriksaan Buta Warna dari Rumah Sakit/Klinik/Puskesmas untuk Program Studi berikut (*scan* dan *upload*) :
 
             | No.  | Program Studi                             | Keterangan                                |
-            |------|-------------------------------------------|-------------------------------------------|
+            |--------------|-----------------------------|-----------------------------|
             | 1\.  | Pendidikan Biologi                        | Tidak Boleh Buta Warna                    |
             | 2\.  | Pendidikan Guru Sekolah Dasar             | Tidak Boleh Buta Warna                    |
             | 3\.  | Pendidikan Guru Pendidikan Anak Usia Dini | Tidak Boleh Buta Warna                    |

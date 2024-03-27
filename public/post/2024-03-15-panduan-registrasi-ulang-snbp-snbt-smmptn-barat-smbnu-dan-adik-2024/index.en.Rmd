@@ -63,13 +63,15 @@ Calon Mahasiswa Baru yang sudah **dinyatakan** **Lulus lewat** jalur Seleksi Nas
             b.  [**Surat Pernyataan tentang Luas Tanah dan Bangunan Rumah yang ditempati**](https://untirtaacid-my.sharepoint.com/:b:/g/personal/registrasi_untirta_ac_id/EZyG5_KDiOhFpKZFUR6jOAYBmfKq87NnYAd1O6-i2Sergw?e=pa0kRU) bagi yang tidak punya SPPT
             c.  **Jika Rumah Mengontrak** dan tidak ada Bukti PBB lampirkan Bukti pembayaran sewa rumah bagi yang mengontrak/sewa ditambah [**Surat Pernyataan tentang Luas Tanah dan Bangunan Rumah yang ditempati**](https://untirtaacid-my.sharepoint.com/:b:/g/personal/registrasi_untirta_ac_id/EbDJ4llfGkBLq0CfjdPgBGEBHewtk4Qu2B507h4yPDIDBw?e=FKzuNj)
 
-        8.  Surat Tes Bebas Narkoba terbaru dari Rumah Sakit Pemerintah/LAB/BNN (*scan Asli* dan *upload*)
+        8.  Surat Keterangan Kesehatan dari Rumah Sakit/Klinik/Puskesmas (*scan Asli* dan *upload*)
 
-        9.  Surat Keterangan Kesehatan dari Rumah Sakit/Klinik/Puskesmas (*scan Asli* dan *upload*)
+            > **Surat Sehat dan Buta Warna harus yang terbaru atau pemeriksaan mulai tanggal 20 Maret 2024**
+            >
+            > **Registrasi ulang tidak memerlukan hasil Tes Narkoba**
+            >
+            > **Tes Narkoba akan dilaksanakan khusus bagi yang sudah selesai proses registrasi ulang (sudah membayar UKT dan mendapatkan NIM). Jadwal pelaksanaan akan diumumkan kemudian**.
 
-            > **Surat Sehat, Buta Warna dan Narkoba harus yang terbaru atau pemeriksaan mulai tanggal 20 Maret 2024**
-
-        10. Surat Pemeriksaan Buta Warna dari Rumah Sakit/Klinik/Puskesmas untuk Program Studi berikut (*scan* dan *upload*) :
+        9.  Surat Pemeriksaan Buta Warna dari Rumah Sakit/Klinik/Puskesmas untuk Program Studi berikut (*scan* dan *upload*) :
 
             | No.  | Program Studi                             | Keterangan                                |
             |--------------|-----------------------------|-----------------------------|
