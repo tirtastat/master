@@ -12,9 +12,11 @@ title: Home
 1.  [**PENDAFTARAN PASCASARJANA**](https://pmb.untirta.ac.id/en/)
 2.  [**PENDAFTARAN DIPLOMA (D3) DAN ALIH JENJANG (S1)**](https://registrasi.untirta.ac.id/post/2023-05-18-pendaftaran-ujian-masuk-mandiri-umm-program-d3-dan-s1-alih-jenjang-tahun-2023/)
 
-B.) PEDOMAN REGISTRASI ULANG SNBP, SNBT, DAN SMMPTN
+B.) PANDUAN REGISTRASI ULANG SNBP, SNBT, DAN SMMPTN
 
 1.  [**LINK REGISTRASI ULANG ONLINE**](https://registrasi.untirta.ac.id/post/2024-03-15-panduan-registrasi-ulang-snbp-snbt-smmptn-barat-smbnu-dan-adik-2024/)
+
+![](11122023-1.png)
 
 Bagi calon mahasiswa baru yang sudah dinyatakan ***lulus tes seleksi*** / ujian masuk perguruan tinggi di Universitas Sultan Ageng Tirtayasa melalui beberapa jalur masuk : Seleksi Nasional Berdasarkan Prestasi (SNBP), Ujian Tulis Berbasis Komputer - Seleksi Nasional Berdasarkan Test (UTBK-SNBT), dan Seleksi Masuk Mandiri Perguruan Tinggi Negeri (SMMPTN) untuk Program Sarjana (S1) dan Diploma (D3). Setelah lulus seleksi bukti lulusnya dituangkan dalam dokumen Surat Keputusan Rektor Universitas Sultan Ageng Tirtayasa tentang hasil seleksi penerimaan mahasiswa baru dari beberapa jalur masuk yang diterbitkan pada tahun akademik berjalan oleh Universitas Sultan Ageng Tirtayasa.
 
