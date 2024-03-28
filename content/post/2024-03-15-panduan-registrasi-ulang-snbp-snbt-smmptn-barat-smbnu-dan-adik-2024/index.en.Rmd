@@ -17,17 +17,29 @@ Calon Mahasiswa Baru yang sudah **dinyatakan** **Lulus lewat** jalur Seleksi Nas
 
 1.  Jadwal registrasi ulang\*
 
-    | NO  | SELEKSI                                          | REGISTRASI ONLINE           | PEMBAYARAN UKT                                                                |
-    |:------------|:----------------|:------------|:----------------------------|
-    | 1\. | **SNBP**                                         | 29 Maret s.d. 05 April 2024 | 16 s.d. 25 April 2024                                                         |
-    |     | *Pengiriman Akun Admisi ke email Camaba*         | 27 s.d 28 Maret 2024        | *Penetapan UKT bisa dicek di admisi/login kembali* (**08 s.d 15 April 2024**) |
-    | 2\. | **ADIK (Afirmasi Dikti)**                        | \-                          | Pemberian NIM -                                                               |
-    | 3\. | **SNBT**                                         | \-                          | \-                                                                            |
-    |     | *Pengiriman Akun Admisi ke email Camaba*         | \-                          | *Penetapan UKT bisa dicek di admisi/login kembali* (TBA; Sore)                |
-    | 4\. | **SMMPTN BARAT**                                 | \-                          | \-                                                                            |
-    |     | Pengiriman Akun Admisi ke email Camaba           | \-                          | Penetapan UKT bisa di cek admisi (-)                                          |
-    | 5\. | **SMBNU** (Seleksi Masuk Berdasarkan Nilai UTBK) | \-                          | \-                                                                            |
-    |     | Pengiriman Akun Admisi ke email Camaba           | \-                          | Penetapan UKT bisa di cek admisi (-)                                          |
+    +--------------+--------------------------------------------------+-----------------------------+-------------------------------------------------------------------------------+
+    | NO           | SELEKSI                                          | REGISTRASI ONLINE           | PEMBAYARAN UKT                                                                |
+    +:=============+:=================================================+:============================+:==============================================================================+
+    | 1\.          | **SNBP**                                         | 29 Maret s.d. 05 April 2024 | 16 s.d. 25 April 2024                                                         |
+    +--------------+--------------------------------------------------+-----------------------------+-------------------------------------------------------------------------------+
+    |              | *Pengiriman Akun Admisi ke email Camaba*         | 27 s.d 28 Maret 2024        | *Penetapan UKT bisa dicek di admisi/login kembali* (**08 s.d 15 April 2024**) |
+    |              |                                                  |                             |                                                                               |
+    |              |                                                  |                             | Periode Bayar :**16 s.d 26 April 2024**                                       |
+    +--------------+--------------------------------------------------+-----------------------------+-------------------------------------------------------------------------------+
+    | 2\.          | **ADIK (Afirmasi Dikti)**                        | \-                          | Pemberian NIM -                                                               |
+    +--------------+--------------------------------------------------+-----------------------------+-------------------------------------------------------------------------------+
+    | 3\.          | **SNBT**                                         | \-                          | \-                                                                            |
+    +--------------+--------------------------------------------------+-----------------------------+-------------------------------------------------------------------------------+
+    |              | *Pengiriman Akun Admisi ke email Camaba*         | \-                          | *Penetapan UKT bisa dicek di admisi/login kembali* (TBA; Sore)                |
+    +--------------+--------------------------------------------------+-----------------------------+-------------------------------------------------------------------------------+
+    | 4\.          | **SMMPTN BARAT**                                 | \-                          | \-                                                                            |
+    +--------------+--------------------------------------------------+-----------------------------+-------------------------------------------------------------------------------+
+    |              | Pengiriman Akun Admisi ke email Camaba           | \-                          | Penetapan UKT bisa di cek admisi (-)                                          |
+    +--------------+--------------------------------------------------+-----------------------------+-------------------------------------------------------------------------------+
+    | 5\.          | **SMBNU** (Seleksi Masuk Berdasarkan Nilai UTBK) | \-                          | \-                                                                            |
+    +--------------+--------------------------------------------------+-----------------------------+-------------------------------------------------------------------------------+
+    |              | Pengiriman Akun Admisi ke email Camaba           | \-                          | Penetapan UKT bisa di cek admisi (-)                                          |
+    +--------------+--------------------------------------------------+-----------------------------+-------------------------------------------------------------------------------+
 
     ***\*) Jika ada perubahan jadwal akan kami informasikan melalui web / email.***
 
@@ -73,31 +85,55 @@ Calon Mahasiswa Baru yang sudah **dinyatakan** **Lulus lewat** jalur Seleksi Nas
 
         9.  Surat Pemeriksaan Buta Warna dari Rumah Sakit/Klinik/Puskesmas untuk Program Studi berikut (*scan* dan *upload*) :
 
-            | No.  | Program Studi                             | Keterangan                                |
-            |--------------|-----------------------------|-----------------------------|
-            | 1\.  | Pendidikan Biologi                        | Tidak Boleh Buta Warna                    |
-            | 2\.  | Pendidikan Guru Sekolah Dasar             | Tidak Boleh Buta Warna                    |
-            | 3\.  | Pendidikan Guru Pendidikan Anak Usia Dini | Tidak Boleh Buta Warna                    |
-            | 4\.  | Pendidikan Fisika                         | Tidak Boleh Buta Warna                    |
-            | 5\.  | Pendidikan IPA                            | Tidak Boleh Buta Warna                    |
-            | 6\.  | Pendidikan Kimia                          | Tidak Boleh Buta Warna                    |
-            | 7\.  | Pendidikan Vokasional Teknik Mesin        | Tidak Boleh Buta Warna                    |
-            | 8\.  | Pendidikan Vokasional Teknik Elektro      | Tidak Boleh Buta Warna                    |
-            | 9\.  | Bimbingan dan Konseling                   | Tidak Boleh Buta Warna                    |
-            | 10\. | Pendidikan Pancasila dan Kewarganegaraan  | Tidak Boleh Buta Warna                    |
-            | 11\. | Pendidikan Sejarah                        | Tidak Boleh Buta Warna                    |
-            | 12\. | Pendidikan Seni Pertunjukan               | Tidak Boleh Buta Warna                    |
-            | 13\. | Teknik Mesin                              | Tidak Boleh Buta Warna                    |
-            | 14\. | Teknik Elektro                            | Tidak Boleh Buta Warna                    |
-            | 15\. | Teknik Industri                           | Buta Warna Sebagian / Partial masih boleh |
-            | 16\. | Teknik Metalurgi                          | Tidak Boleh Buta Warna                    |
-            | 17\. | Teknik Kimia                              | Tidak Boleh Buta Warna                    |
-            | 18\. | Teknik Sipil                              | Tidak Boleh Buta Warna                    |
-            | 19\. | Informatika                               | Tidak Boleh Buta Warna                    |
-            | 20\. | Kedokteran                                | Tidak Boleh Buta Warna                    |
-            | 21\. | Gizi                                      | Tidak Boleh Buta Warna                    |
-            | 22\. | Ilmu Keolahragaan                         | Tidak Boleh Buta Warna                    |
-            | 23\. | Keperawatan                               | Tidak Boleh Buta Warna                    |
+            +---------------+-------------------------------------------+-------------------------------------------+
+            | No.           | Program Studi                             | Keterangan                                |
+            +===============+===========================================+===========================================+
+            | 1\.           | Pendidikan Biologi                        | Tidak Boleh Buta Warna                    |
+            +---------------+-------------------------------------------+-------------------------------------------+
+            | 2\.           | Pendidikan Guru Sekolah Dasar             | Tidak Boleh Buta Warna                    |
+            +---------------+-------------------------------------------+-------------------------------------------+
+            | 3\.           | Pendidikan Guru Pendidikan Anak Usia Dini | Tidak Boleh Buta Warna                    |
+            +---------------+-------------------------------------------+-------------------------------------------+
+            | 4\.           | Pendidikan Fisika                         | Tidak Boleh Buta Warna                    |
+            +---------------+-------------------------------------------+-------------------------------------------+
+            | 5\.           | Pendidikan IPA                            | Tidak Boleh Buta Warna                    |
+            +---------------+-------------------------------------------+-------------------------------------------+
+            | 6\.           | Pendidikan Kimia                          | Tidak Boleh Buta Warna                    |
+            +---------------+-------------------------------------------+-------------------------------------------+
+            | 7\.           | Pendidikan Vokasional Teknik Mesin        | Tidak Boleh Buta Warna                    |
+            +---------------+-------------------------------------------+-------------------------------------------+
+            | 8\.           | Pendidikan Vokasional Teknik Elektro      | Tidak Boleh Buta Warna                    |
+            +---------------+-------------------------------------------+-------------------------------------------+
+            | 9\.           | Bimbingan dan Konseling                   | Tidak Boleh Buta Warna                    |
+            +---------------+-------------------------------------------+-------------------------------------------+
+            | 10\.          | Pendidikan Pancasila dan Kewarganegaraan  | Tidak Boleh Buta Warna                    |
+            +---------------+-------------------------------------------+-------------------------------------------+
+            | 11\.          | Pendidikan Sejarah                        | Tidak Boleh Buta Warna                    |
+            +---------------+-------------------------------------------+-------------------------------------------+
+            | 12\.          | Pendidikan Seni Pertunjukan               | Tidak Boleh Buta Warna                    |
+            +---------------+-------------------------------------------+-------------------------------------------+
+            | 13\.          | Teknik Mesin                              | Tidak Boleh Buta Warna                    |
+            +---------------+-------------------------------------------+-------------------------------------------+
+            | 14\.          | Teknik Elektro                            | Tidak Boleh Buta Warna                    |
+            +---------------+-------------------------------------------+-------------------------------------------+
+            | 15\.          | Teknik Industri                           | Buta Warna Sebagian / Partial masih boleh |
+            +---------------+-------------------------------------------+-------------------------------------------+
+            | 16\.          | Teknik Metalurgi                          | Tidak Boleh Buta Warna                    |
+            +---------------+-------------------------------------------+-------------------------------------------+
+            | 17\.          | Teknik Kimia                              | Tidak Boleh Buta Warna                    |
+            +---------------+-------------------------------------------+-------------------------------------------+
+            | 18\.          | Teknik Sipil                              | Tidak Boleh Buta Warna                    |
+            +---------------+-------------------------------------------+-------------------------------------------+
+            | 19\.          | Informatika                               | Tidak Boleh Buta Warna                    |
+            +---------------+-------------------------------------------+-------------------------------------------+
+            | 20\.          | Kedokteran                                | Tidak Boleh Buta Warna                    |
+            +---------------+-------------------------------------------+-------------------------------------------+
+            | 21\.          | Gizi                                      | Tidak Boleh Buta Warna                    |
+            +---------------+-------------------------------------------+-------------------------------------------+
+            | 22\.          | Ilmu Keolahragaan                         | Tidak Boleh Buta Warna                    |
+            +---------------+-------------------------------------------+-------------------------------------------+
+            | 23\.          | Keperawatan                               | Tidak Boleh Buta Warna                    |
+            +---------------+-------------------------------------------+-------------------------------------------+
 
         <!-- -->
 
