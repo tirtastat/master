@@ -1,12 +1,37 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <url>
-      <loc>/tags/adik/</loc>
-      <lastmod>2024-03-15T00:00:00+00:00</lastmod>
+      <loc>/</loc>
+      <lastmod>2024-06-04T00:00:00+00:00</lastmod>
     </url>
     
     <url>
-      <loc>/</loc>
+      <loc>/tags/penyesuaian-ukt/</loc>
+      <lastmod>2024-06-04T00:00:00+00:00</lastmod>
+    </url>
+    
+    <url>
+      <loc>/post/2024-06-04-penyesuaian-ukt-semester-ganjil-2024-2025/</loc>
+      <lastmod>2024-06-04T00:00:00+00:00</lastmod>
+    </url>
+    
+    <url>
+      <loc>/post/</loc>
+      <lastmod>2024-06-04T00:00:00+00:00</lastmod>
+    </url>
+    
+    <url>
+      <loc>/tags/</loc>
+      <lastmod>2024-06-04T00:00:00+00:00</lastmod>
+    </url>
+    
+    <url>
+      <loc>/tags/ukt/</loc>
+      <lastmod>2024-06-04T00:00:00+00:00</lastmod>
+    </url>
+    
+    <url>
+      <loc>/tags/adik/</loc>
       <lastmod>2024-03-15T00:00:00+00:00</lastmod>
     </url>
     
@@ -16,17 +41,7 @@
     </url>
     
     <url>
-      <loc>/post/</loc>
-      <lastmod>2024-03-15T00:00:00+00:00</lastmod>
-    </url>
-    
-    <url>
       <loc>/tags/snbp/</loc>
-      <lastmod>2024-03-15T00:00:00+00:00</lastmod>
-    </url>
-    
-    <url>
-      <loc>/tags/</loc>
       <lastmod>2024-03-15T00:00:00+00:00</lastmod>
     </url>
     
@@ -37,11 +52,6 @@
     
     <url>
       <loc>/post/2024-02-02-penangguhan-pembayaran-ukt-genap-2023-2024/</loc>
-      <lastmod>2024-02-02T00:00:00+00:00</lastmod>
-    </url>
-    
-    <url>
-      <loc>/tags/ukt/</loc>
       <lastmod>2024-02-02T00:00:00+00:00</lastmod>
     </url>
     

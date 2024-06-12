@@ -10,16 +10,16 @@ tags:
   - penyesuaian ukt
 description: ''
 thumbnail: ''
-draft: true
+draft: false
 ---
 
 Universitas Sultan Ageng Tirtayasa kembali mengeluarkan kebijakan penyesuaian UKT untuk periode Semester Ganjil Tahun Akademik 2024/2025. Sebelum melakukan pendaftaran penyesuaian UKT, mahasiswa diharapkan mencermati dan memahami ketentuan-ketentuan berikut.
 
-1.  Penyesuaian UKT hanya diberikan kepada mahasiswa program sarjana dan diploma **yang aktif** Angkatan 2022 dan sebelumnya hanya yang mengajukan permohonan.
+1.  Penyesuaian UKT hanya diberikan kepada mahasiswa program sarjana dan diploma **yang aktif** Angkatan 2023 dan sebelumnya hanya yang mengajukan permohonan.
 
 2.  Penyesuaian UKT yang dapat dimohonkan oleh mahasiswa :
 
-    **a. Perubahan Kelompok UKT Per-semester**; **wajib mengajukan** ulang disetiap semester.
+    **a. Perubahan Kelompok UKT Per-semester**; **wajib mengajukan** ulang di setiap semester.
 
     1)  Pengurangan Kelompok UKT 50% karena tinggal mengambil matakuliah Tugas Akhir (6 sks);
 
@@ -39,7 +39,7 @@ Universitas Sultan Ageng Tirtayasa kembali mengeluarkan kebijakan penyesuaian UK
 
 5.  **Mahasiswa penerima Beasiswa tidak bisa mendaftar penyesuaian UKT.**
 
-6.  SEMUA DOKUMEN PENDUKUNG / SURAT KETERANGAN HARUS DOKUMEN TERBARU **(DITANDATANGANI BULAN DESEMBER 2023)**<br><br>
+6.  SEMUA DOKUMEN PENDUKUNG / SURAT KETERANGAN HARUS DOKUMEN TERBARU **(DITANDATANGANI BULAN JUNI 2024)**<br><br>
 
 ------------------------------------------------------------------------
 
@@ -65,9 +65,10 @@ Penyesuaian UKT sebesar 50% diberikan kepada mahasiswa dengan kriteria berikut:
 Berikut adalah berkas-berkas yang harus disiapkan :
 
 -   Surat Pernyataan bermaterai yang menyatakan sudah menyelesaikan perkuliahan dan hanya akan mengambil Mata Kuliah Tugas Akhir/Skripsi di semester genap TA 2023/2024 dan diketahui oleh Dosen Wali dan Kepala Program Studi. Format Surat Pernyataan bisa diunduh setelah anda masuk ke dalam formulir pendaftaran (***login*** **menggunakan email Untirta pendaftar**).
--   Transkrip nilai terbaru (sampai dengan semester ganjil TA 2023/2024)
+-   KRS manual yang diketahui/ditandatangani oleh Dosen Wali.
+-   Transkrip nilai terbaru (sampai dengan semester genap TA 2023/2024)
 
-Pendaftaran penyesuaian UKT 50% dilakukan dengan mengisi formulir berikut **menggunakan akun email Untirta pendaftar** dari tanggal **18 -- 20 Januari 2024** Pendaftaran ditutup **Pukul : 12:00 WIB (Sabtu)**
+Pendaftaran penyesuaian UKT 50% dilakukan dengan mengisi formulir berikut **menggunakan akun email Untirta pendaftar** dari tanggal **01 -- 12 Juli 2024**
 
 [![](images/daftar.jpg){target="_blank" width="90"}](https://docs.google.com/forms/d/e/1FAIpQLSfpHHjW88R9FUdYjW7xvj8AyB78MnS2bFUGh8Emgqi7z-YDIA/closedform)
 
@@ -82,10 +83,10 @@ Berikut adalah berkas-berkas yang harus disiapkan:
 1.  KTP Mahasiswa
 2.  Kartu Keluarga
 3.  Akta Kematian
-4.  Surat Keterangan **Ibu** belum menikah lagi dari Kelurahan/Desa (**terbaru / bulan Desember 2023**)
+4.  Surat Keterangan **Ibu** belum menikah lagi dari Kelurahan/Desa (**terbaru / bulan Juni 2024**)
 5.  Surat Pernyataan Keabsahan data. Format Surat Pernyataan bisa diunduh setelah anda masuk ke dalam formulir pendaftaran (***login*** **menggunakan email Untirta pendaftar**).
 
-Pendaftaran penyesuaian UKT Kelompok Yatim dan Yatim Piatu dilakukan dengan mengisi formulir berikut **menggunakan akun email Untirta pendaftar** dari tanggal **01 - 07 Desember 2023 (pukul 16.00 WIB)**.
+Pendaftaran penyesuaian UKT Kelompok Yatim dan Yatim Piatu dilakukan dengan mengisi formulir berikut **menggunakan akun email Untirta pendaftar** dari tanggal **12 - 15 Juni 2024**.
 
 [![](images/daftar.jpg){target="_blank" width="90"}](https://docs.google.com/forms/d/e/1FAIpQLSfpHHjW88R9FUdYjW7xvj8AyB78MnS2bFUGh8Emgqi7z-YDIA/closedform)
 
@@ -106,9 +107,9 @@ c.  Persyaratan khusus dalam format PDF (**pilih salah satu**):
 
     4.  Surat Keterangan dari instansi/perusahaan atau Surat Kepala Desa sesuai dengan KTP Orang Tua / Wali yang menyatakan bahwa Orang Tua mengalami penurunan pendapatan (**CANTUMKAN NOMINAL PENDAPATAN**) bagi pendaftar **kategori Orang Tua/Wali mengalami penurunan pendapatan**. Lengkapi dengan Slip Sebelum mengalami Penurunan
 
-        **\*\* Semua Surat Keterangan harus yang terbaru ditandatangani bulan Desember 2023**
+        **\*\* Semua Surat Keterangan harus yang terbaru ditandatangani bulan Juni 2024**
 
-Pendaftaran dapat dilakukan dengan mengisi formulir berikut **menggunakan akun email Untirta pendaftar** dari tanggal **01 - 07 Desember 2023 (pukul 16.00 WIB)**.
+Pendaftaran dapat dilakukan dengan mengisi formulir berikut **menggunakan akun email Untirta pendaftar** dari tanggal **12 - 15 Juni 2024**..
 
 [![](images/daftar.jpg){target="_blank" width="90"}](https://docs.google.com/forms/d/e/1FAIpQLSfpHHjW88R9FUdYjW7xvj8AyB78MnS2bFUGh8Emgqi7z-YDIA/closedform)
 
