@@ -36,7 +36,6 @@ Selanjutnya calon mahasiswa melengkapi persyaratan administrasi akademik dan adm
 2.  [Tahun Akademik 2021/2022](https://drive.google.com/file/d/1vyXeqhLnz7JPNPcIErNuFabIRxFdrxON/view?usp=sharing)
 3.  [Tahun Akademik 2022/2023](https://drive.google.com/file/d/1tEUuxYIRG-KP2izMFVBx2JybquhkyFNj/view?usp=sharing)
 4.  [Tahun Akademik 2023/2024](https://drive.google.com/file/d/11xm-H5oAdp_Zg1IPgIy5Y2TlY49u8S8B/view?usp=sharing)
-5.  [**Tahun Akademik 2024/2025**](https://untirtaacid-my.sharepoint.com/:b:/g/personal/registrasi_untirta_ac_id/ERR0tiP7bv9Bkr7AR42_ALABXoFcjg_kbHavCBBivVDFaQ?e=FFePuM1)
 
 ![](images/paste-64791ECA.png)
 
