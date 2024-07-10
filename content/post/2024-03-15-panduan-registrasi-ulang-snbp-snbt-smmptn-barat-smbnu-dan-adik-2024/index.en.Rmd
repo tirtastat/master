@@ -34,9 +34,9 @@ Calon Mahasiswa Baru yang sudah **dinyatakan** **Lulus lewat** jalur Seleksi Nas
     +-----+--------------------------------------------------+-----------------------------+-------------------------------------------------------------------------------+
     |     | *Pengiriman Akun Admisi ke email Camaba*         | **13 s.d. 15 Juni 2024**    |                                                                               |
     +-----+--------------------------------------------------+-----------------------------+-------------------------------------------------------------------------------+
-    | 4\. | **SMMPTN BARAT**                                 | \-                          | \-                                                                            |
+    | 4\. | **SMMPTN BARAT**                                 | 12 s.d 18 Juli 2024         | 22 s.d. 26 Juli 2024                                                          |
     +-----+--------------------------------------------------+-----------------------------+-------------------------------------------------------------------------------+
-    |     | Pengiriman Akun Admisi ke email Camaba           | \-                          | Penetapan UKT bisa di cek admisi (-)                                          |
+    |     | Pengiriman Akun Admisi ke email Camaba           | 10 s.d 11 Juli 2024         | Penetapan UKT bisa di cek admisi (21 Juli 2024)                               |
     +-----+--------------------------------------------------+-----------------------------+-------------------------------------------------------------------------------+
     | 5\. | **SMBNU** (Seleksi Masuk Berdasarkan Nilai UTBK) | \-                          | \-                                                                            |
     +-----+--------------------------------------------------+-----------------------------+-------------------------------------------------------------------------------+
@@ -152,7 +152,7 @@ Calon Mahasiswa Baru yang sudah **dinyatakan** **Lulus lewat** jalur Seleksi Nas
         >
         > **Cetak Bukti Registrasi Online dan simpan** sebagai bukti jika dibutuhkan (tidak perlu tanda tangan petugas)
 
-    C.  **PENETAPAN UKT,** CamabaMenerima nominal UKT yang bisa dilihat di <https://admisi.untirta.ac.id> menggunakan akun *username* dan *password* masing-masing sesuai jadwal pembayaran.
+    C.  **PENETAPAN UKT,** Camaba Menerima nominal UKT yang bisa dilihat di <https://admisi.untirta.ac.id> menggunakan akun *username* dan *password* masing-masing sesuai jadwal pembayaran.
 
     D.  **PEMBAYARAN,** Camaba melakukan Pembayaran Uang Kuliah Tunggal (UKT) di Bank BNI, BTN, dan BSI seluruh Cabang Indonesia (*Teller*, ATM, *mobile banking*, *internet banking*).
 
