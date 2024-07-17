@@ -191,7 +191,7 @@ Calon Mahasiswa Baru yang sudah **dinyatakan** **Lulus lewat** jalur Seleksi Nas
         -   Khusus untuk Program Studi Kedokteran, UKT sebesar Rp15.000.000,00 s.d. Rp22.000.000,00 (UKT Kelompok III s.d. VIII)
         -   Pendaftar KIP-Kuliah wajib membayar UKT terlebih dahulu. Jika nanti dinyatakan diterima sebagai penerima KIP-Kuliah, maka **UKT yang sudah dibayarkan akan dikembalikan**.
 
-    E.  **NIM,** Mahasiswa Menerima Nomor Induk Mahasiswa (NIM) dan *Password* SIAKAD akan dikirim melalui email masing-masing setelah Pembayaran terkonfirmasi Lunas.
+    E.  **NIM,** Mahasiswa Menerima Nomor Induk Mahasiswa (NIM) dan *Password* SIAKAD akan dikirim melalui email masing-masing setelah Pembayaran terkonfirmasi Lunas. **Segera lapor jika belum mendapat NIM setelah 2 hari tanggal pembayaran.**
 
         > NIM dan Password digunakan untuk melakukan proses kontrak matakuliah di laman <https://siakad.untirta.ac.id/portal>
 

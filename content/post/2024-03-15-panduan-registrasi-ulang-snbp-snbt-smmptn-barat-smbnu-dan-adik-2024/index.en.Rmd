@@ -17,31 +17,31 @@ Calon Mahasiswa Baru yang sudah **dinyatakan** **Lulus lewat** jalur Seleksi Nas
 
 1.  Jadwal registrasi ulang\*
 
-    +-----------+--------------------------------------------------+-----------------------------+-------------------------------------------------------------------------------+
-    | NO        | SELEKSI                                          | REGISTRASI ONLINE           | PEMBAYARAN UKT                                                                |
-    +:==========+:=================================================+:============================+:==============================================================================+
-    | 1\.       | **SNBP**                                         | 29 Maret s.d. 05 April 2024 | 16 s.d. 25 April 2024                                                         |
-    +-----------+--------------------------------------------------+-----------------------------+-------------------------------------------------------------------------------+
-    |           | *Pengiriman Akun Admisi ke email Camaba*         | 27 s.d. 28 Maret 2024       | *Penetapan UKT bisa dicek di admisi/login kembali* (**08 s.d 15 April 2024**) |
-    |           |                                                  |                             |                                                                               |
-    |           |                                                  |                             | Periode Bayar :**16 s.d 25 April 2024**                                       |
-    +-----------+--------------------------------------------------+-----------------------------+-------------------------------------------------------------------------------+
-    | 2\.       | **ADIK (Afirmasi Dikti)**                        | \-                          | Pemberian NIM -                                                               |
-    +-----------+--------------------------------------------------+-----------------------------+-------------------------------------------------------------------------------+
-    | 3\.       | **SNBT**                                         | **15 s.d. 25 Juni 2024**    | *Penetapan UKT bisa dicek di admisi/login kembali* (**26 s.d 28 Juni 2024**)  |
-    |           |                                                  |                             |                                                                               |
-    |           |                                                  |                             | Periode Bayar : **28 Juni s.d. 04 Juli 2024 pukul 14.00**                     |
-    +-----------+--------------------------------------------------+-----------------------------+-------------------------------------------------------------------------------+
-    |           | *Pengiriman Akun Admisi ke email Camaba*         | **13 s.d. 15 Juni 2024**    |                                                                               |
-    +-----------+--------------------------------------------------+-----------------------------+-------------------------------------------------------------------------------+
-    | 4\.       | **SMMPTN BARAT**                                 | 12 s.d 18 Juli 2024         | 22 s.d. 26 Juli 2024                                                          |
-    +-----------+--------------------------------------------------+-----------------------------+-------------------------------------------------------------------------------+
-    |           | Pengiriman Akun Admisi ke email Camaba           | 10 s.d 11 Juli 2024         | Penetapan UKT bisa di cek admisi (21 Juli 2024)                               |
-    +-----------+--------------------------------------------------+-----------------------------+-------------------------------------------------------------------------------+
-    | 5\.       | **SMBNU** (Seleksi Masuk Berdasarkan Nilai UTBK) | 17 s.d 21 Juli 2024         | 22 s.d 26 Juli 2024                                                           |
-    +-----------+--------------------------------------------------+-----------------------------+-------------------------------------------------------------------------------+
-    |           | Pengiriman Akun Admisi ke email Camaba           | 16 s.d 17 Juli 2024         | Penetapan UKT bisa di cek admisi (21 Juli 2024)                               |
-    +-----------+--------------------------------------------------+-----------------------------+-------------------------------------------------------------------------------+
+    +-----+--------------------------------------------------+-----------------------------+-------------------------------------------------------------------------------+
+    | NO  | SELEKSI                                          | REGISTRASI ONLINE           | PEMBAYARAN UKT                                                                |
+    +:====+:=================================================+:============================+:==============================================================================+
+    | 1\. | **SNBP**                                         | 29 Maret s.d. 05 April 2024 | 16 s.d. 25 April 2024                                                         |
+    +-----+--------------------------------------------------+-----------------------------+-------------------------------------------------------------------------------+
+    |     | *Pengiriman Akun Admisi ke email Camaba*         | 27 s.d. 28 Maret 2024       | *Penetapan UKT bisa dicek di admisi/login kembali* (**08 s.d 15 April 2024**) |
+    |     |                                                  |                             |                                                                               |
+    |     |                                                  |                             | Periode Bayar :**16 s.d 25 April 2024**                                       |
+    +-----+--------------------------------------------------+-----------------------------+-------------------------------------------------------------------------------+
+    | 2\. | **ADIK (Afirmasi Dikti)**                        | \-                          | Pemberian NIM -                                                               |
+    +-----+--------------------------------------------------+-----------------------------+-------------------------------------------------------------------------------+
+    | 3\. | **SNBT**                                         | **15 s.d. 25 Juni 2024**    | *Penetapan UKT bisa dicek di admisi/login kembali* (**26 s.d 28 Juni 2024**)  |
+    |     |                                                  |                             |                                                                               |
+    |     |                                                  |                             | Periode Bayar : **28 Juni s.d. 04 Juli 2024 pukul 14.00**                     |
+    +-----+--------------------------------------------------+-----------------------------+-------------------------------------------------------------------------------+
+    |     | *Pengiriman Akun Admisi ke email Camaba*         | **13 s.d. 15 Juni 2024**    |                                                                               |
+    +-----+--------------------------------------------------+-----------------------------+-------------------------------------------------------------------------------+
+    | 4\. | **SMMPTN BARAT**                                 | 12 s.d 18 Juli 2024         | 22 s.d. 26 Juli 2024                                                          |
+    +-----+--------------------------------------------------+-----------------------------+-------------------------------------------------------------------------------+
+    |     | Pengiriman Akun Admisi ke email Camaba           | 10 s.d 11 Juli 2024         | Penetapan UKT bisa di cek admisi (21 Juli 2024)                               |
+    +-----+--------------------------------------------------+-----------------------------+-------------------------------------------------------------------------------+
+    | 5\. | **SMBNU** (Seleksi Masuk Berdasarkan Nilai UTBK) | 17 s.d 21 Juli 2024         | 22 s.d 26 Juli 2024                                                           |
+    +-----+--------------------------------------------------+-----------------------------+-------------------------------------------------------------------------------+
+    |     | Pengiriman Akun Admisi ke email Camaba           | 16 s.d 17 Juli 2024         | Penetapan UKT bisa di cek admisi (21 Juli 2024)                               |
+    +-----+--------------------------------------------------+-----------------------------+-------------------------------------------------------------------------------+
 
     ***\*) Jika ada perubahan jadwal akan kami informasikan melalui web / email.***
 
@@ -87,55 +87,31 @@ Calon Mahasiswa Baru yang sudah **dinyatakan** **Lulus lewat** jalur Seleksi Nas
 
         9.  Surat Pemeriksaan Buta Warna dari Rumah Sakit/Klinik/Puskesmas untuk Program Studi berikut (*scan* dan *upload*) :
 
-            +------------+-------------------------------------------+-------------------------------------------+
-            | No.        | Program Studi                             | Keterangan                                |
-            +============+===========================================+===========================================+
-            | 1\.        | Pendidikan Biologi                        | Tidak Boleh Buta Warna                    |
-            +------------+-------------------------------------------+-------------------------------------------+
-            | 2\.        | Pendidikan Guru Sekolah Dasar             | Tidak Boleh Buta Warna                    |
-            +------------+-------------------------------------------+-------------------------------------------+
-            | 3\.        | Pendidikan Guru Pendidikan Anak Usia Dini | Tidak Boleh Buta Warna                    |
-            +------------+-------------------------------------------+-------------------------------------------+
-            | 4\.        | Pendidikan Fisika                         | Tidak Boleh Buta Warna                    |
-            +------------+-------------------------------------------+-------------------------------------------+
-            | 5\.        | Pendidikan IPA                            | Tidak Boleh Buta Warna                    |
-            +------------+-------------------------------------------+-------------------------------------------+
-            | 6\.        | Pendidikan Kimia                          | Tidak Boleh Buta Warna                    |
-            +------------+-------------------------------------------+-------------------------------------------+
-            | 7\.        | Pendidikan Vokasional Teknik Mesin        | Tidak Boleh Buta Warna                    |
-            +------------+-------------------------------------------+-------------------------------------------+
-            | 8\.        | Pendidikan Vokasional Teknik Elektro      | Tidak Boleh Buta Warna                    |
-            +------------+-------------------------------------------+-------------------------------------------+
-            | 9\.        | Bimbingan dan Konseling                   | Tidak Boleh Buta Warna                    |
-            +------------+-------------------------------------------+-------------------------------------------+
-            | 10\.       | Pendidikan Pancasila dan Kewarganegaraan  | Tidak Boleh Buta Warna                    |
-            +------------+-------------------------------------------+-------------------------------------------+
-            | 11\.       | Pendidikan Sejarah                        | Tidak Boleh Buta Warna                    |
-            +------------+-------------------------------------------+-------------------------------------------+
-            | 12\.       | Pendidikan Seni Pertunjukan               | Tidak Boleh Buta Warna                    |
-            +------------+-------------------------------------------+-------------------------------------------+
-            | 13\.       | Teknik Mesin                              | Tidak Boleh Buta Warna                    |
-            +------------+-------------------------------------------+-------------------------------------------+
-            | 14\.       | Teknik Elektro                            | Tidak Boleh Buta Warna                    |
-            +------------+-------------------------------------------+-------------------------------------------+
-            | 15\.       | Teknik Industri                           | Buta Warna Sebagian / Partial masih boleh |
-            +------------+-------------------------------------------+-------------------------------------------+
-            | 16\.       | Teknik Metalurgi                          | Tidak Boleh Buta Warna                    |
-            +------------+-------------------------------------------+-------------------------------------------+
-            | 17\.       | Teknik Kimia                              | Tidak Boleh Buta Warna                    |
-            +------------+-------------------------------------------+-------------------------------------------+
-            | 18\.       | Teknik Sipil                              | Tidak Boleh Buta Warna                    |
-            +------------+-------------------------------------------+-------------------------------------------+
-            | 19\.       | Informatika                               | Tidak Boleh Buta Warna                    |
-            +------------+-------------------------------------------+-------------------------------------------+
-            | 20\.       | Kedokteran                                | Tidak Boleh Buta Warna                    |
-            +------------+-------------------------------------------+-------------------------------------------+
-            | 21\.       | Gizi                                      | Tidak Boleh Buta Warna                    |
-            +------------+-------------------------------------------+-------------------------------------------+
-            | 22\.       | Ilmu Keolahragaan                         | Tidak Boleh Buta Warna                    |
-            +------------+-------------------------------------------+-------------------------------------------+
-            | 23\.       | Keperawatan                               | Tidak Boleh Buta Warna                    |
-            +------------+-------------------------------------------+-------------------------------------------+
+            | No.  | Program Studi                             | Keterangan                                |
+            |------|-------------------------------------------|-------------------------------------------|
+            | 1\.  | Pendidikan Biologi                        | Tidak Boleh Buta Warna                    |
+            | 2\.  | Pendidikan Guru Sekolah Dasar             | Tidak Boleh Buta Warna                    |
+            | 3\.  | Pendidikan Guru Pendidikan Anak Usia Dini | Tidak Boleh Buta Warna                    |
+            | 4\.  | Pendidikan Fisika                         | Tidak Boleh Buta Warna                    |
+            | 5\.  | Pendidikan IPA                            | Tidak Boleh Buta Warna                    |
+            | 6\.  | Pendidikan Kimia                          | Tidak Boleh Buta Warna                    |
+            | 7\.  | Pendidikan Vokasional Teknik Mesin        | Tidak Boleh Buta Warna                    |
+            | 8\.  | Pendidikan Vokasional Teknik Elektro      | Tidak Boleh Buta Warna                    |
+            | 9\.  | Bimbingan dan Konseling                   | Tidak Boleh Buta Warna                    |
+            | 10\. | Pendidikan Pancasila dan Kewarganegaraan  | Tidak Boleh Buta Warna                    |
+            | 11\. | Pendidikan Sejarah                        | Tidak Boleh Buta Warna                    |
+            | 12\. | Pendidikan Seni Pertunjukan               | Tidak Boleh Buta Warna                    |
+            | 13\. | Teknik Mesin                              | Tidak Boleh Buta Warna                    |
+            | 14\. | Teknik Elektro                            | Tidak Boleh Buta Warna                    |
+            | 15\. | Teknik Industri                           | Buta Warna Sebagian / Partial masih boleh |
+            | 16\. | Teknik Metalurgi                          | Tidak Boleh Buta Warna                    |
+            | 17\. | Teknik Kimia                              | Tidak Boleh Buta Warna                    |
+            | 18\. | Teknik Sipil                              | Tidak Boleh Buta Warna                    |
+            | 19\. | Informatika                               | Tidak Boleh Buta Warna                    |
+            | 20\. | Kedokteran                                | Tidak Boleh Buta Warna                    |
+            | 21\. | Gizi                                      | Tidak Boleh Buta Warna                    |
+            | 22\. | Ilmu Keolahragaan                         | Tidak Boleh Buta Warna                    |
+            | 23\. | Keperawatan                               | Tidak Boleh Buta Warna                    |
 
         <!-- -->
 
@@ -191,7 +167,7 @@ Calon Mahasiswa Baru yang sudah **dinyatakan** **Lulus lewat** jalur Seleksi Nas
         -   Khusus untuk Program Studi Kedokteran, UKT sebesar Rp15.000.000,00 s.d. Rp22.000.000,00 (UKT Kelompok III s.d. VIII)
         -   Pendaftar KIP-Kuliah wajib membayar UKT terlebih dahulu. Jika nanti dinyatakan diterima sebagai penerima KIP-Kuliah, maka **UKT yang sudah dibayarkan akan dikembalikan**.
 
-    E.  **NIM,** Mahasiswa Menerima Nomor Induk Mahasiswa (NIM) dan *Password* SIAKAD akan dikirim melalui email masing-masing setelah Pembayaran terkonfirmasi Lunas.
+    E.  **NIM,** Mahasiswa Menerima Nomor Induk Mahasiswa (NIM) dan *Password* SIAKAD akan dikirim melalui email masing-masing setelah Pembayaran terkonfirmasi Lunas. **Segera lapor jika belum mendapat NIM setelah 2 hari tanggal pembayaran.**
 
         > NIM dan Password digunakan untuk melakukan proses kontrak matakuliah di laman <https://siakad.untirta.ac.id/portal>
 
