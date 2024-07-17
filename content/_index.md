@@ -12,7 +12,7 @@ title: Home
 1.  [**PENDAFTARAN PASCASARJANA**](https://pmb.untirta.ac.id/en/)
 2.  [**PENDAFTARAN DIPLOMA (D3) DAN ALIH JENJANG (S1)**](https://registrasi.untirta.ac.id/post/2023-05-18-pendaftaran-ujian-masuk-mandiri-umm-program-d3-dan-s1-alih-jenjang-tahun-2023/)
 
-B.) PANDUAN REGISTRASI ULANG SNBP, SNBT, DAN SMMPTN
+B.) PANDUAN REGISTRASI ULANG SNBP, SNBT, DAN SMMPTN-BARAT, SMBNU
 
 1.  [**LINK REGISTRASI ULANG ONLINE**](https://registrasi.untirta.ac.id/post/2024-03-15-panduan-registrasi-ulang-snbp-snbt-smmptn-barat-smbnu-dan-adik-2024/)
 
