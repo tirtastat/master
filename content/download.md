@@ -7,31 +7,37 @@ title: Download
 
 ## 2024
 
-| No   | Tahun | Keterangan                                                                                                                                                                                                                           |
-|----------------|----------------|---------------------------------------|
-| 1\.  | 2024  | [**SK DAYA TAMPUNG PENERIMAAN MAHASISWA BARU**](https://untirtaacid-my.sharepoint.com/:b:/g/personal/registrasi_untirta_ac_id/EeKMwGeTqZlHsIRMMOqMwowBfhHJwIvWFu1KcJ76XnoD8g?e=Su7CRM)                                               |
-|      | 2024  | [**SK PERUBAHAN DAYA TAMPUNG JALUR SNBT**](https://untirtaacid-my.sharepoint.com/:b:/g/personal/registrasi_untirta_ac_id/EfH7hjdAl55Bs63QRrxbk7QBSeu1Va3qEcM-0fmgGPaejw?e=2UxFpo)                                                    |
-| 2\.  | 2024  | [**SK HASIL KELULUSAN SELEKSI NASIONAL BERDASARKAN PRESTASTI (SNBP)**](https://untirtaacid-my.sharepoint.com/:b:/g/personal/registrasi_untirta_ac_id/EVJU6k2bJItLinkq71wRC9YBnkFMjo8gy94ZxoFMMFHuZQ?e=9V59Fg)                        |
-| 3\.  | 2024  | [**SK PENETAPAN NIM SNBP**](https://untirtaacid-my.sharepoint.com/:b:/g/personal/registrasi_untirta_ac_id/EVJBIDIrPSxLqcQC5nBxqM8BxLOkWJZlLJRPocgy161j6Q?e=rltEjX)                                                                   |
-| 4\.  | 2024  | [**SK HASIL KELULUSAN SELEKSI NASIONAL BERBASIS TES (SNBT)**](https://untirtaacid-my.sharepoint.com/:b:/g/personal/registrasi_untirta_ac_id/EZHS3eVCBfJDtroACbdXnXcBJna8gWfPE5EgDClfp4wnVQ?e=s3hDfC)                                 |
-| 5\.  | 2024  | [**SK PENETAPAN NIM SNBT**](https://untirtaacid-my.sharepoint.com/:b:/g/personal/registrasi_untirta_ac_id/Ed9hyRDDTCdElYJ6sl1ev2sBle0xPFYfp-EgEqTJp7ouvA?e=LXlMM4)                                                                   |
-| 6\.  | 2024  | [**SK HASIL KELULUSAN SELEKSI MANDIRI PERGURUAN TINGGI NEGERI WILAYAH BARAT (SMMPTN BARAT)**](https://untirtaacid-my.sharepoint.com/:b:/g/personal/registrasi_untirta_ac_id/EdP3KvEtZAFJjFlucUPATpMB9QDRSHdbjVxKsZYVHP_T0w?e=aoJPoL) |
-| 7\.  | 2024  | **SK PENETAPAN NIM SMMPTN-BARAT**                                                                                                                                                                                                    |
-| 8\.  | 2024  | **SK HASIL KELULUSAN SELEKSI MANDIRI BERDASARKAN NILAI UTBK (SMBNU)**                                                                                                                                                                |
-| 9\.  | 2024  | **SK PENETAPAN NIM SMBNU**                                                                                                                                                                                                           |
-| 10\. | 2024  | [**SK HASIL UMM PASCASARJANA GEL. 1**](https://untirtaacid-my.sharepoint.com/:b:/g/personal/registrasi_untirta_ac_id/EYi7e1B2eHFAr29lTjmmhP0BjZpu4kS3msVNHs_MLdzpeA?e=Wav06v)                                                        |
-| 11\. | 2024  | **SK PENETAPAN NIM PASCASARJANA GEL. 1**                                                                                                                                                                                             |
-| 12\. | 2024  | [**SK HASIL UMM PASCASARJANA GEL. 2**](https://untirtaacid-my.sharepoint.com/:b:/g/personal/registrasi_untirta_ac_id/ET9uYvAI8-xPqAwubUmP6XcBL3bDZzzM56Dwhu0GlvxKUQ?e=lzZbDU)                                                        |
-| 14\. | 2024  | **SK HASIL UMM PASCASARJANA GEL. 3**                                                                                                                                                                                                 |
-| 15\. | 2024  | **SK PENETAPAN NIM PASCASARJANA GEL. 2 dan 3**                                                                                                                                                                                       |
-| 16\. | 2024  | **SK HASIL KELULUSAN UMM D3 DAN S1 ALIH JENJANG**                                                                                                                                                                                    |
-| 17\. | 2024  | **SK PENETAPAN NIM UMM D3 DAN ALIH JENJANG**                                                                                                                                                                                         |
-| 18\. | 2024  | **SK REKAPITULASI MABA 2024 (SNBP)**                                                                                                                                                                                                 |
+| No   | Tahun | Keterangan                                                                                                                                                                                                                           |     |
+|--------------|--------------|-------------------------------|--------------|
+| 1\.  | 2024  | [**SK DAYA TAMPUNG PENERIMAAN MAHASISWA BARU**](https://untirtaacid-my.sharepoint.com/:b:/g/personal/registrasi_untirta_ac_id/EeKMwGeTqZlHsIRMMOqMwowBfhHJwIvWFu1KcJ76XnoD8g?e=Su7CRM)                                               |     |
+|      | 2024  | [**SK PERUBAHAN DAYA TAMPUNG JALUR SNBT**](https://untirtaacid-my.sharepoint.com/:b:/g/personal/registrasi_untirta_ac_id/EfH7hjdAl55Bs63QRrxbk7QBSeu1Va3qEcM-0fmgGPaejw?e=2UxFpo)                                                    |     |
+| 2\.  | 2024  | [**SK HASIL KELULUSAN SELEKSI NASIONAL BERDASARKAN PRESTASTI (SNBP)**](https://untirtaacid-my.sharepoint.com/:b:/g/personal/registrasi_untirta_ac_id/EVJU6k2bJItLinkq71wRC9YBnkFMjo8gy94ZxoFMMFHuZQ?e=9V59Fg)                        |     |
+| 3\.  | 2024  | [**SK PENETAPAN NIM SNBP**](https://untirtaacid-my.sharepoint.com/:b:/g/personal/registrasi_untirta_ac_id/EVJBIDIrPSxLqcQC5nBxqM8BxLOkWJZlLJRPocgy161j6Q?e=rltEjX)                                                                   |     |
+| 4\.  | 2024  | [**SK HASIL KELULUSAN SELEKSI NASIONAL BERBASIS TES (SNBT)**](https://untirtaacid-my.sharepoint.com/:b:/g/personal/registrasi_untirta_ac_id/EZHS3eVCBfJDtroACbdXnXcBJna8gWfPE5EgDClfp4wnVQ?e=s3hDfC)                                 |     |
+| 5\.  | 2024  | [**SK PENETAPAN NIM SNBT**](https://untirtaacid-my.sharepoint.com/:b:/g/personal/registrasi_untirta_ac_id/Ed9hyRDDTCdElYJ6sl1ev2sBle0xPFYfp-EgEqTJp7ouvA?e=LXlMM4)                                                                   |     |
+| 6\.  | 2024  | [**SK HASIL KELULUSAN SELEKSI MANDIRI PERGURUAN TINGGI NEGERI WILAYAH BARAT (SMMPTN BARAT)**](https://untirtaacid-my.sharepoint.com/:b:/g/personal/registrasi_untirta_ac_id/EdP3KvEtZAFJjFlucUPATpMB9QDRSHdbjVxKsZYVHP_T0w?e=aoJPoL) |     |
+| 7\.  | 2024  | **SK PENETAPAN NIM SMMPTN-BARAT**                                                                                                                                                                                                    |     |
+| 8\.  | 2024  | [**SK HASIL KELULUSAN SELEKSI MANDIRI BERDASARKAN NILAI UTBK (SMBNU)**](https://untirtaacid-my.sharepoint.com/:b:/g/personal/registrasi_untirta_ac_id/EeffK_XKUqRErx2k3FrGSF4BrHVPAdlM_08qyUhixGSD0Q?e=zp7amq)                       |     |
+| 9\.  | 2024  | **SK PENETAPAN NIM SMBNU**                                                                                                                                                                                                           |     |
+| 10\. | 2024  | [**SK HASIL UMM PASCASARJANA GEL. 1**](https://untirtaacid-my.sharepoint.com/:b:/g/personal/registrasi_untirta_ac_id/EYi7e1B2eHFAr29lTjmmhP0BjZpu4kS3msVNHs_MLdzpeA?e=Wav06v)                                                        |     |
+| 11\. | 2024  | **SK PENETAPAN NIM PASCASARJANA GEL. 1**                                                                                                                                                                                             |     |
+| 12\. | 2024  | [**SK HASIL UMM PASCASARJANA GEL. 2**](https://untirtaacid-my.sharepoint.com/:b:/g/personal/registrasi_untirta_ac_id/ET9uYvAI8-xPqAwubUmP6XcBL3bDZzzM56Dwhu0GlvxKUQ?e=lzZbDU)                                                        |     |
+| 14\. | 2024  | **SK HASIL UMM PASCASARJANA GEL. 3**                                                                                                                                                                                                 |     |
+| 15\. | 2024  | **SK PENETAPAN NIM PASCASARJANA GEL. 2 dan 3**                                                                                                                                                                                       |     |
+| 16\. | 2024  | [**SK HASIL KELULUSAN UMM D3 DAN S1 ALIH JENJANG**](https://untirtaacid-my.sharepoint.com/:b:/g/personal/registrasi_untirta_ac_id/EUR5VXJt-7FItWy4Gl0oTpABEWpgs1NM_U4_lgzdTu2QOg?e=dV2z2P)                                           |     |
+| 17\. |       | **SK PENETAPAN NIM UMM D3 DAN ALIH JENJANG**                                                                                                                                                                                         |     |
+| 18\. | 2024  | [**SK PENETAPAN KELULUSAN JALUR SMBNT**](https://untirtaacid-my.sharepoint.com/:b:/g/personal/registrasi_untirta_ac_id/ETRJugzuSABFhWn6gK80QToBYvDG6QAgSsTbO72gJ2lpTA?e=SfNaQQ)                                                      |     |
+| 19\. | 2024  | SK PENETAPAN NIM JALUR SMBNT                                                                                                                                                                                                         |     |
+| 20\. | 2024  | [**SK PENETAPAN KELULUSAN JALUR INSENTIF DOSEN**](https://untirtaacid-my.sharepoint.com/:b:/g/personal/registrasi_untirta_ac_id/ETCcHxcks_1NgMcKo0ABtx4BoS6GHgKES9D-n9tTINz7og?e=IKmvY7)                                             |     |
+| 21\. | 2024  | SK PENETAPAN NIM JALUR INSENTIF DOSEN                                                                                                                                                                                                |     |
+| 22\. | 2024  | [**SK PENETAPAN KELULUSAN JALUR INSINYUR**](https://untirtaacid-my.sharepoint.com/:b:/g/personal/registrasi_untirta_ac_id/Eb4KKAkjFJlMvZK2EoN1VpsBDfm04vnkGdG39ZFwMuXCOg?e=zR69kf)                                                   |     |
+| 23\. | 2024  | SK PENETAPAN NIM JALUR INSINYUR                                                                                                                                                                                                      |     |
+| 24\. | 2024  | **SK REKAPITULASI MABA 2024 (SNBP)**                                                                                                                                                                                                 |     |
 
 ## 2023
 
 | No   | Tahun | Keterangan                                                                                                                                                                        |
-|-----------------|-----------------|---------------------------------------|
+|------------------|------------------|------------------------------------|
 | 1\.  | 2023  | [**SK DAYA TAMPUNG PENERIMAAN MAHASISWA BARU**](https://drive.google.com/file/d/17ZDIsC0gvzZTbM-iNGBu7tWzb7duxUkz/view?usp=share_link)                                            |
 | 2\.  | 2023  | [**SK HASIL KELULUSAN SELEKSI NASIONAL BERDASARKAN PRESTASTI (SNBP)**](https://drive.google.com/file/d/1pxcpL96o-TN8EQ1YNPtdsB3XMpFSxtxH/view?usp=share_link)                     |
 | 3\.  | 2023  | [**SK PENETAPAN NIM SNBP**](https://drive.google.com/file/d/1tg_Bn4FZ17S3CYp9VJJ5_cE_cYtr7NDO/view?usp=sharing)                                                                   |
@@ -53,7 +59,7 @@ title: Download
 ## 2022
 
 | No   | Tahun | Keterangan                                                                                                                                                                                 |
-|-----------------|-----------------|---------------------------------------|
+|------------------|------------------|------------------------------------|
 | 1    | 2022  | [**SK DAYA TAMPUNG PENERIMAAN MAHASISWA (Rev.02)**](https://untirtaacid-my.sharepoint.com/:b:/g/personal/registrasi_untirta_ac_id/EdS8UC3MBydPnN_x8lK6DXMBRQYvvDnMasjJmpImqymruw?e=ehW5E3) |
 | 2\.  | 2022  | [**SK PENETAPAN HASIL SNMPTN**](https://drive.google.com/file/d/1hpMILcu1EHzqrkLfOiiME89UzAXyLa8U/view?usp=sharing)                                                                        |
 | 3\.  | 2022  | [**SK PENETAPAN NIM SNMPTN**](https://drive.google.com/file/d/1EAJV7j8Pchf3W5ba-4_mEmns4VHK4d7X/view?usp=sharing)                                                                          |
@@ -74,7 +80,7 @@ title: Download
 ## 2021
 
 | No  | Tahun | Keterangan                                                                                                                                                                             |
-|-----------------|-----------------|---------------------------------------|
+|------------------|------------------|------------------------------------|
 | 1   | 2021  | [**SK DAYA TAMPUNG PENERIMAAN MAHASISWA BARU**](https://untirtaacid-my.sharepoint.com/:b:/g/personal/registrasi_untirta_ac_id/EUVy794azI5Aie065TI5EUEB5uUyOHY-Jq1GXv-wiGFO1w?e=tQYfCA) |
 | 2   | 2021  | [**SK HASIL SNMPTN**](https://drive.google.com/file/d/1gZ78dCnISrTGLe7aS93yaCLOviFCoI_B/view?usp=sharing "SK HASIL SNMPTN")                                                            |
 | 3   | 2021  | [**SK PENETAPAN NIM SNMPTN**](https://drive.google.com/file/d/1Iwmi1fL6KpHUQWtEw5K3M9oC6YDcwnR0/view?usp=sharing "SK PENETAPAN NIM SNMPTN")                                            |
@@ -89,7 +95,7 @@ title: Download
 ## **2020**
 
 | No  | Tahun | Keterangan                                                                                                                                                                                                                         |
-|----------------|----------------|---------------------------------------|
+|------------------|------------------|-------------------------------------|
 | 1   | 2020  | [**SK DAYA TAMPUNG PENERIMAAN MAHASISWA BARU**](https://untirtaacid-my.sharepoint.com/:b:/g/personal/registrasi_untirta_ac_id/EZ7C738_0BNDmC1_liDOptABfDh8nYQFlYJgyZtoOsu1Ow?e=qXd8fY "SK DAYA TAMPUNG PENERIMAAN MAHASISWA BARU") |
 | 2   | 2020  | [**SK HASIL SNMPTN**](https://drive.google.com/file/d/1_rwzyvZeD8KKkmn4WKRJcDnv3wYp7RHY/view?usp=sharing)                                                                                                                          |
 | 3   | 2020  | [**SK PENETAPAN NIM SNMPTN**](https://drive.google.com/file/d/1zXgfvr6WzToKRT8Ftbe2AjhbWe4VpmSr/view?usp=sharing "SK PENETAPAN NIM SNMPTN")                                                                                        |
@@ -104,7 +110,7 @@ title: Download
 ## **2019**
 
 | No  | Tahun | Keterangan                                                                                                                                                                                                                         |
-|----------------|----------------|---------------------------------------|
+|------------------|------------------|-------------------------------------|
 | 1   | 2019  | [**SK DAYA TAMPUNG PENERIMAAN MAHASISWA BARU**](https://untirtaacid-my.sharepoint.com/:b:/g/personal/registrasi_untirta_ac_id/EZ-FKyrSiExJvbPO3ds0TQkB6_LaWwvr-X2tXdFN1bDdvQ?e=9Dd0dN "SK DAYA TAMPUNG PENERIMAAN MAHASISWA BARU") |
 | 2   | 2019  | [**SK HASIL PENGUMUMAN SNMPTN**](https://drive.google.com/file/d/1O28j64PqLOJUi8ISRiTf2JJ1qAibskEB/view?usp=sharing)                                                                                                               |
 | 3   | 2019  | [**SK PENETAPAN NIM SNMPTN**](https://drive.google.com/file/d/0B4KY1MhkjLm8SlNTa3FiRDJUY1VOb1B2Z1VPSmFuckMxeDNv/view?usp=sharing&resourcekey=0-rKXR73bXonAkBj5_pZGx2w "SK PENETAPAN NIM SNMPTN")                                   |
@@ -118,7 +124,7 @@ title: Download
 ## 2018
 
 | No  | Tahun | Keterangan                                                                                                                                                                    |
-|-----------------|-----------------|---------------------------------------|
+|------------------|------------------|------------------------------------|
 | 1   | 2018  | [**SK DAYA TAMPUNG PENERIMAAN MAHASISWA BARU**](https://drive.google.com/file/d/1NeZl55Opti_E_fQJBpV599XyDywt17DD/view?usp=sharing)                                           |
 | 2   | 2018  | [**SK PENETAPAN NIM SNMPTN**](https://drive.google.com/file/d/1rFrGOJrHBspw0dnJNxE4jyPgl4XPF1LA/view?usp=sharing)                                                             |
 | 3   | 2019  | [**SK PENETAPAN NIM SBMPTN**](https://drive.google.com/file/d/1E212Pz6HgJ_58nWJ_fGYFYQibXhh4dqt/view?usp=sharing)                                                             |
@@ -130,6 +136,6 @@ title: Download
 ## 2017
 
 | No  | Tahun | Keterangan                                                                                                                                                                    |
-|-----------------|-----------------|---------------------------------------|
+|------------------|------------------|------------------------------------|
 | 1   | 2017  | [**SK DAYA TAMPUNG PENERIMAAN MAHASISWA BARU**](https://drive.google.com/file/d/10Za2awbPbGrQ08HElhFGTOh5D9RMcss4/view?usp=sharing)                                           |
 | 2   | 2017  | [**REKAPITULASI MAHASISWA BARU 2017**](https://untirtaacid-my.sharepoint.com/:b:/g/personal/registrasi_untirta_ac_id/Ee8bFH8d6P9KjwBkMcibwbEBuecBY7B_UD2MDEJi0ABSbw?e=Tbjq7T) |
