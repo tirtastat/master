@@ -68,7 +68,7 @@ Berikut adalah berkas-berkas yang harus disiapkan :
 
 Pendaftaran penyesuaian UKT 50% dilakukan dengan mengisi formulir berikut **menggunakan akun email Untirta pendaftar** dari tanggal **yang** **akan diinfokan kemudian.**
 
-[![](images/daftar.jpg){target="_blank" width="90"}](https://docs.google.com/forms/d/e/1FAIpQLSeFU9W5ZbN3Wl2HIbTerd7BUt1K3b1YoQbpRpoOHBh0Tp06Sw/viewform)
+![](images/daftar.jpg){target="_blank" width="90"}
 
 ### **2. Penyesuaian UKT Kelompok Yatim dan Yatim Piatu**
 
@@ -86,7 +86,7 @@ Berikut adalah berkas-berkas yang harus disiapkan:
 
 Pendaftaran penyesuaian UKT Kelompok Yatim dan Yatim Piatu dilakukan dengan mengisi formulir berikut **menggunakan akun email Untirta pendaftar** dari tanggal **28 November -- 02 Desember 2024 pukul 16.00 WIB**.
 
-[![](images/daftar.jpg){target="_blank" width="90"}](https://docs.google.com/forms/d/e/1FAIpQLSeFU9W5ZbN3Wl2HIbTerd7BUt1K3b1YoQbpRpoOHBh0Tp06Sw/viewform)
+[![](images/daftar.jpg){target="_blank" width="90"}](https://docs.google.com/forms/d/e/1FAIpQLScsfKgKxOCZEMrG_xkhOuZ4CIz_3EnbLmMSQYlVLWwhcgz70Q/viewform)
 
 ### **3. Penyesuaian UKT (PHK/Pensiun/Sakit Permanen)**
 
@@ -107,7 +107,7 @@ c.  Persyaratan khusus dalam format PDF (**pilih salah satu**):
 
 Pendaftaran dapat dilakukan dengan mengisi formulir berikut **menggunakan akun email Untirta pendaftar** dari tanggal **28 November -- 02 Desember 2024 pukul 16.00 WIB.**
 
-[![](images/daftar.jpg){target="_blank" width="90"}](https://docs.google.com/forms/d/e/1FAIpQLSeFU9W5ZbN3Wl2HIbTerd7BUt1K3b1YoQbpRpoOHBh0Tp06Sw/viewform)
+[![](images/daftar.jpg){target="_blank" width="90"}](https://docs.google.com/forms/d/e/1FAIpQLScsfKgKxOCZEMrG_xkhOuZ4CIz_3EnbLmMSQYlVLWwhcgz70Q/viewform)
 
 <br><br>
 
@@ -123,7 +123,7 @@ Informasi Hasil Verifikasi Penyesuaian UKT oleh Sub. PNBP akan disampaikan melal
 
 <br><br><br>
 
-```{r message=FALSE, warning=FALSE, include=FALSE}
+```{r eval=FALSE, message=FALSE, warning=FALSE, include=FALSE}
 # sampai dengan r format(Sys.time(), "%d %B %Y") pukul r format(Sys.time(), "%X") 
 library(janitor)
 library(dplyr)
@@ -168,7 +168,7 @@ names(pendaftar) <- c("TANGGAL DAFTAR","NIM", "NAMA", "FAKULTAS", "PROGRAM STUDI
 
 **Berikut adalah Rekapitulasi Pendaftar Penyesuaian UKT Berdasarkan Jenis Ajuan**
 
-```{r echo=FALSE}
+```{r eval=FALSE, include=FALSE}
 # sampai dengan r format(Sys.time(), "%d %B %Y") pukul r format(Sys.time(), "%X")
 kable(rekap_ajuan) %>%
   kable_styling(bootstrap_options = "striped",
@@ -177,7 +177,7 @@ kable(rekap_ajuan) %>%
 
 **Rekapitulasi Pendaftar Penyesuaian UKT Berdasarkan Fakultas**
 
-```{r echo=FALSE}
+```{r eval=FALSE, include=FALSE}
 
 kable(rekap_fakultas) %>%
   kable_styling(bootstrap_options = "striped",
@@ -186,7 +186,7 @@ kable(rekap_fakultas) %>%
 
 **Rekapitulasi Pendaftar Penyesuaian UKT Berdasarkan Program Studi**
 
-```{r echo=FALSE}
+```{r eval=FALSE, include=FALSE}
 
 kable(rekap_prodi) %>%
   kable_styling(bootstrap_options = "striped",
@@ -195,7 +195,7 @@ kable(rekap_prodi) %>%
 
 **Berikut adalah nama-nama pendaftar penyesuaian UKT**
 
-```{r echo=FALSE}
+```{r eval=FALSE, include=FALSE}
 #sampai dengan r format(Sys.time(), "%d %B %Y") pukul r format(Sys.time(), "%X")
 DT::datatable(pendaftar, rownames = F)
 ```
