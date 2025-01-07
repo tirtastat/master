@@ -68,7 +68,7 @@ Berikut adalah berkas-berkas yang harus disiapkan :
 
 Pendaftaran penyesuaian UKT 50% dilakukan dengan mengisi formulir berikut **menggunakan akun email Untirta pendaftar** dari tanggal **07 s.d 09 Januari 2025**
 
-![](images/daftar.jpg){target="_blank" width="90"}
+[![](images/daftar.jpg){target="_blank" width="90"}](https://docs.google.com/forms/d/e/1FAIpQLScsfKgKxOCZEMrG_xkhOuZ4CIz_3EnbLmMSQYlVLWwhcgz70Q/viewform)
 
 ### **2. Penyesuaian UKT Kelompok Yatim dan Yatim Piatu**
 
