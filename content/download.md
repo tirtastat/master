@@ -8,7 +8,7 @@ title: Download
 ## 2024
 
 | No   | Tahun | Keterangan                                                                                                                                                                                                                           |     |
-|-------|-------|----------------------------------------------------|-------|
+|-------------|-------------|-----------------------------------|-------------|
 | 1\.  | 2024  | [**SK DAYA TAMPUNG PENERIMAAN MAHASISWA BARU**](https://untirtaacid-my.sharepoint.com/:b:/g/personal/registrasi_untirta_ac_id/EeKMwGeTqZlHsIRMMOqMwowBfhHJwIvWFu1KcJ76XnoD8g?e=Su7CRM)                                               |     |
 |      | 2024  | [**SK PERUBAHAN DAYA TAMPUNG JALUR SNBT**](https://untirtaacid-my.sharepoint.com/:b:/g/personal/registrasi_untirta_ac_id/EfH7hjdAl55Bs63QRrxbk7QBSeu1Va3qEcM-0fmgGPaejw?e=2UxFpo)                                                    |     |
 | 2\.  | 2024  | [**SK HASIL KELULUSAN SELEKSI NASIONAL BERDASARKAN PRESTASTI (SNBP)**](https://untirtaacid-my.sharepoint.com/:b:/g/personal/registrasi_untirta_ac_id/EVJU6k2bJItLinkq71wRC9YBnkFMjo8gy94ZxoFMMFHuZQ?e=9V59Fg)                        |     |
@@ -37,7 +37,7 @@ title: Download
 ## 2023
 
 | No   | Tahun | Keterangan                                                                                                                                                                        |
-|---------|---------|-------------------------------------------------------|
+|---------------|---------------|------------------------------------------|
 | 1\.  | 2023  | [**SK DAYA TAMPUNG PENERIMAAN MAHASISWA BARU**](https://drive.google.com/file/d/17ZDIsC0gvzZTbM-iNGBu7tWzb7duxUkz/view?usp=share_link)                                            |
 | 2\.  | 2023  | [**SK HASIL KELULUSAN SELEKSI NASIONAL BERDASARKAN PRESTASTI (SNBP)**](https://drive.google.com/file/d/1pxcpL96o-TN8EQ1YNPtdsB3XMpFSxtxH/view?usp=share_link)                     |
 | 3\.  | 2023  | [**SK PENETAPAN NIM SNBP**](https://drive.google.com/file/d/1tg_Bn4FZ17S3CYp9VJJ5_cE_cYtr7NDO/view?usp=sharing)                                                                   |
@@ -59,7 +59,7 @@ title: Download
 ## 2022
 
 | No   | Tahun | Keterangan                                                                                                                                                                                 |
-|---------|---------|-------------------------------------------------------|
+|----------|---------|-----------------------------------------------|
 | 1    | 2022  | [**SK DAYA TAMPUNG PENERIMAAN MAHASISWA (Rev.02)**](https://untirtaacid-my.sharepoint.com/:b:/g/personal/registrasi_untirta_ac_id/EdS8UC3MBydPnN_x8lK6DXMBRQYvvDnMasjJmpImqymruw?e=ehW5E3) |
 | 2\.  | 2022  | [**SK PENETAPAN HASIL SNMPTN**](https://drive.google.com/file/d/1hpMILcu1EHzqrkLfOiiME89UzAXyLa8U/view?usp=sharing)                                                                        |
 | 3\.  | 2022  | [**SK PENETAPAN NIM SNMPTN**](https://drive.google.com/file/d/1EAJV7j8Pchf3W5ba-4_mEmns4VHK4d7X/view?usp=sharing)                                                                          |
@@ -76,11 +76,12 @@ title: Download
 | 14\. | 2022  | [**SK PENETAPAN HASIL SMMPTN**](https://drive.google.com/file/d/1VVXv3hKdeqeps_FMWfxUsocscPZnAL_9/view?usp=sharing)                                                                        |
 | 15\. | 2022  | [**SK PENETAPAN HASIL JALUR PRESTASI**](https://drive.google.com/file/d/1V_QEZsKrhwFZL2trXHWFJIWt7nE8LGwS/view?usp=sharing)                                                                |
 | 16\. | 2022  | [**SK PENETAPAN NIM SMMPTN & JALUR PRESTASI**](https://drive.google.com/file/d/1UsdMZ2Dx5feimt7j_QozKjAUoWz5Q-fC/view?usp=sharing)                                                         |
+| 17   | 2022  | [**REKAPITULASI MABA 2022**](https://drive.google.com/file/d/1W6HIybRdw4xa7l5nUrZk_VSZ7xPvbmEH/view?usp=sharing)                                                                           |
 
 ## 2021
 
 | No  | Tahun | Keterangan                                                                                                                                                                             |
-|---------|---------|-------------------------------------------------------|
+|---------------|---------------|------------------------------------------|
 | 1   | 2021  | [**SK DAYA TAMPUNG PENERIMAAN MAHASISWA BARU**](https://untirtaacid-my.sharepoint.com/:b:/g/personal/registrasi_untirta_ac_id/EUVy794azI5Aie065TI5EUEB5uUyOHY-Jq1GXv-wiGFO1w?e=tQYfCA) |
 | 2   | 2021  | [**SK HASIL SNMPTN**](https://drive.google.com/file/d/1gZ78dCnISrTGLe7aS93yaCLOviFCoI_B/view?usp=sharing "SK HASIL SNMPTN")                                                            |
 | 3   | 2021  | [**SK PENETAPAN NIM SNMPTN**](https://drive.google.com/file/d/1Iwmi1fL6KpHUQWtEw5K3M9oC6YDcwnR0/view?usp=sharing "SK PENETAPAN NIM SNMPTN")                                            |
@@ -91,11 +92,12 @@ title: Download
 | 8   | 2021  | [**SK HASIL D3 ALIH JENJANG**](https://drive.google.com/file/d/1L7o8lbDz0GpGDdEheO9nkTZKBZ03gpPE/view?usp=sharing)                                                                     |
 | 9   | 2021  | [**SK PENETAPAN NIM D3 ALIH JENJANG**](https://drive.google.com/file/d/15n43bbauQcB0DprnMrMvVXQyefY_OuyJ/view?usp=sharing)                                                             |
 | 10  | 2021  | [**SK PENETAPAN NIM PASCASARJANA**](https://drive.google.com/file/d/15nctmlic6hpZHSLcxNSRY36R1WlKDRWr/view?usp=sharing)                                                                |
+| 11  | 2021  | [**REKAPITULASI MABA 2021**](https://untirtaacid-my.sharepoint.com/:b:/g/personal/registrasi_untirta_ac_id/EdC2BS5cexFDsnBK0l_UuWQBcpLvmiDU8LZ1yMsawNaP7w?e=UVIphE)                    |
 
 ## **2020**
 
 | No  | Tahun | Keterangan                                                                                                                                                                                                                         |
-|--------|--------|--------------------------------------------------------|
+|---------------|---------------|-------------------------------------------|
 | 1   | 2020  | [**SK DAYA TAMPUNG PENERIMAAN MAHASISWA BARU**](https://untirtaacid-my.sharepoint.com/:b:/g/personal/registrasi_untirta_ac_id/EZ7C738_0BNDmC1_liDOptABfDh8nYQFlYJgyZtoOsu1Ow?e=qXd8fY "SK DAYA TAMPUNG PENERIMAAN MAHASISWA BARU") |
 | 2   | 2020  | [**SK HASIL SNMPTN**](https://drive.google.com/file/d/1_rwzyvZeD8KKkmn4WKRJcDnv3wYp7RHY/view?usp=sharing)                                                                                                                          |
 | 3   | 2020  | [**SK PENETAPAN NIM SNMPTN**](https://drive.google.com/file/d/1zXgfvr6WzToKRT8Ftbe2AjhbWe4VpmSr/view?usp=sharing "SK PENETAPAN NIM SNMPTN")                                                                                        |
@@ -106,11 +108,12 @@ title: Download
 | 8   | 2020  | [**SK HASIL UMM D3 ALIH JENJANG**](https://drive.google.com/file/d/1Pwu9Bj1Pfq1MmRY6UIfP4eQAXd0u3CIr/view?usp=sharing)                                                                                                             |
 | 9   | 2020  | [**SK PENETAPAN NIM UMM D3 DAN ALIH JENJANG S1**](https://drive.google.com/file/d/10_o2nF4w4tllsXBDc9ZOjjS_C_16-CwX/view?usp=sharing "SK PENETAPAN NIM UMM D3 DAN ALIH JENJANG S1")                                                |
 | 10  | 2020  | [**SK PENETAPAN NIM ADIK**](https://drive.google.com/file/d/10_Tr9LkkAVasp2ivbkbgIAEDj_dbm3Hp/view?usp=sharing "SK PENETAPAN NIM ADIK")                                                                                            |
+| 11  | 2020  | [**REKAPITULASI MABA 2020**](https://untirtaacid-my.sharepoint.com/:b:/g/personal/registrasi_untirta_ac_id/ES5kWSqrbP9Mnn2u9tmnnFwB4cvl_aNudY1FmLzbGAKw6A?e=Px3lKp)                                                                |
 
 ## **2019**
 
 | No  | Tahun | Keterangan                                                                                                                                                                                                                         |
-|--------|--------|--------------------------------------------------------|
+|---------------|---------------|-------------------------------------------|
 | 1   | 2019  | [**SK DAYA TAMPUNG PENERIMAAN MAHASISWA BARU**](https://untirtaacid-my.sharepoint.com/:b:/g/personal/registrasi_untirta_ac_id/EZ-FKyrSiExJvbPO3ds0TQkB6_LaWwvr-X2tXdFN1bDdvQ?e=9Dd0dN "SK DAYA TAMPUNG PENERIMAAN MAHASISWA BARU") |
 | 2   | 2019  | [**SK HASIL PENGUMUMAN SNMPTN**](https://drive.google.com/file/d/1O28j64PqLOJUi8ISRiTf2JJ1qAibskEB/view?usp=sharing)                                                                                                               |
 | 3   | 2019  | [**SK PENETAPAN NIM SNMPTN**](https://drive.google.com/file/d/0B4KY1MhkjLm8SlNTa3FiRDJUY1VOb1B2Z1VPSmFuckMxeDNv/view?usp=sharing&resourcekey=0-rKXR73bXonAkBj5_pZGx2w "SK PENETAPAN NIM SNMPTN")                                   |
@@ -120,11 +123,12 @@ title: Download
 | 7   | 2019  | [**SK PENETAPAN NIM SMMPTN**](https://drive.google.com/file/d/1Pj4dbs6EF2W3DzU-78g0PdhR6Ti--dgV/view?usp=sharing "SK PENETAPAN NIM SMMPTN")                                                                                        |
 | 8   | 2019  | [**SK PENETAPAN NIM UMM D3 DAN ALIH JENJANG S1**](https://drive.google.com/file/d/15QHezmTCTIIcC4AQw6zZlIuz9QWSvjra/view?usp=sharing "SK PENETAPAN NIM UMM D3 DAN ALIH JENJANG S1")                                                |
 | 9   | 2019  | **SK PENETAPAN NIM ADIK**                                                                                                                                                                                                          |
+| 10  | 2019  | [**REKAPITULASI MABA 2019**](https://untirtaacid-my.sharepoint.com/:b:/g/personal/registrasi_untirta_ac_id/EVtWHlLbHtFFpWUprxi7-f4BU8TptF8J6xZvzacjQeRDXw?e=xobySR)                                                                |
 
 ## 2018
 
 | No  | Tahun | Keterangan                                                                                                                                                                    |
-|---------|---------|-------------------------------------------------------|
+|---------------|---------------|------------------------------------------|
 | 1   | 2018  | [**SK DAYA TAMPUNG PENERIMAAN MAHASISWA BARU**](https://drive.google.com/file/d/1NeZl55Opti_E_fQJBpV599XyDywt17DD/view?usp=sharing)                                           |
 | 2   | 2018  | [**SK PENETAPAN NIM SNMPTN**](https://drive.google.com/file/d/1rFrGOJrHBspw0dnJNxE4jyPgl4XPF1LA/view?usp=sharing)                                                             |
 | 3   | 2019  | [**SK PENETAPAN NIM SBMPTN**](https://drive.google.com/file/d/1E212Pz6HgJ_58nWJ_fGYFYQibXhh4dqt/view?usp=sharing)                                                             |
@@ -136,6 +140,6 @@ title: Download
 ## 2017
 
 | No  | Tahun | Keterangan                                                                                                                                                                    |
-|---------|---------|-------------------------------------------------------|
+|---------------|---------------|------------------------------------------|
 | 1   | 2017  | [**SK DAYA TAMPUNG PENERIMAAN MAHASISWA BARU**](https://drive.google.com/file/d/10Za2awbPbGrQ08HElhFGTOh5D9RMcss4/view?usp=sharing)                                           |
 | 2   | 2017  | [**REKAPITULASI MAHASISWA BARU 2017**](https://untirtaacid-my.sharepoint.com/:b:/g/personal/registrasi_untirta_ac_id/Ee8bFH8d6P9KjwBkMcibwbEBuecBY7B_UD2MDEJi0ABSbw?e=Tbjq7T) |
