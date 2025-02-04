@@ -46,7 +46,7 @@ Sebelum melakukan pendaftaran penangguhan UKT, mahasiswa diharapkan mencermati d
 
     4.  Pembatalan KRS dan status registrasi bagi yang tidak **melakukan pembayaran UKT Penangguhan** : **05 April 2025**
 
-Demikian informasi yang harus dipatuhi dan dilaksanakan oleh mahasiswa yang ingin mengajukan penangguhan UKT semester genap 2024/2025. **Pendaftaran akan dibuka tanggal 05 - 07 Februari 2025 Pukul 16:00 WIB.**
+Demikian informasi yang harus dipatuhi dan dilaksanakan oleh mahasiswa yang ingin mengajukan penangguhan UKT semester genap 2024/2025. **Pendaftaran akan dibuka tanggal 05 - 06 Februari 2025 Pukul 16:00 WIB.**
 
 Berikut adalah link pendaftaran penangguhan pembayaran UKT genap 2024-2025
 
