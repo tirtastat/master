@@ -36,7 +36,7 @@ Sebelum melakukan pendaftaran penangguhan UKT, mahasiswa diharapkan mencermati d
 
 -   Berikut adalah alur penangguhan pembayaran UKT.
 
-    1.  Pendaftaran : **05 - 07 Februari 2025 (ditutup pukul 16.00)**
+    1.  Pendaftaran : **05 - 06 Februari 2025 (ditutup pukul 16.00)**
 
     2.  KRS *online* : **08 - 10 Februari 2025**
 
