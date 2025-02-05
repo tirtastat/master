@@ -42,7 +42,7 @@ Sebelum melakukan pendaftaran penangguhan UKT, mahasiswa diharapkan mencermati d
 
         \**mahasiswa yang sudah terdaftar bisa langsung mengisi **KRS Online** sesuai jadwal.*
 
-    3.  **Pembayaran UKT Penangguhan**: **24 Maret - 05 April 2025**
+    3.  **Pembayaran UKT Penangguhan**: **24 Maret - 04 April 2025**
 
     4.  Pembatalan KRS dan status registrasi bagi yang tidak **melakukan pembayaran UKT Penangguhan** : **05 April 2025**
 
