@@ -48,7 +48,7 @@ Sebelum melakukan pendaftaran penangguhan UKT, mahasiswa diharapkan mencermati d
 
 Demikian informasi yang harus dipatuhi dan dilaksanakan oleh mahasiswa yang ingin mengajukan penangguhan UKT semester genap 2024/2025. **Pendaftaran akan dibuka tanggal 05 - 06 Februari 2025 Pukul 16:00 WIB.**
 
-Berikut adalah link pendaftaran penangguhan pembayaran UKT genap 2024-2025
+Berikut adalah link pendaftaran penangguhan pembayaran UKT genap 2024-2025 (login menggunanan email \@untirta.ac.id untuk angkatan 2023 dan sebelumnya dan akun Microsoft 365 untuk angkatan 2024)
 
 1.  [**Angkatan 2023 dan sebelumnya**](https://forms.gle/SPm9nUzbbV1B6VnP6)
 2.  [**Angkatan 2024**](https://forms.office.com/r/JdEktYK4z3)
