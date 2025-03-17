@@ -1,8 +1,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <url>
+      <loc>/categories/</loc>
+      <lastmod>2025-03-17T00:00:00+00:00</lastmod>
+    </url>
+    
+    <url>
       <loc>/</loc>
-      <lastmod>2025-02-04T00:00:00+00:00</lastmod>
+      <lastmod>2025-03-17T00:00:00+00:00</lastmod>
+    </url>
+    
+    <url>
+      <loc>/post/2025-03-17-panduan-registrasi-ulang-snbp-2025/</loc>
+      <lastmod>2025-03-17T00:00:00+00:00</lastmod>
+    </url>
+    
+    <url>
+      <loc>/post/</loc>
+      <lastmod>2025-03-17T00:00:00+00:00</lastmod>
+    </url>
+    
+    <url>
+      <loc>/categories/registrasi/</loc>
+      <lastmod>2025-03-17T00:00:00+00:00</lastmod>
     </url>
     
     <url>
@@ -12,11 +32,6 @@
     
     <url>
       <loc>/post/2025-02-04-penangguhan-pembayaran-ukt-genap-2024-2025/</loc>
-      <lastmod>2025-02-04T00:00:00+00:00</lastmod>
-    </url>
-    
-    <url>
-      <loc>/post/</loc>
       <lastmod>2025-02-04T00:00:00+00:00</lastmod>
     </url>
     
@@ -293,9 +308,5 @@
     <url>
       <loc>/about/</loc>
       <lastmod>2014-04-09T00:00:00+00:00</lastmod>
-    </url>
-    
-    <url>
-      <loc>/categories/</loc>
     </url>
     </urlset>
