@@ -26,7 +26,8 @@ Adapun dokumen-dokumen yang harus diunggah:
 9.  SPPT Pajak Bumi Bangunan (yang memuat luas tanah dan bangunan)
 10. Slip Gaji Ayah (terbaru tahun 2025)
 11. Slip Gaji Ibu (terbaru tahun 2025)
-12. **Surat Keterangan Penghasilan bagi yang bekerja tidak ada slip gajinya (wiraswasta, buruh, petani dll).** (**download**)
+12. **Surat Keterangan Penghasilan bagi yang bekerja tidak ada slip gajinya (wiraswasta, buruh, petani dll).** ([**download**](https://untirtaacid-my.sharepoint.com/:b:/g/personal/registrasi_untirta_ac_id/EY2BBBlRwPpMnSGZBHEhmZgBVC_1TqOXp_4gjT2uDakRqw?e=JJbMJS))
 13. Jika Ibu tidak bekerja upload Surat Keterangan tidak bekerja / Ibu Rumah Tangga dari Kelurahan di bagian Slip Gaji Ibu.
 14. **Foto Rumah, tampak Full depan, samping, belakang, rumah tamu, ruang keluarga, kamar tidur, dapur, kamar mandi.**
-15. Pembayaran Uang Kuliah Tunggal (UKT) mulai **tanggal 10 s.d 19 April 2025**
+
+Pembayaran Uang Kuliah Tunggal (UKT) mulai **tanggal 10 s.d 19 April 2025**
