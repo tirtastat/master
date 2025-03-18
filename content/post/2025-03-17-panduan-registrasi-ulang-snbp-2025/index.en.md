@@ -17,9 +17,9 @@ Adapun dokumen-dokumen yang harus diunggah:
 
 1.  Foto
 2.  Kartu Tanda Peserta SNBP
-3.  Fakta Integritas (**download**)
-4.  Surat Pernyataan Mematuhi Peraturan (**download**)
-5.  Surat Pernyataan Kesanggupan Membayar Biaya Pendidikan (**download**)
+3.  Fakta Integritas ([**download**](https://untirtaacid-my.sharepoint.com/:b:/g/personal/registrasi_untirta_ac_id/EWRuJDQzD85Omqr71andAoUBBydTySyhhiqf8ZCA35uYXA?e=Rvge73))
+4.  Surat Pernyataan Mematuhi Peraturan ([**download**](https://untirtaacid-my.sharepoint.com/:b:/g/personal/registrasi_untirta_ac_id/EbdSAc5oVN5NoLt8rYL5IYIBYvYQs-krkXRTuuLEBZKoJw?e=b1Nkxy))
+5.  Surat Pernyataan Kesanggupan Membayar Biaya Pendidikan ([**download**](https://untirtaacid-my.sharepoint.com/:b:/g/personal/registrasi_untirta_ac_id/EaU0bK5YknJLrbJPOvsABKcBxRrIMrAPx0bOtFLKvIZuIg?e=mo4F10))
 6.  Akta Kelahiran
 7.  Kartu Keluarga yang berlaku
 8.  Bukti Pembayaran Listrik / Bukti Pembelian Token
