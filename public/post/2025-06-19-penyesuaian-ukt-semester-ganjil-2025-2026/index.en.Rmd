@@ -88,7 +88,7 @@ Pendaftaran penyesuaian UKT Kelompok Yatim dan Yatim Piatu dilakukan dengan meng
 
 [![**Sebelum 2024**](images/daftar.jpg){alt="2023 dan sebelumnya" target="_blank" width="90"}](https://docs.google.com/forms/d/e/1FAIpQLSeL3P3RjzW7DWU5UOM8rAbMPOenGu_SUSODP4JBcb_ax1jWsw/viewform)
 
-![**Angkatan 2024**](images/daftar.jpg){target="_blank" width="90"}
+[![**Angkatan 2024**](images/daftar.jpg){target="_blank" width="90"}](https://forms.cloud.microsoft/r/6ChszZ78rZ)
 
 ### **3. Penyesuaian UKT (PHK/Pensiun/Sakit Permanen)**
 
@@ -111,7 +111,7 @@ Pendaftaran dapat dilakukan dengan mengisi formulir berikut **menggunakan akun e
 
 [![**Sebelum 2024**](images/daftar.jpg){target="_blank" width="90"}](https://docs.google.com/forms/d/e/1FAIpQLSeL3P3RjzW7DWU5UOM8rAbMPOenGu_SUSODP4JBcb_ax1jWsw/viewform)
 
-![**Angkatan 2024**](images/daftar.jpg){alt="sebelum 2024" target="_blank" width="90"}
+[![**Angkatan 2024**](images/daftar.jpg){target="_blank" width="90"}](https://forms.cloud.microsoft/r/6ChszZ78rZ)
 
 <br><br>
 
