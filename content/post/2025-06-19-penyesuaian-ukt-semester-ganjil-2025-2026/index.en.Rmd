@@ -86,7 +86,9 @@ Berikut adalah berkas-berkas yang harus disiapkan:
 
 Pendaftaran penyesuaian UKT Kelompok Yatim dan Yatim Piatu dilakukan dengan mengisi formulir berikut **menggunakan akun email Untirta pendaftar** dari tanggal **23 -- 26 Juni 2025 pukul 16.00 WIB**.
 
-[![](images/daftar.jpg){target="_blank" width="90"}](https://docs.google.com/forms/d/e/1FAIpQLSeL3P3RjzW7DWU5UOM8rAbMPOenGu_SUSODP4JBcb_ax1jWsw/viewform)
+![**Sebelum 2024**](images/daftar.jpg){alt="2023 dan sebelumnya" target="_blank" width="90"}
+
+![**Angkatan 2024**](images/daftar.jpg){target="_blank" width="90"}
 
 ### **3. Penyesuaian UKT (PHK/Pensiun/Sakit Permanen)**
 
@@ -107,7 +109,9 @@ c.  Persyaratan khusus dalam format PDF (**pilih salah satu**):
 
 Pendaftaran dapat dilakukan dengan mengisi formulir berikut **menggunakan akun email Untirta pendaftar** dari tanggal **23 -- 26 Juni 2025 pukul 16.00 WIB.**
 
-[![](images/daftar.jpg){target="_blank" width="90"}](https://docs.google.com/forms/d/e/1FAIpQLSeL3P3RjzW7DWU5UOM8rAbMPOenGu_SUSODP4JBcb_ax1jWsw/viewform)
+[![**Sebelum 2024**](images/daftar.jpg){target="_blank" width="90"}](https://docs.google.com/forms/d/e/1FAIpQLSeL3P3RjzW7DWU5UOM8rAbMPOenGu_SUSODP4JBcb_ax1jWsw/viewform)
+
+![**Angkatan 2024**](images/daftar.jpg){alt="sebelum 2024" target="_blank" width="90"}
 
 <br><br>
 
