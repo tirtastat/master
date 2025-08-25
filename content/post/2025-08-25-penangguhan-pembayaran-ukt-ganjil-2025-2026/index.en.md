@@ -30,7 +30,7 @@ Sebelum melakukan pendaftaran keterlambatan Pembayaran UKT, mahasiswa diharapkan
 
 -   Pendaftaran hanya bisa dilakukan sekali dan tidak bisa diubah/edit.
 
--   Surat Permohonan / Pernyataan Kesanggupan Membayar harus ditandatangani oleh Orang Tua dan dilengkapi dengan Foto KTP orang tua/wali. Format Surat bisa diunduh [**di sini**](https://drive.google.com/file/d/1AcV0IkEYkpyFPtRTeFEe9bidBqdzOcmt/view?usp=sharing).
+-   Surat Permohonan / Pernyataan Kesanggupan Membayar harus ditandatangani oleh Orang Tua dan dilengkapi dengan Foto KTP orang tua/wali. Format Surat bisa diunduh [**di sini**](https://drive.google.com/file/d/11sfHhuOmE2FSbh77OMoZbbAW9ieBdnTn/view?usp=sharing).
 
 -   Bagi yang tidak membayar UKT sesuai jadwal, maka akan **DINONAKTIFKAN**.
 
