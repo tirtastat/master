@@ -10,7 +10,7 @@ tags:
   - penyesuaian ukt
 description: ''
 thumbnail: ''
-draft: false
+draft: true
 ---
 
 Universitas Sultan Ageng Tirtayasa kembali mengeluarkan kebijakan penyesuaian UKT untuk periode Semester Genap Tahun Akademik 2025/2026. Sebelum melakukan pendaftaran penyesuaian UKT, mahasiswa diharapkan mencermati dan memahami ketentuan-ketentuan berikut.
@@ -86,8 +86,8 @@ Berikut adalah berkas-berkas yang harus disiapkan:
 
 Pendaftaran penyesuaian UKT Kelompok Yatim dan Yatim Piatu dilakukan dengan mengisi formulir berikut **menggunakan akun email Untirta pendaftar** dari tanggal **07 - 10 November 2025 pukul 16.00 WIB**.
 
-1.  Sebelum Angkatan 2024 daftar [**di sini**](https://docs.google.com/forms/d/e/1FAIpQLSeL3P3RjzW7DWU5UOM8rAbMPOenGu_SUSODP4JBcb_ax1jWsw/viewform)
-2.  Angkatan 2024 daftar [**di sini**](https://forms.cloud.microsoft/r/6ChszZ78rZ)
+1.  Sebelum Angkatan 2024 daftar [**di sini**](https://forms.gle/A32hZjyPX3uGzNK26)
+2.  Angkatan 2024 daftar [**di sini**](https://forms.cloud.microsoft/r/X0gqNpK6pf)
 
 ### **3. Penyesuaian UKT (PHK/Pensiun/Sakit Permanen)**
 
@@ -108,8 +108,8 @@ c.  Persyaratan khusus dalam format PDF (**pilih salah satu**):
 
 Pendaftaran dapat dilakukan dengan mengisi formulir berikut **menggunakan akun email Untirta pendaftar** dari tanggal **07 - 10 November 2025 pukul 16.00 WIB.**
 
-1.  Sebelum Angkatan 2024 daftar [**di sini**](https://docs.google.com/forms/d/e/1FAIpQLSeL3P3RjzW7DWU5UOM8rAbMPOenGu_SUSODP4JBcb_ax1jWsw/viewform)
-2.  Angkatan 2024 daftar [**di sini**](https://forms.cloud.microsoft/r/6ChszZ78rZ)
+1.  Sebelum Angkatan 2024 daftar [**di sini**](https://forms.gle/A32hZjyPX3uGzNK26)
+2.  Angkatan 2024 daftar [**di sini**](https://forms.cloud.microsoft/r/X0gqNpK6pf)
 
 <br><br>
 
