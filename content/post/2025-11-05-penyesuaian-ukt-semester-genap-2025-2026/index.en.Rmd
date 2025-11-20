@@ -10,7 +10,7 @@ tags:
   - penyesuaian ukt
 description: ''
 thumbnail: ''
-draft: true
+draft: false
 ---
 
 Universitas Sultan Ageng Tirtayasa kembali mengeluarkan kebijakan penyesuaian UKT untuk periode Semester Genap Tahun Akademik 2025/2026 berdasarkan Peraturan Rektor Universitas Sultan Ageng Tirtayasa Nomor 15 Tahun 2025. Sebelum melakukan pendaftaran penyesuaian UKT, mahasiswa diharapkan mencermati dan memahami ketentuan-ketentuan berikut.
