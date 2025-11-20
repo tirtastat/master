@@ -94,7 +94,7 @@ c.  Persyaratan khusus dalam format PDF (**pilih salah satu**):
 
         **\*\* Semua Surat Keterangan harus yang terbaru ditandatangani bulan November 2025**
 
-Pendaftaran dapat dilakukan dengan mengisi formulir berikut **menggunakan akun email Untirta pendaftar** dari tanggal **24 - 24 November 2025 pukul 16.00 WIB.**
+Pendaftaran dapat dilakukan dengan mengisi formulir berikut **menggunakan akun email Untirta pendaftar** dari tanggal **20 - 24 November 2025 pukul 15.00 WIB.**
 
 1.  Sebelum Angkatan 2024 daftar [**di sini**](https://forms.gle/A32hZjyPX3uGzNK26)
 2.  Angkatan 2024 daftar [**di sini**](https://forms.cloud.microsoft/r/X0gqNpK6pf)
@@ -109,6 +109,6 @@ Sys.setlocale("LC_TIME", "IND")
 
 **Hotline Registrasi** : +6281311734542 **Hotline PNBP** : +6281387220826
 
-Informasi Hasil Verifikasi Penyesuaian UKT oleh Sub. PNBP akan disampaikan melalui email mahasiswa.
+Informasi Hasil Verifikasi Penyesuaian UKT oleh PNBP akan disampaikan melalui email mahasiswa.
 
 <br><br><br>
