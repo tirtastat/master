@@ -58,7 +58,7 @@ title: Download
 
 | No | Tahun | Keterangan |
 |----|----|----|
-| 1\. | 2023 | [**SK DAYA TAMPUNG PENERIMAAN MAHASISWA BARU**](https://drive.google.com/file/d/17ZDIsC0gvzZTbM-iNGBu7tWzb7duxUkz/view?usp=share_link) |
+| 1\. | 2023 | [**SK DAYA TAMPUNG PENERIMAAN MAHASISWA BARU**](https://untirtaacid-my.sharepoint.com/:b:/g/personal/registrasi_untirta_ac_id/IQBka-CQu0XXR4sp89KBb6loAY70zVaPAjRf5TbsIowCn1g?e=UQjMsv) |
 | 2\. | 2023 | [**SK HASIL KELULUSAN SELEKSI NASIONAL BERDASARKAN PRESTASTI (SNBP)**](https://drive.google.com/file/d/1pxcpL96o-TN8EQ1YNPtdsB3XMpFSxtxH/view?usp=share_link) |
 | 3\. | 2023 | [**SK PENETAPAN NIM SNBP**](https://drive.google.com/file/d/1tg_Bn4FZ17S3CYp9VJJ5_cE_cYtr7NDO/view?usp=sharing) |
 | 4\. | 2023 | [**SK HASIL KELULUSAN SELEKSI NASIONAL BERBASIS TES (SNBT)**](https://drive.google.com/file/d/1Gtf-5ZBAV5Sjs8TPE59rHhu0uwVgn_05/view?usp=drivesdk) |
