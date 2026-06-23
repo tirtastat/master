@@ -37,6 +37,13 @@ Universitas Sultan Ageng Tirtayasa kembali mengeluarkan kebijakan penyesuaian UK
 
 6.  SEMUA DOKUMEN PENDUKUNG / SURAT KETERANGAN HARUS DOKUMEN TERBARU **(DITANDATANGANI BULAN JUNI 2026 )**<br><br>
 
+Bagi yang kesulitan dalam melakukan pendaftaran, perhatikan hal-hal berikut:
+
+:   1.  *Login* menggunakan akun email untirta masing-masing.
+        -   Angakatan 2023 dan sebelumnya menggunakan akun email **nim\@untirta.ac.id**
+        -   Angkatan 2024 dan 2025 menggunakan akun email **nim\@student.untirta.ac.id**
+    2.  Jika lupa *password* email Untirta, silakan hubungi [**hotline UPATIK**](https://wa.me/6289643563659)
+
 <br><br>
 
 ### 1. **Penyesuaian UKT 50%**
@@ -55,7 +62,7 @@ Berikut adalah berkas-berkas yang harus disiapkan :
 -   Transkrip nilai terbaru (sampai dengan semester genap TA 2025/2026)
 -   Ketiga dokumen asli di atas dibuat dalam format PDF. **Jika ditemukan manipulasi/pemalsuan dokumen akan diproses sesuai sangsi yang berlaku**.
 
-Pendaftaran penyesuaian UKT 50% dilakukan dengan mengisi formulir berikut **menggunakan akun email Untirta pendaftar** dari tanggal **26 - 29 Juni 2026 pukul 16.00 WIB.**
+Pendaftaran penyesuaian UKT 50% dilakukan dengan mengisi formulir berikut **menggunakan akun email Untirta pendaftar (nim\@untirta.ac.id)** dari tanggal **26 - 29 Juni 2026 pukul 16.00 WIB.**
 
 [![](images/daftar.jpg){target="_blank" width="90"}](https://forms.gle/y2yHwkFHFZtJDEqHA)
 
@@ -75,8 +82,8 @@ Berikut adalah berkas-berkas yang harus disiapkan:
 
 Pendaftaran penyesuaian UKT Kelompok Yatim dan Yatim Piatu dilakukan dengan mengisi formulir berikut **menggunakan akun email Untirta pendaftar** dari tanggal **26 - 29 Juni 2026 pukul 16.00 WIB**.
 
-1.  Sebelum Angkatan 2024 daftar [**di sini**](https://forms.gle/y2yHwkFHFZtJDEqHA)
-2.  Angkatan 2024 dan 2025 daftar [**di sini**](https://forms.cloud.microsoft/r/HVuEjECmfb)
+1.  Sebelum Angkatan 2024 daftar [**di sini**](#0)(akun email **nim\@untirta.ac.id**)
+2.  Angkatan 2024 dan 2025 daftar [**di sini**](#0)(akun email **nim\@student.untirta.ac.id**)
 
 ### **3. Penyesuaian UKT (PHK/Pensiun/Sakit Permanen)**
 
@@ -97,8 +104,8 @@ c.  Persyaratan khusus dalam format PDF (**pilih salah satu**):
 
 Pendaftaran dapat dilakukan dengan mengisi formulir berikut **menggunakan akun email Untirta pendaftar** dari tanggal **26 - 29 Juni 2026 pukul 16.00 WIB.**
 
-1.  Sebelum Angkatan 2024 daftar [**di sini**](https://forms.gle/y2yHwkFHFZtJDEqHA)
-2.  Angkatan 2024 dan 2025 daftar [**di sini**](https://forms.cloud.microsoft/r/HVuEjECmfb)
+1.  Sebelum Angkatan 2024 daftar [**di sini**](#0)(akun email **nim\@untirta.ac.id**)
+2.  Angkatan 2024 dan 2025 daftar [**di sini**](#0)(akun email **nim\@student.untirta.ac.id**)
 
 <br><br>
 
@@ -108,7 +115,7 @@ Sys.setlocale("LC_TIME", "IND")
 
 **Helpdesk :**
 
-**Hotline Registrasi** : +6281311734542 **Hotline PNBP** : +6281387220826
+[**Hotline Registrasi**](https://wa.me/6281311734542) atau [**Hotline PNBP**](https://wa.me/6281387220826)
 
 Informasi Hasil Verifikasi Penyesuaian UKT oleh Sub. PNBP akan disampaikan melalui email mahasiswa.
 
