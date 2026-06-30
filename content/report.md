@@ -33,7 +33,7 @@ Tidak semua calon mahasiswa baru Universitas Sultan Ageng Tirtayasa yang lolos s
 
 Berikut adalah laporan penerimaan mahasiswa baru di setiap jalur penerimaan.
 
--   **2026 [SNBP](https://tirtareg.github.io/26snbp/) - [SNBT](https://tirtareg.github.io/26snbt/) - [SMBT](https://tirtareg.github.io/26smbt/) - [SMBNU](https://tirtareg.github.io/26smbnu/) - SMBP - Semua Jalur**
+-   **2026 [SNBP](https://tirtareg.github.io/26snbp/) - [SNBT](https://tirtareg.github.io/26snbt/) - [SMBT](https://tirtareg.github.io/26smbt/) - [SMBNU](https://tirtareg.github.io/26smbnu/) - SMBP - [Semua Jalur](https://tirtareg.github.io/26pmb/)**
 -   **2025 [SNBP](https://tirtareg.github.io/25snbp/) - [SNBT](https://tirtareg.github.io/25snbt/) - [SMMPTN](https://tirtareg.github.io/25smm/)- [SMBNU](https://tirtareg.github.io/25smbnu/) - [Semua Jalur](https://tirtareg.github.io/25pmb/)**
 -   **2024** [**SNBP**](https://tirtareg.github.io/24snbp) - [**SNBT**](https://tirtareg.github.io/24snbt) - [**SMMPTN**](https://tirtareg.github.io/24smm/ "SMMPTN Barat 2024") - [**SMBNU**](https://tirtareg.github.io/24smbnu/ "SMBNU 2024") - **MANDIRI** - [**Semua Jalur**](https://tirtareg.github.io/24pmb/)
 -   **2023** [**SNBP**](https://tirtareg.github.io/23snbp) - [**SNBT**](https://tirtareg.github.io/23snbt/) - [**SMMPTN**](https://tirtareg.github.io/23smm/) - [**SMBNU**](https://tirtareg.github.io/23smbnu/) - [**MANDIRI**](https://tirtareg.github.io/23umm/) - [**Semua Jalur**](https://tirtareg.github.io/23pmb/)
